@@ -1,6 +1,6 @@
 ---
-description: "Steps to Make Ultimate Beautifuldesign&amp;#39;s Fruit Cocktail Dump Cake"
-title: "Steps to Make Ultimate Beautifuldesign&amp;#39;s Fruit Cocktail Dump Cake"
+description: "Steps to Make Ultimate Beautifuldesign's Fruit Cocktail Dump Cake"
+title: "Steps to Make Ultimate Beautifuldesign's Fruit Cocktail Dump Cake"
 slug: 946-steps-to-make-ultimate-beautifuldesign-and-39-s-fruit-cocktail-dump-cake
 date: 2020-07-24T07:28:44.953Z
 image: https://img-global.cpcdn.com/recipes/c7ded30d08d5a68a/751x532cq70/beautifuldesigns-fruit-cocktail-dump-cake-recipe-main-photo.jpg

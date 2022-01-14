@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Homemade BgCtGal&amp;#39;s Crab Dip"
-title: "Recipe of Homemade BgCtGal&amp;#39;s Crab Dip"
+description: "Recipe of Homemade BgCtGal's Crab Dip"
+title: "Recipe of Homemade BgCtGal's Crab Dip"
 slug: 351-recipe-of-homemade-bgctgal-and-39-s-crab-dip
 date: 2020-09-02T11:02:39.828Z
 image: https://img-global.cpcdn.com/recipes/98507ab152d1e9ff/751x532cq70/bgctgals-crab-dip-recipe-main-photo.jpg

@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Prepare Perfect Mike&amp;#39;s Chilly King Crab Lump Meat Salad Sandwiches"
-title: "Simple Way to Prepare Perfect Mike&amp;#39;s Chilly King Crab Lump Meat Salad Sandwiches"
+description: "Simple Way to Prepare Perfect Mike's Chilly King Crab Lump Meat Salad Sandwiches"
+title: "Simple Way to Prepare Perfect Mike's Chilly King Crab Lump Meat Salad Sandwiches"
 slug: 292-simple-way-to-prepare-perfect-mike-and-39-s-chilly-king-crab-lump-meat-salad-sandwiches
 date: 2020-09-18T20:48:19.110Z
 image: https://img-global.cpcdn.com/recipes/aac899b1431e2c24/751x532cq70/mikes-chilly-king-crab-lump-meat-salad-sandwiches-recipe-main-photo.jpg

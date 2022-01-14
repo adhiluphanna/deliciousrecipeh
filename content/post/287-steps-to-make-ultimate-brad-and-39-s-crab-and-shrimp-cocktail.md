@@ -1,6 +1,6 @@
 ---
-description: "Steps to Make Ultimate Brad&amp;#39;s crab and shrimp cocktail"
-title: "Steps to Make Ultimate Brad&amp;#39;s crab and shrimp cocktail"
+description: "Steps to Make Ultimate Brad's crab and shrimp cocktail"
+title: "Steps to Make Ultimate Brad's crab and shrimp cocktail"
 slug: 287-steps-to-make-ultimate-brad-and-39-s-crab-and-shrimp-cocktail
 date: 2020-06-11T06:03:34.173Z
 image: https://img-global.cpcdn.com/recipes/e1b68f6266bbcff4/751x532cq70/brads-crab-and-shrimp-cocktail-recipe-main-photo.jpg

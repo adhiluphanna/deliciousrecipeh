@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Homemade Brad&amp;#39;s crab jumbalaya"
-title: "Recipe of Homemade Brad&amp;#39;s crab jumbalaya"
+description: "Recipe of Homemade Brad's crab jumbalaya"
+title: "Recipe of Homemade Brad's crab jumbalaya"
 slug: 289-recipe-of-homemade-brad-and-39-s-crab-jumbalaya
 date: 2020-11-18T12:42:42.572Z
 image: https://img-global.cpcdn.com/recipes/c35f6f94ed861e4f/751x532cq70/brads-crab-jumbalaya-recipe-main-photo.jpg

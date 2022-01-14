@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Super Quick Homemade Brad&amp;#39;s pan seared salmon with bacon cheddar polenta"
-title: "Step-by-Step Guide to Prepare Super Quick Homemade Brad&amp;#39;s pan seared salmon with bacon cheddar polenta"
+description: "Step-by-Step Guide to Prepare Super Quick Homemade Brad's pan seared salmon with bacon cheddar polenta"
+title: "Step-by-Step Guide to Prepare Super Quick Homemade Brad's pan seared salmon with bacon cheddar polenta"
 slug: 9-step-by-step-guide-to-prepare-super-quick-homemade-brad-and-39-s-pan-seared-salmon-with-bacon-cheddar-polenta
 date: 2020-10-12T15:08:15.829Z
 image: https://img-global.cpcdn.com/recipes/799520ddc36f3e73/751x532cq70/brads-pan-seared-salmon-with-bacon-cheddar-polenta-recipe-main-photo.jpg

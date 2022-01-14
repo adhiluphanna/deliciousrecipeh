@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Prepare Perfect Brad&amp;#39;s bacon, almond and lemon green beans"
-title: "Simple Way to Prepare Perfect Brad&amp;#39;s bacon, almond and lemon green beans"
+description: "Simple Way to Prepare Perfect Brad's bacon, almond and lemon green beans"
+title: "Simple Way to Prepare Perfect Brad's bacon, almond and lemon green beans"
 slug: 17-simple-way-to-prepare-perfect-brad-and-39-s-bacon-almond-and-lemon-green-beans
 date: 2020-09-16T03:12:09.132Z
 image: https://img-global.cpcdn.com/recipes/dd5f786eb1dde131/751x532cq70/brads-bacon-almond-and-lemon-green-beans-recipe-main-photo.jpg

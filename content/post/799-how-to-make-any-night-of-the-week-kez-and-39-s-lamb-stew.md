@@ -1,6 +1,6 @@
 ---
-description: "How to Make Any-night-of-the-week Kez&amp;#39;s Lamb Stew"
-title: "How to Make Any-night-of-the-week Kez&amp;#39;s Lamb Stew"
+description: "How to Make Any-night-of-the-week Kez's Lamb Stew"
+title: "How to Make Any-night-of-the-week Kez's Lamb Stew"
 slug: 799-how-to-make-any-night-of-the-week-kez-and-39-s-lamb-stew
 date: 2020-06-17T05:59:56.199Z
 image: https://img-global.cpcdn.com/recipes/93c7bd5b2e38d716/751x532cq70/kezs-lamb-stew-recipe-main-photo.jpg

@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Make Speedy Mike&amp;#39;s Drunken Shrimp Cocktails"
-title: "Easiest Way to Make Speedy Mike&amp;#39;s Drunken Shrimp Cocktails"
+description: "Easiest Way to Make Speedy Mike's Drunken Shrimp Cocktails"
+title: "Easiest Way to Make Speedy Mike's Drunken Shrimp Cocktails"
 slug: 972-easiest-way-to-make-speedy-mike-and-39-s-drunken-shrimp-cocktails
 date: 2020-06-20T20:44:11.456Z
 image: https://img-global.cpcdn.com/recipes/a53553b98b11b81a/751x532cq70/mikes-drunken-shrimp-cocktails-recipe-main-photo.jpg

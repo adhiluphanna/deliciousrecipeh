@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Favorite Conkity&amp;#39;s Crab Cakes"
-title: "Recipe of Favorite Conkity&amp;#39;s Crab Cakes"
+description: "Recipe of Favorite Conkity's Crab Cakes"
+title: "Recipe of Favorite Conkity's Crab Cakes"
 slug: 412-recipe-of-favorite-conkity-and-39-s-crab-cakes
 date: 2020-09-06T13:57:58.488Z
 image: https://img-global.cpcdn.com/recipes/8d25615400a7945d/751x532cq70/conkitys-crab-cakes-recipe-main-photo.jpg

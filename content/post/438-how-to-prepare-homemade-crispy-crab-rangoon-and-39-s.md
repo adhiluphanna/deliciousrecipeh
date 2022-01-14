@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Homemade Crispy Crab Rangoon&amp;#39;s"
-title: "How to Prepare Homemade Crispy Crab Rangoon&amp;#39;s"
+description: "How to Prepare Homemade Crispy Crab Rangoon's"
+title: "How to Prepare Homemade Crispy Crab Rangoon's"
 slug: 438-how-to-prepare-homemade-crispy-crab-rangoon-and-39-s
 date: 2020-11-23T03:44:50.979Z
 image: https://img-global.cpcdn.com/recipes/5562622224105472/751x532cq70/crispy-crab-rangoons-recipe-main-photo.jpg

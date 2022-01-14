@@ -1,6 +1,6 @@
 ---
-description: "Steps to Prepare Ultimate Brad&amp;#39;s bacon jalapeno popper pork chops"
-title: "Steps to Prepare Ultimate Brad&amp;#39;s bacon jalapeno popper pork chops"
+description: "Steps to Prepare Ultimate Brad's bacon jalapeno popper pork chops"
+title: "Steps to Prepare Ultimate Brad's bacon jalapeno popper pork chops"
 slug: 93-steps-to-prepare-ultimate-brad-and-39-s-bacon-jalapeno-popper-pork-chops
 date: 2020-07-02T23:16:21.140Z
 image: https://img-global.cpcdn.com/recipes/827d4dca0395c7b1/751x532cq70/brads-bacon-jalapeno-popper-pork-chops-recipe-main-photo.jpg

@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Award-winning Doc&amp;#39;s crab cakes"
-title: "Recipe of Award-winning Doc&amp;#39;s crab cakes"
+description: "Recipe of Award-winning Doc's crab cakes"
+title: "Recipe of Award-winning Doc's crab cakes"
 slug: 382-recipe-of-award-winning-doc-and-39-s-crab-cakes
 date: 2020-08-03T19:50:18.901Z
 image: https://img-global.cpcdn.com/recipes/6ba592342cd03624/751x532cq70/docs-crab-cakes-recipe-main-photo.jpg

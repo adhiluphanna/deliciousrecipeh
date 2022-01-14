@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Perfect Brad&amp;#39;s bacon wrapped beer battered Ling cod"
-title: "How to Prepare Perfect Brad&amp;#39;s bacon wrapped beer battered Ling cod"
+description: "How to Prepare Perfect Brad's bacon wrapped beer battered Ling cod"
+title: "How to Prepare Perfect Brad's bacon wrapped beer battered Ling cod"
 slug: 165-how-to-prepare-perfect-brad-and-39-s-bacon-wrapped-beer-battered-ling-cod
 date: 2020-10-24T03:09:26.187Z
 image: https://img-global.cpcdn.com/recipes/b793b552d9fec347/751x532cq70/brads-bacon-wrapped-beer-battered-ling-cod-recipe-main-photo.jpg

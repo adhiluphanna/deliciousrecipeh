@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Super Quick Homemade Brad&amp;#39;s prosciutto wrapped chicken with cheddar bacon gnocchi"
-title: "Recipe of Super Quick Homemade Brad&amp;#39;s prosciutto wrapped chicken with cheddar bacon gnocchi"
+description: "Recipe of Super Quick Homemade Brad's prosciutto wrapped chicken with cheddar bacon gnocchi"
+title: "Recipe of Super Quick Homemade Brad's prosciutto wrapped chicken with cheddar bacon gnocchi"
 slug: 188-recipe-of-super-quick-homemade-brad-and-39-s-prosciutto-wrapped-chicken-with-cheddar-bacon-gnocchi
 date: 2020-08-12T04:54:12.486Z
 image: https://img-global.cpcdn.com/recipes/793a51e2a57ea79c/751x532cq70/brads-prosciutto-wrapped-chicken-with-cheddar-bacon-gnocchi-recipe-main-photo.jpg

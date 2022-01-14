@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Speedy Bread&amp;#39;n egg"
-title: "How to Prepare Speedy Bread&amp;#39;n egg"
+description: "How to Prepare Speedy Bread'n egg"
+title: "How to Prepare Speedy Bread'n egg"
 slug: 460-how-to-prepare-speedy-bread-and-39-n-egg
 date: 2020-06-30T06:00:33.868Z
 image: https://img-global.cpcdn.com/recipes/cda39e1e9f5e1b66/751x532cq70/breadn-egg-recipe-main-photo.jpg

@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Make Homemade Multi Grain Bread&amp;#39;s Roll"
-title: "Simple Way to Make Homemade Multi Grain Bread&amp;#39;s Roll"
+description: "Simple Way to Make Homemade Multi Grain Bread's Roll"
+title: "Simple Way to Make Homemade Multi Grain Bread's Roll"
 slug: 606-simple-way-to-make-homemade-multi-grain-bread-and-39-s-roll
 date: 2020-08-19T02:07:05.297Z
 image: https://img-global.cpcdn.com/recipes/488ea8263dbded83/751x532cq70/multi-grain-breads-roll-recipe-main-photo.jpg

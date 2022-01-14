@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Make Quick Brad&amp;#39;s crab roll ups"
-title: "Step-by-Step Guide to Make Quick Brad&amp;#39;s crab roll ups"
+description: "Step-by-Step Guide to Make Quick Brad's crab roll ups"
+title: "Step-by-Step Guide to Make Quick Brad's crab roll ups"
 slug: 432-step-by-step-guide-to-make-quick-brad-and-39-s-crab-roll-ups
 date: 2020-10-22T05:45:56.063Z
 image: https://img-global.cpcdn.com/recipes/87a85793c82dc669/751x532cq70/brads-crab-roll-ups-recipe-main-photo.jpg

@@ -1,6 +1,6 @@
 ---
-description: "Steps to Make Homemade Brad&amp;#39;s bacon garlic pub burger"
-title: "Steps to Make Homemade Brad&amp;#39;s bacon garlic pub burger"
+description: "Steps to Make Homemade Brad's bacon garlic pub burger"
+title: "Steps to Make Homemade Brad's bacon garlic pub burger"
 slug: 4-steps-to-make-homemade-brad-and-39-s-bacon-garlic-pub-burger
 date: 2020-06-13T06:31:44.126Z
 image: https://img-global.cpcdn.com/recipes/93120fda2b4ed910/751x532cq70/brads-bacon-garlic-pub-burger-recipe-main-photo.jpg
