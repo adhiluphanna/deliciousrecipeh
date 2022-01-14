@@ -48,26 +48,26 @@ recipecategory: Dinner
 ---
 
 
-![Peanut Butter &amp; Chocolate Monkey Bread](https://img-global.cpcdn.com/recipes/dd2282abd809bf08/751x532cq70/peanut-butter-chocolate-monkey-bread-recipe-main-photo.jpg)
+![Peanut Butter & Chocolate Monkey Bread](https://img-global.cpcdn.com/recipes/dd2282abd809bf08/751x532cq70/peanut-butter-chocolate-monkey-bread-recipe-main-photo.jpg)
 
-Hey everyone, it's Brad, welcome to our recipe page. Today, I will show you a way to make a distinctive dish, peanut butter &amp; chocolate monkey bread. One of my favorites food recipes. This time, I will make it a bit tasty. This is gonna smell and look delicious.
-
-
-
-Peanut Butter &amp; Chocolate Monkey Bread is one of the most favored of recent trending meals on earth. It's appreciated by millions every day. It's simple, it is fast, it tastes yummy. Peanut Butter &amp; Chocolate Monkey Bread is something which I've loved my whole life. They are fine and they look wonderful.
+Hey everyone, it's Brad, welcome to our recipe page. Today, I will show you a way to make a distinctive dish, peanut butter & chocolate monkey bread. One of my favorites food recipes. This time, I will make it a bit tasty. This is gonna smell and look delicious.
 
 
-To get started with this particular recipe, we must prepare a few components. You can cook peanut butter &amp; chocolate monkey bread using 8 ingredients and 11 steps. Here is how you cook it.
+
+Peanut Butter & Chocolate Monkey Bread is one of the most favored of recent trending meals on earth. It's appreciated by millions every day. It's simple, it is fast, it tastes yummy. Peanut Butter & Chocolate Monkey Bread is something which I've loved my whole life. They are fine and they look wonderful.
+
+
+To get started with this particular recipe, we must prepare a few components. You can cook peanut butter & chocolate monkey bread using 8 ingredients and 11 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Peanut Butter &amp; Chocolate Monkey Bread:
+##### The ingredients needed to make Peanut Butter & Chocolate Monkey Bread:
 
 1. Get 1/2 Cup Granulated Sugar
 1. Prepare 1/2 Cup Peanut Butter Powder
 1. Take 2 Cans Pillsbury Honey Butter Flaky Layers Biscuits
 1. Prepare 1 Tsp Vanilla Extract
-1. Prepare 1 &amp; 1/2 Sticks of Butter Melted (12 Tbsp)
+1. Prepare 1 & 1/2 Sticks of Butter Melted (12 Tbsp)
 1. Make ready 1 Cup Dark Brown Sugar Packed
 1. Make ready 1/4 Tsp Kosher Salt
 1. Prepare 1 Cup Hershey&#39;s Milk Chocolate Morsels
@@ -77,7 +77,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 <!--inarticleads2-->
 
-##### Steps to make Peanut Butter &amp; Chocolate Monkey Bread:
+##### Steps to make Peanut Butter & Chocolate Monkey Bread:
 
 1. Preheat oven to 350 degrees Fahrenheit. Spray a 12 cup Bundt pan with cooking spray and set aside.
 1. In a small saucepan melt the butter.
@@ -94,4 +94,4 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 
 
-So that is going to wrap this up with this exceptional food peanut butter &amp; chocolate monkey bread recipe. Thank you very much for reading. I'm confident you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this exceptional food peanut butter & chocolate monkey bread recipe. Thank you very much for reading. I'm confident you will make this at home. There is gonna be interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

@@ -41,20 +41,20 @@ recipecategory: Dinner
 ---
 
 
-![Spring Lamb &amp; Mint Stew](https://img-global.cpcdn.com/recipes/be2cc27bcb8d765c/751x532cq70/spring-lamb-mint-stew-recipe-main-photo.jpg)
+![Spring Lamb & Mint Stew](https://img-global.cpcdn.com/recipes/be2cc27bcb8d765c/751x532cq70/spring-lamb-mint-stew-recipe-main-photo.jpg)
 
-Hey everyone, it is me again, Dan, welcome to our recipe site. Today, I'm gonna show you how to make a distinctive dish, spring lamb &amp; mint stew. It is one of my favorites food recipes. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
-
-
-
-Spring Lamb &amp; Mint Stew is one of the most favored of current trending foods in the world. It is enjoyed by millions every day. It is easy, it is fast, it tastes yummy. Spring Lamb &amp; Mint Stew is something which I've loved my whole life. They are fine and they look fantastic.
+Hey everyone, it is me again, Dan, welcome to our recipe site. Today, I'm gonna show you how to make a distinctive dish, spring lamb & mint stew. It is one of my favorites food recipes. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
 
 
-To begin with this recipe, we have to first prepare a few components. You can have spring lamb &amp; mint stew using 9 ingredients and 3 steps. Here is how you can achieve that.
+
+Spring Lamb & Mint Stew is one of the most favored of current trending foods in the world. It is enjoyed by millions every day. It is easy, it is fast, it tastes yummy. Spring Lamb & Mint Stew is something which I've loved my whole life. They are fine and they look fantastic.
+
+
+To begin with this recipe, we have to first prepare a few components. You can have spring lamb & mint stew using 9 ingredients and 3 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Spring Lamb &amp; Mint Stew:
+##### The ingredients needed to make Spring Lamb & Mint Stew:
 
 1. Take 4 lamb steaks, fat removed and cut into chunks
 1. Take Handful baby carrots
@@ -71,7 +71,7 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 
 <!--inarticleads2-->
 
-##### Steps to make Spring Lamb &amp; Mint Stew:
+##### Steps to make Spring Lamb & Mint Stew:
 
 1. Put the potatoes on the bottom of a large lidded pan. Add the onions then the carrots. Then place the lamb chunks on top.
 1. Add the stock and the fresh mint leaves on top. Cover the pan with tin foil and then place the lid on top of the foil.
@@ -80,4 +80,4 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 
 
 
-So that's going to wrap this up with this special food spring lamb &amp; mint stew recipe. Thanks so much for your time. I'm sure you can make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap this up with this special food spring lamb & mint stew recipe. Thanks so much for your time. I'm sure you can make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

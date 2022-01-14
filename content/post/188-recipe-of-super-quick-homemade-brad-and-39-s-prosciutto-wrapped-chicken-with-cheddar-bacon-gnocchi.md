@@ -59,7 +59,7 @@ recipecategory: Dessert
 
 Hello everybody, it is Louise, welcome to my recipe page. Today, we're going to make a distinctive dish, brad&#39;s prosciutto wrapped chicken with cheddar bacon gnocchi. It is one of my favorites. This time, I will make it a little bit tasty. This is gonna smell and look delicious.
 
-With a sharp knife, slice the chicken breast in half, but not all the way through. This heavenly Prosciuttio-Wrapped This recipe for bacon wrapped stuffed chicken breast with roasted potatoes is a quick and easy one pan meal that&#39;s sure to please any crowd! Fried Gnocchi with Garlic &amp; Parmesan - Ciao Chow Bambina.
+With a sharp knife, slice the chicken breast in half, but not all the way through. This heavenly Prosciuttio-Wrapped This recipe for bacon wrapped stuffed chicken breast with roasted potatoes is a quick and easy one pan meal that&#39;s sure to please any crowd! Fried Gnocchi with Garlic & Parmesan - Ciao Chow Bambina.
 
 Brad&#39;s prosciutto wrapped chicken with cheddar bacon gnocchi is one of the most well liked of current trending foods in the world. It's easy, it is quick, it tastes delicious. It is enjoyed by millions daily. Brad&#39;s prosciutto wrapped chicken with cheddar bacon gnocchi is something which I've loved my entire life. They are fine and they look fantastic.
 

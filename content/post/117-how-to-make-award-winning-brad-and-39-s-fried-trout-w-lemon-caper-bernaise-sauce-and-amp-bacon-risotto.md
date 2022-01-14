@@ -73,20 +73,20 @@ recipecategory: Lunch
 ---
 
 
-![Brad&#39;s fried trout w/ lemon caper bernaise sauce &amp; bacon risotto](https://img-global.cpcdn.com/recipes/53125382b0f99894/751x532cq70/brads-fried-trout-w-lemon-caper-bernaise-sauce-bacon-risotto-recipe-main-photo.jpg)
+![Brad&#39;s fried trout w/ lemon caper bernaise sauce & bacon risotto](https://img-global.cpcdn.com/recipes/53125382b0f99894/751x532cq70/brads-fried-trout-w-lemon-caper-bernaise-sauce-bacon-risotto-recipe-main-photo.jpg)
 
-Hello everybody, it's me again, Dan, welcome to our recipe site. Today, we're going to prepare a special dish, brad&#39;s fried trout w/ lemon caper bernaise sauce &amp; bacon risotto. One of my favorites food recipes. This time, I'm gonna make it a little bit unique. This will be really delicious.
+Hello everybody, it's me again, Dan, welcome to our recipe site. Today, we're going to prepare a special dish, brad&#39;s fried trout w/ lemon caper bernaise sauce & bacon risotto. One of my favorites food recipes. This time, I'm gonna make it a little bit unique. This will be really delicious.
 
 Melt butter in a small frying pan over medium low Whisk in bernaise sauce packet. Cook in a small saucepan over medium low heat until sauce starts. A sauce built on shallots, white wine and lemon adds complexity.
 
-Brad&#39;s fried trout w/ lemon caper bernaise sauce &amp; bacon risotto is one of the most popular of recent trending foods in the world. It is enjoyed by millions daily. It is easy, it's quick, it tastes yummy. They're fine and they look wonderful. Brad&#39;s fried trout w/ lemon caper bernaise sauce &amp; bacon risotto is something that I've loved my whole life.
+Brad&#39;s fried trout w/ lemon caper bernaise sauce & bacon risotto is one of the most popular of recent trending foods in the world. It is enjoyed by millions daily. It is easy, it's quick, it tastes yummy. They're fine and they look wonderful. Brad&#39;s fried trout w/ lemon caper bernaise sauce & bacon risotto is something that I've loved my whole life.
 
 
-To get started with this particular recipe, we have to prepare a few ingredients. You can have brad&#39;s fried trout w/ lemon caper bernaise sauce &amp; bacon risotto using 34 ingredients and 10 steps. Here is how you can achieve that.
+To get started with this particular recipe, we have to prepare a few ingredients. You can have brad&#39;s fried trout w/ lemon caper bernaise sauce & bacon risotto using 34 ingredients and 10 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Brad&#39;s fried trout w/ lemon caper bernaise sauce &amp; bacon risotto:
+##### The ingredients needed to make Brad&#39;s fried trout w/ lemon caper bernaise sauce & bacon risotto:
 
 1. Prepare  For the trout
 1. Prepare 5 fresh trout filets, bones removed, skin on
@@ -128,7 +128,7 @@ However you can drizzle it over vegetables,chicken or whatever you like. Turn th
 
 <!--inarticleads2-->
 
-##### Steps to make Brad&#39;s fried trout w/ lemon caper bernaise sauce &amp; bacon risotto:
+##### Steps to make Brad&#39;s fried trout w/ lemon caper bernaise sauce & bacon risotto:
 
 1. Prepare the trout fillets. Leave skin on. Sprinkle with salt. Set aside.
 1. Whip together the marscapone ingredients. Chill in the fridge until ready to use.
@@ -144,4 +144,4 @@ However you can drizzle it over vegetables,chicken or whatever you like. Turn th
 
 Stir in the parsley and pour over the trout. Baked rainbow trout fillets are bathed in a perfectly balanced, buttery pan sauce of lemon, Dijon mustard, and capers to make this quick weeknight meal. Smoked trout is one of my favorite proteins for meal prep. I usually smoke it on the grill or bake it in the oven. Remove the skillet from the heat, then add the remaining ingredients to the skillet. 
 
-So that is going to wrap this up for this special food brad&#39;s fried trout w/ lemon caper bernaise sauce &amp; bacon risotto recipe. Thanks so much for reading. I am confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up for this special food brad&#39;s fried trout w/ lemon caper bernaise sauce & bacon risotto recipe. Thanks so much for reading. I am confident you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

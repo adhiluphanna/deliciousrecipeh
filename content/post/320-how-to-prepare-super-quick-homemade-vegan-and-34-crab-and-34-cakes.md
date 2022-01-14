@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Super Quick Homemade Vegan &amp;#34;Crab&amp;#34; Cakes"
-title: "How to Prepare Super Quick Homemade Vegan &amp;#34;Crab&amp;#34; Cakes"
+description: "How to Prepare Super Quick Homemade Vegan 'Crab' Cakes"
+title: "How to Prepare Super Quick Homemade Vegan 'Crab' Cakes"
 slug: 320-how-to-prepare-super-quick-homemade-vegan-and-34-crab-and-34-cakes
 date: 2021-11-02T11:36:03.363Z
 image: https://img-global.cpcdn.com/recipes/1709066cb4947117/751x532cq70/vegan-crab-cakes-recipe-main-photo.jpg

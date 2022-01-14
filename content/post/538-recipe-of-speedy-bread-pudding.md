@@ -41,10 +41,10 @@ recipeingredient:
 - "spoon Return mixture to the pot  heat until sauce thickens  coats at the back of the"
 - " Add vanilla once it cools"
 recipeinstructions:
-- "A. For Bread pudding - prepare ingredients- melt butter. Put aside. Grease ramekins with butter. Prepare bread - use any type of bread available - white, brioche, croissants. For white bread, trim the edges &amp; butter both sides. cut into preferred size. Place/arrange cut bread into greased ramekins. Keep aside. Layer with sultanas (optional / if available)"
-- "Crack eggs, stir in sugar &amp; melted butter until well mixed. Next, add thickened cream. Whisk until well combined. Using a fine sieve, Strain this mixture into another bowl. Then, Ladle this mixture over the bread in ramekins &amp; place ramekins in a bain marie. Bake at 180°C for 20-25mins or until the bread is golden in colour &amp; filling is slightly set. Note: Preheat oven to 180°C &amp; prepare water bath/ bain marie before baking bread pudding."
-- "B. Sauce - crack egg &amp; whisk in corn flour, custard powder &amp; maple syrup or sugar until well combined. We use maple syrup. Anything available. Put aside. scald milk over medium heat (This is use to temper the egg). Turn off the heat."
-- "Ladle scalded milk into egg mixture slowly while whisking quickly until well combined. Ladle milk in batches. (Skipping this step, risking eggy sauce &amp; curdled egg/sauce, so, avoid skipping this process). Return to the heat and keep whisking (over medium heat first then switch to low) until mixture thickened. Remove from the heat. Add vanilla extract once sauce is slightly cooled/warm."
+- "A. For Bread pudding - prepare ingredients- melt butter. Put aside. Grease ramekins with butter. Prepare bread - use any type of bread available - white, brioche, croissants. For white bread, trim the edges & butter both sides. cut into preferred size. Place/arrange cut bread into greased ramekins. Keep aside. Layer with sultanas (optional / if available)"
+- "Crack eggs, stir in sugar & melted butter until well mixed. Next, add thickened cream. Whisk until well combined. Using a fine sieve, Strain this mixture into another bowl. Then, Ladle this mixture over the bread in ramekins & place ramekins in a bain marie. Bake at 180°C for 20-25mins or until the bread is golden in colour & filling is slightly set. Note: Preheat oven to 180°C & prepare water bath/ bain marie before baking bread pudding."
+- "B. Sauce - crack egg & whisk in corn flour, custard powder & maple syrup or sugar until well combined. We use maple syrup. Anything available. Put aside. scald milk over medium heat (This is use to temper the egg). Turn off the heat."
+- "Ladle scalded milk into egg mixture slowly while whisking quickly until well combined. Ladle milk in batches. (Skipping this step, risking eggy sauce & curdled egg/sauce, so, avoid skipping this process). Return to the heat and keep whisking (over medium heat first then switch to low) until mixture thickened. Remove from the heat. Add vanilla extract once sauce is slightly cooled/warm."
 - "Serve bread pudding with sauce."
 categories:
 - Recipe
@@ -88,7 +88,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Get 500 ml thickened cream
 1. Take  (Or milk. We use whatever available but love thickened cream)
 1. Take  B. Sauce
-1. Make ready 300 g milk (or use both cream &amp; milk- anything available)
+1. Make ready 300 g milk (or use both cream & milk- anything available)
 1. Prepare 1-2 tbsp sugar/maple syrup
 1. Make ready 1 egg
 1. Prepare 1 tsp corn flour
@@ -96,7 +96,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Get 1 tsp vanila extract
 1. Get Pinch nutmeg (opt)
 1. Get  Note: Some using only egg yolks (4-5 yolks) and cream instead of milk for sauce. For this type of sauce, do not add flour for thickening
-1. Take  It’s simpler but for that much of yolks i have to come up with another dish/recipe for the egg whites. Adjust &amp; taste
+1. Take  It’s simpler but for that much of yolks i have to come up with another dish/recipe for the egg whites. Adjust & taste
 1. Get  C. Optional Sauce Recipe (fr drive me hungry)
 1. Get 1/2 C milk
 1. Make ready 1/2 C half and half
@@ -104,9 +104,9 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Prepare 4 large egg yolk
 1. Make ready 1 tsp pure vanilla extract
 1. Take  Note: if half and half is not available - use 1 C of milk + 1 tbsp melted butter
-1. Take  Cream sugar &amp; egg yolk
-1. Take  Heat milk to a slightly simmer. Ladle milk into egg yolk mixture slowly until finish &amp; keep whisking in between additions
-1. Get spoon Return mixture to the pot &amp; heat until sauce thickens &amp; coats at the back of the
+1. Take  Cream sugar & egg yolk
+1. Take  Heat milk to a slightly simmer. Ladle milk into egg yolk mixture slowly until finish & keep whisking in between additions
+1. Get spoon Return mixture to the pot & heat until sauce thickens & coats at the back of the
 1. Take  Add vanilla once it cools
 
 
@@ -116,10 +116,10 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 ##### Steps to make Bread Pudding:
 
-1. A. For Bread pudding - prepare ingredients- melt butter. Put aside. Grease ramekins with butter. Prepare bread - use any type of bread available - white, brioche, croissants. For white bread, trim the edges &amp; butter both sides. cut into preferred size. Place/arrange cut bread into greased ramekins. Keep aside. Layer with sultanas (optional / if available)
-1. Crack eggs, stir in sugar &amp; melted butter until well mixed. Next, add thickened cream. Whisk until well combined. Using a fine sieve, Strain this mixture into another bowl. Then, Ladle this mixture over the bread in ramekins &amp; place ramekins in a bain marie. Bake at 180°C for 20-25mins or until the bread is golden in colour &amp; filling is slightly set. Note: Preheat oven to 180°C &amp; prepare water bath/ bain marie before baking bread pudding.
-1. B. Sauce - crack egg &amp; whisk in corn flour, custard powder &amp; maple syrup or sugar until well combined. We use maple syrup. Anything available. Put aside. scald milk over medium heat (This is use to temper the egg). Turn off the heat.
-1. Ladle scalded milk into egg mixture slowly while whisking quickly until well combined. Ladle milk in batches. (Skipping this step, risking eggy sauce &amp; curdled egg/sauce, so, avoid skipping this process). Return to the heat and keep whisking (over medium heat first then switch to low) until mixture thickened. Remove from the heat. Add vanilla extract once sauce is slightly cooled/warm.
+1. A. For Bread pudding - prepare ingredients- melt butter. Put aside. Grease ramekins with butter. Prepare bread - use any type of bread available - white, brioche, croissants. For white bread, trim the edges & butter both sides. cut into preferred size. Place/arrange cut bread into greased ramekins. Keep aside. Layer with sultanas (optional / if available)
+1. Crack eggs, stir in sugar & melted butter until well mixed. Next, add thickened cream. Whisk until well combined. Using a fine sieve, Strain this mixture into another bowl. Then, Ladle this mixture over the bread in ramekins & place ramekins in a bain marie. Bake at 180°C for 20-25mins or until the bread is golden in colour & filling is slightly set. Note: Preheat oven to 180°C & prepare water bath/ bain marie before baking bread pudding.
+1. B. Sauce - crack egg & whisk in corn flour, custard powder & maple syrup or sugar until well combined. We use maple syrup. Anything available. Put aside. scald milk over medium heat (This is use to temper the egg). Turn off the heat.
+1. Ladle scalded milk into egg mixture slowly while whisking quickly until well combined. Ladle milk in batches. (Skipping this step, risking eggy sauce & curdled egg/sauce, so, avoid skipping this process). Return to the heat and keep whisking (over medium heat first then switch to low) until mixture thickened. Remove from the heat. Add vanilla extract once sauce is slightly cooled/warm.
 1. Serve bread pudding with sauce.
 
 

@@ -44,20 +44,20 @@ recipecategory: Dinner
 ---
 
 
-![Slow Cooker Lamb &amp; Root Veg Stew](https://img-global.cpcdn.com/recipes/a98a2ae90fe8079d/751x532cq70/slow-cooker-lamb-root-veg-stew-recipe-main-photo.jpg)
+![Slow Cooker Lamb & Root Veg Stew](https://img-global.cpcdn.com/recipes/a98a2ae90fe8079d/751x532cq70/slow-cooker-lamb-root-veg-stew-recipe-main-photo.jpg)
 
-Hey everyone, I hope you're having an amazing day today. Today, I will show you a way to make a distinctive dish, slow cooker lamb &amp; root veg stew. It is one of my favorites. For mine, I am going to make it a bit tasty. This will be really delicious.
-
-
-
-Slow Cooker Lamb &amp; Root Veg Stew is one of the most popular of current trending meals in the world. It is appreciated by millions daily. It is simple, it is quick, it tastes yummy. They're fine and they look wonderful. Slow Cooker Lamb &amp; Root Veg Stew is something which I have loved my whole life.
+Hey everyone, I hope you're having an amazing day today. Today, I will show you a way to make a distinctive dish, slow cooker lamb & root veg stew. It is one of my favorites. For mine, I am going to make it a bit tasty. This will be really delicious.
 
 
-To get started with this recipe, we must first prepare a few ingredients. You can cook slow cooker lamb &amp; root veg stew using 9 ingredients and 6 steps. Here is how you can achieve that.
+
+Slow Cooker Lamb & Root Veg Stew is one of the most popular of current trending meals in the world. It is appreciated by millions daily. It is simple, it is quick, it tastes yummy. They're fine and they look wonderful. Slow Cooker Lamb & Root Veg Stew is something which I have loved my whole life.
+
+
+To get started with this recipe, we must first prepare a few ingredients. You can cook slow cooker lamb & root veg stew using 9 ingredients and 6 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Slow Cooker Lamb &amp; Root Veg Stew:
+##### The ingredients needed to make Slow Cooker Lamb & Root Veg Stew:
 
 1. Take 450 g lamb shoulder steaks
 1. Get  Corn flour
@@ -74,7 +74,7 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 <!--inarticleads2-->
 
-##### Steps to make Slow Cooker Lamb &amp; Root Veg Stew:
+##### Steps to make Slow Cooker Lamb & Root Veg Stew:
 
 1. Sprinkle the lamb with corn flour. Sear on both sides in your slow cooker pan of flame proof or in a frying pan if not. Remove and place in a bowl.
 1. Now put your slow cooker pan back in the slow cooker. Peel your carrots and slice in half longways. Lay in the bottom. Add your onions.
@@ -86,4 +86,4 @@ To get started with this recipe, we must first prepare a few ingredients. You ca
 
 
 
-So that's going to wrap this up for this exceptional food slow cooker lamb &amp; root veg stew recipe. Thank you very much for reading. I'm confident that you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that's going to wrap this up for this exceptional food slow cooker lamb & root veg stew recipe. Thank you very much for reading. I'm confident that you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

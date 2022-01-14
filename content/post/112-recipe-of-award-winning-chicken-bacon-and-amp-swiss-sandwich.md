@@ -41,20 +41,20 @@ recipecategory: Dessert
 ---
 
 
-![Chicken Bacon &amp; Swiss Sandwich](https://img-global.cpcdn.com/recipes/689cfe39d40bc1c3/751x532cq70/chicken-bacon-swiss-sandwich-recipe-main-photo.jpg)
+![Chicken Bacon & Swiss Sandwich](https://img-global.cpcdn.com/recipes/689cfe39d40bc1c3/751x532cq70/chicken-bacon-swiss-sandwich-recipe-main-photo.jpg)
 
-Hello everybody, I hope you're having an incredible day today. Today, I will show you a way to make a special dish, chicken bacon &amp; swiss sandwich. One of my favorites food recipes. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
+Hello everybody, I hope you're having an incredible day today. Today, I will show you a way to make a special dish, chicken bacon & swiss sandwich. One of my favorites food recipes. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
 
-Chicken Bacon &amp; Swiss Sandwich is one of the most popular of recent trending meals on earth. It's easy, it is quick, it tastes delicious. It's appreciated by millions every day. They are nice and they look wonderful. Chicken Bacon &amp; Swiss Sandwich is something which I've loved my entire life.
-
-
+Chicken Bacon & Swiss Sandwich is one of the most popular of recent trending meals on earth. It's easy, it is quick, it tastes delicious. It's appreciated by millions every day. They are nice and they look wonderful. Chicken Bacon & Swiss Sandwich is something which I've loved my entire life.
 
 
-To begin with this particular recipe, we must first prepare a few ingredients. You can cook chicken bacon &amp; swiss sandwich using 9 ingredients and 3 steps. Here is how you can achieve that.
+
+
+To begin with this particular recipe, we must first prepare a few ingredients. You can cook chicken bacon & swiss sandwich using 9 ingredients and 3 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Chicken Bacon &amp; Swiss Sandwich:
+##### The ingredients needed to make Chicken Bacon & Swiss Sandwich:
 
 1. Take 2 Boneless Skinless Chicken Breast
 1. Get 1 Egg
@@ -71,7 +71,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 <!--inarticleads2-->
 
-##### Steps to make Chicken Bacon &amp; Swiss Sandwich:
+##### Steps to make Chicken Bacon & Swiss Sandwich:
 
 1. Cut your chicken for a thin patty. Usually in half and then to the size of your bun. Trim any unwanted fat.
 1. Bread the chicken. Whisk egg in a bowl. Add salt and pepper. Empty breading onto a plate. Dip the chicken into the egg and place on the plate and heavily coat in breading. Cook at 410 for 35mins.
@@ -80,4 +80,4 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 
 
-So that is going to wrap this up with this special food chicken bacon &amp; swiss sandwich recipe. Thanks so much for your time. I'm sure you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!
+So that is going to wrap this up with this special food chicken bacon & swiss sandwich recipe. Thanks so much for your time. I'm sure you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

@@ -66,7 +66,7 @@ To begin with this recipe, we have to first prepare a few components. You can co
 1. Take 1 cup Shredded cheddar cheese
 1. Prepare 3/4 cup Mayonnaise
 1. Get 1/4 cup Milk OR water (to thin mayo a bit)
-1. Get 1/2 tsp Each, salt &amp; pepper
+1. Get 1/2 tsp Each, salt & pepper
 1. Take 1 tsp Dill weed
 1. Prepare 3 tbsp Sriracha sauce, optional
 

@@ -58,7 +58,7 @@ To begin with this recipe, we must first prepare a few components. You can have 
 1. Prepare 1 packages cream cheese
 1. Get 1/2 clove garlic
 1. Take to taste hot sauce
-1. Get to taste salt &amp; pepper
+1. Get to taste salt & pepper
 1. Take 1 packages Swiss cheese
 1. Make ready 1 packages Italian sub
 

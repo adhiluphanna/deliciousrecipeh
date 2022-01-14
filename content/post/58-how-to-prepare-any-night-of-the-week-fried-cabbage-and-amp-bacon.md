@@ -41,20 +41,20 @@ recipecategory: Dinner
 ---
 
 
-![Fried Cabbage &amp; Bacon](https://img-global.cpcdn.com/recipes/e91d7946a8127de8/751x532cq70/fried-cabbage-bacon-recipe-main-photo.jpg)
+![Fried Cabbage & Bacon](https://img-global.cpcdn.com/recipes/e91d7946a8127de8/751x532cq70/fried-cabbage-bacon-recipe-main-photo.jpg)
 
-Hello everybody, it is me, Dave, welcome to my recipe page. Today, we're going to make a distinctive dish, fried cabbage &amp; bacon. It is one of my favorites food recipes. For mine, I'm gonna make it a little bit unique. This will be really delicious.
+Hello everybody, it is me, Dave, welcome to my recipe page. Today, we're going to make a distinctive dish, fried cabbage & bacon. It is one of my favorites food recipes. For mine, I'm gonna make it a little bit unique. This will be really delicious.
 
-Fried Cabbage &amp; Bacon is one of the most well liked of current trending foods in the world. It is enjoyed by millions every day. It's simple, it is fast, it tastes delicious. Fried Cabbage &amp; Bacon is something that I've loved my whole life. They're nice and they look wonderful.
+Fried Cabbage & Bacon is one of the most well liked of current trending foods in the world. It is enjoyed by millions every day. It's simple, it is fast, it tastes delicious. Fried Cabbage & Bacon is something that I've loved my whole life. They're nice and they look wonderful.
 
 This fried cabbage is delicious and super easy to make with a few ingredients. I used to hate cabbage until I tried fried cabbage a few years ago and I really. Try this fried cabbage on for size!
 
 
-To begin with this recipe, we must prepare a few ingredients. You can cook fried cabbage &amp; bacon using 8 ingredients and 4 steps. Here is how you cook it.
+To begin with this recipe, we must prepare a few ingredients. You can cook fried cabbage & bacon using 8 ingredients and 4 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Fried Cabbage &amp; Bacon:
+##### The ingredients needed to make Fried Cabbage & Bacon:
 
 1. Make ready 1 Head Cabbage
 1. Make ready 6-8 Slices if thick cut bacon
@@ -70,7 +70,7 @@ Fry bacon until crisp and well browned. Add chopped onion to the bacon grease an
 
 <!--inarticleads2-->
 
-##### Steps to make Fried Cabbage &amp; Bacon:
+##### Steps to make Fried Cabbage & Bacon:
 
 1. Core your cabbage and slice it up. Put in a strainer or colander or whatever and wash it. Let it drain for a bit.
 1. Start cooking down the bacon with the garlic. You don’t have to incinerate it. You’re just trying to get the fat out of it to pan fry the cabbage.
@@ -80,4 +80,4 @@ Fry bacon until crisp and well browned. Add chopped onion to the bacon grease an
 
 Southern Fried Cabbage - So simple yet absolutely ADDICTING!!! Bacon gives it the smoky flavor that is put over the top by a little bit of brown sugar and apple cider vinegar!! Southern Fried Cabbage - Simple, tasty , flavored with garlic and bacon -Ready in less than no time. Fried cabbage is actually a mixture of sautéing, and/or stewing. After all, this fried cabbage and kielbasa recipe is one of my favorite recipes, ever. 
 
-So that is going to wrap this up for this special food fried cabbage &amp; bacon recipe. Thanks so much for your time. I am confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap this up for this special food fried cabbage & bacon recipe. Thanks so much for your time. I am confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

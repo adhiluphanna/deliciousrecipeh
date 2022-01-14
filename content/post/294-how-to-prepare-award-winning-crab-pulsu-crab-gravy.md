@@ -26,7 +26,7 @@ recipeinstructions:
 - "Wash and boil in a turmeric water crabs"
 - "Aftr boiling keep it aside"
 - "Then add chilli powder and garlic ginger paste and keep it aside"
-- "Heat oil in a pan add fenugreek seeds &amp; sauf saute it"
+- "Heat oil in a pan add fenugreek seeds & sauf saute it"
 - "Then add slit green chillies and onion paste"
 - "Fry till brown and add tomato puree and saute it till oil separates"
 - "Thrn add tamarind puree salt chilli pwd corainder cumin powder and boil it till tamarind puree completly mixs"
@@ -57,7 +57,7 @@ Hello everybody, it is Drew, welcome to our recipe page. Today, we're going to m
 
 Crab pulsu /crab gravy is one of the most well liked of recent trending foods in the world. It's easy, it's fast, it tastes yummy. It is appreciated by millions every day. They are nice and they look fantastic. Crab pulsu /crab gravy is something that I have loved my entire life.
 
-Nandu Gravy This recipe is about the best Mud Crab gravy cooked in Chettinad style with lots of whole &amp; ground spices. Delicious crab Gravy recipe prepared by my grandpa in my village. Crab gravy recipe is delicious and most wanted recipe in our village.
+Nandu Gravy This recipe is about the best Mud Crab gravy cooked in Chettinad style with lots of whole & ground spices. Delicious crab Gravy recipe prepared by my grandpa in my village. Crab gravy recipe is delicious and most wanted recipe in our village.
 
 
 To get started with this particular recipe, we have to prepare a few ingredients. You can have crab pulsu /crab gravy using 12 ingredients and 10 steps. Here is how you cook that.
@@ -89,7 +89,7 @@ Simmer uncovered until crabs are completely cooked, gravy has thickened, and the
 1. Wash and boil in a turmeric water crabs
 1. Aftr boiling keep it aside
 1. Then add chilli powder and garlic ginger paste and keep it aside
-1. Heat oil in a pan add fenugreek seeds &amp; sauf saute it
+1. Heat oil in a pan add fenugreek seeds & sauf saute it
 1. Then add slit green chillies and onion paste
 1. Fry till brown and add tomato puree and saute it till oil separates
 1. Thrn add tamarind puree salt chilli pwd corainder cumin powder and boil it till tamarind puree completly mixs

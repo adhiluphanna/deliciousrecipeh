@@ -23,7 +23,7 @@ recipeinstructions:
 - "Sauté onions with oil in instant pot for about 2 minutes, then toss in bacon 🥓 and cook until it’s the consistency of ham. They need not be crispy but you don’t want them rubbery."
 - "Turn off the sauté function. Add split peas, chicken broth, ham hock, carrots 🥕, and pepper. Set instant pot to 25 minutes and cook."
 - "Whisk hot soup before serving to break up clumps of split pea, there should be some stuck to the bottom of the pot, try not to reincorporate this into the soup. I garnished mine with fried rosemary garlic sourdough croutons."
-- "Complete! Share a cooksnap &amp; tell us what you thought!"
+- "Complete! Share a cooksnap & tell us what you thought!"
 - "VARIANT: replace the bacon and ham hock with a smoked turkey leg. After soup is cooked, remove turkey leg, pull meat from bone, and return meat to soup."
 categories:
 - Recipe
@@ -78,7 +78,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Sauté onions with oil in instant pot for about 2 minutes, then toss in bacon 🥓 and cook until it’s the consistency of ham. They need not be crispy but you don’t want them rubbery.
 1. Turn off the sauté function. Add split peas, chicken broth, ham hock, carrots 🥕, and pepper. Set instant pot to 25 minutes and cook.
 1. Whisk hot soup before serving to break up clumps of split pea, there should be some stuck to the bottom of the pot, try not to reincorporate this into the soup. I garnished mine with fried rosemary garlic sourdough croutons.
-1. Complete! Share a cooksnap &amp; tell us what you thought!
+1. Complete! Share a cooksnap & tell us what you thought!
 1. VARIANT: replace the bacon and ham hock with a smoked turkey leg. After soup is cooked, remove turkey leg, pull meat from bone, and return meat to soup.
 
 

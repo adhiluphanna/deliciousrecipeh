@@ -22,8 +22,8 @@ recipeingredient:
 - " Potato Starch"
 recipeinstructions:
 - "Cleaning crabs and put aside..."
-- "Heat up the wok with 3tbsp vegetables oil and Stir-fried garlic &amp; chili then add in lemongrass, tomato sauce &amp; thai sauce... also add in some water to control the thickness of the sauce."
-- "Add in all the crabs and covered for 3 minutes then salt &amp; sugar add in for taste. Lastly add in the eggs stir well then potato starch to adjust the thickness of the chili sauce.. ready to be served with bread"
+- "Heat up the wok with 3tbsp vegetables oil and Stir-fried garlic & chili then add in lemongrass, tomato sauce & thai sauce... also add in some water to control the thickness of the sauce."
+- "Add in all the crabs and covered for 3 minutes then salt & sugar add in for taste. Lastly add in the eggs stir well then potato starch to adjust the thickness of the chili sauce.. ready to be served with bread"
 categories:
 - Recipe
 tags:
@@ -75,8 +75,8 @@ To begin with this recipe, we have to first prepare a few components. You can co
 ##### Instructions to make Chili Crabs 辣椒蟹:
 
 1. Cleaning crabs and put aside...
-1. Heat up the wok with 3tbsp vegetables oil and Stir-fried garlic &amp; chili then add in lemongrass, tomato sauce &amp; thai sauce... also add in some water to control the thickness of the sauce.
-1. Add in all the crabs and covered for 3 minutes then salt &amp; sugar add in for taste. Lastly add in the eggs stir well then potato starch to adjust the thickness of the chili sauce.. ready to be served with bread
+1. Heat up the wok with 3tbsp vegetables oil and Stir-fried garlic & chili then add in lemongrass, tomato sauce & thai sauce... also add in some water to control the thickness of the sauce.
+1. Add in all the crabs and covered for 3 minutes then salt & sugar add in for taste. Lastly add in the eggs stir well then potato starch to adjust the thickness of the chili sauce.. ready to be served with bread
 
 
 

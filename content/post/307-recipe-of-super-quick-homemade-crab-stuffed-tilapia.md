@@ -23,11 +23,11 @@ recipeingredient:
 - " Lemon juice"
 recipeinstructions:
 - "Preheat oven to 375°"
-- "In medium sauce pan add olive oil &amp; heat to medium heat. Add in onions until the start to caramelize a little bit. Then add garlic, chopped up crabmeat, cream cheese, old bay seasoning, s&amp;p and garlic chives. Stir til well incorporated. Remove crab mixture from heat &amp; allow to cool."
+- "In medium sauce pan add olive oil & heat to medium heat. Add in onions until the start to caramelize a little bit. Then add garlic, chopped up crabmeat, cream cheese, old bay seasoning, s&p and garlic chives. Stir til well incorporated. Remove crab mixture from heat & allow to cool."
 - "Lay out tilapia fillets, pat dry with paper towel. Layer a thick layer of crabmeat mix onto each fillet, spread until even."
-- "Roll up each fillet &amp; lay seam side down on a greased baking pan."
-- "Melt butter in a small cup. Mix melted butter with lemon juice, a tad of old bay seasoning, s&amp;p &amp; drizzle over the tops of rolled up crab stuffed fish."
-- "Bake for 20-25 mins or until fish starts to easily flake with a fork. Every 10 mins drizzle a little lemon/butter mix over fish during cooking process. Serve &amp; Enjoy!!🍣"
+- "Roll up each fillet & lay seam side down on a greased baking pan."
+- "Melt butter in a small cup. Mix melted butter with lemon juice, a tad of old bay seasoning, s&p & drizzle over the tops of rolled up crab stuffed fish."
+- "Bake for 20-25 mins or until fish starts to easily flake with a fork. Every 10 mins drizzle a little lemon/butter mix over fish during cooking process. Serve & Enjoy!!🍣"
 categories:
 - Recipe
 tags:
@@ -68,7 +68,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Prepare 1 cup crabmeat (immitation or fresh)
 1. Take 2 tbsp cream cheese
 1. Make ready 1 tsp old bay seasoning
-1. Make ready to taste Salt &amp; pepper
+1. Make ready to taste Salt & pepper
 1. Take 2 tbsp finely chopped garlic chives
 1. Get 2 tbsp butter
 1. Make ready  Lemon juice
@@ -81,11 +81,11 @@ To get started with this particular recipe, we have to first prepare a few ingre
 ##### Steps to make Crab Stuffed Tilapia:
 
 1. Preheat oven to 375°
-1. In medium sauce pan add olive oil &amp; heat to medium heat. Add in onions until the start to caramelize a little bit. Then add garlic, chopped up crabmeat, cream cheese, old bay seasoning, s&amp;p and garlic chives. Stir til well incorporated. Remove crab mixture from heat &amp; allow to cool.
+1. In medium sauce pan add olive oil & heat to medium heat. Add in onions until the start to caramelize a little bit. Then add garlic, chopped up crabmeat, cream cheese, old bay seasoning, s&p and garlic chives. Stir til well incorporated. Remove crab mixture from heat & allow to cool.
 1. Lay out tilapia fillets, pat dry with paper towel. Layer a thick layer of crabmeat mix onto each fillet, spread until even.
-1. Roll up each fillet &amp; lay seam side down on a greased baking pan.
-1. Melt butter in a small cup. Mix melted butter with lemon juice, a tad of old bay seasoning, s&amp;p &amp; drizzle over the tops of rolled up crab stuffed fish.
-1. Bake for 20-25 mins or until fish starts to easily flake with a fork. Every 10 mins drizzle a little lemon/butter mix over fish during cooking process. Serve &amp; Enjoy!!🍣
+1. Roll up each fillet & lay seam side down on a greased baking pan.
+1. Melt butter in a small cup. Mix melted butter with lemon juice, a tad of old bay seasoning, s&p & drizzle over the tops of rolled up crab stuffed fish.
+1. Bake for 20-25 mins or until fish starts to easily flake with a fork. Every 10 mins drizzle a little lemon/butter mix over fish during cooking process. Serve & Enjoy!!🍣
 
 
 

@@ -16,10 +16,10 @@ recipeingredient:
 - "6 pieces breads"
 - "1 tbsp cco chips"
 recipeinstructions:
-- "Cut the side of the bread&amp;griend it to makes breadcrumbs."
-- "Take a bowl add bread breadcrumbs,peanut butter,oil,sugar,&amp;mix it nicely.Makes a dough."
+- "Cut the side of the bread&griend it to makes breadcrumbs."
+- "Take a bowl add bread breadcrumbs,peanut butter,oil,sugar,&mix it nicely.Makes a dough."
 - "Preheat the microwave on 180 degree for 5 mints."
-- "Shape the cookies from dough &amp;put choco chips on top.Than bake it 3mints on preheated microwave."
+- "Shape the cookies from dough &put choco chips on top.Than bake it 3mints on preheated microwave."
 - "Bread cookies is ready."
 categories:
 - Recipe
@@ -65,10 +65,10 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 ##### Steps to make BreadPeanutButterCookies:
 
-1. Cut the side of the bread&amp;griend it to makes breadcrumbs.
-1. Take a bowl add bread breadcrumbs,peanut butter,oil,sugar,&amp;mix it nicely.Makes a dough.
+1. Cut the side of the bread&griend it to makes breadcrumbs.
+1. Take a bowl add bread breadcrumbs,peanut butter,oil,sugar,&mix it nicely.Makes a dough.
 1. Preheat the microwave on 180 degree for 5 mints.
-1. Shape the cookies from dough &amp;put choco chips on top.Than bake it 3mints on preheated microwave.
+1. Shape the cookies from dough &put choco chips on top.Than bake it 3mints on preheated microwave.
 1. Bread cookies is ready.
 
 

@@ -73,6 +73,6 @@ This makes for a tasty lunch but I suppose you could even serve this relish on g
 1. I hope you enjoy!
 
 
-Cut the kernels off the corncobs with a sharp knife. This Warm Bacon Onion Relish is the perfect topping over original brats, or any other flavor for that The smoky flavors of the bacon and tart tang of the mustard are perfectly balanced with just a hint of. Cooking them here with red onions, bacon crumbles, and fresh thyme gives you a savory, slightly rustic topping Try it both ways and see how you like it best! Pork Chops With Apple-Bacon Relish Recipe. Bacon Relish - Original &amp; Smokin&#39; Spicy Savoury, Tangy, Sweet, all in a bottle! 
+Cut the kernels off the corncobs with a sharp knife. This Warm Bacon Onion Relish is the perfect topping over original brats, or any other flavor for that The smoky flavors of the bacon and tart tang of the mustard are perfectly balanced with just a hint of. Cooking them here with red onions, bacon crumbles, and fresh thyme gives you a savory, slightly rustic topping Try it both ways and see how you like it best! Pork Chops With Apple-Bacon Relish Recipe. Bacon Relish - Original & Smokin&#39; Spicy Savoury, Tangy, Sweet, all in a bottle! 
 
 So that's going to wrap this up for this exceptional food bacon relish recipe. Thank you very much for reading. I'm sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

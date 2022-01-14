@@ -17,11 +17,11 @@ recipeingredient:
 - "1/2 cup cold water"
 - " Lots of crushed ice"
 recipeinstructions:
-- "Peel &amp; cut mango &amp; peach.."
-- "Deseed &amp; cut plum into small pieces.."
+- "Peel & cut mango & peach.."
+- "Deseed & cut plum into small pieces.."
 - "Blend all in blender jug. Sieve it in strainer.."
 - "Pour in serving glasses add lots of crushed ice..."
-- "Serve cold &amp; enjoy.."
+- "Serve cold & enjoy.."
 categories:
 - Recipe
 tags:
@@ -69,11 +69,11 @@ To begin with this recipe, we must prepare a few ingredients. You can cook fruit
 
 ##### Steps to make Fruit cocktail  #nofire:
 
-1. Peel &amp; cut mango &amp; peach..
-1. Deseed &amp; cut plum into small pieces..
+1. Peel & cut mango & peach..
+1. Deseed & cut plum into small pieces..
 1. Blend all in blender jug. Sieve it in strainer..
 1. Pour in serving glasses add lots of crushed ice...
-1. Serve cold &amp; enjoy..
+1. Serve cold & enjoy..
 
 
 

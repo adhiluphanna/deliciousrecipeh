@@ -16,8 +16,8 @@ recipeingredient:
 - " Spring Onion"
 - "10 ml Cooking Wine"
 recipeinstructions:
-- "Steam Crabs with pinch of salt &amp; gingers about 20 minutes"
-- "Remove from steamer add in cooking wine &amp; spring onion, ready to be served."
+- "Steam Crabs with pinch of salt & gingers about 20 minutes"
+- "Remove from steamer add in cooking wine & spring onion, ready to be served."
 categories:
 - Recipe
 tags:
@@ -63,8 +63,8 @@ In case you want to mix it up a little here is a great alternative dipping sauce
 
 ##### Steps to make Steam Crab 蒸螃蟹:
 
-1. Steam Crabs with pinch of salt &amp; gingers about 20 minutes
-1. Remove from steamer add in cooking wine &amp; spring onion, ready to be served.
+1. Steam Crabs with pinch of salt & gingers about 20 minutes
+1. Remove from steamer add in cooking wine & spring onion, ready to be served.
 
 
 Trump supporter! down load GUO MEDIA app!. It looks like you&#39;re using ArtStation from Europe. Would you like to change the currency to Euros (€)? It looks like you&#39;re using ArtStation from Great Britain. Would you like to change the currency to Pounds (£)? 

@@ -24,10 +24,10 @@ recipeingredient:
 - " Dusting the bread"
 recipeinstructions:
 - "Prepare all ingredients - melt butter. Warm milk. Prepare egg yolks."
-- "In a mixing bowl, sprinkle the yeast over the warm water. Let this mixture stand for 5mins or until it is foamy. Add the milk, 1/2 C melted butter, sugar, salt, egg yolks &amp; vanilla extract. Stir with a wooden spoon until well combined."
+- "In a mixing bowl, sprinkle the yeast over the warm water. Let this mixture stand for 5mins or until it is foamy. Add the milk, 1/2 C melted butter, sugar, salt, egg yolks & vanilla extract. Stir with a wooden spoon until well combined."
 - "Add the flour gradually while stirring, adding only enough just until the dough turns into a shaggy mass. Stir the dough with a wooden spoon until it gathers in the center of the bowl. Cover the bowl with a clean kitchen towel or greased cling film. Let the dough rise for 1 and 1/2 hours. This dough rises well."
-- "Deflate the dough. (This dough is sticky, dont be tempted to add more flour. Flour hands &amp; working station). Transfer to a generously floured board, devide the big dough into two. Then, roll the dough to a thin rectangle. Brush melted butter all over the dough. Cut the long side of the dough into long strips using a pizza cutter or a knife. Roll the strips into coils or spirals (see picture). Arrange them on a baking pan that is lined with baking paper. Cover and let rise for 1 hour."
-- "Preheat oven to 160°C &amp; bake for 12 minutes until lightly golden. Note: Ovens vary considerably. Pls adjust heating/heating times if necessary. Leave to cool. Sprinkle icing sugar before serving."
+- "Deflate the dough. (This dough is sticky, dont be tempted to add more flour. Flour hands & working station). Transfer to a generously floured board, devide the big dough into two. Then, roll the dough to a thin rectangle. Brush melted butter all over the dough. Cut the long side of the dough into long strips using a pizza cutter or a knife. Roll the strips into coils or spirals (see picture). Arrange them on a baking pan that is lined with baking paper. Cover and let rise for 1 hour."
+- "Preheat oven to 160°C & bake for 12 minutes until lightly golden. Note: Ovens vary considerably. Pls adjust heating/heating times if necessary. Leave to cool. Sprinkle icing sugar before serving."
 categories:
 - Recipe
 tags:
@@ -81,10 +81,10 @@ To get started with this particular recipe, we have to prepare a few components.
 ##### Instructions to make Mallorca Bread:
 
 1. Prepare all ingredients - melt butter. Warm milk. Prepare egg yolks.
-1. In a mixing bowl, sprinkle the yeast over the warm water. Let this mixture stand for 5mins or until it is foamy. Add the milk, 1/2 C melted butter, sugar, salt, egg yolks &amp; vanilla extract. Stir with a wooden spoon until well combined.
+1. In a mixing bowl, sprinkle the yeast over the warm water. Let this mixture stand for 5mins or until it is foamy. Add the milk, 1/2 C melted butter, sugar, salt, egg yolks & vanilla extract. Stir with a wooden spoon until well combined.
 1. Add the flour gradually while stirring, adding only enough just until the dough turns into a shaggy mass. Stir the dough with a wooden spoon until it gathers in the center of the bowl. Cover the bowl with a clean kitchen towel or greased cling film. Let the dough rise for 1 and 1/2 hours. This dough rises well.
-1. Deflate the dough. (This dough is sticky, dont be tempted to add more flour. Flour hands &amp; working station). Transfer to a generously floured board, devide the big dough into two. Then, roll the dough to a thin rectangle. Brush melted butter all over the dough. Cut the long side of the dough into long strips using a pizza cutter or a knife. Roll the strips into coils or spirals (see picture). Arrange them on a baking pan that is lined with baking paper. Cover and let rise for 1 hour.
-1. Preheat oven to 160°C &amp; bake for 12 minutes until lightly golden. Note: Ovens vary considerably. Pls adjust heating/heating times if necessary. Leave to cool. Sprinkle icing sugar before serving.
+1. Deflate the dough. (This dough is sticky, dont be tempted to add more flour. Flour hands & working station). Transfer to a generously floured board, devide the big dough into two. Then, roll the dough to a thin rectangle. Brush melted butter all over the dough. Cut the long side of the dough into long strips using a pizza cutter or a knife. Roll the strips into coils or spirals (see picture). Arrange them on a baking pan that is lined with baking paper. Cover and let rise for 1 hour.
+1. Preheat oven to 160°C & bake for 12 minutes until lightly golden. Note: Ovens vary considerably. Pls adjust heating/heating times if necessary. Leave to cool. Sprinkle icing sugar before serving.
 
 
 

@@ -27,7 +27,7 @@ recipeingredient:
 - "2 Tbsp chilli sauce optional"
 - " Boiled rice to serve"
 recipeinstructions:
-- "Combine soy sauce, oil &amp; cornflour in a glass or ceramic bowl. Add lamb. Toss to coat. Cover with plastic wrap. Refrigerate for 30 minutes, if time permits.   Heat a wok over high heat. Add 2 teaspoons oil. Swirl to coat. Stir-fry a lamb for until browned and just cooked. Transfer to a bowl. Cover to keep warm. Repeat with oil and remaining lamb in 2 batches."
+- "Combine soy sauce, oil & cornflour in a glass or ceramic bowl. Add lamb. Toss to coat. Cover with plastic wrap. Refrigerate for 30 minutes, if time permits.   Heat a wok over high heat. Add 2 teaspoons oil. Swirl to coat. Stir-fry a lamb for until browned and just cooked. Transfer to a bowl. Cover to keep warm. Repeat with oil and remaining lamb in 2 batches."
 - "Add remaining oil to wok over high heat. Swirl to coat. Add onion. Stir-fry for 2 minutes or until softened. Add garlic and ginger. Stir-fry for 1 minute or until fragrant. Add capsicum. Stir-fry for 2 minutes or until tender.  Return lamb to wok. Add oyster sauce, hoisin sauce, sugar and sesame oil. Stir-fry for 1 to 2 minutes or until sauce has thickened. Serve with rice."
 categories:
 - Recipe
@@ -70,7 +70,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. Prepare 1 onion, cut into thin wedges
 1. Make ready 2 garlic cloves, finely chopped
 1. Take  Small piece fresh ginger, finely grated
-1. Get 2 capsicums, (red &amp; green)cut into strips
+1. Get 2 capsicums, (red & green)cut into strips
 1. Get 1 Tbsp oyster sauce
 1. Prepare 2 Tbsp hoisin sauce
 1. Prepare 1 Tbsp caster sugar
@@ -85,7 +85,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 
 ##### Steps to make Mongolian Lamb:
 
-1. Combine soy sauce, oil &amp; cornflour in a glass or ceramic bowl. Add lamb. Toss to coat. Cover with plastic wrap. Refrigerate for 30 minutes, if time permits. -   - Heat a wok over high heat. Add 2 teaspoons oil. Swirl to coat. Stir-fry a lamb for until browned and just cooked. Transfer to a bowl. Cover to keep warm. Repeat with oil and remaining lamb in 2 batches.
+1. Combine soy sauce, oil & cornflour in a glass or ceramic bowl. Add lamb. Toss to coat. Cover with plastic wrap. Refrigerate for 30 minutes, if time permits. -   - Heat a wok over high heat. Add 2 teaspoons oil. Swirl to coat. Stir-fry a lamb for until browned and just cooked. Transfer to a bowl. Cover to keep warm. Repeat with oil and remaining lamb in 2 batches.
 1. Add remaining oil to wok over high heat. Swirl to coat. Add onion. Stir-fry for 2 minutes or until softened. Add garlic and ginger. Stir-fry for 1 minute or until fragrant. Add capsicum. Stir-fry for 2 minutes or until tender. -  - Return lamb to wok. Add oyster sauce, hoisin sauce, sugar and sesame oil. Stir-fry for 1 to 2 minutes or until sauce has thickened. Serve with rice.
 
 

@@ -58,7 +58,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Prepare 1/4 cup mayonnaise
 1. Make ready 3 green onions chopped
 1. Take 1/2 tsp dried parsley
-1. Get 1 pepper &amp; garlic salt to taste
+1. Get 1 pepper & garlic salt to taste
 
 
 

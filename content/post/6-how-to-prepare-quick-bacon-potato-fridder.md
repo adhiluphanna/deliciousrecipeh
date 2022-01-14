@@ -75,7 +75,7 @@ To get started with this recipe, we have to prepare a few components. You can co
 1. Take 1/2 cup milk
 
 
-Drain and leave to cool slightly before cutting into cubes. Potato Bacon Cheddar Frittata - This satisfying &amp; tasty frittata is an ideal, easy brunch idea. This recipe uses potatoes; leftover cooked pasta works too. Add potatoes, cabbage, salt, and pepper to the pan, stirring with bacon drippings. 
+Drain and leave to cool slightly before cutting into cubes. Potato Bacon Cheddar Frittata - This satisfying & tasty frittata is an ideal, easy brunch idea. This recipe uses potatoes; leftover cooked pasta works too. Add potatoes, cabbage, salt, and pepper to the pan, stirring with bacon drippings. 
 
 <!--inarticleads2-->
 

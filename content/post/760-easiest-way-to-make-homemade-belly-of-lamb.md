@@ -20,8 +20,8 @@ recipeingredient:
 - " Butcher String"
 recipeinstructions:
 - "Pre-heat oven to 180 degrees. Pat dry pork belly skin side, making sure its dry as possible. Score skin on an angle and then again in the opposite direction. Making diamond shaped cuts along the fat."
-- "Rub scored Pork Belly skin with oil, and then also with Chinese 5 spice, making sure to cover the whole skin side. Season with salt &amp; Pepper"
-- "Lay skin side down, sit Lamb Rack in the middle and fold the Belly on either side of the Rack. Wrap with butcher string making sure to go around each bone of the lamb to keep the Belly &amp; Rack together. Tie off and knot it at the end."
+- "Rub scored Pork Belly skin with oil, and then also with Chinese 5 spice, making sure to cover the whole skin side. Season with salt & Pepper"
+- "Lay skin side down, sit Lamb Rack in the middle and fold the Belly on either side of the Rack. Wrap with butcher string making sure to go around each bone of the lamb to keep the Belly & Rack together. Tie off and knot it at the end."
 - "Place in oven and let cook for an hour depending on size of Pork Belly and Lamb Rack. Best to check with Cooking probe. 170F/70C for medium level doneness of Lamb."
 categories:
 - Recipe
@@ -73,8 +73,8 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 ##### Steps to make Belly of Lamb:
 
 1. Pre-heat oven to 180 degrees. Pat dry pork belly skin side, making sure its dry as possible. Score skin on an angle and then again in the opposite direction. Making diamond shaped cuts along the fat.
-1. Rub scored Pork Belly skin with oil, and then also with Chinese 5 spice, making sure to cover the whole skin side. Season with salt &amp; Pepper
-1. Lay skin side down, sit Lamb Rack in the middle and fold the Belly on either side of the Rack. Wrap with butcher string making sure to go around each bone of the lamb to keep the Belly &amp; Rack together. Tie off and knot it at the end.
+1. Rub scored Pork Belly skin with oil, and then also with Chinese 5 spice, making sure to cover the whole skin side. Season with salt & Pepper
+1. Lay skin side down, sit Lamb Rack in the middle and fold the Belly on either side of the Rack. Wrap with butcher string making sure to go around each bone of the lamb to keep the Belly & Rack together. Tie off and knot it at the end.
 1. Place in oven and let cook for an hour depending on size of Pork Belly and Lamb Rack. Best to check with Cooking probe. 170F/70C for medium level doneness of Lamb.
 
 

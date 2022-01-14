@@ -56,29 +56,29 @@ recipecategory: Lunch
 ---
 
 
-![Bacon Mac &amp; Cheese](https://img-global.cpcdn.com/recipes/a15a56e22543fcdf/751x532cq70/bacon-mac-cheese-recipe-main-photo.jpg)
+![Bacon Mac & Cheese](https://img-global.cpcdn.com/recipes/a15a56e22543fcdf/751x532cq70/bacon-mac-cheese-recipe-main-photo.jpg)
 
-Hello everybody, I hope you are having an amazing day today. Today, I'm gonna show you how to make a distinctive dish, bacon mac &amp; cheese. It is one of my favorites. For mine, I'm gonna make it a bit tasty. This will be really delicious.
+Hello everybody, I hope you are having an amazing day today. Today, I'm gonna show you how to make a distinctive dish, bacon mac & cheese. It is one of my favorites. For mine, I'm gonna make it a bit tasty. This will be really delicious.
 
-Bacon Mac &amp; Cheese is one of the most popular of recent trending foods on earth. It's appreciated by millions every day. It is simple, it's fast, it tastes delicious. They are nice and they look wonderful. Bacon Mac &amp; Cheese is something that I've loved my whole life.
-
-
+Bacon Mac & Cheese is one of the most popular of recent trending foods on earth. It's appreciated by millions every day. It is simple, it's fast, it tastes delicious. They are nice and they look wonderful. Bacon Mac & Cheese is something that I've loved my whole life.
 
 
-To begin with this particular recipe, we must prepare a few components. You can have bacon mac &amp; cheese using 11 ingredients and 16 steps. Here is how you cook it.
+
+
+To begin with this particular recipe, we must prepare a few components. You can have bacon mac & cheese using 11 ingredients and 16 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Bacon Mac &amp; Cheese:
+##### The ingredients needed to make Bacon Mac & Cheese:
 
 1. Prepare 1 pound elbow macaroni
 1. Get 4 cups milk
-1. Get 2-3 sprigs thyme &amp; some thyme leaves
+1. Get 2-3 sprigs thyme & some thyme leaves
 1. Make ready 4 cloves garlic, finely chopped, divided
 1. Take 3 tablespoons unsalted butter
 1. Make ready 3 tablespoons all-purpose flour
 1. Make ready 5 1/2 cups shredded sharp cheddar cheese
-1. Get  Salt &amp; pepper
+1. Get  Salt & pepper
 1. Get 1/4 cup chopped parsley
 1. Make ready 1 pound bacon, diced
 1. Get 1 large onion, diced
@@ -88,7 +88,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 <!--inarticleads2-->
 
-##### Instructions to make Bacon Mac &amp; Cheese:
+##### Instructions to make Bacon Mac & Cheese:
 
 1. Bring a pot of salted water to a boil over high heat. Add the macaroni and cook 8-9 minutes, drain and set aside.
 1. Preheat the oven to 400 degrees.
@@ -110,4 +110,4 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 
 
-So that is going to wrap it up with this special food bacon mac &amp; cheese recipe. Thank you very much for reading. I'm sure that you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!
+So that is going to wrap it up with this special food bacon mac & cheese recipe. Thank you very much for reading. I'm sure that you will make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

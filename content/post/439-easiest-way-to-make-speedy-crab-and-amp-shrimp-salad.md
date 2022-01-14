@@ -42,20 +42,20 @@ recipecategory: Dessert
 ---
 
 
-![Crab &amp; shrimp salad](https://img-global.cpcdn.com/recipes/6185837232390144/751x532cq70/crab-shrimp-salad-recipe-main-photo.jpg)
+![Crab & shrimp salad](https://img-global.cpcdn.com/recipes/6185837232390144/751x532cq70/crab-shrimp-salad-recipe-main-photo.jpg)
 
-Hey everyone, it's Drew, welcome to our recipe site. Today, we're going to make a special dish, crab &amp; shrimp salad. One of my favorites food recipes. For mine, I will make it a bit tasty. This will be really delicious.
-
-
-
-Crab &amp; shrimp salad is one of the most well liked of current trending meals in the world. It's enjoyed by millions daily. It's easy, it is quick, it tastes yummy. Crab &amp; shrimp salad is something that I've loved my entire life. They're fine and they look wonderful.
+Hey everyone, it's Drew, welcome to our recipe site. Today, we're going to make a special dish, crab & shrimp salad. One of my favorites food recipes. For mine, I will make it a bit tasty. This will be really delicious.
 
 
-To get started with this particular recipe, we have to prepare a few ingredients. You can cook crab &amp; shrimp salad using 8 ingredients and 5 steps. Here is how you can achieve that.
+
+Crab & shrimp salad is one of the most well liked of current trending meals in the world. It's enjoyed by millions daily. It's easy, it is quick, it tastes yummy. Crab & shrimp salad is something that I've loved my entire life. They're fine and they look wonderful.
+
+
+To get started with this particular recipe, we have to prepare a few ingredients. You can cook crab & shrimp salad using 8 ingredients and 5 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Crab &amp; shrimp salad:
+##### The ingredients needed to make Crab & shrimp salad:
 
 1. Take 1 lb box tri color noodles
 1. Prepare 1 packages Crab meat (imitation is fine)
@@ -63,7 +63,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 1. Take 1 cucumber
 1. Prepare 2 tomatoes
 1. Prepare 2 cup Italian dressing (or to taste)
-1. Make ready 1 salt &amp; pepper (to taste)
+1. Make ready 1 salt & pepper (to taste)
 1. Make ready 1 Sprinkle of garlic salt
 
 
@@ -71,7 +71,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 <!--inarticleads2-->
 
-##### Instructions to make Crab &amp; shrimp salad:
+##### Instructions to make Crab & shrimp salad:
 
 1. Boil noodles, after finished set in fridge to cool down or if in a hurry run cold water over them to get them cold.
 1. Add together the cucumber, tomatoes, and crab meat. Set in fridge to keep cool.
@@ -82,4 +82,4 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 
 
-So that is going to wrap it up with this special food crab &amp; shrimp salad recipe. Thank you very much for your time. I am confident that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap it up with this special food crab & shrimp salad recipe. Thank you very much for your time. I am confident that you can make this at home. There is gonna be interesting food in home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

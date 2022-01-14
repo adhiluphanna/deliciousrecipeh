@@ -88,7 +88,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have apple
 1. Make ready 2 tsp. vanilla extract
 1. Take 1/2 cup milk
 1. Get  Apple Mixture:
-1. Get 2 apples, peeled &amp; chopped
+1. Get 2 apples, peeled & chopped
 1. Make ready 2 Tbsp. sugar
 1. Get 1 tsp. cinnamon
 1. Take  Old Fashioned Glaze:

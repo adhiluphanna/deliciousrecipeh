@@ -64,7 +64,7 @@ To begin with this particular recipe, we must prepare a few components. You can 
 1. Make ready 2 cups flour
 1. Prepare 1 teaspoon baking soda
 1. Get 1/2 teaspoon salt
-1. Take 1 1/2 cups fresh strawberries chopped &amp; tossed in 1 Tbsp of flour
+1. Take 1 1/2 cups fresh strawberries chopped & tossed in 1 Tbsp of flour
 
 
 

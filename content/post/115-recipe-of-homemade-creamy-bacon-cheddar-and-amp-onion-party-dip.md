@@ -41,20 +41,20 @@ recipecategory: Dinner
 ---
 
 
-![Creamy Bacon, Cheddar &amp; Onion Party Dip](https://img-global.cpcdn.com/recipes/a8e0af2786b7c37d/751x532cq70/creamy-bacon-cheddar-onion-party-dip-recipe-main-photo.jpg)
+![Creamy Bacon, Cheddar & Onion Party Dip](https://img-global.cpcdn.com/recipes/a8e0af2786b7c37d/751x532cq70/creamy-bacon-cheddar-onion-party-dip-recipe-main-photo.jpg)
 
-Hello everybody, it is John, welcome to our recipe page. Today, we're going to prepare a distinctive dish, creamy bacon, cheddar &amp; onion party dip. One of my favorites food recipes. This time, I will make it a bit unique. This is gonna smell and look delicious.
+Hello everybody, it is John, welcome to our recipe page. Today, we're going to prepare a distinctive dish, creamy bacon, cheddar & onion party dip. One of my favorites food recipes. This time, I will make it a bit unique. This is gonna smell and look delicious.
 
-Creamy Bacon, Cheddar &amp; Onion Party Dip is one of the most favored of recent trending foods in the world. It is simple, it's quick, it tastes yummy. It is appreciated by millions every day. Creamy Bacon, Cheddar &amp; Onion Party Dip is something that I've loved my whole life. They're nice and they look fantastic.
-
-
+Creamy Bacon, Cheddar & Onion Party Dip is one of the most favored of recent trending foods in the world. It is simple, it's quick, it tastes yummy. It is appreciated by millions every day. Creamy Bacon, Cheddar & Onion Party Dip is something that I've loved my whole life. They're nice and they look fantastic.
 
 
-To get started with this particular recipe, we must first prepare a few ingredients. You can cook creamy bacon, cheddar &amp; onion party dip using 9 ingredients and 3 steps. Here is how you can achieve it.
+
+
+To get started with this particular recipe, we must first prepare a few ingredients. You can cook creamy bacon, cheddar & onion party dip using 9 ingredients and 3 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Creamy Bacon, Cheddar &amp; Onion Party Dip:
+##### The ingredients needed to make Creamy Bacon, Cheddar & Onion Party Dip:
 
 1. Prepare 8 oz. bacon, chopped
 1. Make ready 3/4 cup mayonnaise
@@ -71,7 +71,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 
 <!--inarticleads2-->
 
-##### Instructions to make Creamy Bacon, Cheddar &amp; Onion Party Dip:
+##### Instructions to make Creamy Bacon, Cheddar & Onion Party Dip:
 
 1. Cool bacon. Drain and let cool. Chop into pieces.
 1. Mix all ingredients until creamy and fully incorporated.
@@ -80,4 +80,4 @@ To get started with this particular recipe, we must first prepare a few ingredie
 
 
 
-So that's going to wrap it up for this exceptional food creamy bacon, cheddar &amp; onion party dip recipe. Thank you very much for your time. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that's going to wrap it up for this exceptional food creamy bacon, cheddar & onion party dip recipe. Thank you very much for your time. I am confident that you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

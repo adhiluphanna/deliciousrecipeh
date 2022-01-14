@@ -17,7 +17,7 @@ recipeingredient:
 - "1 cup water"
 - "4-6 ice cube"
 recipeinstructions:
-- "Blend all Pineapple tang,lemon juice water black salt half banana &amp; Ice cube..."
+- "Blend all Pineapple tang,lemon juice water black salt half banana & Ice cube..."
 - "Serve with extra banana.."
 categories:
 - Recipe
@@ -65,7 +65,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 
 ##### Steps to make Pineapple cocktail:
 
-1. Blend all Pineapple tang,lemon juice water black salt half banana &amp; Ice cube...
+1. Blend all Pineapple tang,lemon juice water black salt half banana & Ice cube...
 1. Serve with extra banana..
 
 

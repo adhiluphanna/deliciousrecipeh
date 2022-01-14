@@ -16,7 +16,7 @@ recipeingredient:
 - "1 tsp dijon mustard"
 - "1/4 tsp Kosher salt and black pepper"
 recipeinstructions:
-- "Cook the bacon until crisp. Drain on paper towels; reserve the drippings. Whisk the vinegar, sugar, mustard and S&amp;P into drippings. Slowly whisk in the oil until emulsified. Add bacon. Serve warm on your salad."
+- "Cook the bacon until crisp. Drain on paper towels; reserve the drippings. Whisk the vinegar, sugar, mustard and S&P into drippings. Slowly whisk in the oil until emulsified. Add bacon. Serve warm on your salad."
 categories:
 - Recipe
 tags:
@@ -63,9 +63,9 @@ Here in the Test Kitchen, we&#39;re always looking for a new way to enjoy our ba
 
 ##### Steps to make Warm Bacon dressing:
 
-1. Cook the bacon until crisp. Drain on paper towels; reserve the drippings. Whisk the vinegar, sugar, mustard and S&amp;P into drippings. Slowly whisk in the oil until emulsified. Add bacon. Serve warm on your salad.
+1. Cook the bacon until crisp. Drain on paper towels; reserve the drippings. Whisk the vinegar, sugar, mustard and S&P into drippings. Slowly whisk in the oil until emulsified. Add bacon. Serve warm on your salad.
 
 
-A basic warm bacon dressing, great for spinach salad, or just about any salad, anytime. This is a great dressing for just about any salad, but perfect for my Roasted Summer Vegetable &amp; Spinach. A classic steakhouse-style spinach salad with the absolute best warm bacon-mustard dressing I&#39;ve ever had! Looks and tastes like a lot of work, but can be prepared in no time! Because seriously this Coleslaw with Warm Bacon Dressing is not an attractive dish; it&#39;s just a yummy one. 
+A basic warm bacon dressing, great for spinach salad, or just about any salad, anytime. This is a great dressing for just about any salad, but perfect for my Roasted Summer Vegetable & Spinach. A classic steakhouse-style spinach salad with the absolute best warm bacon-mustard dressing I&#39;ve ever had! Looks and tastes like a lot of work, but can be prepared in no time! Because seriously this Coleslaw with Warm Bacon Dressing is not an attractive dish; it&#39;s just a yummy one. 
 
 So that is going to wrap this up with this exceptional food warm bacon dressing recipe. Thank you very much for your time. I am sure you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

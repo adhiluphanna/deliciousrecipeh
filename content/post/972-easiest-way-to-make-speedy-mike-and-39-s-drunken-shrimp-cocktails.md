@@ -78,13 +78,13 @@ To get started with this particular recipe, we must first prepare a few componen
 
 ##### The ingredients needed to make Mike&#39;s Drunken Shrimp Cocktails:
 
-1. Take  ● For The Fluids [per glass - chill all - shake well &amp; strain]
+1. Take  ● For The Fluids [per glass - chill all - shake well & strain]
 1. Get as needed Crushed Ice
 1. Take 1.5 oz EFFEN Cucumber Vodka Or, Spicy Vodka [chilled in freezer]
-1. Make ready 1.5 oz Clamato Juice [chilled &amp; well shaken]
-1. Prepare 1.5 oz Spicy V8 Juice [chilled &amp; well shaken]
-1. Prepare 4 Dashes Tabasco Sauce [chilled &amp; shaken]
-1. Prepare 2 Dashes Habenero Tabasco Sauce [chilled &amp; shaken]
+1. Make ready 1.5 oz Clamato Juice [chilled & well shaken]
+1. Prepare 1.5 oz Spicy V8 Juice [chilled & well shaken]
+1. Prepare 4 Dashes Tabasco Sauce [chilled & shaken]
+1. Prepare 2 Dashes Habenero Tabasco Sauce [chilled & shaken]
 1. Get to taste Fresh Ground Black Pepper
 1. Make ready 1 Dash Red Pepper Flakes
 1. Prepare 1 Dash Garlic Powder
@@ -93,7 +93,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Take 1 Dash Worshestershire Sauce
 1. Take  ● For The Proteins [6 per glass]
 1. Get as needed Jumbo Steamed Chilled Shrimp
-1. Prepare  ● For The Vegetables &amp; Fruits [as needed - all chilled]
+1. Prepare  ● For The Vegetables & Fruits [as needed - all chilled]
 1. Prepare  Lime Wedges
 1. Take  Lemon Wedges
 1. Prepare  Jumbo Green Olives
@@ -108,7 +108,7 @@ To get started with this particular recipe, we must first prepare a few componen
 1. Get  ● For The Equipment
 1. Prepare  Colorful Cocktail Spears
 1. Prepare  Colorful Cocktail Stirs
-1. Take Glasses [with lime rim edges &amp; dipped in salt or tabasco salt]
+1. Take Glasses [with lime rim edges & dipped in salt or tabasco salt]
 
 
 

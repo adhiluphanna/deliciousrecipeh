@@ -48,20 +48,20 @@ recipecategory: Dinner
 ---
 
 
-![French onion burgers (mushroom &amp; Swiss or fully loaded bacon burgers)](https://img-global.cpcdn.com/recipes/65fbf4f4ab03382e/751x532cq70/french-onion-burgers-mushroom-swiss-or-fully-loaded-bacon-burgers-recipe-main-photo.jpg)
+![French onion burgers (mushroom & Swiss or fully loaded bacon burgers)](https://img-global.cpcdn.com/recipes/65fbf4f4ab03382e/751x532cq70/french-onion-burgers-mushroom-swiss-or-fully-loaded-bacon-burgers-recipe-main-photo.jpg)
 
-Hello everybody, it's Drew, welcome to our recipe site. Today, I'm gonna show you how to make a distinctive dish, french onion burgers (mushroom &amp; swiss or fully loaded bacon burgers). It is one of my favorites food recipes. For mine, I'm gonna make it a bit unique. This is gonna smell and look delicious.
+Hello everybody, it's Drew, welcome to our recipe site. Today, I'm gonna show you how to make a distinctive dish, french onion burgers (mushroom & swiss or fully loaded bacon burgers). It is one of my favorites food recipes. For mine, I'm gonna make it a bit unique. This is gonna smell and look delicious.
 
-French onion burgers (mushroom &amp; Swiss or fully loaded bacon burgers) is one of the most popular of recent trending foods in the world. It is simple, it is fast, it tastes yummy. It is appreciated by millions every day. They're fine and they look fantastic. French onion burgers (mushroom &amp; Swiss or fully loaded bacon burgers) is something which I have loved my entire life.
+French onion burgers (mushroom & Swiss or fully loaded bacon burgers) is one of the most popular of recent trending foods in the world. It is simple, it is fast, it tastes yummy. It is appreciated by millions every day. They're fine and they look fantastic. French onion burgers (mushroom & Swiss or fully loaded bacon burgers) is something which I have loved my entire life.
 
 Add beef broth and use a wooden spoon to release any browned bits off the bottom of the skillet. Continental burgers are served with an onion-seasoned &#39;au jus&#39; sauce for dipping. What makes them even better is melted swiss and carmelized onions and mushrooms.
 
 
-To begin with this particular recipe, we must prepare a few components. You can cook french onion burgers (mushroom &amp; swiss or fully loaded bacon burgers) using 15 ingredients and 4 steps. Here is how you can achieve it.
+To begin with this particular recipe, we must prepare a few components. You can cook french onion burgers (mushroom & swiss or fully loaded bacon burgers) using 15 ingredients and 4 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make French onion burgers (mushroom &amp; Swiss or fully loaded bacon burgers):
+##### The ingredients needed to make French onion burgers (mushroom & Swiss or fully loaded bacon burgers):
 
 1. Prepare 1 lb ground beef or 1/2 lb of ground beef mixed with 1/2 lb of venison
 1. Prepare to taste Salt, pepper and garlic powder
@@ -84,7 +84,7 @@ A hearty burger packed with nutty, melty Grueyere, deeply browned mushrooms and 
 
 <!--inarticleads2-->
 
-##### Steps to make French onion burgers (mushroom &amp; Swiss or fully loaded bacon burgers):
+##### Steps to make French onion burgers (mushroom & Swiss or fully loaded bacon burgers):
 
 1. Mix ground beef with French onion soup mix and spices stated and cook.
 1. Sauté mushrooms and onions in butter about 7 minutes.
@@ -94,4 +94,4 @@ A hearty burger packed with nutty, melty Grueyere, deeply browned mushrooms and 
 
 Assemble the burgers on the buns with caramelized onions and arugula. In this recipe, I top a beef patty with the trademark flavors of a great French onion soup—soft, caramelized onions cooked with tomato and red wine, and a healthy dose of melted Gruyere cheese. Mozzarella Mushroom Burgers recipe made with beef burgers, baby bella mushrooms, garlic, green onion I&#39;d say that sauteed mushrooms and onions are one of the best toppings for a burger in the world. Cook patties in skillet until browned. In a large skillet over medium heat, heat oil. 
 
-So that is going to wrap it up with this special food french onion burgers (mushroom &amp; swiss or fully loaded bacon burgers) recipe. Thank you very much for reading. I am confident that you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up with this special food french onion burgers (mushroom & swiss or fully loaded bacon burgers) recipe. Thank you very much for reading. I am confident that you will make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

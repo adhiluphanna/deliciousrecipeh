@@ -57,20 +57,20 @@ recipecategory: Lunch
 ---
 
 
-![Mike&#39;s Garlic Shrimp &amp; Crab Meat In Sweet Chili Sauce](https://img-global.cpcdn.com/recipes/417cf56b80827913/751x532cq70/mikes-garlic-shrimp-crab-meat-in-sweet-chili-sauce-recipe-main-photo.jpg)
+![Mike&#39;s Garlic Shrimp & Crab Meat In Sweet Chili Sauce](https://img-global.cpcdn.com/recipes/417cf56b80827913/751x532cq70/mikes-garlic-shrimp-crab-meat-in-sweet-chili-sauce-recipe-main-photo.jpg)
 
-Hey everyone, it is John, welcome to my recipe page. Today, we're going to prepare a distinctive dish, mike&#39;s garlic shrimp &amp; crab meat in sweet chili sauce. It is one of my favorites. For mine, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
+Hey everyone, it is John, welcome to my recipe page. Today, we're going to prepare a distinctive dish, mike&#39;s garlic shrimp & crab meat in sweet chili sauce. It is one of my favorites. For mine, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
 
-Mike&#39;s Garlic Shrimp &amp; Crab Meat In Sweet Chili Sauce is one of the most popular of current trending meals in the world. It is enjoyed by millions daily. It's easy, it's fast, it tastes yummy. They're fine and they look wonderful. Mike&#39;s Garlic Shrimp &amp; Crab Meat In Sweet Chili Sauce is something which I have loved my entire life.
-
-
+Mike&#39;s Garlic Shrimp & Crab Meat In Sweet Chili Sauce is one of the most popular of current trending meals in the world. It is enjoyed by millions daily. It's easy, it's fast, it tastes yummy. They're fine and they look wonderful. Mike&#39;s Garlic Shrimp & Crab Meat In Sweet Chili Sauce is something which I have loved my entire life.
 
 
-To begin with this recipe, we have to prepare a few ingredients. You can have mike&#39;s garlic shrimp &amp; crab meat in sweet chili sauce using 23 ingredients and 5 steps. Here is how you can achieve it.
+
+
+To begin with this recipe, we have to prepare a few ingredients. You can have mike&#39;s garlic shrimp & crab meat in sweet chili sauce using 23 ingredients and 5 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Mike&#39;s Garlic Shrimp &amp; Crab Meat In Sweet Chili Sauce:
+##### The ingredients needed to make Mike&#39;s Garlic Shrimp & Crab Meat In Sweet Chili Sauce:
 
 1. Prepare  ● For The Fresh Seafood
 1. Take 1 EX LG Alaskan King Crab Claw [presteamed - added last]
@@ -82,7 +82,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have mi
 1. Prepare 2 tbsp Garlic Chives
 1. Take 1/4 Cup Celery
 1. Get 1/2 Can Baby Corn
-1. Make ready 10 Cloves Fresh Garlic [smashed &amp; minced]
+1. Make ready 10 Cloves Fresh Garlic [smashed & minced]
 1. Prepare 1 tbsp Garlic Juice
 1. Get 1/2 Cup Cilantro Leaves
 1. Get 1/4 Cup Parsley Leaves
@@ -101,7 +101,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have mi
 
 <!--inarticleads2-->
 
-##### Steps to make Mike&#39;s Garlic Shrimp &amp; Crab Meat In Sweet Chili Sauce:
+##### Steps to make Mike&#39;s Garlic Shrimp & Crab Meat In Sweet Chili Sauce:
 
 1. Thin slice or fine mince your vegetables.
 1. Mix everything together except for your presteamed crab and shrimp.
@@ -112,4 +112,4 @@ To begin with this recipe, we have to prepare a few ingredients. You can have mi
 
 
 
-So that is going to wrap this up with this exceptional food mike&#39;s garlic shrimp &amp; crab meat in sweet chili sauce recipe. Thanks so much for reading. I am sure that you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this exceptional food mike&#39;s garlic shrimp & crab meat in sweet chili sauce recipe. Thanks so much for reading. I am sure that you will make this at home. There's gonna be more interesting food at home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

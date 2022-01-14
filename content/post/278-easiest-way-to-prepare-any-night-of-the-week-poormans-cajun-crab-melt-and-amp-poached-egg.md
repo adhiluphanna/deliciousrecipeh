@@ -42,20 +42,20 @@ recipecategory: Lunch
 ---
 
 
-![Poormans’ Cajun Crab-Melt &amp; Poached Egg](https://img-global.cpcdn.com/recipes/325d55c74f53fc25/751x532cq70/poormans-cajun-crab-melt-poached-egg-recipe-main-photo.jpg)
+![Poormans’ Cajun Crab-Melt & Poached Egg](https://img-global.cpcdn.com/recipes/325d55c74f53fc25/751x532cq70/poormans-cajun-crab-melt-poached-egg-recipe-main-photo.jpg)
 
-Hello everybody, hope you're having an amazing day today. Today, we're going to prepare a special dish, poormans’ cajun crab-melt &amp; poached egg. It is one of my favorites food recipes. This time, I will make it a little bit tasty. This is gonna smell and look delicious.
-
-
-
-Poormans’ Cajun Crab-Melt &amp; Poached Egg is one of the most favored of recent trending foods in the world. It's easy, it is fast, it tastes yummy. It's enjoyed by millions daily. Poormans’ Cajun Crab-Melt &amp; Poached Egg is something that I have loved my entire life. They are nice and they look wonderful.
+Hello everybody, hope you're having an amazing day today. Today, we're going to prepare a special dish, poormans’ cajun crab-melt & poached egg. It is one of my favorites food recipes. This time, I will make it a little bit tasty. This is gonna smell and look delicious.
 
 
-To begin with this recipe, we have to prepare a few ingredients. You can have poormans’ cajun crab-melt &amp; poached egg using 9 ingredients and 4 steps. Here is how you can achieve that.
+
+Poormans’ Cajun Crab-Melt & Poached Egg is one of the most favored of recent trending foods in the world. It's easy, it is fast, it tastes yummy. It's enjoyed by millions daily. Poormans’ Cajun Crab-Melt & Poached Egg is something that I have loved my entire life. They are nice and they look wonderful.
+
+
+To begin with this recipe, we have to prepare a few ingredients. You can have poormans’ cajun crab-melt & poached egg using 9 ingredients and 4 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Poormans’ Cajun Crab-Melt &amp; Poached Egg:
+##### The ingredients needed to make Poormans’ Cajun Crab-Melt & Poached Egg:
 
 1. Get 1.5 cups imitation crab shredded
 1. Take 2 tbsp mayonnaise (I used avocado oil mayo)
@@ -72,7 +72,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have po
 
 <!--inarticleads2-->
 
-##### Steps to make Poormans’ Cajun Crab-Melt &amp; Poached Egg:
+##### Steps to make Poormans’ Cajun Crab-Melt & Poached Egg:
 
 1. Preheat oven to 400 degrees. Mix imitation crab, mayonnaise, onion, Cajun spice, red and black pepper in a bowl and mix.
 1. Lightly toast bread and poach four eggs
@@ -82,4 +82,4 @@ To begin with this recipe, we have to prepare a few ingredients. You can have po
 
 
 
-So that is going to wrap it up with this special food poormans’ cajun crab-melt &amp; poached egg recipe. Thank you very much for reading. I am confident that you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up with this special food poormans’ cajun crab-melt & poached egg recipe. Thank you very much for reading. I am confident that you will make this at home. There's gonna be interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

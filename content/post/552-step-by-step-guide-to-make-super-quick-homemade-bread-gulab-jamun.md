@@ -28,7 +28,7 @@ recipeinstructions:
 - "Make a small ball with your palm"
 - "Heat oil in a pan, on medium heat.fry the ball from both side until Brown"
 - "Now put the Gulab Jamun into the sugar syrup for 15-20 minutes. Gulab jamun should dip properly into the syrup. The gulab jamun will absorb the sugar its ready to serve Remember sugar syrup should be light warm"
-- "For sugar syrup, click on my given recipe link - https://cookpad.com/us/recipes/13764209-gulab-jamun?invite_token=8EBkrBBh16meBfkAwnRh5YK7&amp;shared_at=1604604158"
+- "For sugar syrup, click on my given recipe link - https://cookpad.com/us/recipes/13764209-gulab-jamun?invite_token=8EBkrBBh16meBfkAwnRh5YK7&shared_at=1604604158"
 - "It&#39;s ready to eat and you can store this for 6-7 days in the refrigerator"
 categories:
 - Recipe
@@ -88,7 +88,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Make a small ball with your palm
 1. Heat oil in a pan, on medium heat.fry the ball from both side until Brown
 1. Now put the Gulab Jamun into the sugar syrup for 15-20 minutes. Gulab jamun should dip properly into the syrup. The gulab jamun will absorb the sugar its ready to serve Remember sugar syrup should be light warm
-1. For sugar syrup, click on my given recipe link - https://cookpad.com/us/recipes/13764209-gulab-jamun?invite_token=8EBkrBBh16meBfkAwnRh5YK7&amp;shared_at=1604604158
+1. For sugar syrup, click on my given recipe link - https://cookpad.com/us/recipes/13764209-gulab-jamun?invite_token=8EBkrBBh16meBfkAwnRh5YK7&shared_at=1604604158
 1. It&#39;s ready to eat and you can store this for 6-7 days in the refrigerator
 
 

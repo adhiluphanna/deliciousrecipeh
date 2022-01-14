@@ -92,6 +92,6 @@ Using a peeler, shave a few slices of parmigiano on top. Categories: Brussels Sp
 1. Note- You can adjust the brown sugar and pepper. Adding some bacon fat also taste good :)
 
 
-There are so many fresh vegetables in the garden and at farmer&#39;s markets right now that I have been looking for a few new ways to. Brussel sprouts with Bacon in a balsamic glaze. Download a copy of this recipe from our website, www.rapidesfoundation.org/holidays. Brussels Sprouts with Crispy Capers &amp; Bacon Recipe adapted from Diane. Brussel sprouts have always been my go-to side dish when eating out. 
+There are so many fresh vegetables in the garden and at farmer&#39;s markets right now that I have been looking for a few new ways to. Brussel sprouts with Bacon in a balsamic glaze. Download a copy of this recipe from our website, www.rapidesfoundation.org/holidays. Brussels Sprouts with Crispy Capers & Bacon Recipe adapted from Diane. Brussel sprouts have always been my go-to side dish when eating out. 
 
 So that's going to wrap it up with this special food garlicy brussels sprouts and carrots with crispy bacon recipe. Thank you very much for your time. I'm confident you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

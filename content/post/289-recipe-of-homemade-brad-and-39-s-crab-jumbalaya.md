@@ -69,7 +69,7 @@ To get started with this particular recipe, we must prepare a few components. Yo
 1. Prepare 1 dungeness crab. Cooked and deshelled
 1. Prepare 1 andouille sausage, sliced on the bias
 1. Get 1/2 small onion, chopped
-1. Get 1 ea, baby red, baby yellow, &amp; baby orange bell pepper, chopped
+1. Get 1 ea, baby red, baby yellow, & baby orange bell pepper, chopped
 1. Take 1 tbs minced garlic
 1. Get 1/2 can fire roasted diced tomatoes
 1. Get 1 cup long grain white rice

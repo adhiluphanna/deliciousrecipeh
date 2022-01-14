@@ -28,9 +28,9 @@ recipeingredient:
 - "as needed mustard oil"
 recipeinstructions:
 - "Heat oil in a kadhai and add cardamom, bay leaf, clove. add onion and fry until golden brown. add ginger garlic paste and tomato fry until becomes soft."
-- "Then add chilli powder, green chillies, turmeric powder, salt to taste, cumin powder, coriander powder &amp; fry them 5 mins."
+- "Then add chilli powder, green chillies, turmeric powder, salt to taste, cumin powder, coriander powder & fry them 5 mins."
 - "Now add in cleaned crab and toss well in the masala."
-- "Add a little heated water &amp; Cover and cook for 20 mins.."
+- "Add a little heated water & Cover and cook for 20 mins.."
 - "Finally, Add meat masala and turn off the gas. Now add coriander leaves and serve with rice."
 categories:
 - Recipe
@@ -89,9 +89,9 @@ To get started with this particular recipe, we must first prepare a few ingredie
 ##### Instructions to make Crab curry:
 
 1. Heat oil in a kadhai and add cardamom, bay leaf, clove. add onion and fry until golden brown. add ginger garlic paste and tomato fry until becomes soft.
-1. Then add chilli powder, green chillies, turmeric powder, salt to taste, cumin powder, coriander powder &amp; fry them 5 mins.
+1. Then add chilli powder, green chillies, turmeric powder, salt to taste, cumin powder, coriander powder & fry them 5 mins.
 1. Now add in cleaned crab and toss well in the masala.
-1. Add a little heated water &amp; Cover and cook for 20 mins..
+1. Add a little heated water & Cover and cook for 20 mins..
 1. Finally, Add meat masala and turn off the gas. Now add coriander leaves and serve with rice.
 
 

@@ -47,7 +47,7 @@ recipecategory: Dinner
 
 Hey everyone, it is me, Dave, welcome to our recipe site. Today, I'm gonna show you how to prepare a special dish, sausage bacon and egg casserole. One of my favorites food recipes. For mine, I will make it a bit unique. This is gonna smell and look delicious.
 
-Cheesy Potato Bacon Sausage Egg CasseroleSmall Town Woman. Breakfast for Dinner Keto Egg Casserole with Sausage &amp; Bacon - Make Ahead Keto Freezer Meal. This easy sausage and egg casserole recipe is perfect for a holiday morning.
+Cheesy Potato Bacon Sausage Egg CasseroleSmall Town Woman. Breakfast for Dinner Keto Egg Casserole with Sausage & Bacon - Make Ahead Keto Freezer Meal. This easy sausage and egg casserole recipe is perfect for a holiday morning.
 
 Sausage bacon and egg casserole is one of the most popular of current trending foods in the world. It's easy, it's fast, it tastes yummy. It's enjoyed by millions every day. They are nice and they look fantastic. Sausage bacon and egg casserole is something that I've loved my entire life.
 

@@ -64,7 +64,7 @@ To begin with this recipe, we have to prepare a few components. You can cook mas
 
 ##### The ingredients needed to make Masala Roast leg of lamb::
 
-1. Get 2 &amp; 1/2 kg a large leg of lamb
+1. Get 2 & 1/2 kg a large leg of lamb
 1. Make ready 1 Tbsp red chilli powder
 1. Take 1 Tbsp red Kashmiri chilli powder
 1. Get 1 Tbsp red chilli flakes
@@ -72,7 +72,7 @@ To begin with this recipe, we have to prepare a few components. You can cook mas
 1. Get 1 tsp mace and nutmeg powder
 1. Make ready 1 tsp red food colour
 1. Prepare to taste Salt
-1. Take 2 Tbsp ginger &amp; garlic paste
+1. Take 2 Tbsp ginger & garlic paste
 1. Get 1 cup Greek yogurt
 1. Prepare 2 lemon juice
 1. Make ready 4-5 cloves

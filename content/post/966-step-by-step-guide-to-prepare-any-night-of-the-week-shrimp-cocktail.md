@@ -18,12 +18,12 @@ recipeingredient:
 - "3 Cups Ketsup"
 - "1 Pinch Cilantro"
 recipeinstructions:
-- "Dice tomatoes, onions &amp; cucumber."
-- "Boil shrimp &amp; then drain to let cool off."
-- "Add diced tomatoes, onions &amp; shrimp into bowl."
-- "Add 3 cups ketsup &amp; cucumber then mix all together."
-- "Serve with Salsa Valentina &amp; Salted Crackers or tostadas."
-- "Add Cilantro &amp; Avocado."
+- "Dice tomatoes, onions & cucumber."
+- "Boil shrimp & then drain to let cool off."
+- "Add diced tomatoes, onions & shrimp into bowl."
+- "Add 3 cups ketsup & cucumber then mix all together."
+- "Serve with Salsa Valentina & Salted Crackers or tostadas."
+- "Add Cilantro & Avocado."
 - "Enjoy"
 - ""
 categories:
@@ -73,12 +73,12 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 ##### Steps to make Shrimp Cocktail:
 
-1. Dice tomatoes, onions &amp; cucumber.
-1. Boil shrimp &amp; then drain to let cool off.
-1. Add diced tomatoes, onions &amp; shrimp into bowl.
-1. Add 3 cups ketsup &amp; cucumber then mix all together.
-1. Serve with Salsa Valentina &amp; Salted Crackers or tostadas.
-1. Add Cilantro &amp; Avocado.
+1. Dice tomatoes, onions & cucumber.
+1. Boil shrimp & then drain to let cool off.
+1. Add diced tomatoes, onions & shrimp into bowl.
+1. Add 3 cups ketsup & cucumber then mix all together.
+1. Serve with Salsa Valentina & Salted Crackers or tostadas.
+1. Add Cilantro & Avocado.
 1. Enjoy
 1. 
 

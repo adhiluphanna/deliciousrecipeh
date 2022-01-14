@@ -24,11 +24,11 @@ recipeingredient:
 - " Corrienderleaveshandful"
 recipeinstructions:
 - "All ingredients."
-- "Heat a pan add oil,add chopped onion&amp;greenchilli.stir 1 mints."
-- "Transfer a bowl add paneer,hungcurd,corrienderleaves&amp;all spices mix well."
-- "Add chopped carrot&amp;black chana stir 2 mints."
-- "Take a bread piace brush little water &amp;stuff the stufging masala cover it &amp;Shape it.The deepfry the cutlet."
-- "Bread cutlet is ready to serve.Serve with greenchutney&amp;redchutney."
+- "Heat a pan add oil,add chopped onion&greenchilli.stir 1 mints."
+- "Transfer a bowl add paneer,hungcurd,corrienderleaves&all spices mix well."
+- "Add chopped carrot&black chana stir 2 mints."
+- "Take a bread piace brush little water &stuff the stufging masala cover it &Shape it.The deepfry the cutlet."
+- "Bread cutlet is ready to serve.Serve with greenchutney&redchutney."
 categories:
 - Recipe
 tags:
@@ -81,11 +81,11 @@ To begin with this recipe, we must prepare a few ingredients. You can cook bread
 ##### Instructions to make BreadCutlet:
 
 1. All ingredients.
-1. Heat a pan add oil,add chopped onion&amp;greenchilli.stir 1 mints.
-1. Transfer a bowl add paneer,hungcurd,corrienderleaves&amp;all spices mix well.
-1. Add chopped carrot&amp;black chana stir 2 mints.
-1. Take a bread piace brush little water &amp;stuff the stufging masala cover it &amp;Shape it.The deepfry the cutlet.
-1. Bread cutlet is ready to serve.Serve with greenchutney&amp;redchutney.
+1. Heat a pan add oil,add chopped onion&greenchilli.stir 1 mints.
+1. Transfer a bowl add paneer,hungcurd,corrienderleaves&all spices mix well.
+1. Add chopped carrot&black chana stir 2 mints.
+1. Take a bread piace brush little water &stuff the stufging masala cover it &Shape it.The deepfry the cutlet.
+1. Bread cutlet is ready to serve.Serve with greenchutney&redchutney.
 
 
 

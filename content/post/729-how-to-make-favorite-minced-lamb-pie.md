@@ -24,7 +24,7 @@ recipeingredient:
 recipeinstructions:
 - "Chop bacon into strips and fry with the mince until cooked. Drain excess fat."
 - "Chop onion and carrots and add to pan, mix with meat and cook for 5 minutes. Season with salt."
-- "Add tomato purée &amp; thyme and mix. Add tomatoes and stock. Mix. Bring to a boil and then reduce heat to a simmer"
+- "Add tomato purée & thyme and mix. Add tomatoes and stock. Mix. Bring to a boil and then reduce heat to a simmer"
 - "Heat oven to 200c and prepare pie dish with a thin layer of oil and sprinkle of plain flour."
 - "Roll out pastry, cut to large circle and line the bottom of the dish and up the sides. Trim excess away. Prick the base a few times with a fork. Place in hot oven for 20 minutes."
 - "By now the filling should have reduced to a thick sauce. If not turn up the heat for a few more minutes"
@@ -86,7 +86,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 
 1. Chop bacon into strips and fry with the mince until cooked. Drain excess fat.
 1. Chop onion and carrots and add to pan, mix with meat and cook for 5 minutes. Season with salt.
-1. Add tomato purée &amp; thyme and mix. Add tomatoes and stock. Mix. Bring to a boil and then reduce heat to a simmer
+1. Add tomato purée & thyme and mix. Add tomatoes and stock. Mix. Bring to a boil and then reduce heat to a simmer
 1. Heat oven to 200c and prepare pie dish with a thin layer of oil and sprinkle of plain flour.
 1. Roll out pastry, cut to large circle and line the bottom of the dish and up the sides. Trim excess away. Prick the base a few times with a fork. Place in hot oven for 20 minutes.
 1. By now the filling should have reduced to a thick sauce. If not turn up the heat for a few more minutes

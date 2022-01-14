@@ -23,11 +23,11 @@ recipeingredient:
 - "1/2 lemon  Take out juice from it"
 recipeinstructions:
 - "At first clean and wash Lamb chops properly.Then take a bowl pour the lamb chops in to it."
-- "Add Hung curd &amp; all the spices accordingly (Red chili Powder,Turmeric powder,Shan fried chops Masala,Black pepper powder)in to the bowl."
-- "Add Ginger &amp; Garlic paste,Lemon juice &amp; add salt as per your taste."
+- "Add Hung curd & all the spices accordingly (Red chili Powder,Turmeric powder,Shan fried chops Masala,Black pepper powder)in to the bowl."
+- "Add Ginger & Garlic paste,Lemon juice & add salt as per your taste."
 - "Add oil and mix well all the ingredients together until coated properly. Cover the Bowl and keep it in refrigerator for over night or at least 2-3 hours."
-- "Take out the marinated Lamb chops from refrigerator.Heat little oil in a Fry pan place all the Lamb chops on the Fry pan &amp; saute them on low to medium heat.Keep turning the lamb chops and fry each side evenly until cooked properly."
-- "When all the sides of the lamb chops cooked well turn off the flame &amp; serve it hot with Onion Cucumber salads."
+- "Take out the marinated Lamb chops from refrigerator.Heat little oil in a Fry pan place all the Lamb chops on the Fry pan & saute them on low to medium heat.Keep turning the lamb chops and fry each side evenly until cooked properly."
+- "When all the sides of the lamb chops cooked well turn off the flame & serve it hot with Onion Cucumber salads."
 categories:
 - Recipe
 tags:
@@ -81,11 +81,11 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 ##### Instructions to make Tandoori Lamb Chops:
 
 1. At first clean and wash Lamb chops properly.Then take a bowl pour the lamb chops in to it.
-1. Add Hung curd &amp; all the spices accordingly (Red chili Powder,Turmeric powder,Shan fried chops Masala,Black pepper powder)in to the bowl.
-1. Add Ginger &amp; Garlic paste,Lemon juice &amp; add salt as per your taste.
+1. Add Hung curd & all the spices accordingly (Red chili Powder,Turmeric powder,Shan fried chops Masala,Black pepper powder)in to the bowl.
+1. Add Ginger & Garlic paste,Lemon juice & add salt as per your taste.
 1. Add oil and mix well all the ingredients together until coated properly. - Cover the Bowl and keep it in refrigerator for over night or at least 2-3 hours.
-1. Take out the marinated Lamb chops from refrigerator.Heat little oil in a Fry pan place all the Lamb chops on the Fry pan &amp; saute them on low to medium heat.Keep turning the lamb chops and fry each side evenly until cooked properly.
-1. When all the sides of the lamb chops cooked well turn off the flame &amp; serve it hot with Onion Cucumber salads.
+1. Take out the marinated Lamb chops from refrigerator.Heat little oil in a Fry pan place all the Lamb chops on the Fry pan & saute them on low to medium heat.Keep turning the lamb chops and fry each side evenly until cooked properly.
+1. When all the sides of the lamb chops cooked well turn off the flame & serve it hot with Onion Cucumber salads.
 
 
 

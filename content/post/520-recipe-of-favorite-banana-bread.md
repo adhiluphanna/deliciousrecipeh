@@ -21,13 +21,13 @@ recipeingredient:
 - "1/4 tsp salt"
 - "1 cup chocolate chip optional"
 recipeinstructions:
-- "Preheat over at 160° &amp; line in baking paper on 2L loaf pan."
+- "Preheat over at 160° & line in baking paper on 2L loaf pan."
 - "Whisk 🍌, sugar, butter until well-blended."
-- "Whisk in egg &amp; vanilla extract"
-- "Add in sifted flour, baking soda &amp; salt. Using a spatula, using cutting and scrape motion to stir till well blended. Stir in chocolate chips."
-- "Pour batter into loaf pan, knock out some air. Bake for about 1 hour &amp; 15 minutes（看著辦）until a tester inserted in the centre &amp; come out clean."
+- "Whisk in egg & vanilla extract"
+- "Add in sifted flour, baking soda & salt. Using a spatula, using cutting and scrape motion to stir till well blended. Stir in chocolate chips."
+- "Pour batter into loaf pan, knock out some air. Bake for about 1 hour & 15 minutes（看著辦）until a tester inserted in the centre & come out clean."
 - "Put the tray into the middle, once 🍌🍞 is starting to turn brown, move tray to bottom, when it turned into your desire colour, cover the top with aluminium foil. (Me: move to bottom after 30mins, cover with foil after 15min)"
-- "Cool it in the tin for 20 mins. Take out &amp; cool completely."
+- "Cool it in the tin for 20 mins. Take out & cool completely."
 categories:
 - Recipe
 tags:
@@ -78,13 +78,13 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 ##### Instructions to make Banana Bread:
 
-1. Preheat over at 160° &amp; line in baking paper on 2L loaf pan.
+1. Preheat over at 160° & line in baking paper on 2L loaf pan.
 1. Whisk 🍌, sugar, butter until well-blended.
-1. Whisk in egg &amp; vanilla extract
-1. Add in sifted flour, baking soda &amp; salt. Using a spatula, using cutting and scrape motion to stir till well blended. Stir in chocolate chips.
-1. Pour batter into loaf pan, knock out some air. Bake for about 1 hour &amp; 15 minutes（看著辦）until a tester inserted in the centre &amp; come out clean.
+1. Whisk in egg & vanilla extract
+1. Add in sifted flour, baking soda & salt. Using a spatula, using cutting and scrape motion to stir till well blended. Stir in chocolate chips.
+1. Pour batter into loaf pan, knock out some air. Bake for about 1 hour & 15 minutes（看著辦）until a tester inserted in the centre & come out clean.
 1. Put the tray into the middle, once 🍌🍞 is starting to turn brown, move tray to bottom, when it turned into your desire colour, cover the top with aluminium foil. (Me: move to bottom after 30mins, cover with foil after 15min)
-1. Cool it in the tin for 20 mins. Take out &amp; cool completely.
+1. Cool it in the tin for 20 mins. Take out & cool completely.
 
 
 

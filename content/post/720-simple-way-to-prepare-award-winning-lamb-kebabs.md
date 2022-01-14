@@ -25,7 +25,7 @@ recipeingredient:
 - "2 tablespoons ginger and garlic paste"
 - "cubes Seasoning"
 recipeinstructions:
-- "In a bowl,stir together vegetable oil,all spices,seasoning&amp; salt,brown sugar and lemon juice."
+- "In a bowl,stir together vegetable oil,all spices,seasoning& salt,brown sugar and lemon juice."
 - "Add lamb in a plastic bag and pour over marinade and mix everything together.Marinate for an hour in the fridge."
 - "Soak skewers in warm water for few minutes before assembling lamb chunks and vegetables on skewer."
 - "Grill kebabs."
@@ -83,7 +83,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 ##### Steps to make Lamb kebabs:
 
-1. In a bowl,stir together vegetable oil,all spices,seasoning&amp; salt,brown sugar and lemon juice.
+1. In a bowl,stir together vegetable oil,all spices,seasoning& salt,brown sugar and lemon juice.
 1. Add lamb in a plastic bag and pour over marinade and mix everything together.Marinate for an hour in the fridge.
 1. Soak skewers in warm water for few minutes before assembling lamb chunks and vegetables on skewer.
 1. Grill kebabs.

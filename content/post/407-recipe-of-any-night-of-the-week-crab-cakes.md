@@ -69,7 +69,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 1. Take 1 tsp Dijon Mustard
 1. Get 1/2 tsp Old Bay Seasoning
 1. Take 1/2 tsp Granulated Garlic
-1. Prepare 1 Salt &amp; Pepper to taste
+1. Prepare 1 Salt & Pepper to taste
 1. Take 1 Oil, as needed
 
 

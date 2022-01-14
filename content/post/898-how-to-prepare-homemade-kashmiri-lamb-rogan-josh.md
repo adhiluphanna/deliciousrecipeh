@@ -28,13 +28,13 @@ recipeingredient:
 - "To taste Salt"
 recipeinstructions:
 - "Wash the Lamb thoroughly in a colander under running water.  Shake off the excess water.  Set aside."
-- "Combine the Yogurt, freshly Ground Ginger, Ginger Powder, Fennel Powder, Green Cardamom Powder, Kashmiri Mirch Powder, Degi Mirch Powder, Ratan Jot Powder &amp; the Salt in a medium bowl.  Whisk well &amp; set aside."
+- "Combine the Yogurt, freshly Ground Ginger, Ginger Powder, Fennel Powder, Green Cardamom Powder, Kashmiri Mirch Powder, Degi Mirch Powder, Ratan Jot Powder & the Salt in a medium bowl.  Whisk well & set aside."
 - "Smoke the Mustard Oil in a Pressure Cooker on high heat. Reduce heat to low."
-- "Tip in all the whole spices: Cinnamon Sticks, Bay Leaves, Cumin Seeds &amp; the Cloves."
-- "Let them crackle &amp; release their aroma.  Add the Asafoetida. Stir."
+- "Tip in all the whole spices: Cinnamon Sticks, Bay Leaves, Cumin Seeds & the Cloves."
+- "Let them crackle & release their aroma.  Add the Asafoetida. Stir."
 - "Now goes in the Lamb.  Sear over high heat for 15-20 minutes or until the Lamb changes colour to brown."
 - "Reduce heat to low. Add the Yogurt mixture.  Cook over medium to high heat for about 5-6 minutes. The oil begins to separate at this stage."
-- "Pour a cup of hot water.  Cover &amp; Pressure Cook on high for 20 minutes or until the Lamb is well cooked &amp; tender."
+- "Pour a cup of hot water.  Cover & Pressure Cook on high for 20 minutes or until the Lamb is well cooked & tender."
 - "Adjust seasoning. Add more hot water if you like more gravy. *Dries up slightly as it cools down."
 - "Serve hot with Rice/Naan/Parantha."
 - "Bon Appètit❣️"
@@ -100,13 +100,13 @@ To get started with this particular recipe, we have to first prepare a few ingre
 ##### Steps to make Kashmiri Lamb Rogan Josh:
 
 1. Wash the Lamb thoroughly in a colander under running water.  - Shake off the excess water.  - Set aside.
-1. Combine the Yogurt, freshly Ground Ginger, Ginger Powder, Fennel Powder, Green Cardamom Powder, Kashmiri Mirch Powder, Degi Mirch Powder, Ratan Jot Powder &amp; the Salt in a medium bowl.  - Whisk well &amp; set aside.
+1. Combine the Yogurt, freshly Ground Ginger, Ginger Powder, Fennel Powder, Green Cardamom Powder, Kashmiri Mirch Powder, Degi Mirch Powder, Ratan Jot Powder & the Salt in a medium bowl.  - Whisk well & set aside.
 1. Smoke the Mustard Oil in a Pressure Cooker on high heat. Reduce heat to low.
-1. Tip in all the whole spices: Cinnamon Sticks, Bay Leaves, Cumin Seeds &amp; the Cloves.
-1. Let them crackle &amp; release their aroma.  - Add the Asafoetida. Stir.
+1. Tip in all the whole spices: Cinnamon Sticks, Bay Leaves, Cumin Seeds & the Cloves.
+1. Let them crackle & release their aroma.  - Add the Asafoetida. Stir.
 1. Now goes in the Lamb.  - Sear over high heat for 15-20 minutes or until the Lamb changes colour to brown.
 1. Reduce heat to low. - Add the Yogurt mixture.  - Cook over medium to high heat for about 5-6 minutes. The oil begins to separate at this stage.
-1. Pour a cup of hot water.  - Cover &amp; Pressure Cook on high for 20 minutes or until the Lamb is well cooked &amp; tender.
+1. Pour a cup of hot water.  - Cover & Pressure Cook on high for 20 minutes or until the Lamb is well cooked & tender.
 1. Adjust seasoning. Add more hot water if you like more gravy. *Dries up slightly as it cools down.
 1. Serve hot with Rice/Naan/Parantha.
 1. Bon Appètit❣️

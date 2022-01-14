@@ -49,20 +49,20 @@ recipecategory: Lunch
 ---
 
 
-![Lamb Neck &amp; Kidney Pie](https://img-global.cpcdn.com/recipes/7f13c31716dc6a9b/751x532cq70/lamb-neck-kidney-pie-recipe-main-photo.jpg)
+![Lamb Neck & Kidney Pie](https://img-global.cpcdn.com/recipes/7f13c31716dc6a9b/751x532cq70/lamb-neck-kidney-pie-recipe-main-photo.jpg)
 
-Hey everyone, it's me again, Dan, welcome to my recipe page. Today, we're going to prepare a distinctive dish, lamb neck &amp; kidney pie. One of my favorites. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
-
-
-
-Lamb Neck &amp; Kidney Pie is one of the most favored of recent trending meals on earth. It's easy, it's fast, it tastes delicious. It is enjoyed by millions daily. Lamb Neck &amp; Kidney Pie is something which I've loved my whole life. They're fine and they look wonderful.
+Hey everyone, it's me again, Dan, welcome to my recipe page. Today, we're going to prepare a distinctive dish, lamb neck & kidney pie. One of my favorites. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
 
 
-To begin with this recipe, we have to prepare a few ingredients. You can have lamb neck &amp; kidney pie using 11 ingredients and 9 steps. Here is how you can achieve that.
+
+Lamb Neck & Kidney Pie is one of the most favored of recent trending meals on earth. It's easy, it's fast, it tastes delicious. It is enjoyed by millions daily. Lamb Neck & Kidney Pie is something which I've loved my whole life. They're fine and they look wonderful.
+
+
+To begin with this recipe, we have to prepare a few ingredients. You can have lamb neck & kidney pie using 11 ingredients and 9 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Lamb Neck &amp; Kidney Pie:
+##### The ingredients needed to make Lamb Neck & Kidney Pie:
 
 1. Prepare 350 g Ready Rolled Puff Pastry
 1. Take 150 g Lamb Neck
@@ -81,7 +81,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have la
 
 <!--inarticleads2-->
 
-##### Steps to make Lamb Neck &amp; Kidney Pie:
+##### Steps to make Lamb Neck & Kidney Pie:
 
 1. Heat a wide based pan with a drizzle of vegetable oil over a high heat.
 1. Cut the kidney&#39;s and Lamb neck into chunks and season all the meat generously with salt and pepper.
@@ -96,4 +96,4 @@ To begin with this recipe, we have to prepare a few ingredients. You can have la
 
 
 
-So that is going to wrap this up with this exceptional food lamb neck &amp; kidney pie recipe. Thank you very much for your time. I am sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this exceptional food lamb neck & kidney pie recipe. Thank you very much for your time. I am sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

@@ -20,10 +20,10 @@ recipeingredient:
 - "5 cucumbers"
 - "3-4 sheets gelatine"
 recipeinstructions:
-- "First step, fillet down your trout making sure there is no bones. Vac pack the fillets in a bit of butter (I like to add garlic, lemon, rosemary &amp; thyme) then water bath for a 45 mins at 62 degrees.  Pick down your claw meat and gently squeeze out the excesses liquids, wrapping in cloth with bit of salt to rest."
-- "Now it’s time to make the base of the dish. Blend up the cucumbers &amp; strain them to reduce the liquid (I pass around 4-5 times).  Bloom and melt your gelatine mix together slowly, don’t heat the cucumber juice. Then place the bowls in the fridge and blow torch the tops to remove any bubbles and leave to set."
-- "Pick down your fennel for garnish, now bring some oil up in a pan to a temperature you can just happily put your finger in. Slice up the fennel &amp; add to oil, now blend and pass through a fine cloth in the fridge.  Now, boil your rice up till it’s a fluffy texture then drain the water and add the black olives. Season to taste.  Using a hand blender make the paste as smooth as possible, spread out the paste thin and allow to dry (this is your black olive garnish)."
-- "Use your imagination to create your plate. I picked down the flakes of the trout, shaped the crab &amp; naturally allowed the caviar to form.  Dress up the plate, oil and serve chilled (on ice for best result)."
+- "First step, fillet down your trout making sure there is no bones. Vac pack the fillets in a bit of butter (I like to add garlic, lemon, rosemary & thyme) then water bath for a 45 mins at 62 degrees.  Pick down your claw meat and gently squeeze out the excesses liquids, wrapping in cloth with bit of salt to rest."
+- "Now it’s time to make the base of the dish. Blend up the cucumbers & strain them to reduce the liquid (I pass around 4-5 times).  Bloom and melt your gelatine mix together slowly, don’t heat the cucumber juice. Then place the bowls in the fridge and blow torch the tops to remove any bubbles and leave to set."
+- "Pick down your fennel for garnish, now bring some oil up in a pan to a temperature you can just happily put your finger in. Slice up the fennel & add to oil, now blend and pass through a fine cloth in the fridge.  Now, boil your rice up till it’s a fluffy texture then drain the water and add the black olives. Season to taste.  Using a hand blender make the paste as smooth as possible, spread out the paste thin and allow to dry (this is your black olive garnish)."
+- "Use your imagination to create your plate. I picked down the flakes of the trout, shaped the crab & naturally allowed the caviar to form.  Dress up the plate, oil and serve chilled (on ice for best result)."
 categories:
 - Recipe
 tags:
@@ -63,7 +63,7 @@ To get started with this recipe, we have to first prepare a few components. You 
 1. Prepare Spoon full of salmon caviar
 1. Prepare 1 whole fennel
 1. Prepare Cup rice
-1. Get  Micro herbs &amp; dikon radish (garnish)
+1. Get  Micro herbs & dikon radish (garnish)
 1. Get 5 cucumbers
 1. Make ready 3-4 sheets gelatine
 
@@ -74,10 +74,10 @@ To get started with this recipe, we have to first prepare a few components. You 
 
 ##### Steps to make Wild fresh crab:
 
-1. First step, fillet down your trout making sure there is no bones. Vac pack the fillets in a bit of butter (I like to add garlic, lemon, rosemary &amp; thyme) then water bath for a 45 mins at 62 degrees.  - Pick down your claw meat and gently squeeze out the excesses liquids, wrapping in cloth with bit of salt to rest.
-1. Now it’s time to make the base of the dish. - Blend up the cucumbers &amp; strain them to reduce the liquid (I pass around 4-5 times).  - Bloom and melt your gelatine mix together slowly, don’t heat the cucumber juice. Then place the bowls in the fridge and blow torch the tops to remove any bubbles and leave to set.
-1. Pick down your fennel for garnish, now bring some oil up in a pan to a temperature you can just happily put your finger in. Slice up the fennel &amp; add to oil, now blend and pass through a fine cloth in the fridge.  - Now, boil your rice up till it’s a fluffy texture then drain the water and add the black olives. Season to taste.  - Using a hand blender make the paste as smooth as possible, spread out the paste thin and allow to dry (this is your black olive garnish).
-1. Use your imagination to create your plate. - I picked down the flakes of the trout, shaped the crab &amp; naturally allowed the caviar to form.  - Dress up the plate, oil and serve chilled (on ice for best result).
+1. First step, fillet down your trout making sure there is no bones. Vac pack the fillets in a bit of butter (I like to add garlic, lemon, rosemary & thyme) then water bath for a 45 mins at 62 degrees.  - Pick down your claw meat and gently squeeze out the excesses liquids, wrapping in cloth with bit of salt to rest.
+1. Now it’s time to make the base of the dish. - Blend up the cucumbers & strain them to reduce the liquid (I pass around 4-5 times).  - Bloom and melt your gelatine mix together slowly, don’t heat the cucumber juice. Then place the bowls in the fridge and blow torch the tops to remove any bubbles and leave to set.
+1. Pick down your fennel for garnish, now bring some oil up in a pan to a temperature you can just happily put your finger in. Slice up the fennel & add to oil, now blend and pass through a fine cloth in the fridge.  - Now, boil your rice up till it’s a fluffy texture then drain the water and add the black olives. Season to taste.  - Using a hand blender make the paste as smooth as possible, spread out the paste thin and allow to dry (this is your black olive garnish).
+1. Use your imagination to create your plate. - I picked down the flakes of the trout, shaped the crab & naturally allowed the caviar to form.  - Dress up the plate, oil and serve chilled (on ice for best result).
 
 
 

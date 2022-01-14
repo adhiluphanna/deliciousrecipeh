@@ -61,7 +61,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Take 1/2 tsp toasted garlic
 1. Get 1 tsp toasted onion
 1. Make ready 5 limes, the juice of
-1. Prepare To taste salt &amp; pepper
+1. Prepare To taste salt & pepper
 1. Make ready To taste dried parsley
 
 

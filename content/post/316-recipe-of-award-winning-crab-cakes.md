@@ -26,8 +26,8 @@ recipeinstructions:
 - "Add the crab last.  Mix well but try not to break up the crab."
 - "Form 4 crab patty&#39;s.  It will be more wet than dry."
 - "Put in a preheated skillet.  Bake for about 10 minutes than flip."
-- "Garnish with lemon aioli &amp; additional green onions."
-- "Lemon aioli:  mayo, lemon juice &amp; EVOO.  Equal parts mayo &amp; EVOO.  Add lemon juice to taste &amp; season with salt &amp; pepper."
+- "Garnish with lemon aioli & additional green onions."
+- "Lemon aioli:  mayo, lemon juice & EVOO.  Equal parts mayo & EVOO.  Add lemon juice to taste & season with salt & pepper."
 categories:
 - Recipe
 tags:
@@ -65,7 +65,7 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Get 2 tbsp panko bread crumbs
 1. Take 2 tbsp italian bread crumbs
 1. Take dash dried dill
-1. Prepare pinch salt &amp; pepper
+1. Prepare pinch salt & pepper
 1. Get pinch cayenne pepper
 1. Take 1 large egg
 1. Get 1 tbsp regular mayo
@@ -83,8 +83,8 @@ To get started with this particular recipe, we must first prepare a few ingredie
 1. Add the crab last.  Mix well but try not to break up the crab.
 1. Form 4 crab patty&#39;s.  It will be more wet than dry.
 1. Put in a preheated skillet.  Bake for about 10 minutes than flip.
-1. Garnish with lemon aioli &amp; additional green onions.
-1. Lemon aioli:  mayo, lemon juice &amp; EVOO.  Equal parts mayo &amp; EVOO.  Add lemon juice to taste &amp; season with salt &amp; pepper.
+1. Garnish with lemon aioli & additional green onions.
+1. Lemon aioli:  mayo, lemon juice & EVOO.  Equal parts mayo & EVOO.  Add lemon juice to taste & season with salt & pepper.
 
 
 

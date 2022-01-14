@@ -71,8 +71,8 @@ To begin with this particular recipe, we have to prepare a few components. You c
 1. Prepare 2 Tbsp. relish
 1. Prepare 1 onion, diced
 1. Make ready 1 Tbsp. Worcestershire sauce
-1. Make ready  Seasonings to taste: garlic powder, pepper &amp; parsley
-1. Make ready  For topping: 1/2 pound bacon, diced &amp; 1 cup cheddar cheese
+1. Make ready  Seasonings to taste: garlic powder, pepper & parsley
+1. Make ready  For topping: 1/2 pound bacon, diced & 1 cup cheddar cheese
 
 
 Recipe: Bacon Cheeseburger Meatball Bites with Burger Sauce. These Mini Bacon Cheeseburger Bites are perfect for your next game day party, neighborhood soiree or kid sleepover!! They are so easy and absolutely delectable. Not in the mood for an entire burger? 

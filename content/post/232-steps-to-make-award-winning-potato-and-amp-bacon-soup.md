@@ -57,24 +57,24 @@ recipecategory: Lunch
 ---
 
 
-![Potato &amp; Bacon Soup](https://img-global.cpcdn.com/recipes/333d7b985ec85132/751x532cq70/potato-bacon-soup-recipe-main-photo.jpg)
+![Potato & Bacon Soup](https://img-global.cpcdn.com/recipes/333d7b985ec85132/751x532cq70/potato-bacon-soup-recipe-main-photo.jpg)
 
-Hey everyone, it is Louise, welcome to our recipe site. Today, I will show you a way to prepare a special dish, potato &amp; bacon soup. One of my favorites. This time, I am going to make it a little bit tasty. This is gonna smell and look delicious.
+Hey everyone, it is Louise, welcome to our recipe site. Today, I will show you a way to prepare a special dish, potato & bacon soup. One of my favorites. This time, I am going to make it a little bit tasty. This is gonna smell and look delicious.
 
 The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum, and the plant itself is a perennial in the nightshade family, Solanaceae. Перевод слова potato, американское и британское произношение, транскрипция, словосочетания, однокоренные слова, примеры использования. Potato is an instant messaging tool focused on security. It is faster, safer, more open and completely free.
 
-Potato &amp; Bacon Soup is one of the most well liked of recent trending meals in the world. It's appreciated by millions every day. It is easy, it is fast, it tastes delicious. They are nice and they look fantastic. Potato &amp; Bacon Soup is something which I've loved my whole life.
+Potato & Bacon Soup is one of the most well liked of recent trending meals in the world. It's appreciated by millions every day. It is easy, it is fast, it tastes delicious. They are nice and they look fantastic. Potato & Bacon Soup is something which I've loved my whole life.
 
 
-To begin with this recipe, we have to prepare a few ingredients. You can have potato &amp; bacon soup using 13 ingredients and 15 steps. Here is how you cook it.
+To begin with this recipe, we have to prepare a few ingredients. You can have potato & bacon soup using 13 ingredients and 15 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Potato &amp; Bacon Soup:
+##### The ingredients needed to make Potato & Bacon Soup:
 
-1. Take 2 lb Idaho potatoes; peeled &amp; medium dice
+1. Take 2 lb Idaho potatoes; peeled & medium dice
 1. Take 1 lb bacon; small dice
-1. Prepare 1 carrot; peeled &amp; medium dice
+1. Prepare 1 carrot; peeled & medium dice
 1. Take 1 white onion; medium dice
 1. Take 1 stalk celery; medium dice
 1. Prepare 4 garlic cloves; creamed
@@ -83,7 +83,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can have po
 1. Make ready 2 bay leaves
 1. Make ready 1 C heavy cream
 1. Take 1/2 C grated parmigiano reggiano
-1. Prepare as needed kosher salt &amp; black pepper
+1. Prepare as needed kosher salt & black pepper
 1. Make ready as needed sour cream
 
 
@@ -91,7 +91,7 @@ A perennial plant in the nightshade family that was first cultivated in. Borrowe
 
 <!--inarticleads2-->
 
-##### Steps to make Potato &amp; Bacon Soup:
+##### Steps to make Potato & Bacon Soup:
 
 1. Place chicken stock and bay leaves in a seperate saucepot. Bring to a boil. Reduce by 1/3.
 1. Slowly render bacon fat on medium-low heat until bacon is crispy. Remove bacon with a slotted spoon and pat dry between paper towels. Reserve.
@@ -112,4 +112,4 @@ A perennial plant in the nightshade family that was first cultivated in. Borrowe
 
 In the region of the Andes, there are some other closely related cultivated potato species. A word used by some people to describe themselves in a humorous way. Generally used by girls with low self-esteem who think they aren&#39;t attractive and/or cute enough to make guys, especially. Potato definition: Potatoes are quite round vegetables with brown or red skins and white insides. Potato, annual plant in the nightshade family, grown for its starchy edible tubers. 
 
-So that's going to wrap this up for this exceptional food potato &amp; bacon soup recipe. Thank you very much for reading. I'm confident you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that's going to wrap this up for this exceptional food potato & bacon soup recipe. Thank you very much for reading. I'm confident you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

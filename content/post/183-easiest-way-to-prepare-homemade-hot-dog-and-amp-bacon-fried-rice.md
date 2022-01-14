@@ -46,20 +46,20 @@ recipecategory: Lunch
 ---
 
 
-![Hot Dog &amp; Bacon Fried Rice](https://img-global.cpcdn.com/recipes/3dab455d7b037b7a/751x532cq70/hot-dog-bacon-fried-rice-recipe-main-photo.jpg)
+![Hot Dog & Bacon Fried Rice](https://img-global.cpcdn.com/recipes/3dab455d7b037b7a/751x532cq70/hot-dog-bacon-fried-rice-recipe-main-photo.jpg)
 
-Hello everybody, it is Drew, welcome to our recipe site. Today, I'm gonna show you how to make a special dish, hot dog &amp; bacon fried rice. It is one of my favorites food recipes. For mine, I'm gonna make it a little bit tasty. This will be really delicious.
+Hello everybody, it is Drew, welcome to our recipe site. Today, I'm gonna show you how to make a special dish, hot dog & bacon fried rice. It is one of my favorites food recipes. For mine, I'm gonna make it a little bit tasty. This will be really delicious.
 
 A hot dog (also spelled hotdog) is a grilled or steamed food consisting of a sausage served in the slit of a partially sliced bun.
 
-Hot Dog &amp; Bacon Fried Rice is one of the most popular of current trending meals in the world. It's simple, it is quick, it tastes yummy. It is enjoyed by millions every day. They're fine and they look wonderful. Hot Dog &amp; Bacon Fried Rice is something which I have loved my entire life.
+Hot Dog & Bacon Fried Rice is one of the most popular of current trending meals in the world. It's simple, it is quick, it tastes yummy. It is enjoyed by millions every day. They're fine and they look wonderful. Hot Dog & Bacon Fried Rice is something which I have loved my entire life.
 
 
-To begin with this particular recipe, we have to prepare a few ingredients. You can have hot dog &amp; bacon fried rice using 9 ingredients and 8 steps. Here is how you cook that.
+To begin with this particular recipe, we have to prepare a few ingredients. You can have hot dog & bacon fried rice using 9 ingredients and 8 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Hot Dog &amp; Bacon Fried Rice:
+##### The ingredients needed to make Hot Dog & Bacon Fried Rice:
 
 1. Take 6 strips bacon, cut into 1/2-inch pieces
 1. Prepare 1/2 onion, minced
@@ -76,7 +76,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 
 <!--inarticleads2-->
 
-##### Steps to make Hot Dog &amp; Bacon Fried Rice:
+##### Steps to make Hot Dog & Bacon Fried Rice:
 
 1. Preheat large nonstick pan or wok to medium high and render bacon until the fat becomes translucent.
 1. Add onion and garlic and saute until onions become translucent.
@@ -90,4 +90,4 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 
 
 
-So that is going to wrap it up for this special food hot dog &amp; bacon fried rice recipe. Thanks so much for reading. I am confident you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!
+So that is going to wrap it up for this special food hot dog & bacon fried rice recipe. Thanks so much for reading. I am confident you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

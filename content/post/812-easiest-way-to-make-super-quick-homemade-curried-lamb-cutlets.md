@@ -22,7 +22,7 @@ recipeingredient:
 - "Half juice of lemon"
 recipeinstructions:
 - "Trim the lamb cutlets to size! Or ask your butcher."
-- "Next throw the add the ginger, garlic &amp; coriander into a blender."
+- "Next throw the add the ginger, garlic & coriander into a blender."
 - "Add the lemon juice, salt and spices to the mix then...."
 - "Blitz..."
 - "Lay the cutlets on tin foil and brush on the marinade! Leave to rest for as long as possible."
@@ -80,7 +80,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 ##### Instructions to make Curried Lamb Cutlets:
 
 1. Trim the lamb cutlets to size! Or ask your butcher.
-1. Next throw the add the ginger, garlic &amp; coriander into a blender.
+1. Next throw the add the ginger, garlic & coriander into a blender.
 1. Add the lemon juice, salt and spices to the mix then....
 1. Blitz...
 1. Lay the cutlets on tin foil and brush on the marinade! Leave to rest for as long as possible.

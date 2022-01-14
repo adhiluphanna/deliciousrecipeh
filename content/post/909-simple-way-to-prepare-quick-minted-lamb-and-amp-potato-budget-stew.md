@@ -44,20 +44,20 @@ recipecategory: Lunch
 ---
 
 
-![Minted Lamb &amp; Potato Budget Stew](https://img-global.cpcdn.com/recipes/0507d88dbe8458e5/751x532cq70/minted-lamb-potato-budget-stew-recipe-main-photo.jpg)
+![Minted Lamb & Potato Budget Stew](https://img-global.cpcdn.com/recipes/0507d88dbe8458e5/751x532cq70/minted-lamb-potato-budget-stew-recipe-main-photo.jpg)
 
-Hey everyone, I hope you are having an incredible day today. Today, I'm gonna show you how to prepare a special dish, minted lamb &amp; potato budget stew. It is one of my favorites. This time, I'm gonna make it a bit unique. This will be really delicious.
+Hey everyone, I hope you are having an incredible day today. Today, I'm gonna show you how to prepare a special dish, minted lamb & potato budget stew. It is one of my favorites. This time, I'm gonna make it a bit unique. This will be really delicious.
 
-Minted Lamb &amp; Potato Budget Stew is one of the most popular of recent trending meals in the world. It is enjoyed by millions daily. It's easy, it's quick, it tastes yummy. Minted Lamb &amp; Potato Budget Stew is something that I've loved my whole life. They're nice and they look wonderful.
-
-
+Minted Lamb & Potato Budget Stew is one of the most popular of recent trending meals in the world. It is enjoyed by millions daily. It's easy, it's quick, it tastes yummy. Minted Lamb & Potato Budget Stew is something that I've loved my whole life. They're nice and they look wonderful.
 
 
-To begin with this particular recipe, we have to first prepare a few components. You can have minted lamb &amp; potato budget stew using 9 ingredients and 6 steps. Here is how you cook it.
+
+
+To begin with this particular recipe, we have to first prepare a few components. You can have minted lamb & potato budget stew using 9 ingredients and 6 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Minted Lamb &amp; Potato Budget Stew:
+##### The ingredients needed to make Minted Lamb & Potato Budget Stew:
 
 1. Prepare 4 lamb leg steaks
 1. Make ready 3 large waxy red potatoes
@@ -74,7 +74,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 <!--inarticleads2-->
 
-##### Instructions to make Minted Lamb &amp; Potato Budget Stew:
+##### Instructions to make Minted Lamb & Potato Budget Stew:
 
 1. Prep the veg by peeling and finely dicing the onions, and peeling the potatoes and cutting into chunks.
 1. Trim the visible fat from the lamb steaks and cut them into chunks. Sprinkle the corn flour over the lamb chunks and season them with salt and pepper.
@@ -86,4 +86,4 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 
 
-So that's going to wrap it up with this special food minted lamb &amp; potato budget stew recipe. Thank you very much for your time. I'm sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap it up with this special food minted lamb & potato budget stew recipe. Thank you very much for your time. I'm sure that you will make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

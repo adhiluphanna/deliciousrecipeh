@@ -36,7 +36,7 @@ recipeinstructions:
 - "Fry meat in hot pan it already has oil on it.Fry chopped onions if you like them or leave them raw."
 - "Lightly oil pita bread.Fry till golden only takes a few mins so watch carefully."
 - "As pita is cooked get out of pan roll into cone shape carefully using paper towels."
-- "Fill with alternate layers of meat &amp; tomatoe plus onion.And the Tzatziki sauce.Also with chopped lettuce."
+- "Fill with alternate layers of meat & tomatoe plus onion.And the Tzatziki sauce.Also with chopped lettuce."
 - "I love lemon so sometimes squeeze that over the finished souvlaki.Also for those who have home made tomatoe sauce some of that can go on."
 - "When I made chicken souvlakis I added homemade plum sauce a friend had given me as well."
 - "You can also add fresh chopped tomatoe to it."
@@ -107,7 +107,7 @@ To begin with this recipe, we must first prepare a few components. You can cook 
 1. Fry meat in hot pan it already has oil on it.Fry chopped onions if you like them or leave them raw.
 1. Lightly oil pita bread.Fry till golden only takes a few mins so watch carefully.
 1. As pita is cooked get out of pan roll into cone shape carefully using paper towels.
-1. Fill with alternate layers of meat &amp; tomatoe plus onion.And the Tzatziki sauce.Also with chopped lettuce.
+1. Fill with alternate layers of meat & tomatoe plus onion.And the Tzatziki sauce.Also with chopped lettuce.
 1. I love lemon so sometimes squeeze that over the finished souvlaki.Also for those who have home made tomatoe sauce some of that can go on.
 1. When I made chicken souvlakis I added homemade plum sauce a friend had given me as well.
 1. You can also add fresh chopped tomatoe to it.

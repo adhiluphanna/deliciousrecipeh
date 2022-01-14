@@ -62,7 +62,7 @@ To get started with this recipe, we must prepare a few components. You can have 
 1. Prepare 3 cups bow-tie pasta, uncooked
 1. Take 2/3 cup cheddar cheese crumbles
 1. Take 6 slices cooked bacon, diced
-1. Prepare 2-3 small tomatoes, seeded &amp; diced
+1. Prepare 2-3 small tomatoes, seeded & diced
 1. Make ready 2/3 cup fresh broccoli, chopped
 1. Get 2/3 cup red onions, diced
 1. Make ready 1/3 cup black olives

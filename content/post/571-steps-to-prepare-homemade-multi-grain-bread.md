@@ -14,7 +14,7 @@ recipeingredient:
 - "2 tsp Salt"
 - "1 tsp Honey"
 - "7 gms Active dry yeast"
-- "1&amp;1/2 cup Warm water"
+- "1&1/2 cup Warm water"
 - "1 cup Pumpkin seed sunflower seeds flax seed altogether"
 recipeinstructions:
 - "Take a large bowl, add flour, salt, honey, yeast."
@@ -61,7 +61,7 @@ To begin with this particular recipe, we must first prepare a few components. Yo
 1. Make ready 2 tsp Salt
 1. Take 1 tsp Honey
 1. Get 7 gms Active dry yeast
-1. Take 1&amp;1/2 cup Warm water
+1. Take 1&1/2 cup Warm water
 1. Take 1 cup Pumpkin seed, sunflower seeds, flax seed, (altogether)
 
 

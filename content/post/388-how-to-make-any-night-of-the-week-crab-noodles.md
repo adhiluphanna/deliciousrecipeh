@@ -20,7 +20,7 @@ recipeingredient:
 - " Dried oregano"
 recipeinstructions:
 - "Boil the crab,peas,corn for 5 mins, take them out and put the noodles in the boiling water and leave them for 10 mins."
-- "In a pan add a spoon of olive oil and toss all the ingredients and stir (cut the crab sticks into small pieces). Add the curcumin and dried oregano with salt&amp;pepper."
+- "In a pan add a spoon of olive oil and toss all the ingredients and stir (cut the crab sticks into small pieces). Add the curcumin and dried oregano with salt&pepper."
 - "Remove the water from the noodles and put inside the crab with the vegetables and mix. Its ready to serve, so quick and easy. Enjoy!"
 categories:
 - Recipe
@@ -57,7 +57,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Prepare 100 g noodles
 1. Take  Peppers (red,yellow,green)
 1. Make ready  Corn
-1. Make ready  Salt&amp;pepper
+1. Make ready  Salt&pepper
 1. Make ready  Curcumin
 1. Take sticks Crab
 1. Make ready  Peas
@@ -71,7 +71,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 ##### Steps to make Crab noodles🦀:
 
 1. Boil the crab,peas,corn for 5 mins, take them out and put the noodles in the boiling water and leave them for 10 mins.
-1. In a pan add a spoon of olive oil and toss all the ingredients and stir (cut the crab sticks into small pieces). Add the curcumin and dried oregano with salt&amp;pepper.
+1. In a pan add a spoon of olive oil and toss all the ingredients and stir (cut the crab sticks into small pieces). Add the curcumin and dried oregano with salt&pepper.
 1. Remove the water from the noodles and put inside the crab with the vegetables and mix. Its ready to serve, so quick and easy. Enjoy!
 
 

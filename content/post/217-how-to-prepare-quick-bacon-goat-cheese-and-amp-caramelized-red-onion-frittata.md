@@ -47,20 +47,20 @@ recipecategory: Dinner
 ---
 
 
-![Bacon, Goat Cheese, &amp; Caramelized Red Onion Frittata](https://img-global.cpcdn.com/recipes/0ebfc08d6a0453e1/751x532cq70/bacon-goat-cheese-caramelized-red-onion-frittata-recipe-main-photo.jpg)
+![Bacon, Goat Cheese, & Caramelized Red Onion Frittata](https://img-global.cpcdn.com/recipes/0ebfc08d6a0453e1/751x532cq70/bacon-goat-cheese-caramelized-red-onion-frittata-recipe-main-photo.jpg)
 
-Hello everybody, it's Louise, welcome to our recipe page. Today, I will show you a way to prepare a special dish, bacon, goat cheese, &amp; caramelized red onion frittata. One of my favorites food recipes. This time, I will make it a bit tasty. This is gonna smell and look delicious.
+Hello everybody, it's Louise, welcome to our recipe page. Today, I will show you a way to prepare a special dish, bacon, goat cheese, & caramelized red onion frittata. One of my favorites food recipes. This time, I will make it a bit tasty. This is gonna smell and look delicious.
 
 The soft, melty goat cheese instead the warm, plumped up date (how much do you like it when I say plumped up date? mixed feelings here) wrapped in the little bite-sized pieces of bacon was the. This fritatta recipe fuses a range of flavours. A great alternative to your average omelette.
 
-Bacon, Goat Cheese, &amp; Caramelized Red Onion Frittata is one of the most favored of recent trending meals on earth. It is enjoyed by millions every day. It's easy, it is quick, it tastes yummy. They are fine and they look fantastic. Bacon, Goat Cheese, &amp; Caramelized Red Onion Frittata is something which I've loved my entire life.
+Bacon, Goat Cheese, & Caramelized Red Onion Frittata is one of the most favored of recent trending meals on earth. It is enjoyed by millions every day. It's easy, it is quick, it tastes yummy. They are fine and they look fantastic. Bacon, Goat Cheese, & Caramelized Red Onion Frittata is something which I've loved my entire life.
 
 
-To get started with this particular recipe, we have to first prepare a few components. You can have bacon, goat cheese, &amp; caramelized red onion frittata using 8 ingredients and 10 steps. Here is how you can achieve it.
+To get started with this particular recipe, we have to first prepare a few components. You can have bacon, goat cheese, & caramelized red onion frittata using 8 ingredients and 10 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Bacon, Goat Cheese, &amp; Caramelized Red Onion Frittata:
+##### The ingredients needed to make Bacon, Goat Cheese, & Caramelized Red Onion Frittata:
 
 1. Prepare 8 eggs
 1. Make ready 1 small red onion; small dice
@@ -68,7 +68,7 @@ To get started with this particular recipe, we have to first prepare a few compo
 1. Get 2 oz honey goat cheese
 1. Prepare 1/4 C milk
 1. Get 1 pinch crushed pepper flakes
-1. Get as needed kosher salt &amp; black pepper
+1. Get as needed kosher salt & black pepper
 1. Take 1 clove garlic; creamed
 
 
@@ -76,7 +76,7 @@ I&#39;ve made these goat cheese lollipops for many.. Goat Cheese, Pepper And Bac
 
 <!--inarticleads2-->
 
-##### Instructions to make Bacon, Goat Cheese, &amp; Caramelized Red Onion Frittata:
+##### Instructions to make Bacon, Goat Cheese, & Caramelized Red Onion Frittata:
 
 1. Preheat oven to 400º
 1. Lay bacon on a sheet tray lined with parchment paper. Bake for approximately 15 minutes or until bacon is crispy. Pat bacon dry between paper towels. Cut into a small dice and set aside.
@@ -92,4 +92,4 @@ I&#39;ve made these goat cheese lollipops for many.. Goat Cheese, Pepper And Bac
 
 Fill the date with enough goat cheese to fill it up without too much spilling out (about a teaspoon, depending on the size of your. We rolled basil-infused cream cheese and goat cheese balls in a crispy bacon and pecan mixture to create our easy and delicious appetizer pops. Salty bacon, rich goat cheese, savory-sweet jelly, and roasted jalapeño--it takes teamwork to make the dream work. If you already have the grill going, these dreamy little bites are equally easy to cook. Atkins welcomes you to try our delicious Bacon and Goat Cheese Salad recipe for a low carb lifestyle. 
 
-So that's going to wrap this up with this special food bacon, goat cheese, &amp; caramelized red onion frittata recipe. Thanks so much for reading. I am sure that you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap this up with this special food bacon, goat cheese, & caramelized red onion frittata recipe. Thanks so much for reading. I am sure that you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

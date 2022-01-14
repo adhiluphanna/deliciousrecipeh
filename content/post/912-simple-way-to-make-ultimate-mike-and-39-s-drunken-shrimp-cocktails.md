@@ -89,7 +89,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 
 1. Take  ● For The Seafood
 1. Take 60 Count Medium Presteamed Frozen Shrimp
-1. Make ready  ● For The Vegetables &amp; Fruits [all extra firm &amp; fine minced]
+1. Make ready  ● For The Vegetables & Fruits [all extra firm & fine minced]
 1. Prepare  ■ Note: Deseed all peppers, cucumber and tomato
 1. Make ready 1 Cup Green Bell Pepper
 1. Make ready 1 Cup Red Bell Pepper

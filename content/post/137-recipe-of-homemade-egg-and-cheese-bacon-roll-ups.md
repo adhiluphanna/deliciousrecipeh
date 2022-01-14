@@ -80,6 +80,6 @@ Reviews for: Photos of Bacon, Egg, and Cheese Breakfast Bombs. Add this to your 
 1. Return skillet to heat and add bacon roll-ups seam-side down. Cook until crispy on all sides, then transfer to a paper towel-lined plate to drain fat. Serve.
 
 
-Pour the egg mixture into the skillet, then top with spinach, onion, bacon, and cheese. Sprinkle with a pinch of salt and pepper. Gently fold up one corner, and roll into a log. Bacon, Egg &amp; Cheese Rollups: crispy bacon, creamy scrambled eggs &amp; sharp cheddar cheese are baked in a buttery crescent to make the best handheld breakfast! That doesn&#39;t happen too often around here! 
+Pour the egg mixture into the skillet, then top with spinach, onion, bacon, and cheese. Sprinkle with a pinch of salt and pepper. Gently fold up one corner, and roll into a log. Bacon, Egg & Cheese Rollups: crispy bacon, creamy scrambled eggs & sharp cheddar cheese are baked in a buttery crescent to make the best handheld breakfast! That doesn&#39;t happen too often around here! 
 
 So that's going to wrap this up with this exceptional food egg and cheese bacon roll ups recipe. Thanks so much for your time. I am sure you will make this at home. There is gonna be more interesting food at home recipes coming up. Remember to save this page on your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

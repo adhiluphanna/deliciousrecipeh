@@ -72,23 +72,23 @@ recipecategory: Dessert
 ---
 
 
-![Mike&#39;s New Orleans Lobster, Shrimp &amp; Crab Meat Po Boys](https://img-global.cpcdn.com/recipes/2ae1c1a0c9df567d/751x532cq70/mikes-new-orleans-lobster-shrimp-crab-meat-po-boys-recipe-main-photo.jpg)
+![Mike&#39;s New Orleans Lobster, Shrimp & Crab Meat Po Boys](https://img-global.cpcdn.com/recipes/2ae1c1a0c9df567d/751x532cq70/mikes-new-orleans-lobster-shrimp-crab-meat-po-boys-recipe-main-photo.jpg)
 
-Hey everyone, hope you are having an amazing day today. Today, we're going to prepare a distinctive dish, mike&#39;s new orleans lobster, shrimp &amp; crab meat po boys. One of my favorites food recipes. This time, I am going to make it a little bit unique. This will be really delicious.
+Hey everyone, hope you are having an amazing day today. Today, we're going to prepare a distinctive dish, mike&#39;s new orleans lobster, shrimp & crab meat po boys. One of my favorites food recipes. This time, I am going to make it a little bit unique. This will be really delicious.
 
-Mike&#39;s New Orleans Lobster, Shrimp &amp; Crab Meat Po Boys is one of the most well liked of current trending meals in the world. It's enjoyed by millions daily. It's simple, it is fast, it tastes delicious. They're fine and they look fantastic. Mike&#39;s New Orleans Lobster, Shrimp &amp; Crab Meat Po Boys is something that I have loved my whole life.
-
-
+Mike&#39;s New Orleans Lobster, Shrimp & Crab Meat Po Boys is one of the most well liked of current trending meals in the world. It's enjoyed by millions daily. It's simple, it is fast, it tastes delicious. They're fine and they look fantastic. Mike&#39;s New Orleans Lobster, Shrimp & Crab Meat Po Boys is something that I have loved my whole life.
 
 
-To begin with this recipe, we must prepare a few components. You can cook mike&#39;s new orleans lobster, shrimp &amp; crab meat po boys using 27 ingredients and 16 steps. Here is how you cook that.
+
+
+To begin with this recipe, we must prepare a few components. You can cook mike&#39;s new orleans lobster, shrimp & crab meat po boys using 27 ingredients and 16 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Mike&#39;s New Orleans Lobster, Shrimp &amp; Crab Meat Po Boys:
+##### The ingredients needed to make Mike&#39;s New Orleans Lobster, Shrimp & Crab Meat Po Boys:
 
 1. Make ready  ● For The Seafood
-1. Take 1 Pound Raw Rock Lobster Tails [steamed &amp; rough chopped]
+1. Take 1 Pound Raw Rock Lobster Tails [steamed & rough chopped]
 1. Prepare 1 lb Pre-steamed Langistino Lobster Tails [rough chopped]
 1. Prepare 1 lb Pre-steamed Jumbo Shrimp [rough chopped]
 1. Prepare 1 Pound Pre-steamed Lump Crab Meat [de-shelled]
@@ -113,14 +113,14 @@ To begin with this recipe, we must prepare a few components. You can cook mike&#
 1. Make ready as needed Fresh Lemon Wedges
 1. Take as needed Fresh Crispy Butter Lettuce Leaves
 1. Prepare as needed Claussens Dill Pickle Halves
-1. Take as needed Salt &amp; Vinegar Chips
+1. Take as needed Salt & Vinegar Chips
 
 
 
 
 <!--inarticleads2-->
 
-##### Steps to make Mike&#39;s New Orleans Lobster, Shrimp &amp; Crab Meat Po Boys:
+##### Steps to make Mike&#39;s New Orleans Lobster, Shrimp & Crab Meat Po Boys:
 
 1. Presteamed Langistino Lobster Tails pictured. Rinse, rough chop and add to a large bowl.
 1. 1 lb raw Rock Lobster pictured. Rinse and set to the side. Prepare to steam them later.
@@ -142,4 +142,4 @@ To begin with this recipe, we must prepare a few components. You can cook mike&#
 
 
 
-So that is going to wrap it up with this special food mike&#39;s new orleans lobster, shrimp &amp; crab meat po boys recipe. Thanks so much for reading. I am sure you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap it up with this special food mike&#39;s new orleans lobster, shrimp & crab meat po boys recipe. Thanks so much for reading. I am sure you can make this at home. There's gonna be interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

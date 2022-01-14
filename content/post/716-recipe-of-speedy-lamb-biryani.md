@@ -50,7 +50,7 @@ recipeinstructions:
 - "Turn the heat of the pan down and add in the yoghurt mixture. Stir together then turn the heat up. Stir-fry until the oil rises to the surface. Then, add in the lamb pieces and stir-fry until the sauce begins to cling to the lamb. Pour in 170ml water and stir. Bring to the boil and then cover. Turn the heat down and cook until the lamb is tender. Ours took around 30-35 minutes"
 - "🌻Assemble the biryani: Uncover the lamb and leave it on a low heat. Place all the rice on top of it. Sprinkle red and yellow food colour arrange all lemon and tomato’s slice spread fried onion and coriander and mint leaves."
 - "🌻Steam the biryani: Cover the pan with a lid and place a heavy object on top. Turn the heat to high for 1 minute then turn to the lowest and leave to steam for 20 minutes."
-- "🌻Serve the biryani: Let the biryani sit off the heat for 10 minutes. Then, gently toss it together. Delicious lamb Biryani is ready serve with Rita &amp; salad.  Enjoy !"
+- "🌻Serve the biryani: Let the biryani sit off the heat for 10 minutes. Then, gently toss it together. Delicious lamb Biryani is ready serve with Rita & salad.  Enjoy !"
 categories:
 - Recipe
 tags:
@@ -110,7 +110,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook la
 1. Take 1 tsp Ground Coriander
 1. Get 500 g Mixed Lamb Pieces, on the bone
 1. Prepare  🌻For assemble the Biryani
-1. Get Pinch Yellow &amp; red Food Colour Powder
+1. Get Pinch Yellow & red Food Colour Powder
 1. Make ready  Few drop Kewra water
 1. Get 1 Lemon, sliced into rounds
 1. Take  Reserved Fried Onions
@@ -130,7 +130,7 @@ To begin with this recipe, we have to prepare a few ingredients. You can cook la
 1. Turn the heat of the pan down and add in the yoghurt mixture. Stir together then turn the heat up. Stir-fry until the oil rises to the surface. Then, add in the lamb pieces and stir-fry until the sauce begins to cling to the lamb. Pour in 170ml water and stir. Bring to the boil and then cover. Turn the heat down and cook until the lamb is tender. Ours took around 30-35 minutes
 1. 🌻Assemble the biryani: - Uncover the lamb and leave it on a low heat. Place all the rice on top of it. Sprinkle red and yellow food colour arrange all lemon and tomato’s slice spread fried onion and coriander and mint leaves.
 1. 🌻Steam the biryani: - Cover the pan with a lid and place a heavy object on top. Turn the heat to high for 1 minute then turn to the lowest and leave to steam for 20 minutes.
-1. 🌻Serve the biryani: - Let the biryani sit off the heat for 10 minutes. Then, gently toss it together. Delicious lamb Biryani is ready serve with Rita &amp; salad.  - Enjoy !
+1. 🌻Serve the biryani: - Let the biryani sit off the heat for 10 minutes. Then, gently toss it together. Delicious lamb Biryani is ready serve with Rita & salad.  - Enjoy !
 
 
 

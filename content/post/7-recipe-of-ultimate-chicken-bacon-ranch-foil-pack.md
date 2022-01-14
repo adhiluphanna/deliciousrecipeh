@@ -20,9 +20,9 @@ recipeingredient:
 - "4 strips cooked  crumbled bacon"
 - " Optional 12 diced onion"
 recipeinstructions:
-- "Preheat oven to 425. In a mixing bowl: mix ranch, butter &amp; salt/pepper. Cut aluminum foil into 4 squares, coat with cooking spray. Place potatoes in a bowl, and coat with 4tbs of ranch mixture, coat evenly. Place chicken on foil, coat with s&amp;p. Divide potatoes evenly betwwen the portions, add onion if desired. Drizzle rest of butter mixture over chicken."
-- "Fold aluminum foil over chicken/potatoes to make a &#34;packet.&#34; Bake for 45 minutes. Open packet &amp; sprinkle cheese &amp; bacon over chicken, cook for 2-4 minutes."
-- "Note: can also be done on a medium high grill for 30 min &amp; 2 min for cheese!"
+- "Preheat oven to 425. In a mixing bowl: mix ranch, butter & salt/pepper. Cut aluminum foil into 4 squares, coat with cooking spray. Place potatoes in a bowl, and coat with 4tbs of ranch mixture, coat evenly. Place chicken on foil, coat with s&p. Divide potatoes evenly betwwen the portions, add onion if desired. Drizzle rest of butter mixture over chicken."
+- "Fold aluminum foil over chicken/potatoes to make a &#34;packet.&#34; Bake for 45 minutes. Open packet & sprinkle cheese & bacon over chicken, cook for 2-4 minutes."
+- "Note: can also be done on a medium high grill for 30 min & 2 min for cheese!"
 categories:
 - Recipe
 tags:
@@ -58,12 +58,12 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 1. Make ready 6 tbs butter- melted
 1. Prepare 2 tbs ranch seasoning powder
-1. Get to taste S&amp;p
+1. Get to taste S&p
 1. Get 4 decent size chicken breasts
 1. Take  About 1 lb of baby red potatoes halved or quatered up to you
 1. Take  Non-stick cooking spray
 1. Take 1-1/2 cup shredded cheddar cheese
-1. Take 4 strips cooked &amp; crumbled bacon
+1. Take 4 strips cooked & crumbled bacon
 1. Make ready  Optional: 1/2 diced onion
 
 
@@ -73,9 +73,9 @@ To begin with this particular recipe, we must prepare a few components. You can 
 
 ##### Instructions to make Chicken Bacon Ranch Foil Pack:
 
-1. Preheat oven to 425. In a mixing bowl: mix ranch, butter &amp; salt/pepper. Cut aluminum foil into 4 squares, coat with cooking spray. Place potatoes in a bowl, and coat with 4tbs of ranch mixture, coat evenly. Place chicken on foil, coat with s&amp;p. Divide potatoes evenly betwwen the portions, add onion if desired. Drizzle rest of butter mixture over chicken.
-1. Fold aluminum foil over chicken/potatoes to make a &#34;packet.&#34; Bake for 45 minutes. Open packet &amp; sprinkle cheese &amp; bacon over chicken, cook for 2-4 minutes.
-1. Note: can also be done on a medium high grill for 30 min &amp; 2 min for cheese!
+1. Preheat oven to 425. In a mixing bowl: mix ranch, butter & salt/pepper. Cut aluminum foil into 4 squares, coat with cooking spray. Place potatoes in a bowl, and coat with 4tbs of ranch mixture, coat evenly. Place chicken on foil, coat with s&p. Divide potatoes evenly betwwen the portions, add onion if desired. Drizzle rest of butter mixture over chicken.
+1. Fold aluminum foil over chicken/potatoes to make a &#34;packet.&#34; Bake for 45 minutes. Open packet & sprinkle cheese & bacon over chicken, cook for 2-4 minutes.
+1. Note: can also be done on a medium high grill for 30 min & 2 min for cheese!
 
 
 

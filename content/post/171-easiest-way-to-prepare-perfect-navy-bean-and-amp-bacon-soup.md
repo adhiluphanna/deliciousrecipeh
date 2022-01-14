@@ -45,20 +45,20 @@ recipecategory: Dessert
 ---
 
 
-![Navy Bean &amp; Bacon Soup](https://img-global.cpcdn.com/recipes/86edcf20ad820678/751x532cq70/navy-bean-bacon-soup-recipe-main-photo.jpg)
+![Navy Bean & Bacon Soup](https://img-global.cpcdn.com/recipes/86edcf20ad820678/751x532cq70/navy-bean-bacon-soup-recipe-main-photo.jpg)
 
-Hello everybody, it's me, Dave, welcome to our recipe page. Today, I'm gonna show you how to make a distinctive dish, navy bean &amp; bacon soup. It is one of my favorites. For mine, I am going to make it a little bit tasty. This will be really delicious.
-
-
-
-Navy Bean &amp; Bacon Soup is one of the most favored of recent trending foods on earth. It is appreciated by millions daily. It's easy, it's quick, it tastes delicious. They are nice and they look wonderful. Navy Bean &amp; Bacon Soup is something that I've loved my whole life.
+Hello everybody, it's me, Dave, welcome to our recipe page. Today, I'm gonna show you how to make a distinctive dish, navy bean & bacon soup. It is one of my favorites. For mine, I am going to make it a little bit tasty. This will be really delicious.
 
 
-To begin with this particular recipe, we have to first prepare a few ingredients. You can have navy bean &amp; bacon soup using 8 ingredients and 8 steps. Here is how you cook that.
+
+Navy Bean & Bacon Soup is one of the most favored of recent trending foods on earth. It is appreciated by millions daily. It's easy, it's quick, it tastes delicious. They are nice and they look wonderful. Navy Bean & Bacon Soup is something that I've loved my whole life.
+
+
+To begin with this particular recipe, we have to first prepare a few ingredients. You can have navy bean & bacon soup using 8 ingredients and 8 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Navy Bean &amp; Bacon Soup:
+##### The ingredients needed to make Navy Bean & Bacon Soup:
 
 1. Take 1 lb dried navy beans
 1. Take 12 oz thick cut bacon - slices cut across to 1/2&#34; strips
@@ -74,7 +74,7 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 
 <!--inarticleads2-->
 
-##### Instructions to make Navy Bean &amp; Bacon Soup:
+##### Instructions to make Navy Bean & Bacon Soup:
 
 1. Sort beans to remove any broken/bad beans or other abnormalities. Such as what is pictured here.
 1. Soak beans using one of the 2 following methods. Overnight: Place beans in a large bowl with 6-8 cups cold water and allow to soak at least 12 hrs. OR Quick Soak (which I prefer): Place beans in large pot (about 6 quart size). Add 6-8 cups cold water. Bring to a boil over medium high heat. Boil 2 minutes. Turn off heat, cover, let sit 1-2 hrs. Drain and rinse beans in a large colander. Set aside. Do not save soak water.
@@ -88,4 +88,4 @@ To begin with this particular recipe, we have to first prepare a few ingredients
 
 
 
-So that is going to wrap this up with this special food navy bean &amp; bacon soup recipe. Thanks so much for your time. I am sure that you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this special food navy bean & bacon soup recipe. Thanks so much for your time. I am sure that you will make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

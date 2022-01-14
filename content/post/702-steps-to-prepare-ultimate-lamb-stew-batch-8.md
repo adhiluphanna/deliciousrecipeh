@@ -78,7 +78,7 @@ To begin with this recipe, we have to prepare a few components. You can have lam
 1. Prepare 1 teaspoon granulated garlic powder
 1. Get 8 ounces baby portobello mushrooms
 1. Get 1/2 cup marsala
-1. Get 2 tablespoons Lea &amp; Perrins Worcestershire sauce
+1. Get 2 tablespoons Lea & Perrins Worcestershire sauce
 1. Take 1-1/2 tablespoon capers
 1. Take 1 stick butter
 1. Prepare To taste Parmesan cheese optional

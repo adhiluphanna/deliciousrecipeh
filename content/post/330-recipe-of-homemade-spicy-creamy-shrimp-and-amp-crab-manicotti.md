@@ -53,20 +53,20 @@ recipecategory: Lunch
 ---
 
 
-![Spicy Creamy Shrimp &amp; Crab Manicotti](https://img-global.cpcdn.com/recipes/4054bdfba7d33c24/751x532cq70/spicy-creamy-shrimp-crab-manicotti-recipe-main-photo.jpg)
+![Spicy Creamy Shrimp & Crab Manicotti](https://img-global.cpcdn.com/recipes/4054bdfba7d33c24/751x532cq70/spicy-creamy-shrimp-crab-manicotti-recipe-main-photo.jpg)
 
-Hello everybody, hope you are having an amazing day today. Today, I will show you a way to prepare a special dish, spicy creamy shrimp &amp; crab manicotti. One of my favorites. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
-
-
-
-Spicy Creamy Shrimp &amp; Crab Manicotti is one of the most popular of recent trending foods on earth. It's easy, it is quick, it tastes delicious. It's appreciated by millions daily. Spicy Creamy Shrimp &amp; Crab Manicotti is something that I've loved my entire life. They are nice and they look wonderful.
+Hello everybody, hope you are having an amazing day today. Today, I will show you a way to prepare a special dish, spicy creamy shrimp & crab manicotti. One of my favorites. This time, I am going to make it a bit unique. This is gonna smell and look delicious.
 
 
-To get started with this recipe, we have to first prepare a few ingredients. You can have spicy creamy shrimp &amp; crab manicotti using 18 ingredients and 6 steps. Here is how you can achieve it.
+
+Spicy Creamy Shrimp & Crab Manicotti is one of the most popular of recent trending foods on earth. It's easy, it is quick, it tastes delicious. It's appreciated by millions daily. Spicy Creamy Shrimp & Crab Manicotti is something that I've loved my entire life. They are nice and they look wonderful.
+
+
+To get started with this recipe, we have to first prepare a few ingredients. You can have spicy creamy shrimp & crab manicotti using 18 ingredients and 6 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Spicy Creamy Shrimp &amp; Crab Manicotti:
+##### The ingredients needed to make Spicy Creamy Shrimp & Crab Manicotti:
 
 1. Prepare 1 box Manicotti cooked al dente
 1. Prepare 1 egg lightly beaten
@@ -85,14 +85,14 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Make ready 1 tbs minced garlic
 1. Get 4 cups milk
 1. Prepare 1/2 cup grated Parmesan
-1. Make ready to taste Salt &amp; Pepper
+1. Make ready to taste Salt & Pepper
 
 
 
 
 <!--inarticleads2-->
 
-##### Instructions to make Spicy Creamy Shrimp &amp; Crab Manicotti:
+##### Instructions to make Spicy Creamy Shrimp & Crab Manicotti:
 
 1. Cook pasta to al dente, drain and cool
 1. Mix remaining ingredients in a mixing bowl until thoroughly combined.
@@ -104,4 +104,4 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 
 
 
-So that's going to wrap it up for this exceptional food spicy creamy shrimp &amp; crab manicotti recipe. Thanks so much for your time. I am confident that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!
+So that's going to wrap it up for this exceptional food spicy creamy shrimp & crab manicotti recipe. Thanks so much for your time. I am confident that you can make this at home. There is gonna be interesting food at home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thanks again for reading. Go on get cooking!

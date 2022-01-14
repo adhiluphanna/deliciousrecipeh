@@ -43,20 +43,20 @@ recipecategory: Lunch
 ---
 
 
-![Cheez It Crab &amp; Fish Cakes](https://img-global.cpcdn.com/recipes/f7e9f999ba6c9079/751x532cq70/cheez-it-crab-fish-cakes-recipe-main-photo.jpg)
+![Cheez It Crab & Fish Cakes](https://img-global.cpcdn.com/recipes/f7e9f999ba6c9079/751x532cq70/cheez-it-crab-fish-cakes-recipe-main-photo.jpg)
 
-Hello everybody, it's Brad, welcome to my recipe page. Today, I'm gonna show you how to make a distinctive dish, cheez it crab &amp; fish cakes. One of my favorites. For mine, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
-
-
-
-Cheez It Crab &amp; Fish Cakes is one of the most popular of current trending meals on earth. It is enjoyed by millions every day. It's simple, it is quick, it tastes delicious. They're fine and they look fantastic. Cheez It Crab &amp; Fish Cakes is something which I've loved my entire life.
+Hello everybody, it's Brad, welcome to my recipe page. Today, I'm gonna show you how to make a distinctive dish, cheez it crab & fish cakes. One of my favorites. For mine, I'm gonna make it a little bit tasty. This is gonna smell and look delicious.
 
 
-To get started with this particular recipe, we have to prepare a few ingredients. You can have cheez it crab &amp; fish cakes using 10 ingredients and 4 steps. Here is how you can achieve that.
+
+Cheez It Crab & Fish Cakes is one of the most popular of current trending meals on earth. It is enjoyed by millions every day. It's simple, it is quick, it tastes delicious. They're fine and they look fantastic. Cheez It Crab & Fish Cakes is something which I've loved my entire life.
+
+
+To get started with this particular recipe, we have to prepare a few ingredients. You can have cheez it crab & fish cakes using 10 ingredients and 4 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Cheez It Crab &amp; Fish Cakes:
+##### The ingredients needed to make Cheez It Crab & Fish Cakes:
 
 1. Prepare 2 Cans Crab Meat
 1. Make ready 2 Cans Tuna
@@ -74,7 +74,7 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 <!--inarticleads2-->
 
-##### Steps to make Cheez It Crab &amp; Fish Cakes:
+##### Steps to make Cheez It Crab & Fish Cakes:
 
 1. Process the Cheez It&#39;s into a breadcrumb-like consistency.
 1. Add everything into a bowl, season and combine with eggs.
@@ -84,4 +84,4 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 
 
-So that's going to wrap it up with this special food cheez it crab &amp; fish cakes recipe. Thank you very much for your time. I'm confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!
+So that's going to wrap it up with this special food cheez it crab & fish cakes recipe. Thank you very much for your time. I'm confident that you can make this at home. There's gonna be more interesting food at home recipes coming up. Remember to save this page in your browser, and share it to your family, colleague and friends. Thank you for reading. Go on get cooking!

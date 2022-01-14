@@ -22,7 +22,7 @@ recipeingredient:
 - "1/2 cup shredded cheese"
 recipeinstructions:
 - "Cut a medium size hole in top of tomatoes and scoop out the insides"
-- "In a bowl, mix crab, onion, mayonnaise, feta cheese, salt &amp; pepper, and any seasoning you may want."
+- "In a bowl, mix crab, onion, mayonnaise, feta cheese, salt & pepper, and any seasoning you may want."
 - "Scoop filling into hollowed out tomatoes and top with shredded cheese"
 - "Bake at 350° until tomatoes are slightly soft but still firm. (They will fall apart if cooked too long). I bake them on muffin trays so they stay standing upright while cooking"
 categories:
@@ -77,7 +77,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 ##### Steps to make Crab Stuffed Tomatoes:
 
 1. Cut a medium size hole in top of tomatoes and scoop out the insides
-1. In a bowl, mix crab, onion, mayonnaise, feta cheese, salt &amp; pepper, and any seasoning you may want.
+1. In a bowl, mix crab, onion, mayonnaise, feta cheese, salt & pepper, and any seasoning you may want.
 1. Scoop filling into hollowed out tomatoes and top with shredded cheese
 1. Bake at 350° until tomatoes are slightly soft but still firm. (They will fall apart if cooked too long). I bake them on muffin trays so they stay standing upright while cooking
 

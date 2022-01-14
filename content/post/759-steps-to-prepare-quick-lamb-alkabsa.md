@@ -33,7 +33,7 @@ recipeingredient:
 - "1/3 raisins kishmish"
 - "1 whole cucumber tomato Lil bit parsley Daniaa"
 recipeinstructions:
-- "➖On medium high heat add onions &amp; Ginger garlic paste fry till it light brown  ➖Add lamb cook till it brown, now add the whole spices of kabsa as mentioned above. Cook till until the oil comes above now add water, cook in pressure cooker for 20mins!!"
+- "➖On medium high heat add onions & Ginger garlic paste fry till it light brown  ➖Add lamb cook till it brown, now add the whole spices of kabsa as mentioned above. Cook till until the oil comes above now add water, cook in pressure cooker for 20mins!!"
 - "#ForKabsa_Topping On medium heat the Ghee ist fry Almonds till it become light brown, then fry the raisins as well. And Pour both on tissue paper to remove excess oil."
 - "#Kabsa_MainDish  Once lamb cooked properly, Pour all the stock (Yakhni) in other pan, bring it to boil, add rice till it perfectly cooked...  On the otherhand fry lamb with Lil bit oil with garam Maslaaaa.. It gives more crizmatic eroma..."
 - "#Final_Lamb_Alkabsa: In large bowl first pour rice, then one side pour on fryLamb, in middle decorate with cucumber, tomato.. on otherside spread almonds and raisins.. Or decorate as you like... 💖💓 So very yummlious Kabsa ready to served with  mixed salad and Gulab Jamen ☺️"
@@ -99,7 +99,7 @@ To get started with this recipe, we must prepare a few ingredients. You can cook
 
 ##### Steps to make Lamb Alkabsa:
 
-1. ➖On medium high heat add onions &amp; Ginger garlic paste fry till it light brown  - ➖Add lamb cook till it brown, now add the whole spices of kabsa as mentioned above. Cook till until the oil comes above now add water, cook in pressure cooker for 20mins!!
+1. ➖On medium high heat add onions & Ginger garlic paste fry till it light brown  - ➖Add lamb cook till it brown, now add the whole spices of kabsa as mentioned above. Cook till until the oil comes above now add water, cook in pressure cooker for 20mins!!
 1. #ForKabsa_Topping - On medium heat the Ghee ist fry Almonds till it become light brown, then fry the raisins as well. And Pour both on tissue paper to remove excess oil.
 1. #Kabsa_MainDish  - Once lamb cooked properly, Pour all the stock (Yakhni) in other pan, bring it to boil, add rice till it perfectly cooked...  - On the otherhand fry lamb with Lil bit oil with garam Maslaaaa.. It gives more crizmatic eroma...
 1. #Final_Lamb_Alkabsa: - In large bowl first pour rice, then one side pour on fryLamb, in middle decorate with cucumber, tomato.. on otherside spread almonds and raisins.. Or decorate as you like... 💖💓 - So very yummlious Kabsa ready to served with  mixed salad and Gulab Jamen ☺️

@@ -22,7 +22,7 @@ recipeingredient:
 - " Pistachios"
 - "1 tbsp mint"
 recipeinstructions:
-- "Mix lamb with 1 tsp of each spice, panko &amp; egg"
+- "Mix lamb with 1 tsp of each spice, panko & egg"
 - "Form into 16 meatballs"
 - "Heat 1 tbsp olive oil in skillet. Cook meatballs over med/high heat 6-8 min. Remove from skillet. Drain grease."
 - "Return meatballs to skillet, add tomatoes and remaining spices. Cover and simmer 6-8 min."
@@ -79,7 +79,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 ##### Instructions to make Moroccan Lamb Meatballs:
 
-1. Mix lamb with 1 tsp of each spice, panko &amp; egg
+1. Mix lamb with 1 tsp of each spice, panko & egg
 1. Form into 16 meatballs
 1. Heat 1 tbsp olive oil in skillet. Cook meatballs over med/high heat 6-8 min. Remove from skillet. Drain grease.
 1. Return meatballs to skillet, add tomatoes and remaining spices. Cover and simmer 6-8 min.

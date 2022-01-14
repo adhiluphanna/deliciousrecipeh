@@ -50,20 +50,20 @@ recipecategory: Dinner
 ---
 
 
-![Hot Crab &amp; Lobster Dip](https://img-global.cpcdn.com/recipes/f8b7dd781e5e33c0/751x532cq70/hot-crab-lobster-dip-recipe-main-photo.jpg)
+![Hot Crab & Lobster Dip](https://img-global.cpcdn.com/recipes/f8b7dd781e5e33c0/751x532cq70/hot-crab-lobster-dip-recipe-main-photo.jpg)
 
-Hello everybody, it's John, welcome to my recipe page. Today, we're going to make a distinctive dish, hot crab &amp; lobster dip. One of my favorites. This time, I will make it a bit tasty. This will be really delicious.
+Hello everybody, it's John, welcome to my recipe page. Today, we're going to make a distinctive dish, hot crab & lobster dip. One of my favorites. This time, I will make it a bit tasty. This will be really delicious.
 
-Hot Crab &amp; Lobster Dip is one of the most favored of recent trending meals in the world. It is appreciated by millions every day. It is simple, it is fast, it tastes yummy. Hot Crab &amp; Lobster Dip is something that I have loved my entire life. They are fine and they look fantastic.
-
-
+Hot Crab & Lobster Dip is one of the most favored of recent trending meals in the world. It is appreciated by millions every day. It is simple, it is fast, it tastes yummy. Hot Crab & Lobster Dip is something that I have loved my entire life. They are fine and they look fantastic.
 
 
-To begin with this particular recipe, we have to prepare a few components. You can have hot crab &amp; lobster dip using 10 ingredients and 11 steps. Here is how you cook that.
+
+
+To begin with this particular recipe, we have to prepare a few components. You can have hot crab & lobster dip using 10 ingredients and 11 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Hot Crab &amp; Lobster Dip:
+##### The ingredients needed to make Hot Crab & Lobster Dip:
 
 1. Take 2-8 oz packs of cream cheese
 1. Take 1-8 oz container of sour cream
@@ -81,7 +81,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 <!--inarticleads2-->
 
-##### Instructions to make Hot Crab &amp; Lobster Dip:
+##### Instructions to make Hot Crab & Lobster Dip:
 
 1. Preheat oven 350°
 1. Take cream cheese out of packaging and put it in a bowl to start softening at room temp for about 10-15 mins
@@ -98,4 +98,4 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 
 
-So that is going to wrap this up for this special food hot crab &amp; lobster dip recipe. Thank you very much for reading. I am confident that you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!
+So that is going to wrap this up for this special food hot crab & lobster dip recipe. Thank you very much for reading. I am confident that you will make this at home. There is gonna be interesting food at home recipes coming up. Don't forget to save this page in your browser, and share it to your loved ones, friends and colleague. Thanks again for reading. Go on get cooking!

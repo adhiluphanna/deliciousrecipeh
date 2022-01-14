@@ -18,9 +18,9 @@ recipeingredient:
 - "16 oz sour cream"
 - "1/2 teaspoon salt"
 recipeinstructions:
-- "Preheat oven to 350 degrees. Lightly spray a 9x13 in pan with cooking spray &amp; set it aside."
-- "Cook ground beef in a large skillet until it’s no longer pink &amp; then drain. Heat the pan &amp; add a bit of oil for better browning. Add the meat to the pan, break it into large pieces, sprinkle 1/2 teaspoon of salt, &amp; let it sit for a few minutes. Break the beef into smaller pieces as it cooks. Stir occasionally until the beef is browned."
-- "Combine cooked beef, bacon bits, cheddar cheese, tater tots, cheese soup &amp; sour cream."
+- "Preheat oven to 350 degrees. Lightly spray a 9x13 in pan with cooking spray & set it aside."
+- "Cook ground beef in a large skillet until it’s no longer pink & then drain. Heat the pan & add a bit of oil for better browning. Add the meat to the pan, break it into large pieces, sprinkle 1/2 teaspoon of salt, & let it sit for a few minutes. Break the beef into smaller pieces as it cooks. Stir occasionally until the beef is browned."
+- "Combine cooked beef, bacon bits, cheddar cheese, tater tots, cheese soup & sour cream."
 - "Spread the combined ingredients into the pan."
 - "Bake for 45-50 minutes."
 categories:
@@ -71,9 +71,9 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 ##### Steps to make Bacon Cheeseburger Tater Tot Casserole:
 
-1. Preheat oven to 350 degrees. Lightly spray a 9x13 in pan with cooking spray &amp; set it aside.
-1. Cook ground beef in a large skillet until it’s no longer pink &amp; then drain. Heat the pan &amp; add a bit of oil for better browning. Add the meat to the pan, break it into large pieces, sprinkle 1/2 teaspoon of salt, &amp; let it sit for a few minutes. Break the beef into smaller pieces as it cooks. Stir occasionally until the beef is browned.
-1. Combine cooked beef, bacon bits, cheddar cheese, tater tots, cheese soup &amp; sour cream.
+1. Preheat oven to 350 degrees. Lightly spray a 9x13 in pan with cooking spray & set it aside.
+1. Cook ground beef in a large skillet until it’s no longer pink & then drain. Heat the pan & add a bit of oil for better browning. Add the meat to the pan, break it into large pieces, sprinkle 1/2 teaspoon of salt, & let it sit for a few minutes. Break the beef into smaller pieces as it cooks. Stir occasionally until the beef is browned.
+1. Combine cooked beef, bacon bits, cheddar cheese, tater tots, cheese soup & sour cream.
 1. Spread the combined ingredients into the pan.
 1. Bake for 45-50 minutes.
 

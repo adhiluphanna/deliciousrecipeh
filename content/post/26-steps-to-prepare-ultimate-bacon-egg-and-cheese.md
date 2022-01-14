@@ -45,7 +45,7 @@ recipecategory: Dessert
 
 Hello everybody, it's Drew, welcome to our recipe page. Today, we're going to prepare a distinctive dish, bacon egg and cheese. It is one of my favorites food recipes. For mine, I will make it a little bit unique. This is gonna smell and look delicious.
 
-A bacon, egg and cheese sandwich is a breakfast sandwich popular in the United States and Canada. It is made with bacon, eggs (typically fried or scrambled), cheese and bread, which may be buttered and toasted. Enjoy a Bacon, Egg &amp; Cheese Biscuit sandwich from the McDonald&#39;s breakfast menu!
+A bacon, egg and cheese sandwich is a breakfast sandwich popular in the United States and Canada. It is made with bacon, eggs (typically fried or scrambled), cheese and bread, which may be buttered and toasted. Enjoy a Bacon, Egg & Cheese Biscuit sandwich from the McDonald&#39;s breakfast menu!
 
 Bacon egg and cheese is one of the most well liked of recent trending foods in the world. It is appreciated by millions daily. It is simple, it is fast, it tastes yummy. They are fine and they look fantastic. Bacon egg and cheese is something which I have loved my entire life.
 
@@ -64,7 +64,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 1. Get  Chili pepper optional
 
 
-Made with cage free eggs, killer bacon and cheddar cheese, severed up on a lightly toasted and buttered sour. This bacon &amp; egg breakfast grilled cheese sandwich recipe is quick and delicious! PLACE two slices in skillet, buttered side down. TOP evenly with scrambled eggs, cheese and bacon. 
+Made with cage free eggs, killer bacon and cheddar cheese, severed up on a lightly toasted and buttered sour. This bacon & egg breakfast grilled cheese sandwich recipe is quick and delicious! PLACE two slices in skillet, buttered side down. TOP evenly with scrambled eggs, cheese and bacon. 
 
 <!--inarticleads2-->
 

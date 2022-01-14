@@ -21,16 +21,16 @@ recipeingredient:
 - " Fresh curry leaves a handful"
 - "1 cube Maggi"
 recipeinstructions:
-- "Grate or chop pepper, onion &amp; tomatoes together &amp; set aside"
-- "In a bowl, break egg &amp; whisk properly..."
+- "Grate or chop pepper, onion & tomatoes together & set aside"
+- "In a bowl, break egg & whisk properly..."
 - "Open up sardine, remove fish from the oil, set aside."
 - "In a tray, cut out of shred the bread left over into pieces"
 - "Wash fresh curry leaves, chop and set aside."
 - "Set fry pan on fire, measure in 1 tbspoon G.oil, allow to get hot."
-- "Pour in the grated or chopped pepper, onion &amp; tomatoes"
-- "Stir fry for 2 mins, then add the sardine and stir fry again for about 3 mins, add Maggi, salt &amp; egg then stir together for abt 5 mins."
+- "Pour in the grated or chopped pepper, onion & tomatoes"
+- "Stir fry for 2 mins, then add the sardine and stir fry again for about 3 mins, add Maggi, salt & egg then stir together for abt 5 mins."
 - "Add chopped curry leaves, cover for 2 mins....open and add your p bread left over, stir fry for 5 mins"
-- "Cover for 2 mins then remove from heat...&amp; serve hot with tea or juice"
+- "Cover for 2 mins then remove from heat...& serve hot with tea or juice"
 categories:
 - Recipe
 tags:
@@ -80,16 +80,16 @@ To get started with this particular recipe, we have to prepare a few ingredients
 
 ##### Instructions to make Breadlavista:
 
-1. Grate or chop pepper, onion &amp; tomatoes together &amp; set aside
-1. In a bowl, break egg &amp; whisk properly...
+1. Grate or chop pepper, onion & tomatoes together & set aside
+1. In a bowl, break egg & whisk properly...
 1. Open up sardine, remove fish from the oil, set aside.
 1. In a tray, cut out of shred the bread left over into pieces
 1. Wash fresh curry leaves, chop and set aside.
 1. Set fry pan on fire, measure in 1 tbspoon G.oil, allow to get hot.
-1. Pour in the grated or chopped pepper, onion &amp; tomatoes
-1. Stir fry for 2 mins, then add the sardine and stir fry again for about 3 mins, add Maggi, salt &amp; egg then stir together for abt 5 mins.
+1. Pour in the grated or chopped pepper, onion & tomatoes
+1. Stir fry for 2 mins, then add the sardine and stir fry again for about 3 mins, add Maggi, salt & egg then stir together for abt 5 mins.
 1. Add chopped curry leaves, cover for 2 mins....open and add your p bread left over, stir fry for 5 mins
-1. Cover for 2 mins then remove from heat...&amp; serve hot with tea or juice
+1. Cover for 2 mins then remove from heat...& serve hot with tea or juice
 
 
 

@@ -65,7 +65,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 1. Get 2 tbsp butter
 1. Prepare 2 tbsp milk
 1. Make ready 1/4 cup finely chopped onions
-1. Prepare to taste Salt &amp; Pepper
+1. Prepare to taste Salt & Pepper
 
 
 Dump in a bunch of Hormel bacon pieces and stir up. Preferably, chill for a few hours for the. Bacon-Wrapped Chicken Stuffed with Spinach and Ricotta. These chicken breasts stuffed with ricotta cheese, spinach, and wrapped with bacon are a sure-fire way to impress! 

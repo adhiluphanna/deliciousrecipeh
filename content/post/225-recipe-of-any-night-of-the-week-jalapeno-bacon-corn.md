@@ -19,9 +19,9 @@ recipeingredient:
 - "1 tablespoon butter"
 - "to taste Salt"
 recipeinstructions:
-- "Cook the bacon. And reserve the grease &amp; set aside"
-- "When bacon is done, remove from pan. And cook the jalapeño, onion &amp; red pepper in 2 tablespoons of bacon grease. For about 3 minutes"
-- "Add the corn to the peppers &amp; onion. Add the butter salt and cumin."
+- "Cook the bacon. And reserve the grease & set aside"
+- "When bacon is done, remove from pan. And cook the jalapeño, onion & red pepper in 2 tablespoons of bacon grease. For about 3 minutes"
+- "Add the corn to the peppers & onion. Add the butter salt and cumin."
 categories:
 - Recipe
 tags:
@@ -71,11 +71,11 @@ Place cheeses, garlic, frozen corn, jalapeño chiles, and liquid from chiles in 
 
 ##### Instructions to make Jalapeño bacon corn:
 
-1. Cook the bacon. And reserve the grease &amp; set aside
-1. When bacon is done, remove from pan. And cook the jalapeño, onion &amp; red pepper in 2 tablespoons of bacon grease. For about 3 minutes
-1. Add the corn to the peppers &amp; onion. Add the butter salt and cumin.
+1. Cook the bacon. And reserve the grease & set aside
+1. When bacon is done, remove from pan. And cook the jalapeño, onion & red pepper in 2 tablespoons of bacon grease. For about 3 minutes
+1. Add the corn to the peppers & onion. Add the butter salt and cumin.
 
 
-Anyway, back to Trisha&#39;s cheese dip. I was thinking how I could amp up the flavors because it really seemed like a lot of cheese, and I&#39;m not a fan of mayo. PB&amp;J (Pepper Jack, Bacon, and Jalapeño) Corn Bread. There are three secrets to great corn bread: the cornmeal itself, the milk or buttermilk, and the flavorings. Loaded with our Smoky Maple Bacon Tempeh and spicy jalapenos, our melt-in-your-mouth cornbread is the perfect match for any fall or winter soup. 
+Anyway, back to Trisha&#39;s cheese dip. I was thinking how I could amp up the flavors because it really seemed like a lot of cheese, and I&#39;m not a fan of mayo. PB&J (Pepper Jack, Bacon, and Jalapeño) Corn Bread. There are three secrets to great corn bread: the cornmeal itself, the milk or buttermilk, and the flavorings. Loaded with our Smoky Maple Bacon Tempeh and spicy jalapenos, our melt-in-your-mouth cornbread is the perfect match for any fall or winter soup. 
 
 So that's going to wrap this up for this special food jalapeño bacon corn recipe. Thanks so much for reading. I'm confident that you can make this at home. There's gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thanks again for reading. Go on get cooking!

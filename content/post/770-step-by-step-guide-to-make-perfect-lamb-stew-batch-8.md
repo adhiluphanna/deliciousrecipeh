@@ -78,7 +78,7 @@ To get started with this recipe, we must prepare a few components. You can cook 
 1. Make ready 1 teaspoon granulated garlic powder
 1. Take 8 ounces baby portobello mushrooms
 1. Prepare 1/2 cup marsala
-1. Make ready 2 tablespoons Lea &amp; Perrins Worcestershire sauce
+1. Make ready 2 tablespoons Lea & Perrins Worcestershire sauce
 1. Prepare 1-1/2 tablespoon capers
 1. Get 1 stick butter
 1. Prepare To taste Parmesan cheese optional

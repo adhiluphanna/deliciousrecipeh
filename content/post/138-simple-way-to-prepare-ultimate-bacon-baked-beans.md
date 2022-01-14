@@ -19,7 +19,7 @@ recipeingredient:
 - "1/2 tsp Cayenne pepper even better  pepper flakes if you can find them"
 - " Optional 12 onion sliced and fried in bacon grease until light brown"
 recipeinstructions:
-- "Cut up the bacon strips &amp; mix all ingredients into beans (or lay the strips on top to look fancy)"
+- "Cut up the bacon strips & mix all ingredients into beans (or lay the strips on top to look fancy)"
 - "Bake in 8x8 glass baking pan at 350 for 45 minutes (should see bubbling across the whole pan)"
 - "Remove from oven and enjoy!"
 categories:
@@ -57,7 +57,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 1. Get 4-6 strips cooked bacon (save the grease!)
 1. Get 1 tbsp bacon grease
-1. Take 28-32 oz B&amp;M baked beans (if you can’t find them, just stay away from really soft beans like Bush)
+1. Take 28-32 oz B&M baked beans (if you can’t find them, just stay away from really soft beans like Bush)
 1. Prepare 1/4 cup ketchup
 1. Take 1/4 cup dark brown sugar
 1. Prepare 1 tsp dry mustard seed
@@ -71,7 +71,7 @@ To begin with this particular recipe, we have to first prepare a few components.
 
 ##### Instructions to make Bacon Baked Beans:
 
-1. Cut up the bacon strips &amp; mix all ingredients into beans (or lay the strips on top to look fancy)
+1. Cut up the bacon strips & mix all ingredients into beans (or lay the strips on top to look fancy)
 1. Bake in 8x8 glass baking pan at 350 for 45 minutes (should see bubbling across the whole pan)
 1. Remove from oven and enjoy!
 

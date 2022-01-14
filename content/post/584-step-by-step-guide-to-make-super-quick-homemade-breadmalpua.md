@@ -17,10 +17,10 @@ recipeingredient:
 - "2-3 tbsp milk"
 recipeinstructions:
 - "Cut the side of the bread.Mashed the bread,add milk spoon by spoon to make a dough."
-- "Shape it as malpua shape &amp; deepfry it with ghee."
-- "Heat a pan add sugar,saffron&amp;water makes a 1 strand chasni,add cadamom powder."
+- "Shape it as malpua shape & deepfry it with ghee."
+- "Heat a pan add sugar,saffron&water makes a 1 strand chasni,add cadamom powder."
 - "Dip the malpua with chasni 5mints."
-- "Bread malpua is ready,garnish with chopped pista&amp;pistachio serve it.very tasty."
+- "Bread malpua is ready,garnish with chopped pista&pistachio serve it.very tasty."
 categories:
 - Recipe
 tags:
@@ -66,10 +66,10 @@ To get started with this particular recipe, we must prepare a few ingredients. Y
 ##### Instructions to make BreadMalpua:
 
 1. Cut the side of the bread.Mashed the bread,add milk spoon by spoon to make a dough.
-1. Shape it as malpua shape &amp; deepfry it with ghee.
-1. Heat a pan add sugar,saffron&amp;water makes a 1 strand chasni,add cadamom powder.
+1. Shape it as malpua shape & deepfry it with ghee.
+1. Heat a pan add sugar,saffron&water makes a 1 strand chasni,add cadamom powder.
 1. Dip the malpua with chasni 5mints.
-1. Bread malpua is ready,garnish with chopped pista&amp;pistachio serve it.very tasty.
+1. Bread malpua is ready,garnish with chopped pista&pistachio serve it.very tasty.
 
 
 

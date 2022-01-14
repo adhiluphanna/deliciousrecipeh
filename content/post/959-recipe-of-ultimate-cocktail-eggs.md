@@ -21,10 +21,10 @@ recipeingredient:
 - "1 spoon Lemon juice"
 - "As required Oil to fry"
 recipeinstructions:
-- "In a bowl mash the potatoes adding onion, salt, chilli, black pepper &amp; lemon juice. Make a dough and keep aside."
+- "In a bowl mash the potatoes adding onion, salt, chilli, black pepper & lemon juice. Make a dough and keep aside."
 - "Now clean boiled eggs. Take a portion from the potato mixture flattened it out on your palm place the whole egg in the middle and overlap it with the mixture as shown in picture."
 - "Dip the egg potato ball in cornflour slurry (1/2 bowl cornflour mixted 2 spoonfull of water)"
-- "Soon after the slurry bath give your roll a dip of semolina. Heat oil in a pan and fry it. Cut in half &amp; serve with your favourite dip / sauce/ ketchup/ chutney/ bhujiya for extra crunch. Salad goes really well with it. Cocktail Eggs are ready to serve."
+- "Soon after the slurry bath give your roll a dip of semolina. Heat oil in a pan and fry it. Cut in half & serve with your favourite dip / sauce/ ketchup/ chutney/ bhujiya for extra crunch. Salad goes really well with it. Cocktail Eggs are ready to serve."
 categories:
 - Recipe
 tags:
@@ -75,10 +75,10 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 
 ##### Instructions to make Cocktail Eggs:
 
-1. In a bowl mash the potatoes adding onion, salt, chilli, black pepper &amp; lemon juice. Make a dough and keep aside.
+1. In a bowl mash the potatoes adding onion, salt, chilli, black pepper & lemon juice. Make a dough and keep aside.
 1. Now clean boiled eggs. Take a portion from the potato mixture flattened it out on your palm place the whole egg in the middle and overlap it with the mixture as shown in picture.
 1. Dip the egg potato ball in cornflour slurry (1/2 bowl cornflour mixted 2 spoonfull of water)
-1. Soon after the slurry bath give your roll a dip of semolina. Heat oil in a pan and fry it. Cut in half &amp; serve with your favourite dip / sauce/ ketchup/ chutney/ bhujiya for extra crunch. Salad goes really well with it. Cocktail Eggs are ready to serve.
+1. Soon after the slurry bath give your roll a dip of semolina. Heat oil in a pan and fry it. Cut in half & serve with your favourite dip / sauce/ ketchup/ chutney/ bhujiya for extra crunch. Salad goes really well with it. Cocktail Eggs are ready to serve.
 
 
 

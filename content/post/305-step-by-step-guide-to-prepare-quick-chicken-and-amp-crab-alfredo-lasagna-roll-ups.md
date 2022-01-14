@@ -41,20 +41,20 @@ recipecategory: Dinner
 ---
 
 
-![Chicken &amp; crab Alfredo lasagna roll ups](https://img-global.cpcdn.com/recipes/f84f3b86f318f1e5/751x532cq70/chicken-crab-alfredo-lasagna-roll-ups-recipe-main-photo.jpg)
+![Chicken & crab Alfredo lasagna roll ups](https://img-global.cpcdn.com/recipes/f84f3b86f318f1e5/751x532cq70/chicken-crab-alfredo-lasagna-roll-ups-recipe-main-photo.jpg)
 
-Hey everyone, it's Jim, welcome to my recipe site. Today, I'm gonna show you how to make a distinctive dish, chicken &amp; crab alfredo lasagna roll ups. It is one of my favorites. For mine, I'm gonna make it a bit unique. This will be really delicious.
-
-
-
-Chicken &amp; crab Alfredo lasagna roll ups is one of the most well liked of current trending meals on earth. It is easy, it's fast, it tastes yummy. It is appreciated by millions daily. They're fine and they look wonderful. Chicken &amp; crab Alfredo lasagna roll ups is something which I've loved my entire life.
+Hey everyone, it's Jim, welcome to my recipe site. Today, I'm gonna show you how to make a distinctive dish, chicken & crab alfredo lasagna roll ups. It is one of my favorites. For mine, I'm gonna make it a bit unique. This will be really delicious.
 
 
-To begin with this recipe, we have to first prepare a few ingredients. You can cook chicken &amp; crab alfredo lasagna roll ups using 9 ingredients and 3 steps. Here is how you can achieve it.
+
+Chicken & crab Alfredo lasagna roll ups is one of the most well liked of current trending meals on earth. It is easy, it's fast, it tastes yummy. It is appreciated by millions daily. They're fine and they look wonderful. Chicken & crab Alfredo lasagna roll ups is something which I've loved my entire life.
+
+
+To begin with this recipe, we have to first prepare a few ingredients. You can cook chicken & crab alfredo lasagna roll ups using 9 ingredients and 3 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Chicken &amp; crab Alfredo lasagna roll ups:
+##### The ingredients needed to make Chicken & crab Alfredo lasagna roll ups:
 
 1. Get 10 lasagna noodles
 1. Prepare 1 jar Alfredo sauce
@@ -71,7 +71,7 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 
 <!--inarticleads2-->
 
-##### Instructions to make Chicken &amp; crab Alfredo lasagna roll ups:
+##### Instructions to make Chicken & crab Alfredo lasagna roll ups:
 
 1. Preheat oven to 375. Boil noodles in salted water until aldente and then drain and lay noodles out on a sheet pan.
 1. Combine chicken, green onion, spices, and mushroom in a hot lightly oiled pan. Cook on medium heat about ten minutes.
@@ -80,4 +80,4 @@ To begin with this recipe, we have to first prepare a few ingredients. You can c
 
 
 
-So that is going to wrap this up for this special food chicken &amp; crab alfredo lasagna roll ups recipe. Thanks so much for reading. I'm confident you can make this at home. There is gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up for this special food chicken & crab alfredo lasagna roll ups recipe. Thanks so much for reading. I'm confident you can make this at home. There is gonna be more interesting food in home recipes coming up. Remember to save this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

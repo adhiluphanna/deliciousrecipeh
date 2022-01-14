@@ -19,7 +19,7 @@ recipeinstructions:
 - "If it is dry and hard, dessert will make crunchy and yummy"
 - "Heat oil in a pan, when oil is hot, set the gas on medium flame. fry the bread pieces for about 1 minute, flip and fry to both side.keep on the paper towel"
 - "Dip the fried bread pieces into the sugar syrup for about 1 minute, flip and again dip for 1 minute. sugar syrup should light warm."
-- "For sugar syrup, click on my given recipe link - https://cookpad.com/us/recipes/13764209-gulab-jamun?invite_token=8EBkrBBh16meBfkAwnRh5YK7&amp;shared_at=1604604158"
+- "For sugar syrup, click on my given recipe link - https://cookpad.com/us/recipes/13764209-gulab-jamun?invite_token=8EBkrBBh16meBfkAwnRh5YK7&shared_at=1604604158"
 - "Spread crushed almond on the top of the bread pieces and ready to eat"
 categories:
 - Recipe
@@ -70,7 +70,7 @@ To get started with this recipe, we have to prepare a few ingredients. You can c
 1. If it is dry and hard, dessert will make crunchy and yummy
 1. Heat oil in a pan, when oil is hot, set the gas on medium flame. fry the bread pieces for about 1 minute, flip and fry to both side.keep on the paper towel
 1. Dip the fried bread pieces into the sugar syrup for about 1 minute, flip and again dip for 1 minute. sugar syrup should light warm.
-1. For sugar syrup, click on my given recipe link - https://cookpad.com/us/recipes/13764209-gulab-jamun?invite_token=8EBkrBBh16meBfkAwnRh5YK7&amp;shared_at=1604604158
+1. For sugar syrup, click on my given recipe link - https://cookpad.com/us/recipes/13764209-gulab-jamun?invite_token=8EBkrBBh16meBfkAwnRh5YK7&shared_at=1604604158
 1. Spread crushed almond on the top of the bread pieces and ready to eat
 
 

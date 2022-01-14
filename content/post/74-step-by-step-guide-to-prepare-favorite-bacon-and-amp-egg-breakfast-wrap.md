@@ -36,20 +36,20 @@ recipecategory: Dinner
 ---
 
 
-![Bacon &amp; Egg Breakfast Wrap](https://img-global.cpcdn.com/recipes/b200463a0410683d/751x532cq70/bacon-egg-breakfast-wrap-recipe-main-photo.jpg)
+![Bacon & Egg Breakfast Wrap](https://img-global.cpcdn.com/recipes/b200463a0410683d/751x532cq70/bacon-egg-breakfast-wrap-recipe-main-photo.jpg)
 
-Hello everybody, it is John, welcome to my recipe site. Today, I will show you a way to make a special dish, bacon &amp; egg breakfast wrap. One of my favorites food recipes. For mine, I'm gonna make it a little bit tasty. This will be really delicious.
+Hello everybody, it is John, welcome to my recipe site. Today, I will show you a way to make a special dish, bacon & egg breakfast wrap. One of my favorites food recipes. For mine, I'm gonna make it a little bit tasty. This will be really delicious.
 
-Bacon &amp; Egg Breakfast Wrap is one of the most well liked of current trending foods in the world. It is appreciated by millions daily. It's simple, it is fast, it tastes delicious. Bacon &amp; Egg Breakfast Wrap is something that I have loved my whole life. They're nice and they look fantastic.
+Bacon & Egg Breakfast Wrap is one of the most well liked of current trending foods in the world. It is appreciated by millions daily. It's simple, it is fast, it tastes delicious. Bacon & Egg Breakfast Wrap is something that I have loved my whole life. They're nice and they look fantastic.
 
 Bacon is a type of salt-cured pork made from various cuts, typically from the pork belly or from the less fatty back cuts. It is eaten on its own, as a side dish (particularly in breakfasts). Sir Francis Bacon (later Lord Verulam and the Viscount St.
 
 
-To begin with this particular recipe, we have to first prepare a few components. You can cook bacon &amp; egg breakfast wrap using 5 ingredients and 2 steps. Here is how you can achieve that.
+To begin with this particular recipe, we have to first prepare a few components. You can cook bacon & egg breakfast wrap using 5 ingredients and 2 steps. Here is how you can achieve that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Bacon &amp; Egg Breakfast Wrap:
+##### The ingredients needed to make Bacon & Egg Breakfast Wrap:
 
 1. Make ready 1 large 🍅 wrap
 1. Take 1 egg
@@ -62,7 +62,7 @@ The term bacon comes from various Germanic and French dialects. It derives from 
 
 <!--inarticleads2-->
 
-##### Steps to make Bacon &amp; Egg Breakfast Wrap:
+##### Steps to make Bacon & Egg Breakfast Wrap:
 
 1. Cook bacon drain and, set aside then add, oil to a skillet when heated add, egg when done assemble.
 1. Heat wrap then, add egg, bacon, and cheese then wrap i added fruit.
@@ -70,4 +70,4 @@ The term bacon comes from various Germanic and French dialects. It derives from 
 
 Bacon definition: Bacon is salted or smoked meat which comes from the back or sides of a pig. Meaning, pronunciation, translations and examples. bacon. n. Delicious strips of juicy, pork heaven. Served often at breakfast with eggs, but perfectly good served alone and at Joe: &#34;There are only two kinds of people in this world, those who love bacon.&#34;. You CAN post bacon videos you&#39;ve created on your own Youtube Channel! 
 
-So that is going to wrap this up with this exceptional food bacon &amp; egg breakfast wrap recipe. Thank you very much for your time. I am sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this exceptional food bacon & egg breakfast wrap recipe. Thank you very much for your time. I am sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Remember to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

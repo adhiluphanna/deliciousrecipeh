@@ -64,6 +64,6 @@ Pasta brings it all together, and the sage adds an earthy element. Make this for
 1. And it’s done.
 
 
-Roasted spaghetti squash is a hearty main dish when tossed with bacon, garlic, &amp; cheese. Once your noodles are all scraped out, fry up a little bacon, add some garlic, and toss with your squash. Healthy, gluten free, and delicious comes together in this oven-roasted Parmesan Spaghetti Squash with Spinach, Bacon, and Pine Nuts. The combination of vegetables with nuts and bacon is amazing! Remove bacon with a slotted spoon. 
+Roasted spaghetti squash is a hearty main dish when tossed with bacon, garlic, & cheese. Once your noodles are all scraped out, fry up a little bacon, add some garlic, and toss with your squash. Healthy, gluten free, and delicious comes together in this oven-roasted Parmesan Spaghetti Squash with Spinach, Bacon, and Pine Nuts. The combination of vegetables with nuts and bacon is amazing! Remove bacon with a slotted spoon. 
 
 So that's going to wrap it up for this special food squash with bacon recipe. Thank you very much for your time. I am confident you can make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

@@ -61,7 +61,7 @@ To get started with this recipe, we have to prepare a few components. You can ha
 
 ##### The ingredients needed to make Bacon Cheddar Duchesse Potatoes:
 
-1. Prepare 3 each Idaho potatoes(1.25-1.5 pounds-ish) -- peeled &amp; diced 1&#34;
+1. Prepare 3 each Idaho potatoes(1.25-1.5 pounds-ish) -- peeled & diced 1&#34;
 1. Make ready  water- 1 inch above the potatoes
 1. Get 1 teaspoon salt
 1. Prepare 1 ounce butter – softened

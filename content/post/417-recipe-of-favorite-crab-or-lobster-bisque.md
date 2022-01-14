@@ -26,10 +26,10 @@ recipeingredient:
 - "1 tsp Thyme"
 - "2 tsp Worcestershire sauce"
 recipeinstructions:
-- "Very finely chop the onion, celery &amp; carrot."
-- "Make sure you get as much of the crab shell out as you can. There are some tips &amp; tricks to doing this that you can look up on Google."
+- "Very finely chop the onion, celery & carrot."
+- "Make sure you get as much of the crab shell out as you can. There are some tips & tricks to doing this that you can look up on Google."
 - "With a large pot on medium heat, melt butter and then add flour. Stir until roux bubbles."
-- "Add onion, celery &amp; carrot. Cook/stir until vegetables are soft."
+- "Add onion, celery & carrot. Cook/stir until vegetables are soft."
 - "Add the rest of the ingredients except for crab/lobster meat. Stir until you get desired thickness."
 - "Add crab/lobster meat. Stir and cook long enough for meat to heat up."
 - "That&#39;s it. Serve. Let me know what you think please!"
@@ -72,7 +72,7 @@ To begin with this recipe, we have to prepare a few components. You can have cra
 1. Get 2 cups Seafood Stock
 1. Get 14 oz Tomato Puree
 1. Make ready 1 cup Heavy Whipping Cream
-1. Make ready 1 cup Half &amp; Half
+1. Make ready 1 cup Half & Half
 1. Prepare 2 tbsp Finely Chopped Sweet Onion
 1. Take 4 tbsp Butter
 1. Make ready 1 Finely Chopped Celery Stalk
@@ -89,10 +89,10 @@ To begin with this recipe, we have to prepare a few components. You can have cra
 
 ##### Steps to make Crab or Lobster Bisque:
 
-1. Very finely chop the onion, celery &amp; carrot.
-1. Make sure you get as much of the crab shell out as you can. There are some tips &amp; tricks to doing this that you can look up on Google.
+1. Very finely chop the onion, celery & carrot.
+1. Make sure you get as much of the crab shell out as you can. There are some tips & tricks to doing this that you can look up on Google.
 1. With a large pot on medium heat, melt butter and then add flour. Stir until roux bubbles.
-1. Add onion, celery &amp; carrot. Cook/stir until vegetables are soft.
+1. Add onion, celery & carrot. Cook/stir until vegetables are soft.
 1. Add the rest of the ingredients except for crab/lobster meat. Stir until you get desired thickness.
 1. Add crab/lobster meat. Stir and cook long enough for meat to heat up.
 1. That&#39;s it. Serve. Let me know what you think please!

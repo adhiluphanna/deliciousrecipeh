@@ -54,7 +54,7 @@ To get started with this recipe, we must prepare a few ingredients. You can have
 ##### The ingredients needed to make Crock Pot Cocktail Weiner&#39;s:
 
 1. Take 2 packages cocktail weiners
-1. Prepare 2 cup sweet &amp; tangy bbq sauce
+1. Prepare 2 cup sweet & tangy bbq sauce
 1. Take 2 1/2 tbsp grape jelly
 1. Take 1/3 cup brown sugar
 1. Prepare 1 tbsp garlic powder

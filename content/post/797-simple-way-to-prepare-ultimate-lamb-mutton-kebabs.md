@@ -22,7 +22,7 @@ recipeingredient:
 - "3 tsp plain flour"
 - "1 1/2 tsp salt OR to taste"
 recipeinstructions:
-- "Crush/dice together the 2 shallots, 4 cloves of garlic, 1 inch ginger, optional green chillies, 1 tsp whole cumin seeds &amp; 1 tsp whole coriander seeds. Add the crushed mixture to the mincemeat."
+- "Crush/dice together the 2 shallots, 4 cloves of garlic, 1 inch ginger, optional green chillies, 1 tsp whole cumin seeds & 1 tsp whole coriander seeds. Add the crushed mixture to the mincemeat."
 - "Add the chopped coriander, 1 egg, 3 tsp plain flour, 2 tsp salt OR to taste. Mix together. You can add some optional sliced green chillies too if you like it spicy! Mix together."
 - "Apply a little oil to your hands and shape into patties. Another cheat option is to get a lid from a jar and put some cling film over, brush a little oil it and then use that to shape your patties."
 - "You can deep fry, shallow fry or grill your kebabs. Enjoy your kebabs"
@@ -77,7 +77,7 @@ To begin with this particular recipe, we have to prepare a few ingredients. You 
 
 ##### Steps to make Lamb/Mutton Kebabs:
 
-1. Crush/dice together the 2 shallots, 4 cloves of garlic, 1 inch ginger, optional green chillies, 1 tsp whole cumin seeds &amp; 1 tsp whole coriander seeds. Add the crushed mixture to the mincemeat.
+1. Crush/dice together the 2 shallots, 4 cloves of garlic, 1 inch ginger, optional green chillies, 1 tsp whole cumin seeds & 1 tsp whole coriander seeds. Add the crushed mixture to the mincemeat.
 1. Add the chopped coriander, 1 egg, 3 tsp plain flour, 2 tsp salt OR to taste. Mix together. You can add some optional sliced green chillies too if you like it spicy! Mix together.
 1. Apply a little oil to your hands and shape into patties. Another cheat option is to get a lid from a jar and put some cling film over, brush a little oil it and then use that to shape your patties.
 1. You can deep fry, shallow fry or grill your kebabs. Enjoy your kebabs

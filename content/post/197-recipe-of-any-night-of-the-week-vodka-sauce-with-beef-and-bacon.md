@@ -33,7 +33,7 @@ recipeinstructions:
 - "Add the heavy cream"
 - "Simmer for 10 min"
 - "Remove bay leaf"
-- "Add to cooked pasta &amp; enjoy!"
+- "Add to cooked pasta & enjoy!"
 categories:
 - Recipe
 tags:
@@ -97,7 +97,7 @@ Vodka sauce is a very interesting recipe for the simple fact that vodka doesn&#3
 1. Add the heavy cream
 1. Simmer for 10 min
 1. Remove bay leaf
-1. Add to cooked pasta &amp; enjoy!
+1. Add to cooked pasta & enjoy!
 
 
 View top rated Vodka sauce and bacon recipes with ratings and reviews. Baked Beans Supreme, Eggplant And Bacon Skewers, Spinach and Bacon Quiche, etc. Vodka Sauce I love vodka sauce and my friend Hila loves it too. This homemade creamy pink vodka sauce is the perfect recipe for date night in! It&#39;s really simple to make and I promise you&#39;ll never go back to jarred There&#39;s so many different versions of vodka sauce recipes but the base is tomatoes, vodka, and heavy cream. 

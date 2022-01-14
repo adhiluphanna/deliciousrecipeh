@@ -16,8 +16,8 @@ recipeingredient:
 - " Cinnamon"
 - " Water and ice"
 recipeinstructions:
-- "In a pot add tamarin pot&amp; all the remaining ingredients, add water and bring to a boil"
-- "When boiled mash to get out the fresh&amp; the juice."
+- "In a pot add tamarin pot& all the remaining ingredients, add water and bring to a boil"
+- "When boiled mash to get out the fresh& the juice."
 - "Allow to boil then drain by adding water to the suitable consistency,put ice and serve in a glass cup."
 categories:
 - Recipe
@@ -64,8 +64,8 @@ To begin with this recipe, we have to first prepare a few components. You can ha
 
 ##### Steps to make Tamarind Cocktail:
 
-1. In a pot add tamarin pot&amp; all the remaining ingredients, add water and bring to a boil
-1. When boiled mash to get out the fresh&amp; the juice.
+1. In a pot add tamarin pot& all the remaining ingredients, add water and bring to a boil
+1. When boiled mash to get out the fresh& the juice.
 1. Allow to boil then drain by adding water to the suitable consistency,put ice and serve in a glass cup.
 
 

@@ -32,7 +32,7 @@ recipeinstructions:
 - "Add oil in a pan. Fry crabs till golden adding 1 tsp turmeric,1 tsp red chilli powder and salt and keep aside. Add into the oil black cumin seeds,red chilli,bay leaves and saute for few seconds."
 - "Add onion ginger garlic chilli paste. Cook for 5 minutes in low flame"
 - "Add tomato pieces. Cook for 4 minutes. Add powderd masalas except garam masala powder. Cook for 4 minutes"
-- "Add 2 &amp;1/2 glasses of water. Boil for 2 minutes. Add crabs. Boil mix cornflour with 1 tbsp water and add. Cook for 5 minutes."
+- "Add 2 &1/2 glasses of water. Boil for 2 minutes. Add crabs. Boil mix cornflour with 1 tbsp water and add. Cook for 5 minutes."
 - "Add garam masala. Ready to serve"
 categories:
 - Recipe
@@ -95,7 +95,7 @@ To get started with this particular recipe, we have to first prepare a few ingre
 1. Add oil in a pan. Fry crabs till golden adding 1 tsp turmeric,1 tsp red chilli powder and salt and keep aside. Add into the oil black cumin seeds,red chilli,bay leaves and saute for few seconds.
 1. Add onion ginger garlic chilli paste. Cook for 5 minutes in low flame
 1. Add tomato pieces. Cook for 4 minutes. Add powderd masalas except garam masala powder. Cook for 4 minutes
-1. Add 2 &amp;1/2 glasses of water. Boil for 2 minutes. Add crabs. Boil mix cornflour with 1 tbsp water and add. Cook for 5 minutes.
+1. Add 2 &1/2 glasses of water. Boil for 2 minutes. Add crabs. Boil mix cornflour with 1 tbsp water and add. Cook for 5 minutes.
 1. Add garam masala. Ready to serve
 
 

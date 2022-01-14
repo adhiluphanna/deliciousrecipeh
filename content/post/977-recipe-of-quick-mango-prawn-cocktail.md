@@ -23,11 +23,11 @@ recipeingredient:
 - "To taste Salt"
 recipeinstructions:
 - "Keep ready all the ingredients."
-- "Deshell &amp; devein the prawns, wash well &amp; boil with some salt &amp; water. Then keep the boiled prawns marinated with lemon juice &amp; ½ tsp black pepper powder."
-- "Cut the ripe mango &amp; raw mango into halves, make pulp with one half &amp; cut the other halves into long thick strips."
-- "In a bowl take the plain mayonnaise, mustard sauce, worcestershire sauce, capsico sauce, tomato sauce, ripe mango pulp, raw mango pulp, the remaining ½ tsp black pepper powder &amp; salt as per taste. Mix it all together very well. Then keep aside 10-12 boiled marinated prawns &amp; put the rest of the prawns in this mix."
+- "Deshell & devein the prawns, wash well & boil with some salt & water. Then keep the boiled prawns marinated with lemon juice & ½ tsp black pepper powder."
+- "Cut the ripe mango & raw mango into halves, make pulp with one half & cut the other halves into long thick strips."
+- "In a bowl take the plain mayonnaise, mustard sauce, worcestershire sauce, capsico sauce, tomato sauce, ripe mango pulp, raw mango pulp, the remaining ½ tsp black pepper powder & salt as per taste. Mix it all together very well. Then keep aside 10-12 boiled marinated prawns & put the rest of the prawns in this mix."
 - "Keep the mixture in the refrigerator for a while."
-- "Then pour the cool mixture in serving glasses of your choice &amp; garnish with the long thick strips of ripe mango &amp; raw mango &amp; the marinated prawns that had been kept aside."
+- "Then pour the cool mixture in serving glasses of your choice & garnish with the long thick strips of ripe mango & raw mango & the marinated prawns that had been kept aside."
 - "Mango Prawn Cocktail is ready to serve."
 categories:
 - Recipe
@@ -82,11 +82,11 @@ To get started with this recipe, we have to prepare a few components. You can co
 ##### Instructions to make Mango prawn cocktail:
 
 1. Keep ready all the ingredients.
-1. Deshell &amp; devein the prawns, wash well &amp; boil with some salt &amp; water. Then keep the boiled prawns marinated with lemon juice &amp; ½ tsp black pepper powder.
-1. Cut the ripe mango &amp; raw mango into halves, make pulp with one half &amp; cut the other halves into long thick strips.
-1. In a bowl take the plain mayonnaise, mustard sauce, worcestershire sauce, capsico sauce, tomato sauce, ripe mango pulp, raw mango pulp, the remaining ½ tsp black pepper powder &amp; salt as per taste. Mix it all together very well. Then keep aside 10-12 boiled marinated prawns &amp; put the rest of the prawns in this mix.
+1. Deshell & devein the prawns, wash well & boil with some salt & water. Then keep the boiled prawns marinated with lemon juice & ½ tsp black pepper powder.
+1. Cut the ripe mango & raw mango into halves, make pulp with one half & cut the other halves into long thick strips.
+1. In a bowl take the plain mayonnaise, mustard sauce, worcestershire sauce, capsico sauce, tomato sauce, ripe mango pulp, raw mango pulp, the remaining ½ tsp black pepper powder & salt as per taste. Mix it all together very well. Then keep aside 10-12 boiled marinated prawns & put the rest of the prawns in this mix.
 1. Keep the mixture in the refrigerator for a while.
-1. Then pour the cool mixture in serving glasses of your choice &amp; garnish with the long thick strips of ripe mango &amp; raw mango &amp; the marinated prawns that had been kept aside.
+1. Then pour the cool mixture in serving glasses of your choice & garnish with the long thick strips of ripe mango & raw mango & the marinated prawns that had been kept aside.
 1. Mango Prawn Cocktail is ready to serve.
 
 

@@ -23,9 +23,9 @@ recipeingredient:
 recipeinstructions:
 - "Preheat oven to 350° F"
 - "In a large skillet Fry bacon until crisp set aside Reserve enough bacon grease to start frying Burger"
-- "Brown ground beef &amp; 2/3 of the onion drain off excess Grease (I like waiting till the beef is halfway cooked before adding my onions) add Montreal steak spice salt pepper and sage to your taste and liking"
+- "Brown ground beef & 2/3 of the onion drain off excess Grease (I like waiting till the beef is halfway cooked before adding my onions) add Montreal steak spice salt pepper and sage to your taste and liking"
 - "Mix into ground beef... crumbled bacon, 2 cups shredded cheese, cheddar cheese soup, 2 cups sour cream and pour mixture into 9 by 13 greased baking dish spreading it out evenly"
-- "Layer tater tots evenly in rows covering the entire surface of meat mixture &amp; bake on the middle rack for 45 to 50 min. until tater tots are golden brown remove and top with remaining cheese return to oven until melted"
+- "Layer tater tots evenly in rows covering the entire surface of meat mixture & bake on the middle rack for 45 to 50 min. until tater tots are golden brown remove and top with remaining cheese return to oven until melted"
 - "I like to serve mine with sliced dill pickle chopped onion and it&#39;s not &#34;bacon cheeseburger&#34; without ketchup and mustard of course.... enjoy!"
 categories:
 - Recipe
@@ -68,7 +68,7 @@ To get started with this recipe, we have to first prepare a few ingredients. You
 1. Get 2 cups sour cream
 1. Get 1 tbls Montreal steak spice
 1. Get 1 tsp sage
-1. Take  Salt &amp; pepper to personal preference
+1. Take  Salt & pepper to personal preference
 1. Take  Dill pickles sliced
 
 
@@ -80,9 +80,9 @@ Cheeseburger Tater Tot Casserole is everything you need for a cozy winter dinner
 
 1. Preheat oven to 350° F
 1. In a large skillet Fry bacon until crisp set aside Reserve enough bacon grease to start frying Burger
-1. Brown ground beef &amp; 2/3 of the onion drain off excess Grease (I like waiting till the beef is halfway cooked before adding my onions) add Montreal steak spice salt pepper and sage to your taste and liking
+1. Brown ground beef & 2/3 of the onion drain off excess Grease (I like waiting till the beef is halfway cooked before adding my onions) add Montreal steak spice salt pepper and sage to your taste and liking
 1. Mix into ground beef... crumbled bacon, 2 cups shredded cheese, cheddar cheese soup, 2 cups sour cream and pour mixture into 9 by 13 greased baking dish spreading it out evenly
-1. Layer tater tots evenly in rows covering the entire surface of meat mixture &amp; bake on the middle rack for 45 to 50 min. until tater tots are golden brown remove and top with remaining cheese return to oven until melted
+1. Layer tater tots evenly in rows covering the entire surface of meat mixture & bake on the middle rack for 45 to 50 min. until tater tots are golden brown remove and top with remaining cheese return to oven until melted
 1. I like to serve mine with sliced dill pickle chopped onion and it&#39;s not &#34;bacon cheeseburger&#34; without ketchup and mustard of course.... enjoy!
 
 

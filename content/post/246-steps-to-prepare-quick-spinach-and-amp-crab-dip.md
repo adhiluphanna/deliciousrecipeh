@@ -42,20 +42,20 @@ recipecategory: Dessert
 ---
 
 
-![Spinach &amp; Crab Dip](https://img-global.cpcdn.com/recipes/a53d1f64802ecee9/751x532cq70/spinach-crab-dip-recipe-main-photo.jpg)
+![Spinach & Crab Dip](https://img-global.cpcdn.com/recipes/a53d1f64802ecee9/751x532cq70/spinach-crab-dip-recipe-main-photo.jpg)
 
-Hey everyone, it's me, Dave, welcome to my recipe page. Today, I will show you a way to prepare a special dish, spinach &amp; crab dip. One of my favorites food recipes. For mine, I'm gonna make it a bit unique. This will be really delicious.
+Hey everyone, it's me, Dave, welcome to my recipe page. Today, I will show you a way to prepare a special dish, spinach & crab dip. One of my favorites food recipes. For mine, I'm gonna make it a bit unique. This will be really delicious.
 
-Spinach &amp; Crab Dip is one of the most favored of recent trending meals on earth. It is enjoyed by millions daily. It is easy, it's quick, it tastes delicious. They are fine and they look wonderful. Spinach &amp; Crab Dip is something that I've loved my whole life.
+Spinach & Crab Dip is one of the most favored of recent trending meals on earth. It is enjoyed by millions daily. It is easy, it's quick, it tastes delicious. They are fine and they look wonderful. Spinach & Crab Dip is something that I've loved my whole life.
 
 Перевод слова spinach, американское и британское произношение, транскрипция, словосочетания, примеры использования. Spinach is a leafy, green vegetable. It is one of the most nutritious foods on earth.
 
 
-To get started with this particular recipe, we have to first prepare a few components. You can cook spinach &amp; crab dip using 10 ingredients and 3 steps. Here is how you can achieve it.
+To get started with this particular recipe, we have to first prepare a few components. You can cook spinach & crab dip using 10 ingredients and 3 steps. Here is how you can achieve it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Spinach &amp; Crab Dip:
+##### The ingredients needed to make Spinach & Crab Dip:
 
 1. Make ready 1 stick butter
 1. Make ready 1 Tbs lemon
@@ -73,7 +73,7 @@ Spinach may also help with several health conditions, according to Megan Ware, a
 
 <!--inarticleads2-->
 
-##### Instructions to make Spinach &amp; Crab Dip:
+##### Instructions to make Spinach & Crab Dip:
 
 1. Melt butter in a medium frying pan. Add in lemon juice, garlic, spinach, cajan seasoning, hot sauce and white wine. Cook for 5 minutes on medium low heat.
 1. Add in heavy cream, cook for another 5 minutes, let it reduce.
@@ -82,4 +82,4 @@ Spinach may also help with several health conditions, according to Megan Ware, a
 
 It is an annual plant (rarely biennial), which grows to a height of up to one metre. Spinach is loaded with Vitamin C, folic acid, Vitamin K, calcium, fiber Spinach possess folate, potassium and various antioxidants which helps to provide neurological. What&#39;s New and Beneficial About Spinach. Recent studies continue to underscore the amazing versatility of spinach. Because this leafy vegetable is rich in water-soluble vitamins, fat-soluble. 
 
-So that is going to wrap this up with this exceptional food spinach &amp; crab dip recipe. Thank you very much for your time. I am sure that you can make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that is going to wrap this up with this exceptional food spinach & crab dip recipe. Thank you very much for your time. I am sure that you can make this at home. There is gonna be more interesting food in home recipes coming up. Don't forget to save this page in your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

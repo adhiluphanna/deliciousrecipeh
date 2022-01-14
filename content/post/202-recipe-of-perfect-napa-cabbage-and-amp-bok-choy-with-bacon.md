@@ -44,20 +44,20 @@ recipecategory: Dinner
 ---
 
 
-![Napa Cabbage &amp; Bok Choy with Bacon](https://img-global.cpcdn.com/recipes/e1a57ed7ac184b43/751x532cq70/napa-cabbage-bok-choy-with-bacon-recipe-main-photo.jpg)
+![Napa Cabbage & Bok Choy with Bacon](https://img-global.cpcdn.com/recipes/e1a57ed7ac184b43/751x532cq70/napa-cabbage-bok-choy-with-bacon-recipe-main-photo.jpg)
 
-Hey everyone, it is me, Dave, welcome to my recipe page. Today, we're going to prepare a special dish, napa cabbage &amp; bok choy with bacon. It is one of my favorites. This time, I will make it a little bit tasty. This is gonna smell and look delicious.
+Hey everyone, it is me, Dave, welcome to my recipe page. Today, we're going to prepare a special dish, napa cabbage & bok choy with bacon. It is one of my favorites. This time, I will make it a little bit tasty. This is gonna smell and look delicious.
 
-Napa Cabbage &amp; Bok Choy with Bacon is one of the most well liked of current trending meals on earth. It's easy, it's quick, it tastes delicious. It is appreciated by millions daily. Napa Cabbage &amp; Bok Choy with Bacon is something which I've loved my whole life. They're fine and they look fantastic.
-
-
+Napa Cabbage & Bok Choy with Bacon is one of the most well liked of current trending meals on earth. It's easy, it's quick, it tastes delicious. It is appreciated by millions daily. Napa Cabbage & Bok Choy with Bacon is something which I've loved my whole life. They're fine and they look fantastic.
 
 
-To begin with this particular recipe, we must first prepare a few ingredients. You can have napa cabbage &amp; bok choy with bacon using 9 ingredients and 6 steps. Here is how you cook that.
+
+
+To begin with this particular recipe, we must first prepare a few ingredients. You can have napa cabbage & bok choy with bacon using 9 ingredients and 6 steps. Here is how you cook that.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Napa Cabbage &amp; Bok Choy with Bacon:
+##### The ingredients needed to make Napa Cabbage & Bok Choy with Bacon:
 
 1. Get 1/2 head Napa cabbage
 1. Get 1 small bok choy
@@ -74,7 +74,7 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 <!--inarticleads2-->
 
-##### Instructions to make Napa Cabbage &amp; Bok Choy with Bacon:
+##### Instructions to make Napa Cabbage & Bok Choy with Bacon:
 
 1. In a small bowl wisk together soy sauce, hoisin sauce, honey, ginger, sesame oil, and pepper flakes. Set aside.
 1. Cut bacon to 1/4&#34;strips. Cut green portions of cabbage and bok choy from the white portions. Slice whites into 1/4&#34; pieces, greens into 1/2&#34; pieces. Set green pieces aside for later.
@@ -86,4 +86,4 @@ To begin with this particular recipe, we must first prepare a few ingredients. Y
 
 
 
-So that is going to wrap it up for this special food napa cabbage &amp; bok choy with bacon recipe. Thanks so much for your time. I'm sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!
+So that is going to wrap it up for this special food napa cabbage & bok choy with bacon recipe. Thanks so much for your time. I'm sure you will make this at home. There's gonna be more interesting food in home recipes coming up. Don't forget to save this page on your browser, and share it to your family, colleague and friends. Thanks again for reading. Go on get cooking!

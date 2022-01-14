@@ -20,10 +20,10 @@ recipeingredient:
 - "2 tbsp worcesteshire sauce"
 - "2 tbsp lemon juice"
 recipeinstructions:
-- "Devein, shell &amp; clean the shrimp"
-- "Finally slice the lettuce &amp; avocado"
-- "Combine the mayo, ketchup, worcesteshire &amp; lemon juice. Salt &amp; pepper to taste."
-- "Now its about building... Place lettuce at base of bowl followed by shrimp, avocado &amp; sauce."
+- "Devein, shell & clean the shrimp"
+- "Finally slice the lettuce & avocado"
+- "Combine the mayo, ketchup, worcesteshire & lemon juice. Salt & pepper to taste."
+- "Now its about building... Place lettuce at base of bowl followed by shrimp, avocado & sauce."
 categories:
 - Recipe
 tags:
@@ -74,10 +74,10 @@ To get started with this particular recipe, we must prepare a few components. Yo
 
 ##### Steps to make Jimmy Brown&#39;s Shrimp Cocktail:
 
-1. Devein, shell &amp; clean the shrimp
-1. Finally slice the lettuce &amp; avocado
-1. Combine the mayo, ketchup, worcesteshire &amp; lemon juice. Salt &amp; pepper to taste.
-1. Now its about building... Place lettuce at base of bowl followed by shrimp, avocado &amp; sauce.
+1. Devein, shell & clean the shrimp
+1. Finally slice the lettuce & avocado
+1. Combine the mayo, ketchup, worcesteshire & lemon juice. Salt & pepper to taste.
+1. Now its about building... Place lettuce at base of bowl followed by shrimp, avocado & sauce.
 
 
 

@@ -47,7 +47,7 @@ Hey everyone, hope you are having an incredible day today. Today, I'm gonna show
 
 Potato-bacon chowder is one of the most popular of recent trending foods in the world. It is enjoyed by millions daily. It's simple, it's quick, it tastes yummy. Potato-bacon chowder is something which I've loved my entire life. They are fine and they look fantastic.
 
-You saved Potato, Bacon, and Corn Chowder to your Favorites. This cozy potato corn and bacon chowder is a quick, easy &amp; filling meal! Potato Corn Chowder with Bacon. by Natalie.
+You saved Potato, Bacon, and Corn Chowder to your Favorites. This cozy potato corn and bacon chowder is a quick, easy & filling meal! Potato Corn Chowder with Bacon. by Natalie.
 
 
 To begin with this recipe, we have to first prepare a few ingredients. You can have potato-bacon chowder using 9 ingredients and 4 steps. Here is how you cook it.

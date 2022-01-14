@@ -19,8 +19,8 @@ recipeingredient:
 - "2 tbs butter"
 - "2 green onionsscallions"
 recipeinstructions:
-- "Cook chicken (or you can use pre-cooked). I usually boil water with a little bit of chicken broth &amp; garlic &amp; herb seasoning. When water is boiled, add chicken &amp; cook 20 minutes. Start cooking bacon over medium heat. Boil water for pasta &amp; cook 1 minute less than package says. Once chicken is cooked, remove &amp; cube."
-- "Once bacon is almost done, add chicken l, Sundried tomatoes, butter &amp; green onion, sprinkle garlic powder. Saute until chicken is warm &amp; bacon is crisp. *optional: add 1tsp minced garlic &amp; chop bacon*"
+- "Cook chicken (or you can use pre-cooked). I usually boil water with a little bit of chicken broth & garlic & herb seasoning. When water is boiled, add chicken & cook 20 minutes. Start cooking bacon over medium heat. Boil water for pasta & cook 1 minute less than package says. Once chicken is cooked, remove & cube."
+- "Once bacon is almost done, add chicken l, Sundried tomatoes, butter & green onion, sprinkle garlic powder. Saute until chicken is warm & bacon is crisp. *optional: add 1tsp minced garlic & chop bacon*"
 - "Add cooked pasta to pan, then bag of cheese. Mix around. If desired add more cheese or alfredo sauce. Enjoy."
 categories:
 - Recipe
@@ -71,8 +71,8 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 
 ##### Steps to make Chicken Bacon Sundried Tomato Pasta:
 
-1. Cook chicken (or you can use pre-cooked). I usually boil water with a little bit of chicken broth &amp; garlic &amp; herb seasoning. When water is boiled, add chicken &amp; cook 20 minutes. Start cooking bacon over medium heat. Boil water for pasta &amp; cook 1 minute less than package says. Once chicken is cooked, remove &amp; cube.
-1. Once bacon is almost done, add chicken l, Sundried tomatoes, butter &amp; green onion, sprinkle garlic powder. Saute until chicken is warm &amp; bacon is crisp. *optional: add 1tsp minced garlic &amp; chop bacon*
+1. Cook chicken (or you can use pre-cooked). I usually boil water with a little bit of chicken broth & garlic & herb seasoning. When water is boiled, add chicken & cook 20 minutes. Start cooking bacon over medium heat. Boil water for pasta & cook 1 minute less than package says. Once chicken is cooked, remove & cube.
+1. Once bacon is almost done, add chicken l, Sundried tomatoes, butter & green onion, sprinkle garlic powder. Saute until chicken is warm & bacon is crisp. *optional: add 1tsp minced garlic & chop bacon*
 1. Add cooked pasta to pan, then bag of cheese. Mix around. If desired add more cheese or alfredo sauce. Enjoy.
 
 

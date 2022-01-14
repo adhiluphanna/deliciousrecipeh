@@ -20,7 +20,7 @@ recipeinstructions:
 - "Add cake mix on top"
 - "Add melted butter on top as evenly as possible (use more if you prefer)"
 - "Bake at 375 degrees for 50-65 minutes depending on you preference of doneness"
-- "Let cool &amp; enjoy. Top with ice cream, whip cream or whatever you like😊"
+- "Let cool & enjoy. Top with ice cream, whip cream or whatever you like😊"
 categories:
 - Recipe
 tags:
@@ -71,7 +71,7 @@ To begin with this particular recipe, we must prepare a few ingredients. You can
 1. Add cake mix on top
 1. Add melted butter on top as evenly as possible (use more if you prefer)
 1. Bake at 375 degrees for 50-65 minutes depending on you preference of doneness
-1. Let cool &amp; enjoy. Top with ice cream, whip cream or whatever you like😊
+1. Let cool & enjoy. Top with ice cream, whip cream or whatever you like😊
 
 
 

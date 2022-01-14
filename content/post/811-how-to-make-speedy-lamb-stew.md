@@ -24,7 +24,7 @@ recipeinstructions:
 - "add oil and ginger garlic paste"
 - "remove the tomato paste with ginger garlic and add in the same pan the lamb. allow it to cook for about 5-7 minutes. remove it from the pan."
 - "Pour in the diced or sliced onions and allow to cook in the same oil as the lamb."
-- "Once the onions are cooked, add in tomato &amp; ginger garlic paste (cooked earlier) and the lamb."
+- "Once the onions are cooked, add in tomato & ginger garlic paste (cooked earlier) and the lamb."
 - "Add in remaining ingredients into the pot. Wine being last. You can add in more vegetables like celery; potatoes; radish; etc."
 - "Add in half a cup of water and allow to cook on the stove. I say 1 hour is sufficient if you have really good pieces of lamb that softens easily; when I have time I allow it to stay on the stove for a good 2 hours on low heat."
 - "Add in salt and pepper to taste. I use black peppercorn."
@@ -82,7 +82,7 @@ To begin with this recipe, we must prepare a few ingredients. You can have lamb 
 1. add oil and ginger garlic paste
 1. remove the tomato paste with ginger garlic and add in the same pan the lamb. allow it to cook for about 5-7 minutes. remove it from the pan.
 1. Pour in the diced or sliced onions and allow to cook in the same oil as the lamb.
-1. Once the onions are cooked, add in tomato &amp; ginger garlic paste (cooked earlier) and the lamb.
+1. Once the onions are cooked, add in tomato & ginger garlic paste (cooked earlier) and the lamb.
 1. Add in remaining ingredients into the pot. Wine being last. You can add in more vegetables like celery; potatoes; radish; etc.
 1. Add in half a cup of water and allow to cook on the stove. I say 1 hour is sufficient if you have really good pieces of lamb that softens easily; when I have time I allow it to stay on the stove for a good 2 hours on low heat.
 1. Add in salt and pepper to taste. I use black peppercorn.

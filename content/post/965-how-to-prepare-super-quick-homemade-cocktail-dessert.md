@@ -18,11 +18,11 @@ recipeinstructions:
 - "Chop candy biscuits in a chopper. Form will be like a powder then set a side."
 - "Beast cream only for 4-5 minutes."
 - "Drain all juice from fruit cocktail.If there will be a drop of juice dessert will be watery."
-- "Now add 2tbsp powdered biscuits, drained fruit cocktail &amp; icing sugar into cream &amp; mix well."
+- "Now add 2tbsp powdered biscuits, drained fruit cocktail & icing sugar into cream & mix well."
 - "Now pour the dessert into a dish spread all powdered biscuits on it very well."
-- "Put it in the fridge &amp; chill well &amp; serve."
+- "Put it in the fridge & chill well & serve."
 - "If u&#39;ve short time to serve then u can put it in the freezer for 1-2 hours."
-- "Very simple &amp; very easy time saving dessert hope u all will like it."
+- "Very simple & very easy time saving dessert hope u all will like it."
 - "Will wait for ur feedback."
 - "Good luck."
 categories:
@@ -72,11 +72,11 @@ To begin with this particular recipe, we have to first prepare a few components.
 1. Chop candy biscuits in a chopper. Form will be like a powder then set a side.
 1. Beast cream only for 4-5 minutes.
 1. Drain all juice from fruit cocktail.If there will be a drop of juice dessert will be watery.
-1. Now add 2tbsp powdered biscuits, drained fruit cocktail &amp; icing sugar into cream &amp; mix well.
+1. Now add 2tbsp powdered biscuits, drained fruit cocktail & icing sugar into cream & mix well.
 1. Now pour the dessert into a dish spread all powdered biscuits on it very well.
-1. Put it in the fridge &amp; chill well &amp; serve.
+1. Put it in the fridge & chill well & serve.
 1. If u&#39;ve short time to serve then u can put it in the freezer for 1-2 hours.
-1. Very simple &amp; very easy time saving dessert hope u all will like it.
+1. Very simple & very easy time saving dessert hope u all will like it.
 1. Will wait for ur feedback.
 1. Good luck.
 

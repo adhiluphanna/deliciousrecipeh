@@ -39,20 +39,20 @@ recipecategory: Dessert
 ---
 
 
-![Lamb &amp; Mint BBQ Skewers](https://img-global.cpcdn.com/recipes/c9a600e13d96be28/751x532cq70/lamb-mint-bbq-skewers-recipe-main-photo.jpg)
+![Lamb & Mint BBQ Skewers](https://img-global.cpcdn.com/recipes/c9a600e13d96be28/751x532cq70/lamb-mint-bbq-skewers-recipe-main-photo.jpg)
 
-Hey everyone, hope you are having an amazing day today. Today, I will show you a way to prepare a distinctive dish, lamb &amp; mint bbq skewers. One of my favorites. For mine, I will make it a little bit tasty. This will be really delicious.
-
-
-
-Lamb &amp; Mint BBQ Skewers is one of the most well liked of current trending meals in the world. It's appreciated by millions daily. It is simple, it is quick, it tastes delicious. Lamb &amp; Mint BBQ Skewers is something that I've loved my entire life. They're fine and they look fantastic.
+Hey everyone, hope you are having an amazing day today. Today, I will show you a way to prepare a distinctive dish, lamb & mint bbq skewers. One of my favorites. For mine, I will make it a little bit tasty. This will be really delicious.
 
 
-To begin with this particular recipe, we have to prepare a few components. You can have lamb &amp; mint bbq skewers using 6 ingredients and 4 steps. Here is how you cook it.
+
+Lamb & Mint BBQ Skewers is one of the most well liked of current trending meals in the world. It's appreciated by millions daily. It is simple, it is quick, it tastes delicious. Lamb & Mint BBQ Skewers is something that I've loved my entire life. They're fine and they look fantastic.
+
+
+To begin with this particular recipe, we have to prepare a few components. You can have lamb & mint bbq skewers using 6 ingredients and 4 steps. Here is how you cook it.
 
 <!--inarticleads1-->
 
-##### The ingredients needed to make Lamb &amp; Mint BBQ Skewers:
+##### The ingredients needed to make Lamb & Mint BBQ Skewers:
 
 1. Prepare 4 lamb leg steaks, trimmed
 1. Make ready 3 tbsp olive oil
@@ -66,7 +66,7 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 <!--inarticleads2-->
 
-##### Steps to make Lamb &amp; Mint BBQ Skewers:
+##### Steps to make Lamb & Mint BBQ Skewers:
 
 1. Mix together the marinade ingredients.
 1. Dice the lamb leg into even chunks. Add to the marinade and use your hands to mix it all together and coat the meat.
@@ -76,4 +76,4 @@ To begin with this particular recipe, we have to prepare a few components. You c
 
 
 
-So that's going to wrap it up for this exceptional food lamb &amp; mint bbq skewers recipe. Thank you very much for reading. I am sure that you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!
+So that's going to wrap it up for this exceptional food lamb & mint bbq skewers recipe. Thank you very much for reading. I am sure that you can make this at home. There's gonna be more interesting food at home recipes coming up. Don't forget to bookmark this page on your browser, and share it to your family, friends and colleague. Thank you for reading. Go on get cooking!

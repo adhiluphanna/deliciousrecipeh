@@ -23,7 +23,7 @@ recipeingredient:
 recipeinstructions:
 - "Pre heat oven 170C"
 - "Smash the bananas very well and when they are ready, mix them with the eggs, honey and peanut butter"
-- "Add the flour, baking powder, salt &amp; the chocolate powder. Mix well and add the walnuts &amp; mix again."
+- "Add the flour, baking powder, salt & the chocolate powder. Mix well and add the walnuts & mix again."
 - "Add the mixture into the mold and heat it for 50-55 min. Enjoy 😍"
 categories:
 - Recipe
@@ -77,7 +77,7 @@ To get started with this particular recipe, we have to prepare a few components.
 
 1. Pre heat oven 170C
 1. Smash the bananas very well and when they are ready, mix them with the eggs, honey and peanut butter
-1. Add the flour, baking powder, salt &amp; the chocolate powder. Mix well and add the walnuts &amp; mix again.
+1. Add the flour, baking powder, salt & the chocolate powder. Mix well and add the walnuts & mix again.
 1. Add the mixture into the mold and heat it for 50-55 min. Enjoy 😍
 
 

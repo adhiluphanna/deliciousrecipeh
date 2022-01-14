@@ -45,7 +45,7 @@ recipecategory: Dinner
 
 Hello everybody, it is Brad, welcome to our recipe page. Today, I'm gonna show you how to make a special dish, snow “namasu” with crab-flavored seafood, vegetables and fruits. One of my favorites. This time, I will make it a little bit unique. This will be really delicious.
 
-&#39;Namasu&#39; is vinegared vegetables and most commonly Daikon and Carrot are used because of their joyful red &amp; white colours. When I am mentally or physically very tired, I often have a craving for a dish called &#39;Namasu&#39; that is vinegared vegetables and most commonly Daikon and Carrot. Namasu is typically served as a Japanese New Year&#39;s dish.
+&#39;Namasu&#39; is vinegared vegetables and most commonly Daikon and Carrot are used because of their joyful red & white colours. When I am mentally or physically very tired, I often have a craving for a dish called &#39;Namasu&#39; that is vinegared vegetables and most commonly Daikon and Carrot. Namasu is typically served as a Japanese New Year&#39;s dish.
 
 Snow “Namasu” with Crab-Flavored Seafood, Vegetables and Fruits is one of the most well liked of recent trending meals on earth. It's appreciated by millions every day. It's easy, it's quick, it tastes delicious. They're fine and they look fantastic. Snow “Namasu” with Crab-Flavored Seafood, Vegetables and Fruits is something which I've loved my entire life.
 
