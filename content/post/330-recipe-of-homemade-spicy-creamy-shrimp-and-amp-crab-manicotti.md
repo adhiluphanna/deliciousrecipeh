@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Homemade Spicy Creamy Shrimp &amp;amp; Crab Manicotti"
-title: "Recipe of Homemade Spicy Creamy Shrimp &amp;amp; Crab Manicotti"
+description: "Recipe of Homemade Spicy Creamy Shrimp & Crab Manicotti"
+title: "Recipe of Homemade Spicy Creamy Shrimp & Crab Manicotti"
 slug: 330-recipe-of-homemade-spicy-creamy-shrimp-and-amp-crab-manicotti
 date: 2021-07-03T10:46:59.046Z
 image: https://img-global.cpcdn.com/recipes/4054bdfba7d33c24/751x532cq70/spicy-creamy-shrimp-crab-manicotti-recipe-main-photo.jpg

@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Favorite Prawn &amp;amp; Raspberry Cocktail"
-title: "How to Prepare Favorite Prawn &amp;amp; Raspberry Cocktail"
+description: "How to Prepare Favorite Prawn & Raspberry Cocktail"
+title: "How to Prepare Favorite Prawn & Raspberry Cocktail"
 slug: 1014-how-to-prepare-favorite-prawn-and-amp-raspberry-cocktail
 date: 2021-11-01T04:31:32.039Z
 image: https://img-global.cpcdn.com/recipes/5a04a805a22c853e/751x532cq70/prawn-raspberry-cocktail-recipe-main-photo.jpg

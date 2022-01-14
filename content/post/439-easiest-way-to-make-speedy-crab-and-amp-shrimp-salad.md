@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Make Speedy Crab &amp;amp; shrimp salad"
-title: "Easiest Way to Make Speedy Crab &amp;amp; shrimp salad"
+description: "Easiest Way to Make Speedy Crab & shrimp salad"
+title: "Easiest Way to Make Speedy Crab & shrimp salad"
 slug: 439-easiest-way-to-make-speedy-crab-and-amp-shrimp-salad
 date: 2021-05-31T06:13:46.618Z
 image: https://img-global.cpcdn.com/recipes/6185837232390144/751x532cq70/crab-shrimp-salad-recipe-main-photo.jpg

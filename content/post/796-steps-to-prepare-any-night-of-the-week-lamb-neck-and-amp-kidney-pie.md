@@ -1,6 +1,6 @@
 ---
-description: "Steps to Prepare Any-night-of-the-week Lamb Neck &amp;amp; Kidney Pie"
-title: "Steps to Prepare Any-night-of-the-week Lamb Neck &amp;amp; Kidney Pie"
+description: "Steps to Prepare Any-night-of-the-week Lamb Neck & Kidney Pie"
+title: "Steps to Prepare Any-night-of-the-week Lamb Neck & Kidney Pie"
 slug: 796-steps-to-prepare-any-night-of-the-week-lamb-neck-and-amp-kidney-pie
 date: 2021-06-10T14:00:22.091Z
 image: https://img-global.cpcdn.com/recipes/7f13c31716dc6a9b/751x532cq70/lamb-neck-kidney-pie-recipe-main-photo.jpg

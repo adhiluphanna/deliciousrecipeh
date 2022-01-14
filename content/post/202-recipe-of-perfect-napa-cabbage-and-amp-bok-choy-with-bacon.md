@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Perfect Napa Cabbage &amp;amp; Bok Choy with Bacon"
-title: "Recipe of Perfect Napa Cabbage &amp;amp; Bok Choy with Bacon"
+description: "Recipe of Perfect Napa Cabbage & Bok Choy with Bacon"
+title: "Recipe of Perfect Napa Cabbage & Bok Choy with Bacon"
 slug: 202-recipe-of-perfect-napa-cabbage-and-amp-bok-choy-with-bacon
 date: 2021-11-18T15:52:11.276Z
 image: https://img-global.cpcdn.com/recipes/e1a57ed7ac184b43/751x532cq70/napa-cabbage-bok-choy-with-bacon-recipe-main-photo.jpg

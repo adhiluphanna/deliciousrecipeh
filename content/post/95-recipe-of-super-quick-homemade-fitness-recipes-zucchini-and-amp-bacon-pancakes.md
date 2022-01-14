@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Super Quick Homemade Fitness Recipes - Zucchini &amp;amp; Bacon Pancakes"
-title: "Recipe of Super Quick Homemade Fitness Recipes - Zucchini &amp;amp; Bacon Pancakes"
+description: "Recipe of Super Quick Homemade Fitness Recipes - Zucchini & Bacon Pancakes"
+title: "Recipe of Super Quick Homemade Fitness Recipes - Zucchini & Bacon Pancakes"
 slug: 95-recipe-of-super-quick-homemade-fitness-recipes-zucchini-and-amp-bacon-pancakes
 date: 2021-07-27T02:53:28.445Z
 image: https://img-global.cpcdn.com/recipes/f8f75a39ce6c3083/751x532cq70/fitness-recipes-zucchini-bacon-pancakes-recipe-main-photo.jpg

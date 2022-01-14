@@ -1,6 +1,6 @@
 ---
-description: "Steps to Make Favorite Chicken &amp;amp; Bacon Gnocchi"
-title: "Steps to Make Favorite Chicken &amp;amp; Bacon Gnocchi"
+description: "Steps to Make Favorite Chicken & Bacon Gnocchi"
+title: "Steps to Make Favorite Chicken & Bacon Gnocchi"
 slug: 116-steps-to-make-favorite-chicken-and-amp-bacon-gnocchi
 date: 2021-09-03T05:01:28.246Z
 image: https://img-global.cpcdn.com/recipes/f326e3bb607182c9/751x532cq70/chicken-bacon-gnocchi-recipe-main-photo.jpg

@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Quick Mike's New Orleans Lobster, Shrimp &amp;amp; Crab Meat Po Boys"
-title: "Recipe of Quick Mike's New Orleans Lobster, Shrimp &amp;amp; Crab Meat Po Boys"
+description: "Recipe of Quick Mike's New Orleans Lobster, Shrimp & Crab Meat Po Boys"
+title: "Recipe of Quick Mike's New Orleans Lobster, Shrimp & Crab Meat Po Boys"
 slug: 318-recipe-of-quick-mike-and-39-s-new-orleans-lobster-shrimp-and-amp-crab-meat-po-boys
 date: 2021-10-06T22:06:54.960Z
 image: https://img-global.cpcdn.com/recipes/2ae1c1a0c9df567d/751x532cq70/mikes-new-orleans-lobster-shrimp-crab-meat-po-boys-recipe-main-photo.jpg

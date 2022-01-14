@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Prepare Homemade Hot Dog &amp;amp; Bacon Fried Rice"
-title: "Easiest Way to Prepare Homemade Hot Dog &amp;amp; Bacon Fried Rice"
+description: "Easiest Way to Prepare Homemade Hot Dog & Bacon Fried Rice"
+title: "Easiest Way to Prepare Homemade Hot Dog & Bacon Fried Rice"
 slug: 183-easiest-way-to-prepare-homemade-hot-dog-and-amp-bacon-fried-rice
 date: 2021-07-03T20:53:37.391Z
 image: https://img-global.cpcdn.com/recipes/3dab455d7b037b7a/751x532cq70/hot-dog-bacon-fried-rice-recipe-main-photo.jpg

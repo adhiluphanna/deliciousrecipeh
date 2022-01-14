@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Award-winning Chicken Bacon &amp;amp; Swiss Sandwich"
-title: "Recipe of Award-winning Chicken Bacon &amp;amp; Swiss Sandwich"
+description: "Recipe of Award-winning Chicken Bacon & Swiss Sandwich"
+title: "Recipe of Award-winning Chicken Bacon & Swiss Sandwich"
 slug: 112-recipe-of-award-winning-chicken-bacon-and-amp-swiss-sandwich
 date: 2021-08-14T16:37:06.610Z
 image: https://img-global.cpcdn.com/recipes/689cfe39d40bc1c3/751x532cq70/chicken-bacon-swiss-sandwich-recipe-main-photo.jpg

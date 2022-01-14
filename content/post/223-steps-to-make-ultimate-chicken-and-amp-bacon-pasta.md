@@ -1,6 +1,6 @@
 ---
-description: "Steps to Make Ultimate Chicken &amp;amp; Bacon Pasta"
-title: "Steps to Make Ultimate Chicken &amp;amp; Bacon Pasta"
+description: "Steps to Make Ultimate Chicken & Bacon Pasta"
+title: "Steps to Make Ultimate Chicken & Bacon Pasta"
 slug: 223-steps-to-make-ultimate-chicken-and-amp-bacon-pasta
 date: 2021-07-28T01:30:20.372Z
 image: https://img-global.cpcdn.com/recipes/838a25140c6c09b2/751x532cq70/chicken-bacon-pasta-recipe-main-photo.jpg

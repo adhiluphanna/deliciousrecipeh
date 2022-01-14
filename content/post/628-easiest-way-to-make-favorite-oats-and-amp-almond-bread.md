@@ -1,6 +1,6 @@
 ---
-description: "Easiest Way to Make Favorite Oats &amp;amp; Almond bread !!!!"
-title: "Easiest Way to Make Favorite Oats &amp;amp; Almond bread !!!!"
+description: "Easiest Way to Make Favorite Oats & Almond bread !!!!"
+title: "Easiest Way to Make Favorite Oats & Almond bread !!!!"
 slug: 628-easiest-way-to-make-favorite-oats-and-amp-almond-bread
 date: 2021-05-27T09:50:14.495Z
 image: https://img-global.cpcdn.com/recipes/e51cda87c0e0b648/751x532cq70/oats-almond-bread-recipe-main-photo.jpg

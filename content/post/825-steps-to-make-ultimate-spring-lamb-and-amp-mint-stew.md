@@ -1,6 +1,6 @@
 ---
-description: "Steps to Make Ultimate Spring Lamb &amp;amp; Mint Stew"
-title: "Steps to Make Ultimate Spring Lamb &amp;amp; Mint Stew"
+description: "Steps to Make Ultimate Spring Lamb & Mint Stew"
+title: "Steps to Make Ultimate Spring Lamb & Mint Stew"
 slug: 825-steps-to-make-ultimate-spring-lamb-and-amp-mint-stew
 date: 2021-08-10T11:12:52.388Z
 image: https://img-global.cpcdn.com/recipes/be2cc27bcb8d765c/751x532cq70/spring-lamb-mint-stew-recipe-main-photo.jpg

@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Quick Bacon, salmon and mushroom creamy &amp;amp; soy sauce pasta"
-title: "Recipe of Quick Bacon, salmon and mushroom creamy &amp;amp; soy sauce pasta"
+description: "Recipe of Quick Bacon, salmon and mushroom creamy & soy sauce pasta"
+title: "Recipe of Quick Bacon, salmon and mushroom creamy & soy sauce pasta"
 slug: 22-recipe-of-quick-bacon-salmon-and-mushroom-creamy-and-amp-soy-sauce-pasta
 date: 2021-08-15T04:17:56.943Z
 image: https://img-global.cpcdn.com/recipes/322b2d7d83e599b3/751x532cq70/bacon-salmon-and-mushroom-creamy-soy-sauce-pasta-recipe-main-photo.jpg

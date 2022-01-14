@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Perfect Bacon &amp;amp; Cabbage Ario Orio (non-spicy)"
-title: "Recipe of Perfect Bacon &amp;amp; Cabbage Ario Orio (non-spicy)"
+description: "Recipe of Perfect Bacon & Cabbage Ario Orio (non-spicy)"
+title: "Recipe of Perfect Bacon & Cabbage Ario Orio (non-spicy)"
 slug: 39-recipe-of-perfect-bacon-and-amp-cabbage-ario-orio-non-spicy
 date: 2021-09-08T18:34:59.853Z
 image: https://img-global.cpcdn.com/recipes/f7f67f1bf37875f7/751x532cq70/bacon-cabbage-ario-orio-non-spicy-recipe-main-photo.jpg

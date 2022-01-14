@@ -1,6 +1,6 @@
 ---
-description: "Simple Way to Make Homemade Bacon &amp;amp; Parmesan Brussels!"
-title: "Simple Way to Make Homemade Bacon &amp;amp; Parmesan Brussels!"
+description: "Simple Way to Make Homemade Bacon & Parmesan Brussels!"
+title: "Simple Way to Make Homemade Bacon & Parmesan Brussels!"
 slug: 114-simple-way-to-make-homemade-bacon-and-amp-parmesan-brussels
 date: 2021-08-29T17:23:43.415Z
 image: https://img-global.cpcdn.com/recipes/52c4802d2002e39d/751x532cq70/bacon-parmesan-brussels-recipe-main-photo.jpg

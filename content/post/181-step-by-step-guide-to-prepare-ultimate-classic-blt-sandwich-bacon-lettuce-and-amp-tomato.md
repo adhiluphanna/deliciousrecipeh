@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Ultimate Classic BLT sandwich (Bacon Lettuce &amp;amp; Tomato)"
-title: "Step-by-Step Guide to Prepare Ultimate Classic BLT sandwich (Bacon Lettuce &amp;amp; Tomato)"
+description: "Step-by-Step Guide to Prepare Ultimate Classic BLT sandwich (Bacon Lettuce & Tomato)"
+title: "Step-by-Step Guide to Prepare Ultimate Classic BLT sandwich (Bacon Lettuce & Tomato)"
 slug: 181-step-by-step-guide-to-prepare-ultimate-classic-blt-sandwich-bacon-lettuce-and-amp-tomato
 date: 2021-07-06T16:46:04.820Z
 image: https://img-global.cpcdn.com/recipes/65c927408a1215eb/751x532cq70/classic-blt-sandwich-bacon-lettuce-tomato-recipe-main-photo.jpg

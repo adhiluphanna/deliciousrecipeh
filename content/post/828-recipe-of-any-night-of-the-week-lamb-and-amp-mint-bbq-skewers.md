@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Any-night-of-the-week Lamb &amp;amp; Mint BBQ Skewers"
-title: "Recipe of Any-night-of-the-week Lamb &amp;amp; Mint BBQ Skewers"
+description: "Recipe of Any-night-of-the-week Lamb & Mint BBQ Skewers"
+title: "Recipe of Any-night-of-the-week Lamb & Mint BBQ Skewers"
 slug: 828-recipe-of-any-night-of-the-week-lamb-and-amp-mint-bbq-skewers
 date: 2021-11-13T06:46:41.569Z
 image: https://img-global.cpcdn.com/recipes/c9a600e13d96be28/751x532cq70/lamb-mint-bbq-skewers-recipe-main-photo.jpg

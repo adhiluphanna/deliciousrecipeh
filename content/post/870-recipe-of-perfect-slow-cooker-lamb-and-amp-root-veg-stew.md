@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Perfect Slow Cooker Lamb &amp;amp; Root Veg Stew"
-title: "Recipe of Perfect Slow Cooker Lamb &amp;amp; Root Veg Stew"
+description: "Recipe of Perfect Slow Cooker Lamb & Root Veg Stew"
+title: "Recipe of Perfect Slow Cooker Lamb & Root Veg Stew"
 slug: 870-recipe-of-perfect-slow-cooker-lamb-and-amp-root-veg-stew
 date: 2021-05-25T02:48:21.132Z
 image: https://img-global.cpcdn.com/recipes/a98a2ae90fe8079d/751x532cq70/slow-cooker-lamb-root-veg-stew-recipe-main-photo.jpg

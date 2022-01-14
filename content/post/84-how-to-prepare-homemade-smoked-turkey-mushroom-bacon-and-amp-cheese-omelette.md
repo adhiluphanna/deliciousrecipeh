@@ -1,6 +1,6 @@
 ---
-description: "How to Prepare Homemade Smoked turkey, mushroom, bacon &amp;amp; cheese omelette"
-title: "How to Prepare Homemade Smoked turkey, mushroom, bacon &amp;amp; cheese omelette"
+description: "How to Prepare Homemade Smoked turkey, mushroom, bacon & cheese omelette"
+title: "How to Prepare Homemade Smoked turkey, mushroom, bacon & cheese omelette"
 slug: 84-how-to-prepare-homemade-smoked-turkey-mushroom-bacon-and-amp-cheese-omelette
 date: 2021-06-18T11:12:45.677Z
 image: https://img-global.cpcdn.com/recipes/7e6815719bc44f77/751x532cq70/smoked-turkey-mushroom-bacon-cheese-omelette-recipe-main-photo.jpg

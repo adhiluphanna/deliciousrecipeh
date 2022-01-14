@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Perfect Bacon &amp;amp; Asparagus Breakfast Casserole"
-title: "Recipe of Perfect Bacon &amp;amp; Asparagus Breakfast Casserole"
+description: "Recipe of Perfect Bacon & Asparagus Breakfast Casserole"
+title: "Recipe of Perfect Bacon & Asparagus Breakfast Casserole"
 slug: 133-recipe-of-perfect-bacon-and-amp-asparagus-breakfast-casserole
 date: 2021-08-15T13:49:47.959Z
 image: https://img-global.cpcdn.com/recipes/bf0364b1f26945a0/751x532cq70/bacon-asparagus-breakfast-casserole-recipe-main-photo.jpg

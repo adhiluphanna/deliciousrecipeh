@@ -1,6 +1,6 @@
 ---
-description: "Recipe of Homemade Creamy Bacon, Cheddar &amp;amp; Onion Party Dip"
-title: "Recipe of Homemade Creamy Bacon, Cheddar &amp;amp; Onion Party Dip"
+description: "Recipe of Homemade Creamy Bacon, Cheddar & Onion Party Dip"
+title: "Recipe of Homemade Creamy Bacon, Cheddar & Onion Party Dip"
 slug: 115-recipe-of-homemade-creamy-bacon-cheddar-and-amp-onion-party-dip
 date: 2021-09-04T02:15:51.950Z
 image: https://img-global.cpcdn.com/recipes/a8e0af2786b7c37d/751x532cq70/creamy-bacon-cheddar-onion-party-dip-recipe-main-photo.jpg

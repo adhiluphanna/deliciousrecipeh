@@ -1,6 +1,6 @@
 ---
-description: "Step-by-Step Guide to Prepare Award-winning Bacon &amp;amp; Onion Roll"
-title: "Step-by-Step Guide to Prepare Award-winning Bacon &amp;amp; Onion Roll"
+description: "Step-by-Step Guide to Prepare Award-winning Bacon & Onion Roll"
+title: "Step-by-Step Guide to Prepare Award-winning Bacon & Onion Roll"
 slug: 27-step-by-step-guide-to-prepare-award-winning-bacon-and-amp-onion-roll
 date: 2021-09-26T01:49:38.043Z
 image: https://img-global.cpcdn.com/recipes/ee36124941ab0fff/751x532cq70/bacon-onion-roll-recipe-main-photo.jpg

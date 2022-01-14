@@ -1,6 +1,6 @@
 ---
-description: "Steps to Prepare Quick Spinach &amp;amp; Crab Dip"
-title: "Steps to Prepare Quick Spinach &amp;amp; Crab Dip"
+description: "Steps to Prepare Quick Spinach & Crab Dip"
+title: "Steps to Prepare Quick Spinach & Crab Dip"
 slug: 246-steps-to-prepare-quick-spinach-and-amp-crab-dip
 date: 2021-11-01T20:08:00.512Z
 image: https://img-global.cpcdn.com/recipes/a53d1f64802ecee9/751x532cq70/spinach-crab-dip-recipe-main-photo.jpg
