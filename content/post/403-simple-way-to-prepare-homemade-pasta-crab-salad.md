@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Homemade Pasta Crab Salad"
 title: "Simple Way to Prepare Homemade Pasta Crab Salad"
 slug: 403-simple-way-to-prepare-homemade-pasta-crab-salad
-date: 2020-07-23T15:58:11.334Z
+date: 2021-07-23T15:58:11.334Z
 image: https://img-global.cpcdn.com/recipes/ef3be62dab68a23a/751x532cq70/pasta-crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ef3be62dab68a23a/751x532cq70/pasta-crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ef3be62dab68a23a/751x532cq70/pasta-crab-salad-recipe-main-photo.jpg

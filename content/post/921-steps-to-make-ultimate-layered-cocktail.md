@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Layered Cocktail"
 title: "Steps to Make Ultimate Layered Cocktail"
 slug: 921-steps-to-make-ultimate-layered-cocktail
-date: 2020-11-09T12:33:45.711Z
+date: 2021-11-09T12:33:45.711Z
 image: https://img-global.cpcdn.com/recipes/c697e92882713aea/751x532cq70/layered-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c697e92882713aea/751x532cq70/layered-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c697e92882713aea/751x532cq70/layered-cocktail-recipe-main-photo.jpg

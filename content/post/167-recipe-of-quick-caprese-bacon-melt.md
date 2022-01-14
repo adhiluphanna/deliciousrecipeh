@@ -2,7 +2,7 @@
 description: "Recipe of Quick Caprese bacon melt"
 title: "Recipe of Quick Caprese bacon melt"
 slug: 167-recipe-of-quick-caprese-bacon-melt
-date: 2020-09-19T19:23:52.463Z
+date: 2021-09-19T19:23:52.463Z
 image: https://img-global.cpcdn.com/recipes/9ecb4b1fd6fd6faf/751x532cq70/caprese-bacon-melt-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9ecb4b1fd6fd6faf/751x532cq70/caprese-bacon-melt-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9ecb4b1fd6fd6faf/751x532cq70/caprese-bacon-melt-recipe-main-photo.jpg

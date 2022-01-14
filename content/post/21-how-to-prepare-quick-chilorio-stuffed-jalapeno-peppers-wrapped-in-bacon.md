@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Chilorio Stuffed Jalapeno Peppers Wrapped in Bacon"
 title: "How to Prepare Quick Chilorio Stuffed Jalapeno Peppers Wrapped in Bacon"
 slug: 21-how-to-prepare-quick-chilorio-stuffed-jalapeno-peppers-wrapped-in-bacon
-date: 2020-07-22T00:53:43.462Z
+date: 2021-07-22T00:53:43.462Z
 image: https://img-global.cpcdn.com/recipes/3745d8ce89424bf4/751x532cq70/chilorio-stuffed-jalapeno-peppers-wrapped-in-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3745d8ce89424bf4/751x532cq70/chilorio-stuffed-jalapeno-peppers-wrapped-in-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3745d8ce89424bf4/751x532cq70/chilorio-stuffed-jalapeno-peppers-wrapped-in-bacon-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Rosted Lamb (Iraqi style)"
 title: "Simple Way to Prepare Super Quick Homemade Rosted Lamb (Iraqi style)"
 slug: 907-simple-way-to-prepare-super-quick-homemade-rosted-lamb-iraqi-style
-date: 2020-08-18T17:36:55.018Z
+date: 2021-08-18T17:36:55.018Z
 image: https://img-global.cpcdn.com/recipes/26edff2e57d82169/751x532cq70/rosted-lamb-iraqi-style-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/26edff2e57d82169/751x532cq70/rosted-lamb-iraqi-style-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/26edff2e57d82169/751x532cq70/rosted-lamb-iraqi-style-recipe-main-photo.jpg

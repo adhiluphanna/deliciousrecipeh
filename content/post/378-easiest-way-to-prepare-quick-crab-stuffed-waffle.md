@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Crab stuffed waffle"
 title: "Easiest Way to Prepare Quick Crab stuffed waffle"
 slug: 378-easiest-way-to-prepare-quick-crab-stuffed-waffle
-date: 2020-11-01T12:32:13.556Z
+date: 2021-11-01T12:32:13.556Z
 image: https://img-global.cpcdn.com/recipes/6621bac0bdf1278c/751x532cq70/crab-stuffed-waffle-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6621bac0bdf1278c/751x532cq70/crab-stuffed-waffle-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6621bac0bdf1278c/751x532cq70/crab-stuffed-waffle-recipe-main-photo.jpg

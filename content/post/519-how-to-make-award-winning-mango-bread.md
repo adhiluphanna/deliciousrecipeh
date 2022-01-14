@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Mango bread"
 title: "How to Make Award-winning Mango bread"
 slug: 519-how-to-make-award-winning-mango-bread
-date: 2020-06-24T00:22:43.185Z
+date: 2021-06-24T00:22:43.185Z
 image: https://img-global.cpcdn.com/recipes/460dfbfa9157162e/751x532cq70/mango-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/460dfbfa9157162e/751x532cq70/mango-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/460dfbfa9157162e/751x532cq70/mango-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Lemon-Garlic Mushroom Crab Penne Pasta"
 title: "How to Prepare Quick Lemon-Garlic Mushroom Crab Penne Pasta"
 slug: 314-how-to-prepare-quick-lemon-garlic-mushroom-crab-penne-pasta
-date: 2020-11-15T20:33:13.764Z
+date: 2021-11-15T20:33:13.764Z
 image: https://img-global.cpcdn.com/recipes/a61951087d2bfd6f/751x532cq70/lemon-garlic-mushroom-crab-penne-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a61951087d2bfd6f/751x532cq70/lemon-garlic-mushroom-crab-penne-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a61951087d2bfd6f/751x532cq70/lemon-garlic-mushroom-crab-penne-pasta-recipe-main-photo.jpg

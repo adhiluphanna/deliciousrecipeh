@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Keto Almond Flour Bread"
 title: "How to Make Super Quick Homemade Keto Almond Flour Bread"
 slug: 678-how-to-make-super-quick-homemade-keto-almond-flour-bread
-date: 2020-11-07T17:42:18.373Z
+date: 2021-11-07T17:42:18.373Z
 image: https://img-global.cpcdn.com/recipes/b443193cfc0d5086/751x532cq70/keto-almond-flour-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b443193cfc0d5086/751x532cq70/keto-almond-flour-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b443193cfc0d5086/751x532cq70/keto-almond-flour-bread-recipe-main-photo.jpg

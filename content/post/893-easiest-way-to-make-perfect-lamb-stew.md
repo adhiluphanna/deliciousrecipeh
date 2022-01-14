@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Perfect Lamb stew"
 title: "Easiest Way to Make Perfect Lamb stew"
 slug: 893-easiest-way-to-make-perfect-lamb-stew
-date: 2020-08-05T02:12:26.480Z
+date: 2021-08-05T02:12:26.480Z
 image: https://img-global.cpcdn.com/recipes/4836161871675392/751x532cq70/lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4836161871675392/751x532cq70/lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4836161871675392/751x532cq70/lamb-stew-recipe-main-photo.jpg

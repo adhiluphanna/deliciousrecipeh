@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Olive Bread"
 title: "Simple Way to Make Award-winning Olive Bread"
 slug: 572-simple-way-to-make-award-winning-olive-bread
-date: 2020-08-15T22:08:15.135Z
+date: 2021-08-15T22:08:15.135Z
 image: https://img-global.cpcdn.com/recipes/902bdf9aeec55e77/751x532cq70/olive-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/902bdf9aeec55e77/751x532cq70/olive-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/902bdf9aeec55e77/751x532cq70/olive-bread-recipe-main-photo.jpg

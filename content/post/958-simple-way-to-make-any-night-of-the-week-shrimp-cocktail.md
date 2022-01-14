@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week Shrimp cocktail"
 title: "Simple Way to Make Any-night-of-the-week Shrimp cocktail"
 slug: 958-simple-way-to-make-any-night-of-the-week-shrimp-cocktail
-date: 2020-08-21T07:09:26.337Z
+date: 2021-08-21T07:09:26.337Z
 image: https://img-global.cpcdn.com/recipes/6b77847cf2d326ca/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6b77847cf2d326ca/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6b77847cf2d326ca/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg

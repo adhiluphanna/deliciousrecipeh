@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Crab Bisque"
 title: "Recipe of Favorite Crab Bisque"
 slug: 337-recipe-of-favorite-crab-bisque
-date: 2020-07-24T07:17:50.476Z
+date: 2021-07-24T07:17:50.476Z
 image: https://img-global.cpcdn.com/recipes/4975419420835840/751x532cq70/crab-bisque-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4975419420835840/751x532cq70/crab-bisque-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4975419420835840/751x532cq70/crab-bisque-recipe-main-photo.jpg

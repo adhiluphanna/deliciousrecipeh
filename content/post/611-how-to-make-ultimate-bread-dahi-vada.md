@@ -2,7 +2,7 @@
 description: "How to Make Ultimate Bread dahi vada"
 title: "How to Make Ultimate Bread dahi vada"
 slug: 611-how-to-make-ultimate-bread-dahi-vada
-date: 2020-08-24T15:18:21.771Z
+date: 2021-08-24T15:18:21.771Z
 image: https://img-global.cpcdn.com/recipes/a17c7bb3c4adcec1/751x532cq70/bread-dahi-vada-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a17c7bb3c4adcec1/751x532cq70/bread-dahi-vada-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a17c7bb3c4adcec1/751x532cq70/bread-dahi-vada-recipe-main-photo.jpg

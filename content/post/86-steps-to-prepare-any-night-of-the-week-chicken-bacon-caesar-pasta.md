@@ -2,7 +2,7 @@
 description: "Steps to Prepare Any-night-of-the-week Chicken Bacon Caesar Pasta"
 title: "Steps to Prepare Any-night-of-the-week Chicken Bacon Caesar Pasta"
 slug: 86-steps-to-prepare-any-night-of-the-week-chicken-bacon-caesar-pasta
-date: 2020-08-08T05:10:41.153Z
+date: 2021-08-08T05:10:41.153Z
 image: https://img-global.cpcdn.com/recipes/1db099e1a09d1989/751x532cq70/chicken-bacon-caesar-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1db099e1a09d1989/751x532cq70/chicken-bacon-caesar-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1db099e1a09d1989/751x532cq70/chicken-bacon-caesar-pasta-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week Fluffy Microwaved Canned Crabmeat and Tofu Bundles"
 title: "Steps to Make Any-night-of-the-week Fluffy Microwaved Canned Crabmeat and Tofu Bundles"
 slug: 405-steps-to-make-any-night-of-the-week-fluffy-microwaved-canned-crabmeat-and-tofu-bundles
-date: 2020-07-29T04:02:37.552Z
+date: 2021-07-29T04:02:37.552Z
 image: https://img-global.cpcdn.com/recipes/4982491638136832/751x532cq70/fluffy-microwaved-canned-crabmeat-and-tofu-bundles-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4982491638136832/751x532cq70/fluffy-microwaved-canned-crabmeat-and-tofu-bundles-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4982491638136832/751x532cq70/fluffy-microwaved-canned-crabmeat-and-tofu-bundles-recipe-main-photo.jpg

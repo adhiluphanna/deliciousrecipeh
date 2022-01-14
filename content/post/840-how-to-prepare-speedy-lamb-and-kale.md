@@ -2,7 +2,7 @@
 description: "How to Prepare Speedy Lamb and kale"
 title: "How to Prepare Speedy Lamb and kale"
 slug: 840-how-to-prepare-speedy-lamb-and-kale
-date: 2020-09-30T18:13:20.554Z
+date: 2021-09-30T18:13:20.554Z
 image: https://img-global.cpcdn.com/recipes/6334018845933568/751x532cq70/lamb-and-kale-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6334018845933568/751x532cq70/lamb-and-kale-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6334018845933568/751x532cq70/lamb-and-kale-recipe-main-photo.jpg

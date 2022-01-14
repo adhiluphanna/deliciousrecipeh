@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Lamb and Beef Noodle Casserole"
 title: "Simple Way to Make Award-winning Lamb and Beef Noodle Casserole"
 slug: 689-simple-way-to-make-award-winning-lamb-and-beef-noodle-casserole
-date: 2020-11-12T15:11:02.551Z
+date: 2021-11-12T15:11:02.551Z
 image: https://img-global.cpcdn.com/recipes/a16a57537f1ddb8f/751x532cq70/lamb-and-beef-noodle-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a16a57537f1ddb8f/751x532cq70/lamb-and-beef-noodle-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a16a57537f1ddb8f/751x532cq70/lamb-and-beef-noodle-casserole-recipe-main-photo.jpg

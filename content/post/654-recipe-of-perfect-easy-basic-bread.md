@@ -2,7 +2,7 @@
 description: "Recipe of Perfect EASY Basic Bread"
 title: "Recipe of Perfect EASY Basic Bread"
 slug: 654-recipe-of-perfect-easy-basic-bread
-date: 2020-08-30T21:26:25.853Z
+date: 2021-08-30T21:26:25.853Z
 image: https://img-global.cpcdn.com/recipes/058b346e68b9a746/751x532cq70/easy-basic-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/058b346e68b9a746/751x532cq70/easy-basic-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/058b346e68b9a746/751x532cq70/easy-basic-bread-recipe-main-photo.jpg

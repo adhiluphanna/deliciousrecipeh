@@ -2,7 +2,7 @@
 description: "How to Make Perfect Creamy Classic Crab Salad"
 title: "How to Make Perfect Creamy Classic Crab Salad"
 slug: 291-how-to-make-perfect-creamy-classic-crab-salad
-date: 2020-10-28T21:03:21.626Z
+date: 2021-10-28T21:03:21.626Z
 image: https://img-global.cpcdn.com/recipes/2f0fa65515f7a4f2/751x532cq70/creamy-classic-crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2f0fa65515f7a4f2/751x532cq70/creamy-classic-crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2f0fa65515f7a4f2/751x532cq70/creamy-classic-crab-salad-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Award-winning Gooey Banana Bread"
 title: "Simple Way to Prepare Award-winning Gooey Banana Bread"
 slug: 637-simple-way-to-prepare-award-winning-gooey-banana-bread
-date: 2020-09-08T10:15:58.515Z
+date: 2021-09-08T10:15:58.515Z
 image: https://img-global.cpcdn.com/recipes/934263926d226b6c/751x532cq70/gooey-banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/934263926d226b6c/751x532cq70/gooey-banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/934263926d226b6c/751x532cq70/gooey-banana-bread-recipe-main-photo.jpg

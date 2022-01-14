@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick ERACHI VARATTIYATHU...Masala lamb"
 title: "Easiest Way to Prepare Quick ERACHI VARATTIYATHU...Masala lamb"
 slug: 862-easiest-way-to-prepare-quick-erachi-varattiyathumasala-lamb
-date: 2020-11-12T03:59:38.668Z
+date: 2021-11-12T03:59:38.668Z
 image: https://img-global.cpcdn.com/recipes/359d8c1181a3da23/751x532cq70/erachi-varattiyathumasala-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/359d8c1181a3da23/751x532cq70/erachi-varattiyathumasala-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/359d8c1181a3da23/751x532cq70/erachi-varattiyathumasala-lamb-recipe-main-photo.jpg

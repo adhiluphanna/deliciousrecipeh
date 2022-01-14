@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Bread Pizza"
 title: "Recipe of Any-night-of-the-week Bread Pizza"
 slug: 511-recipe-of-any-night-of-the-week-bread-pizza
-date: 2020-09-10T07:03:15.193Z
+date: 2021-09-10T07:03:15.193Z
 image: https://img-global.cpcdn.com/recipes/10bd903bd0988421/751x532cq70/bread-pizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/10bd903bd0988421/751x532cq70/bread-pizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/10bd903bd0988421/751x532cq70/bread-pizza-recipe-main-photo.jpg

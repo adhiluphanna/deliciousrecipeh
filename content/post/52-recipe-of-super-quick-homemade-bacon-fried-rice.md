@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Bacon Fried Rice"
 title: "Recipe of Super Quick Homemade Bacon Fried Rice"
 slug: 52-recipe-of-super-quick-homemade-bacon-fried-rice
-date: 2020-09-08T08:43:18.765Z
+date: 2021-09-08T08:43:18.765Z
 image: https://img-global.cpcdn.com/recipes/abbda76f2c1b0594/751x532cq70/bacon-fried-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/abbda76f2c1b0594/751x532cq70/bacon-fried-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/abbda76f2c1b0594/751x532cq70/bacon-fried-rice-recipe-main-photo.jpg

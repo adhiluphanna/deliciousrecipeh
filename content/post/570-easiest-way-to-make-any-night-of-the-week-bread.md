@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Bread"
 title: "Easiest Way to Make Any-night-of-the-week Bread"
 slug: 570-easiest-way-to-make-any-night-of-the-week-bread
-date: 2020-08-17T15:22:38.763Z
+date: 2021-08-17T15:22:38.763Z
 image: https://img-global.cpcdn.com/recipes/d479bf8313a33624/751x532cq70/bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d479bf8313a33624/751x532cq70/bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d479bf8313a33624/751x532cq70/bread-recipe-main-photo.jpg

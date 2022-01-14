@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Roast Leg of Lamb"
 title: "Recipe of Homemade Roast Leg of Lamb"
 slug: 816-recipe-of-homemade-roast-leg-of-lamb
-date: 2020-07-12T08:20:54.739Z
+date: 2021-07-12T08:20:54.739Z
 image: https://img-global.cpcdn.com/recipes/d9cb2faf55bd2b9b/751x532cq70/roast-leg-of-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d9cb2faf55bd2b9b/751x532cq70/roast-leg-of-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d9cb2faf55bd2b9b/751x532cq70/roast-leg-of-lamb-recipe-main-photo.jpg

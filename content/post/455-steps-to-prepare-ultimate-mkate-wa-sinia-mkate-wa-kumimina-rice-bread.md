@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Mkate wa sinia/mkate wa kumimina/ Rice bread"
 title: "Steps to Prepare Ultimate Mkate wa sinia/mkate wa kumimina/ Rice bread"
 slug: 455-steps-to-prepare-ultimate-mkate-wa-sinia-mkate-wa-kumimina-rice-bread
-date: 2020-08-20T17:43:53.941Z
+date: 2021-08-20T17:43:53.941Z
 image: https://img-global.cpcdn.com/recipes/1ea7e8148cd7c2f6/751x532cq70/mkate-wa-siniamkate-wa-kumimina-rice-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1ea7e8148cd7c2f6/751x532cq70/mkate-wa-siniamkate-wa-kumimina-rice-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1ea7e8148cd7c2f6/751x532cq70/mkate-wa-siniamkate-wa-kumimina-rice-bread-recipe-main-photo.jpg

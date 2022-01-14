@@ -2,7 +2,7 @@
 description: "How to Make Favorite Bacon and egg sandwich"
 title: "How to Make Favorite Bacon and egg sandwich"
 slug: 62-how-to-make-favorite-bacon-and-egg-sandwich
-date: 2020-07-18T18:29:45.399Z
+date: 2021-07-18T18:29:45.399Z
 image: https://img-global.cpcdn.com/recipes/b2ecd88307d8b734/751x532cq70/bacon-and-egg-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b2ecd88307d8b734/751x532cq70/bacon-and-egg-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b2ecd88307d8b734/751x532cq70/bacon-and-egg-sandwich-recipe-main-photo.jpg

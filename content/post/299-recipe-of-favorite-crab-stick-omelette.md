@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Crab Stick Omelette"
 title: "Recipe of Favorite Crab Stick Omelette"
 slug: 299-recipe-of-favorite-crab-stick-omelette
-date: 2020-06-12T13:10:58.566Z
+date: 2021-06-12T13:10:58.566Z
 image: https://img-global.cpcdn.com/recipes/29c86bab3a196264/751x532cq70/crab-stick-omelette-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/29c86bab3a196264/751x532cq70/crab-stick-omelette-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/29c86bab3a196264/751x532cq70/crab-stick-omelette-recipe-main-photo.jpg

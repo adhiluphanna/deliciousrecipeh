@@ -2,10 +2,10 @@
 description: "Recipe of Quick Crab Dip"
 title: "Recipe of Quick Crab Dip"
 slug: 332-recipe-of-quick-crab-dip
-date: 2020-06-26T12:02:55.076Z
-image: https://img-global.cpcdn.com/recipes/5844225043202048/751x532cq70/crab-dip-recipe-main-photo.jpg
-thumbnail: https://img-global.cpcdn.com/recipes/5844225043202048/751x532cq70/crab-dip-recipe-main-photo.jpg
-cover: https://img-global.cpcdn.com/recipes/5844225043202048/751x532cq70/crab-dip-recipe-main-photo.jpg
+date: 2021-06-26T12:02:55.076Z
+image: https://img-global.cpcdn.com/recipes/5844225043202148/751x532cq70/crab-dip-recipe-main-photo.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/5844225043202148/751x532cq70/crab-dip-recipe-main-photo.jpg
+cover: https://img-global.cpcdn.com/recipes/5844225043202148/751x532cq70/crab-dip-recipe-main-photo.jpg
 author: Rena Jimenez
 ratingvalue: 4.5
 reviewcount: 8
@@ -38,7 +38,7 @@ recipecategory: Lunch
 ---
 
 
-![Crab Dip](https://img-global.cpcdn.com/recipes/5844225043202048/751x532cq70/crab-dip-recipe-main-photo.jpg)
+![Crab Dip](https://img-global.cpcdn.com/recipes/5844225043202148/751x532cq70/crab-dip-recipe-main-photo.jpg)
 
 Hey everyone, I hope you are having an amazing day today. Today, I'm gonna show you how to make a special dish, crab dip. It is one of my favorites food recipes. This time, I am going to make it a little bit tasty. This will be really delicious.
 

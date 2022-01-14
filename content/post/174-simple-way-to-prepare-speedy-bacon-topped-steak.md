@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Speedy Bacon topped steak"
 title: "Simple Way to Prepare Speedy Bacon topped steak"
 slug: 174-simple-way-to-prepare-speedy-bacon-topped-steak
-date: 2020-09-18T00:30:38.440Z
+date: 2021-09-18T00:30:38.440Z
 image: https://img-global.cpcdn.com/recipes/77d011260d4cd165/751x532cq70/bacon-topped-steak-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/77d011260d4cd165/751x532cq70/bacon-topped-steak-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/77d011260d4cd165/751x532cq70/bacon-topped-steak-recipe-main-photo.jpg

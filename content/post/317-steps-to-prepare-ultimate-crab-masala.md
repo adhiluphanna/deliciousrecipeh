@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate 🦀 Crab masala"
 title: "Steps to Prepare Ultimate 🦀 Crab masala"
 slug: 317-steps-to-prepare-ultimate-crab-masala
-date: 2020-10-07T09:41:23.002Z
+date: 2021-10-07T09:41:23.002Z
 image: https://img-global.cpcdn.com/recipes/7447c9030d0ace39/751x532cq70/🦀-crab-masala-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7447c9030d0ace39/751x532cq70/🦀-crab-masala-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7447c9030d0ace39/751x532cq70/🦀-crab-masala-recipe-main-photo.jpg

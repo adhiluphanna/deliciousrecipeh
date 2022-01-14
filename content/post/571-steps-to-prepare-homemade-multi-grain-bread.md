@@ -2,7 +2,7 @@
 description: "Steps to Prepare Homemade Multi grain bread"
 title: "Steps to Prepare Homemade Multi grain bread"
 slug: 571-steps-to-prepare-homemade-multi-grain-bread
-date: 2020-05-28T04:04:22.293Z
+date: 2021-05-28T04:04:22.293Z
 image: https://img-global.cpcdn.com/recipes/3d464392e3620a6a/751x532cq70/multi-grain-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3d464392e3620a6a/751x532cq70/multi-grain-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3d464392e3620a6a/751x532cq70/multi-grain-bread-recipe-main-photo.jpg

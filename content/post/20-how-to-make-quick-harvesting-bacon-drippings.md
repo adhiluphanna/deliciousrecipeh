@@ -2,7 +2,7 @@
 description: "How to Make Quick Harvesting Bacon Drippings"
 title: "How to Make Quick Harvesting Bacon Drippings"
 slug: 20-how-to-make-quick-harvesting-bacon-drippings
-date: 2020-07-13T14:51:41.299Z
+date: 2021-07-13T14:51:41.299Z
 image: https://img-global.cpcdn.com/recipes/c79c7d51ad1adace/751x532cq70/harvesting-bacon-drippings-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c79c7d51ad1adace/751x532cq70/harvesting-bacon-drippings-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c79c7d51ad1adace/751x532cq70/harvesting-bacon-drippings-recipe-main-photo.jpg

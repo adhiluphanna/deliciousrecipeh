@@ -2,7 +2,7 @@
 description: "How to Prepare Perfect Bread toast"
 title: "How to Prepare Perfect Bread toast"
 slug: 502-how-to-prepare-perfect-bread-toast
-date: 2020-08-16T02:55:10.753Z
+date: 2021-08-16T02:55:10.753Z
 image: https://img-global.cpcdn.com/recipes/f34de7b2e171fa9e/751x532cq70/bread-toast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f34de7b2e171fa9e/751x532cq70/bread-toast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f34de7b2e171fa9e/751x532cq70/bread-toast-recipe-main-photo.jpg

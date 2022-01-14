@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Quick Crab Cakes"
 title: "Step-by-Step Guide to Make Quick Crab Cakes"
 slug: 327-step-by-step-guide-to-make-quick-crab-cakes
-date: 2020-10-18T07:54:47.423Z
+date: 2021-10-18T07:54:47.423Z
 image: https://img-global.cpcdn.com/recipes/5682883149168640/751x532cq70/crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5682883149168640/751x532cq70/crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5682883149168640/751x532cq70/crab-cakes-recipe-main-photo.jpg

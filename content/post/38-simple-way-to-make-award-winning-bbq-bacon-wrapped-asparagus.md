@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Bbq bacon wrapped asparagus"
 title: "Simple Way to Make Award-winning Bbq bacon wrapped asparagus"
 slug: 38-simple-way-to-make-award-winning-bbq-bacon-wrapped-asparagus
-date: 2020-09-13T10:02:42.206Z
+date: 2021-09-13T10:02:42.206Z
 image: https://img-global.cpcdn.com/recipes/62ed049c4c24f078/751x532cq70/bbq-bacon-wrapped-asparagus-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/62ed049c4c24f078/751x532cq70/bbq-bacon-wrapped-asparagus-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/62ed049c4c24f078/751x532cq70/bbq-bacon-wrapped-asparagus-recipe-main-photo.jpg

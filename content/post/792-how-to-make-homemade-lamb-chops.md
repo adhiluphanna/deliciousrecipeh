@@ -2,7 +2,7 @@
 description: "How to Make Homemade Lamb çhops"
 title: "How to Make Homemade Lamb çhops"
 slug: 792-how-to-make-homemade-lamb-chops
-date: 2020-08-30T03:30:30.185Z
+date: 2021-08-30T03:30:30.185Z
 image: https://img-global.cpcdn.com/recipes/4766153377316864/751x532cq70/lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4766153377316864/751x532cq70/lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4766153377316864/751x532cq70/lamb-chops-recipe-main-photo.jpg

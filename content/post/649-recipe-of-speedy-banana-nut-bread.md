@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Banana Nut Bread"
 title: "Recipe of Speedy Banana Nut Bread"
 slug: 649-recipe-of-speedy-banana-nut-bread
-date: 2020-09-21T18:55:59.760Z
+date: 2021-09-21T18:55:59.760Z
 image: https://img-global.cpcdn.com/recipes/1fa92551cc3811ea/751x532cq70/banana-nut-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1fa92551cc3811ea/751x532cq70/banana-nut-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1fa92551cc3811ea/751x532cq70/banana-nut-bread-recipe-main-photo.jpg

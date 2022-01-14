@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Crock Pot S’mores Bread Pudding"
 title: "Recipe of Favorite Crock Pot S’mores Bread Pudding"
 slug: 682-recipe-of-favorite-crock-pot-smores-bread-pudding
-date: 2020-10-05T13:26:04.692Z
+date: 2021-10-05T13:26:04.692Z
 image: https://img-global.cpcdn.com/recipes/448ff9effbec8c9f/751x532cq70/crock-pot-smores-bread-pudding-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/448ff9effbec8c9f/751x532cq70/crock-pot-smores-bread-pudding-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/448ff9effbec8c9f/751x532cq70/crock-pot-smores-bread-pudding-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Bacon, Ham, Avocado, &amp;amp; Cheese Sandwich"
 title: "Recipe of Award-winning Bacon, Ham, Avocado, &amp;amp; Cheese Sandwich"
 slug: 60-recipe-of-award-winning-bacon-ham-avocado-and-amp-cheese-sandwich
-date: 2020-08-13T10:30:49.193Z
+date: 2021-08-13T10:30:49.193Z
 image: https://img-global.cpcdn.com/recipes/83173dc1d708a7e8/751x532cq70/bacon-ham-avocado-cheese-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/83173dc1d708a7e8/751x532cq70/bacon-ham-avocado-cheese-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/83173dc1d708a7e8/751x532cq70/bacon-ham-avocado-cheese-sandwich-recipe-main-photo.jpg

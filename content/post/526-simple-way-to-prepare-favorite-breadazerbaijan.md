@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Bread(Azerbaijan)"
 title: "Simple Way to Prepare Favorite Bread(Azerbaijan)"
 slug: 526-simple-way-to-prepare-favorite-breadazerbaijan
-date: 2020-11-05T02:14:13.600Z
+date: 2021-11-05T02:14:13.600Z
 image: https://img-global.cpcdn.com/recipes/141a47f1ce090dc7/751x532cq70/breadazerbaijan-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/141a47f1ce090dc7/751x532cq70/breadazerbaijan-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/141a47f1ce090dc7/751x532cq70/breadazerbaijan-recipe-main-photo.jpg

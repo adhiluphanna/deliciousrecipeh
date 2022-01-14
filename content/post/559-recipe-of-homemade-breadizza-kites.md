@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Breadizza kites"
 title: "Recipe of Homemade Breadizza kites"
 slug: 559-recipe-of-homemade-breadizza-kites
-date: 2020-11-11T11:44:03.987Z
+date: 2021-11-11T11:44:03.987Z
 image: https://img-global.cpcdn.com/recipes/6293453923537380/751x532cq70/breadizza-kites-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6293453923537380/751x532cq70/breadizza-kites-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6293453923537380/751x532cq70/breadizza-kites-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Summer Fresh Corn Chowder (with Bacon)"
 title: "Step-by-Step Guide to Make Homemade Summer Fresh Corn Chowder (with Bacon)"
 slug: 145-step-by-step-guide-to-make-homemade-summer-fresh-corn-chowder-with-bacon
-date: 2020-09-21T21:20:45.954Z
+date: 2021-09-21T21:20:45.954Z
 image: https://img-global.cpcdn.com/recipes/85f3fbd952190d54/751x532cq70/summer-fresh-corn-chowder-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/85f3fbd952190d54/751x532cq70/summer-fresh-corn-chowder-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/85f3fbd952190d54/751x532cq70/summer-fresh-corn-chowder-with-bacon-recipe-main-photo.jpg

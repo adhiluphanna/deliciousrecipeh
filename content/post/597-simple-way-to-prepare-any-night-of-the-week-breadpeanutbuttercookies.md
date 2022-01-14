@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Any-night-of-the-week BreadPeanutButterCookies"
 title: "Simple Way to Prepare Any-night-of-the-week BreadPeanutButterCookies"
 slug: 597-simple-way-to-prepare-any-night-of-the-week-breadpeanutbuttercookies
-date: 2020-10-19T19:11:21.825Z
+date: 2021-10-19T19:11:21.825Z
 image: https://img-global.cpcdn.com/recipes/63bbc99b65b8bca8/751x532cq70/breadpeanutbuttercookies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/63bbc99b65b8bca8/751x532cq70/breadpeanutbuttercookies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/63bbc99b65b8bca8/751x532cq70/breadpeanutbuttercookies-recipe-main-photo.jpg

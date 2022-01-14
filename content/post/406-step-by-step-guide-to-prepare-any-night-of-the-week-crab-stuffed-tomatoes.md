@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Any-night-of-the-week Crab Stuffed Tomatoes"
 title: "Step-by-Step Guide to Prepare Any-night-of-the-week Crab Stuffed Tomatoes"
 slug: 406-step-by-step-guide-to-prepare-any-night-of-the-week-crab-stuffed-tomatoes
-date: 2020-09-04T22:12:56.933Z
+date: 2021-09-04T22:12:56.933Z
 image: https://img-global.cpcdn.com/recipes/5453800631959552/751x532cq70/crab-stuffed-tomatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5453800631959552/751x532cq70/crab-stuffed-tomatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5453800631959552/751x532cq70/crab-stuffed-tomatoes-recipe-main-photo.jpg

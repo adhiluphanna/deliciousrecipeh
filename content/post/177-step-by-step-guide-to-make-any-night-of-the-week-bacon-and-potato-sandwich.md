@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Any-night-of-the-week Bacon and Potato Sandwich"
 title: "Step-by-Step Guide to Make Any-night-of-the-week Bacon and Potato Sandwich"
 slug: 177-step-by-step-guide-to-make-any-night-of-the-week-bacon-and-potato-sandwich
-date: 2020-08-01T23:24:06.246Z
+date: 2021-08-01T23:24:06.246Z
 image: https://img-global.cpcdn.com/recipes/c2a681dc8729e2db/751x532cq70/bacon-and-potato-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c2a681dc8729e2db/751x532cq70/bacon-and-potato-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c2a681dc8729e2db/751x532cq70/bacon-and-potato-sandwich-recipe-main-photo.jpg

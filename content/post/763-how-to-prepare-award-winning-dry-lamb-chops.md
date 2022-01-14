@@ -2,7 +2,7 @@
 description: "How to Prepare Award-winning Dry Lamb chops"
 title: "How to Prepare Award-winning Dry Lamb chops"
 slug: 763-how-to-prepare-award-winning-dry-lamb-chops
-date: 2020-07-16T03:09:55.830Z
+date: 2021-07-16T03:09:55.830Z
 image: https://img-global.cpcdn.com/recipes/114bf23274f31202/751x532cq70/dry-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/114bf23274f31202/751x532cq70/dry-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/114bf23274f31202/751x532cq70/dry-lamb-chops-recipe-main-photo.jpg

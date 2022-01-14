@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Oven bacon"
 title: "Step-by-Step Guide to Make Favorite Oven bacon"
 slug: 209-step-by-step-guide-to-make-favorite-oven-bacon
-date: 2020-05-26T00:11:16.232Z
+date: 2021-05-26T00:11:16.232Z
 image: https://img-global.cpcdn.com/recipes/f9f79ceed00790c8/751x532cq70/oven-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f9f79ceed00790c8/751x532cq70/oven-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f9f79ceed00790c8/751x532cq70/oven-bacon-recipe-main-photo.jpg

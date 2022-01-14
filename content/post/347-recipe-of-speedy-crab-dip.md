@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Crab Dip"
 title: "Recipe of Speedy Crab Dip"
 slug: 347-recipe-of-speedy-crab-dip
-date: 2020-06-26T01:11:09.882Z
+date: 2021-06-26T01:11:09.882Z
 image: https://img-global.cpcdn.com/recipes/5487773529145344/751x532cq70/crab-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5487773529145344/751x532cq70/crab-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5487773529145344/751x532cq70/crab-dip-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Speedy Crab Cakes"
 title: "Steps to Make Speedy Crab Cakes"
 slug: 390-steps-to-make-speedy-crab-cakes
-date: 2020-06-25T02:41:09.128Z
+date: 2021-06-25T02:41:09.128Z
 image: https://img-global.cpcdn.com/recipes/32166264/751x532cq70/crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/32166264/751x532cq70/crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/32166264/751x532cq70/crab-cakes-recipe-main-photo.jpg

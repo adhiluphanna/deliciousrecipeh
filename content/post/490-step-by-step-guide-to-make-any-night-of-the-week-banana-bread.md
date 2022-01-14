@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Any-night-of-the-week Banana bread"
 title: "Step-by-Step Guide to Make Any-night-of-the-week Banana bread"
 slug: 490-step-by-step-guide-to-make-any-night-of-the-week-banana-bread
-date: 2020-06-05T12:00:50.434Z
+date: 2021-06-05T12:00:50.434Z
 image: https://img-global.cpcdn.com/recipes/20a0d548d6c28bd6/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/20a0d548d6c28bd6/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/20a0d548d6c28bd6/751x532cq70/banana-bread-recipe-main-photo.jpg

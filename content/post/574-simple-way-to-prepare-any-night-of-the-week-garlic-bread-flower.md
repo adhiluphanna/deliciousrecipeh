@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Any-night-of-the-week Garlic Bread Flower"
 title: "Simple Way to Prepare Any-night-of-the-week Garlic Bread Flower"
 slug: 574-simple-way-to-prepare-any-night-of-the-week-garlic-bread-flower
-date: 2020-07-06T22:42:45.957Z
+date: 2021-07-06T22:42:45.957Z
 image: https://img-global.cpcdn.com/recipes/33b62c2533021b4a/751x532cq70/garlic-bread-flower-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/33b62c2533021b4a/751x532cq70/garlic-bread-flower-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/33b62c2533021b4a/751x532cq70/garlic-bread-flower-recipe-main-photo.jpg

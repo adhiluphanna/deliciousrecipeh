@@ -2,7 +2,7 @@
 description: "How to Prepare Award-winning Cocktail"
 title: "How to Prepare Award-winning Cocktail"
 slug: 1008-how-to-prepare-award-winning-cocktail
-date: 2020-08-14T01:19:18.839Z
+date: 2021-08-14T01:19:18.839Z
 image: https://img-global.cpcdn.com/recipes/4fdfb4bf8dda82b4/751x532cq70/cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4fdfb4bf8dda82b4/751x532cq70/cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4fdfb4bf8dda82b4/751x532cq70/cocktail-recipe-main-photo.jpg

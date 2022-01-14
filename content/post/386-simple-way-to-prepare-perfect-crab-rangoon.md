@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Perfect crab Rangoon"
 title: "Simple Way to Prepare Perfect crab Rangoon"
 slug: 386-simple-way-to-prepare-perfect-crab-rangoon
-date: 2020-06-20T17:53:15.524Z
+date: 2021-06-20T17:53:15.524Z
 image: https://img-global.cpcdn.com/recipes/50609753/751x532cq70/crab-rangoon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/50609753/751x532cq70/crab-rangoon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/50609753/751x532cq70/crab-rangoon-recipe-main-photo.jpg

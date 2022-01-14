@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Super Quick Homemade Curried Lamb Cutlets"
 title: "Easiest Way to Make Super Quick Homemade Curried Lamb Cutlets"
 slug: 812-easiest-way-to-make-super-quick-homemade-curried-lamb-cutlets
-date: 2020-07-30T09:22:42.106Z
+date: 2021-07-30T09:22:42.106Z
 image: https://img-global.cpcdn.com/recipes/0a204daa54c67f50/751x532cq70/curried-lamb-cutlets-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0a204daa54c67f50/751x532cq70/curried-lamb-cutlets-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0a204daa54c67f50/751x532cq70/curried-lamb-cutlets-recipe-main-photo.jpg

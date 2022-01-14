@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Lamb and Rice"
 title: "Recipe of Homemade Lamb and Rice"
 slug: 753-recipe-of-homemade-lamb-and-rice
-date: 2020-11-15T06:28:44.994Z
+date: 2021-11-15T06:28:44.994Z
 image: https://img-global.cpcdn.com/recipes/f5bd3ff3eb67bafa/751x532cq70/lamb-and-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f5bd3ff3eb67bafa/751x532cq70/lamb-and-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f5bd3ff3eb67bafa/751x532cq70/lamb-and-rice-recipe-main-photo.jpg

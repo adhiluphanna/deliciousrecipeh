@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Crispy Bacon, Cheese and Onion Potato Skins"
 title: "Simple Way to Prepare Ultimate Crispy Bacon, Cheese and Onion Potato Skins"
 slug: 195-simple-way-to-prepare-ultimate-crispy-bacon-cheese-and-onion-potato-skins
-date: 2020-08-01T21:13:49.251Z
+date: 2021-08-01T21:13:49.251Z
 image: https://img-global.cpcdn.com/recipes/48f63caa8e6983ff/751x532cq70/crispy-bacon-cheese-and-onion-potato-skins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/48f63caa8e6983ff/751x532cq70/crispy-bacon-cheese-and-onion-potato-skins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/48f63caa8e6983ff/751x532cq70/crispy-bacon-cheese-and-onion-potato-skins-recipe-main-photo.jpg

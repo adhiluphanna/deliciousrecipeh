@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Jalapeño bacon corn"
 title: "Recipe of Any-night-of-the-week Jalapeño bacon corn"
 slug: 225-recipe-of-any-night-of-the-week-jalapeno-bacon-corn
-date: 2020-08-10T10:03:56.556Z
+date: 2021-08-10T10:03:56.556Z
 image: https://img-global.cpcdn.com/recipes/687f0a8f27280880/751x532cq70/jalapeno-bacon-corn-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/687f0a8f27280880/751x532cq70/jalapeno-bacon-corn-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/687f0a8f27280880/751x532cq70/jalapeno-bacon-corn-recipe-main-photo.jpg

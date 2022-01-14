@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Quick Crab Pot"
 title: "Step-by-Step Guide to Make Quick Crab Pot"
 slug: 341-step-by-step-guide-to-make-quick-crab-pot
-date: 2020-08-08T12:33:01.585Z
+date: 2021-08-08T12:33:01.585Z
 image: https://img-global.cpcdn.com/recipes/4818909107585024/751x532cq70/crab-pot-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4818909107585024/751x532cq70/crab-pot-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4818909107585024/751x532cq70/crab-pot-recipe-main-photo.jpg

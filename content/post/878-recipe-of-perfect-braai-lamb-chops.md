@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Braai Lamb Chops"
 title: "Recipe of Perfect Braai Lamb Chops"
 slug: 878-recipe-of-perfect-braai-lamb-chops
-date: 2020-08-02T05:46:03.931Z
+date: 2021-08-02T05:46:03.931Z
 image: https://img-global.cpcdn.com/recipes/022de14ac0db80eb/751x532cq70/braai-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/022de14ac0db80eb/751x532cq70/braai-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/022de14ac0db80eb/751x532cq70/braai-lamb-chops-recipe-main-photo.jpg

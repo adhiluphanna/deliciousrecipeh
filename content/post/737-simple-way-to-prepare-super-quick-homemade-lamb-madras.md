@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Lamb Madras"
 title: "Simple Way to Prepare Super Quick Homemade Lamb Madras"
 slug: 737-simple-way-to-prepare-super-quick-homemade-lamb-madras
-date: 2020-08-01T02:50:29.889Z
+date: 2021-08-01T02:50:29.889Z
 image: https://img-global.cpcdn.com/recipes/2da9396723db7686/751x532cq70/lamb-madras-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2da9396723db7686/751x532cq70/lamb-madras-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2da9396723db7686/751x532cq70/lamb-madras-recipe-main-photo.jpg

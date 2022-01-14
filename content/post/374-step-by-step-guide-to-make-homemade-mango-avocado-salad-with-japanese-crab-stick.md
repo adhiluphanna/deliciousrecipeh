@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Mango avocado salad with Japanese crab stick"
 title: "Step-by-Step Guide to Make Homemade Mango avocado salad with Japanese crab stick"
 slug: 374-step-by-step-guide-to-make-homemade-mango-avocado-salad-with-japanese-crab-stick
-date: 2020-10-10T14:06:25.750Z
+date: 2021-10-10T14:06:25.750Z
 image: https://img-global.cpcdn.com/recipes/a97dc1275cb9e42e/751x532cq70/mango-avocado-salad-with-japanese-crab-stick-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a97dc1275cb9e42e/751x532cq70/mango-avocado-salad-with-japanese-crab-stick-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a97dc1275cb9e42e/751x532cq70/mango-avocado-salad-with-japanese-crab-stick-recipe-main-photo.jpg

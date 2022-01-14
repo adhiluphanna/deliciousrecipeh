@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Fruit cocktail"
 title: "Step-by-Step Guide to Make Homemade Fruit cocktail"
 slug: 937-step-by-step-guide-to-make-homemade-fruit-cocktail
-date: 2020-08-15T04:46:16.371Z
+date: 2021-08-15T04:46:16.371Z
 image: https://img-global.cpcdn.com/recipes/8b0c32731412de73/751x532cq70/fruit-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8b0c32731412de73/751x532cq70/fruit-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8b0c32731412de73/751x532cq70/fruit-cocktail-recipe-main-photo.jpg

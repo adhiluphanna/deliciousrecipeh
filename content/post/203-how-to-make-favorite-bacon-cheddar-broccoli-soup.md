@@ -2,7 +2,7 @@
 description: "How to Make Favorite Bacon Cheddar Broccoli Soup"
 title: "How to Make Favorite Bacon Cheddar Broccoli Soup"
 slug: 203-how-to-make-favorite-bacon-cheddar-broccoli-soup
-date: 2020-10-16T23:44:28.271Z
+date: 2021-10-16T23:44:28.271Z
 image: https://img-global.cpcdn.com/recipes/4ef746fd09a2a1d3/751x532cq70/bacon-cheddar-broccoli-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4ef746fd09a2a1d3/751x532cq70/bacon-cheddar-broccoli-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4ef746fd09a2a1d3/751x532cq70/bacon-cheddar-broccoli-soup-recipe-main-photo.jpg

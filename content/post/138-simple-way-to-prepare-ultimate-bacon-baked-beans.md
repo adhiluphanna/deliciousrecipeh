@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Bacon Baked Beans"
 title: "Simple Way to Prepare Ultimate Bacon Baked Beans"
 slug: 138-simple-way-to-prepare-ultimate-bacon-baked-beans
-date: 2020-11-16T06:49:49.680Z
+date: 2021-11-16T06:49:49.680Z
 image: https://img-global.cpcdn.com/recipes/ef9842ae13b84713/751x532cq70/bacon-baked-beans-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ef9842ae13b84713/751x532cq70/bacon-baked-beans-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ef9842ae13b84713/751x532cq70/bacon-baked-beans-recipe-main-photo.jpg

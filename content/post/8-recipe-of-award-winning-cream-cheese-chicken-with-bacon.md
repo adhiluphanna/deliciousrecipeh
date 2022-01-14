@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Cream Cheese Chicken with Bacon"
 title: "Recipe of Award-winning Cream Cheese Chicken with Bacon"
 slug: 8-recipe-of-award-winning-cream-cheese-chicken-with-bacon
-date: 2020-08-31T00:15:37.224Z
+date: 2021-08-31T00:15:37.224Z
 image: https://img-global.cpcdn.com/recipes/79a7e366e562b1cc/751x532cq70/cream-cheese-chicken-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/79a7e366e562b1cc/751x532cq70/cream-cheese-chicken-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/79a7e366e562b1cc/751x532cq70/cream-cheese-chicken-with-bacon-recipe-main-photo.jpg

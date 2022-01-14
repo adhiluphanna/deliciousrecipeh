@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Ugali, Lamb and kales"
 title: "Easiest Way to Prepare Quick Ugali, Lamb and kales"
 slug: 885-easiest-way-to-prepare-quick-ugali-lamb-and-kales
-date: 2020-10-10T04:04:28.051Z
+date: 2021-10-10T04:04:28.051Z
 image: https://img-global.cpcdn.com/recipes/4bfe11178ea84dde/751x532cq70/ugali-lamb-and-kales-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4bfe11178ea84dde/751x532cq70/ugali-lamb-and-kales-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4bfe11178ea84dde/751x532cq70/ugali-lamb-and-kales-recipe-main-photo.jpg

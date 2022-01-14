@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Lamb soup"
 title: "Recipe of Favorite Lamb soup"
 slug: 873-recipe-of-favorite-lamb-soup
-date: 2020-05-26T04:27:10.548Z
+date: 2021-05-26T04:27:10.548Z
 image: https://img-global.cpcdn.com/recipes/ec358ab05a39f53c/751x532cq70/lamb-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ec358ab05a39f53c/751x532cq70/lamb-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ec358ab05a39f53c/751x532cq70/lamb-soup-recipe-main-photo.jpg

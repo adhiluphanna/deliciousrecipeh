@@ -2,7 +2,7 @@
 description: "How to Prepare Favorite Indian Lamb curry"
 title: "How to Prepare Favorite Indian Lamb curry"
 slug: 813-how-to-prepare-favorite-indian-lamb-curry
-date: 2020-09-15T20:00:55.597Z
+date: 2021-09-15T20:00:55.597Z
 image: https://img-global.cpcdn.com/recipes/1c67389b1fe13e37/751x532cq70/indian-lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1c67389b1fe13e37/751x532cq70/indian-lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1c67389b1fe13e37/751x532cq70/indian-lamb-curry-recipe-main-photo.jpg

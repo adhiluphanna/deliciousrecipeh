@@ -2,7 +2,7 @@
 description: "Steps to Make Super Quick Homemade Fårikål, Norwegian Lamb and Cabbage"
 title: "Steps to Make Super Quick Homemade Fårikål, Norwegian Lamb and Cabbage"
 slug: 695-steps-to-make-super-quick-homemade-farikal-norwegian-lamb-and-cabbage
-date: 2020-06-28T10:28:34.996Z
+date: 2021-06-28T10:28:34.996Z
 image: https://img-global.cpcdn.com/recipes/ef9edcf1ffc50856/751x532cq70/farikal-norwegian-lamb-and-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ef9edcf1ffc50856/751x532cq70/farikal-norwegian-lamb-and-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ef9edcf1ffc50856/751x532cq70/farikal-norwegian-lamb-and-cabbage-recipe-main-photo.jpg

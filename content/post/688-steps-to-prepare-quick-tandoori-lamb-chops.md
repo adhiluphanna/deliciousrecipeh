@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Tandoori Lamb Chops"
 title: "Steps to Prepare Quick Tandoori Lamb Chops"
 slug: 688-steps-to-prepare-quick-tandoori-lamb-chops
-date: 2020-06-24T01:19:41.565Z
+date: 2021-06-24T01:19:41.565Z
 image: https://img-global.cpcdn.com/recipes/f93aad03f9736208/751x532cq70/tandoori-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f93aad03f9736208/751x532cq70/tandoori-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f93aad03f9736208/751x532cq70/tandoori-lamb-chops-recipe-main-photo.jpg

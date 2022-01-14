@@ -2,7 +2,7 @@
 description: "Simple Way to Make Homemade Breaded Bread"
 title: "Simple Way to Make Homemade Breaded Bread"
 slug: 497-simple-way-to-make-homemade-breaded-bread
-date: 2020-10-16T08:48:18.159Z
+date: 2021-10-16T08:48:18.159Z
 image: https://img-global.cpcdn.com/recipes/b4313c2d89cbdc6a/751x532cq70/breaded-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b4313c2d89cbdc6a/751x532cq70/breaded-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b4313c2d89cbdc6a/751x532cq70/breaded-bread-recipe-main-photo.jpg

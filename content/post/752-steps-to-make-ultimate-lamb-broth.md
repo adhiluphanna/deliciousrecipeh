@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Lamb Broth"
 title: "Steps to Make Ultimate Lamb Broth"
 slug: 752-steps-to-make-ultimate-lamb-broth
-date: 2020-11-04T04:42:44.724Z
+date: 2021-11-04T04:42:44.724Z
 image: https://img-global.cpcdn.com/recipes/6c67e3e786702c2a/751x532cq70/lamb-broth-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6c67e3e786702c2a/751x532cq70/lamb-broth-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6c67e3e786702c2a/751x532cq70/lamb-broth-recipe-main-photo.jpg

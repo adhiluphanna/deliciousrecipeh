@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Speedy Low carb bacon wrapped Brussel sprouts"
 title: "Simple Way to Prepare Speedy Low carb bacon wrapped Brussel sprouts"
 slug: 231-simple-way-to-prepare-speedy-low-carb-bacon-wrapped-brussel-sprouts
-date: 2020-06-19T18:17:53.664Z
+date: 2021-06-19T18:17:53.664Z
 image: https://img-global.cpcdn.com/recipes/52426e4f4afa147b/751x532cq70/low-carb-bacon-wrapped-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/52426e4f4afa147b/751x532cq70/low-carb-bacon-wrapped-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/52426e4f4afa147b/751x532cq70/low-carb-bacon-wrapped-brussel-sprouts-recipe-main-photo.jpg

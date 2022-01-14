@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Cocktail delight ice cream"
 title: "Easiest Way to Make Any-night-of-the-week Cocktail delight ice cream"
 slug: 989-easiest-way-to-make-any-night-of-the-week-cocktail-delight-ice-cream
-date: 2020-10-26T15:30:20.877Z
+date: 2021-10-26T15:30:20.877Z
 image: https://img-global.cpcdn.com/recipes/2244eda87a4d73be/751x532cq70/cocktail-delight-ice-cream-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2244eda87a4d73be/751x532cq70/cocktail-delight-ice-cream-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2244eda87a4d73be/751x532cq70/cocktail-delight-ice-cream-recipe-main-photo.jpg

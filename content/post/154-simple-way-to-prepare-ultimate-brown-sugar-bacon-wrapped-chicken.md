@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Brown sugar bacon wrapped chicken"
 title: "Simple Way to Prepare Ultimate Brown sugar bacon wrapped chicken"
 slug: 154-simple-way-to-prepare-ultimate-brown-sugar-bacon-wrapped-chicken
-date: 2020-06-12T21:44:14.333Z
+date: 2021-06-12T21:44:14.333Z
 image: https://img-global.cpcdn.com/recipes/ad005f0a185d086a/751x532cq70/brown-sugar-bacon-wrapped-chicken-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ad005f0a185d086a/751x532cq70/brown-sugar-bacon-wrapped-chicken-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ad005f0a185d086a/751x532cq70/brown-sugar-bacon-wrapped-chicken-recipe-main-photo.jpg

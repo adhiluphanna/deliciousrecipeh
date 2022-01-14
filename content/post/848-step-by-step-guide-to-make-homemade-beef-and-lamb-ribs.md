@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Beef and lamb ribs"
 title: "Step-by-Step Guide to Make Homemade Beef and lamb ribs"
 slug: 848-step-by-step-guide-to-make-homemade-beef-and-lamb-ribs
-date: 2020-09-20T16:02:49.546Z
+date: 2021-09-20T16:02:49.546Z
 image: https://img-global.cpcdn.com/recipes/ecc2bd44f3549b88/751x532cq70/beef-and-lamb-ribs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ecc2bd44f3549b88/751x532cq70/beef-and-lamb-ribs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ecc2bd44f3549b88/751x532cq70/beef-and-lamb-ribs-recipe-main-photo.jpg

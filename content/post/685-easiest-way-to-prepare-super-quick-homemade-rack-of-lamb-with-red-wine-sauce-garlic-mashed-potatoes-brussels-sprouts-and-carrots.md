@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Rack of lamb with red wine sauce, garlic mashed potatoes, Brussels sprouts and carrots"
 title: "Easiest Way to Prepare Super Quick Homemade Rack of lamb with red wine sauce, garlic mashed potatoes, Brussels sprouts and carrots"
 slug: 685-easiest-way-to-prepare-super-quick-homemade-rack-of-lamb-with-red-wine-sauce-garlic-mashed-potatoes-brussels-sprouts-and-carrots
-date: 2020-10-02T05:10:07.799Z
+date: 2021-10-02T05:10:07.799Z
 image: https://img-global.cpcdn.com/recipes/9342558a2cfb9266/751x532cq70/rack-of-lamb-with-red-wine-sauce-garlic-mashed-potatoes-brussels-sprouts-and-carrots-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9342558a2cfb9266/751x532cq70/rack-of-lamb-with-red-wine-sauce-garlic-mashed-potatoes-brussels-sprouts-and-carrots-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9342558a2cfb9266/751x532cq70/rack-of-lamb-with-red-wine-sauce-garlic-mashed-potatoes-brussels-sprouts-and-carrots-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Ciabatta Bread"
 title: "Easiest Way to Prepare Favorite Ciabatta Bread"
 slug: 673-easiest-way-to-prepare-favorite-ciabatta-bread
-date: 2020-05-30T06:16:48.456Z
+date: 2021-05-30T06:16:48.456Z
 image: https://img-global.cpcdn.com/recipes/f4208cb2ed7b9fd8/751x532cq70/ciabatta-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f4208cb2ed7b9fd8/751x532cq70/ciabatta-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f4208cb2ed7b9fd8/751x532cq70/ciabatta-bread-recipe-main-photo.jpg

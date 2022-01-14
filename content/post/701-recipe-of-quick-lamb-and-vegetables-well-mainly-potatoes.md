@@ -2,7 +2,7 @@
 description: "Recipe of Quick Lamb and Vegetables, well mainly Potatoes"
 title: "Recipe of Quick Lamb and Vegetables, well mainly Potatoes"
 slug: 701-recipe-of-quick-lamb-and-vegetables-well-mainly-potatoes
-date: 2020-06-01T18:44:37.352Z
+date: 2021-06-01T18:44:37.352Z
 image: https://img-global.cpcdn.com/recipes/650409eeb4673dc4/751x532cq70/lamb-and-vegetables-well-mainly-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/650409eeb4673dc4/751x532cq70/lamb-and-vegetables-well-mainly-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/650409eeb4673dc4/751x532cq70/lamb-and-vegetables-well-mainly-potatoes-recipe-main-photo.jpg

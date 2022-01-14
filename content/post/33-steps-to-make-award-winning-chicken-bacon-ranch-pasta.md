@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Chicken Bacon Ranch Pasta"
 title: "Steps to Make Award-winning Chicken Bacon Ranch Pasta"
 slug: 33-steps-to-make-award-winning-chicken-bacon-ranch-pasta
-date: 2020-07-28T13:21:00.855Z
+date: 2021-07-28T13:21:00.855Z
 image: https://img-global.cpcdn.com/recipes/f0628cf8d8f4779b/751x532cq70/chicken-bacon-ranch-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f0628cf8d8f4779b/751x532cq70/chicken-bacon-ranch-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f0628cf8d8f4779b/751x532cq70/chicken-bacon-ranch-pasta-recipe-main-photo.jpg

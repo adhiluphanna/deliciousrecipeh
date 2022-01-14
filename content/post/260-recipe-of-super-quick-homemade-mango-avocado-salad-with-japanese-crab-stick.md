@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Mango avocado salad with Japanese crab stick"
 title: "Recipe of Super Quick Homemade Mango avocado salad with Japanese crab stick"
 slug: 260-recipe-of-super-quick-homemade-mango-avocado-salad-with-japanese-crab-stick
-date: 2020-07-09T10:39:18.428Z
+date: 2021-07-09T10:39:18.428Z
 image: https://img-global.cpcdn.com/recipes/a97dc1275cb9e42e/751x532cq70/mango-avocado-salad-with-japanese-crab-stick-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a97dc1275cb9e42e/751x532cq70/mango-avocado-salad-with-japanese-crab-stick-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a97dc1275cb9e42e/751x532cq70/mango-avocado-salad-with-japanese-crab-stick-recipe-main-photo.jpg

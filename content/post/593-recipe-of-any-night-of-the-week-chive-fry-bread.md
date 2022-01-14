@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Chive Fry Bread"
 title: "Recipe of Any-night-of-the-week Chive Fry Bread"
 slug: 593-recipe-of-any-night-of-the-week-chive-fry-bread
-date: 2020-07-07T20:49:43.532Z
+date: 2021-07-07T20:49:43.532Z
 image: https://img-global.cpcdn.com/recipes/3d42f9c71266d0e5/751x532cq70/chive-fry-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3d42f9c71266d0e5/751x532cq70/chive-fry-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3d42f9c71266d0e5/751x532cq70/chive-fry-bread-recipe-main-photo.jpg

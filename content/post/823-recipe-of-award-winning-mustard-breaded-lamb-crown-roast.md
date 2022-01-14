@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Mustard Breaded Lamb Crown Roast"
 title: "Recipe of Award-winning Mustard Breaded Lamb Crown Roast"
 slug: 823-recipe-of-award-winning-mustard-breaded-lamb-crown-roast
-date: 2020-11-10T09:50:25.891Z
+date: 2021-11-10T09:50:25.891Z
 image: https://img-global.cpcdn.com/recipes/62ad715d9acbe15a/751x532cq70/mustard-breaded-lamb-crown-roast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/62ad715d9acbe15a/751x532cq70/mustard-breaded-lamb-crown-roast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/62ad715d9acbe15a/751x532cq70/mustard-breaded-lamb-crown-roast-recipe-main-photo.jpg

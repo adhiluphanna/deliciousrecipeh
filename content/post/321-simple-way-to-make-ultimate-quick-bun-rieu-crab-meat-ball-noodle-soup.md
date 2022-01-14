@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Quick Bun Rieu (Crab Meat Ball Noodle Soup)"
 title: "Simple Way to Make Ultimate Quick Bun Rieu (Crab Meat Ball Noodle Soup)"
 slug: 321-simple-way-to-make-ultimate-quick-bun-rieu-crab-meat-ball-noodle-soup
-date: 2020-11-05T16:23:29.383Z
+date: 2021-11-05T16:23:29.383Z
 image: https://img-global.cpcdn.com/recipes/6442042600718336/751x532cq70/quick-bun-rieu-crab-meat-ball-noodle-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6442042600718336/751x532cq70/quick-bun-rieu-crab-meat-ball-noodle-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6442042600718336/751x532cq70/quick-bun-rieu-crab-meat-ball-noodle-soup-recipe-main-photo.jpg

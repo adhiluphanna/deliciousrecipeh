@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Lamb curry"
 title: "Simple Way to Make Ultimate Lamb curry"
 slug: 731-simple-way-to-make-ultimate-lamb-curry
-date: 2020-08-02T14:17:00.925Z
+date: 2021-08-02T14:17:00.925Z
 image: https://img-global.cpcdn.com/recipes/f8a73d5188d5ff09/751x532cq70/lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f8a73d5188d5ff09/751x532cq70/lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f8a73d5188d5ff09/751x532cq70/lamb-curry-recipe-main-photo.jpg

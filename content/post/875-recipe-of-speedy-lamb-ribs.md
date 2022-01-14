@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Lamb ribs"
 title: "Recipe of Speedy Lamb ribs"
 slug: 875-recipe-of-speedy-lamb-ribs
-date: 2020-09-11T06:05:09.571Z
+date: 2021-09-11T06:05:09.571Z
 image: https://img-global.cpcdn.com/recipes/64855e7e95144135/751x532cq70/lamb-ribs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/64855e7e95144135/751x532cq70/lamb-ribs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/64855e7e95144135/751x532cq70/lamb-ribs-recipe-main-photo.jpg

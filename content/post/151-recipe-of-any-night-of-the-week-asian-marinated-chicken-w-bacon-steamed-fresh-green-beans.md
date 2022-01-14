@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Asian Marinated Chicken w/ Bacon Steamed Fresh Green Beans"
 title: "Recipe of Any-night-of-the-week Asian Marinated Chicken w/ Bacon Steamed Fresh Green Beans"
 slug: 151-recipe-of-any-night-of-the-week-asian-marinated-chicken-w-bacon-steamed-fresh-green-beans
-date: 2020-10-22T10:40:01.976Z
+date: 2021-10-22T10:40:01.976Z
 image: https://img-global.cpcdn.com/recipes/c2ecc290b5f257b6/751x532cq70/asian-marinated-chicken-w-bacon-steamed-fresh-green-beans-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c2ecc290b5f257b6/751x532cq70/asian-marinated-chicken-w-bacon-steamed-fresh-green-beans-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c2ecc290b5f257b6/751x532cq70/asian-marinated-chicken-w-bacon-steamed-fresh-green-beans-recipe-main-photo.jpg

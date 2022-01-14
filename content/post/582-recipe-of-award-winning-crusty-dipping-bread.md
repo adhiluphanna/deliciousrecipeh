@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Crusty Dipping Bread"
 title: "Recipe of Award-winning Crusty Dipping Bread"
 slug: 582-recipe-of-award-winning-crusty-dipping-bread
-date: 2020-06-20T20:04:04.418Z
+date: 2021-06-20T20:04:04.418Z
 image: https://img-global.cpcdn.com/recipes/5b6cde5832ed5006/751x532cq70/crusty-dipping-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5b6cde5832ed5006/751x532cq70/crusty-dipping-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5b6cde5832ed5006/751x532cq70/crusty-dipping-bread-recipe-main-photo.jpg

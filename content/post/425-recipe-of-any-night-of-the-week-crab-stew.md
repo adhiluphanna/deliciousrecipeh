@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Crab Stew"
 title: "Recipe of Any-night-of-the-week Crab Stew"
 slug: 425-recipe-of-any-night-of-the-week-crab-stew
-date: 2020-10-27T18:29:48.111Z
+date: 2021-10-27T18:29:48.111Z
 image: https://img-global.cpcdn.com/recipes/132b3c404a40af68/751x532cq70/crab-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/132b3c404a40af68/751x532cq70/crab-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/132b3c404a40af68/751x532cq70/crab-stew-recipe-main-photo.jpg

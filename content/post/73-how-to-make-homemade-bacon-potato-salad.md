@@ -2,7 +2,7 @@
 description: "How to Make Homemade Bacon Potato salad"
 title: "How to Make Homemade Bacon Potato salad"
 slug: 73-how-to-make-homemade-bacon-potato-salad
-date: 2020-06-09T12:01:46.922Z
+date: 2021-06-09T12:01:46.922Z
 image: https://img-global.cpcdn.com/recipes/454d3b18637005fb/751x532cq70/bacon-potato-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/454d3b18637005fb/751x532cq70/bacon-potato-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/454d3b18637005fb/751x532cq70/bacon-potato-salad-recipe-main-photo.jpg

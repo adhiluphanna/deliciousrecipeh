@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Ynielle’s Potato Ham Egg Bacon Bits Salad"
 title: "Recipe of Any-night-of-the-week Ynielle’s Potato Ham Egg Bacon Bits Salad"
 slug: 35-recipe-of-any-night-of-the-week-ynielles-potato-ham-egg-bacon-bits-salad
-date: 2020-05-27T03:07:36.133Z
+date: 2021-05-27T03:07:36.133Z
 image: https://img-global.cpcdn.com/recipes/26a8a6a292ee1d02/751x532cq70/ynielles-potato-ham-egg-bacon-bits-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/26a8a6a292ee1d02/751x532cq70/ynielles-potato-ham-egg-bacon-bits-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/26a8a6a292ee1d02/751x532cq70/ynielles-potato-ham-egg-bacon-bits-salad-recipe-main-photo.jpg

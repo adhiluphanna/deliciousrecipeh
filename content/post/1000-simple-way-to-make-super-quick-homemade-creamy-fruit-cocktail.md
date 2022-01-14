@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Creamy fruit cocktail"
 title: "Simple Way to Make Super Quick Homemade Creamy fruit cocktail"
 slug: 1000-simple-way-to-make-super-quick-homemade-creamy-fruit-cocktail
-date: 2020-10-08T18:53:31.588Z
+date: 2021-10-08T18:53:31.588Z
 image: https://img-global.cpcdn.com/recipes/3e54887297c5cd3c/751x532cq70/creamy-fruit-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3e54887297c5cd3c/751x532cq70/creamy-fruit-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3e54887297c5cd3c/751x532cq70/creamy-fruit-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week Brussels in Bacon Slices"
 title: "Steps to Make Any-night-of-the-week Brussels in Bacon Slices"
 slug: 11-steps-to-make-any-night-of-the-week-brussels-in-bacon-slices
-date: 2020-09-13T23:52:15.631Z
+date: 2021-09-13T23:52:15.631Z
 image: https://img-global.cpcdn.com/recipes/9e71d3a444524f51/751x532cq70/brussels-in-bacon-slices-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9e71d3a444524f51/751x532cq70/brussels-in-bacon-slices-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9e71d3a444524f51/751x532cq70/brussels-in-bacon-slices-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Super Quick Homemade Fried Rice Lamb"
 title: "Step-by-Step Guide to Make Super Quick Homemade Fried Rice Lamb"
 slug: 790-step-by-step-guide-to-make-super-quick-homemade-fried-rice-lamb
-date: 2020-09-25T00:13:26.008Z
+date: 2021-09-25T00:13:26.008Z
 image: https://img-global.cpcdn.com/recipes/c851c72df52116e9/751x532cq70/fried-rice-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c851c72df52116e9/751x532cq70/fried-rice-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c851c72df52116e9/751x532cq70/fried-rice-lamb-recipe-main-photo.jpg

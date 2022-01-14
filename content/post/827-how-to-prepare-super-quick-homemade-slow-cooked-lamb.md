@@ -2,7 +2,7 @@
 description: "How to Prepare Super Quick Homemade Slow cooked lamb"
 title: "How to Prepare Super Quick Homemade Slow cooked lamb"
 slug: 827-how-to-prepare-super-quick-homemade-slow-cooked-lamb
-date: 2020-09-01T18:53:11.064Z
+date: 2021-09-01T18:53:11.064Z
 image: https://img-global.cpcdn.com/recipes/ee2288bbbabb4081/751x532cq70/slow-cooked-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ee2288bbbabb4081/751x532cq70/slow-cooked-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ee2288bbbabb4081/751x532cq70/slow-cooked-lamb-recipe-main-photo.jpg

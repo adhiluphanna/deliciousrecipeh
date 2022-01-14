@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Bagel Egg Boat with Candied Bacon"
 title: "Steps to Make Perfect Bagel Egg Boat with Candied Bacon"
 slug: 24-steps-to-make-perfect-bagel-egg-boat-with-candied-bacon
-date: 2020-10-04T14:53:11.706Z
+date: 2021-10-04T14:53:11.706Z
 image: https://img-global.cpcdn.com/recipes/d5e145b34ab94768/751x532cq70/bagel-egg-boat-with-candied-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d5e145b34ab94768/751x532cq70/bagel-egg-boat-with-candied-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d5e145b34ab94768/751x532cq70/bagel-egg-boat-with-candied-bacon-recipe-main-photo.jpg

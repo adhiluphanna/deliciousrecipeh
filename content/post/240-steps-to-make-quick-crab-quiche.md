@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Crab Quiche"
 title: "Steps to Make Quick Crab Quiche"
 slug: 240-steps-to-make-quick-crab-quiche
-date: 2020-07-20T22:43:11.482Z
+date: 2021-07-20T22:43:11.482Z
 image: https://img-global.cpcdn.com/recipes/9d88239524489fab/751x532cq70/crab-quiche-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9d88239524489fab/751x532cq70/crab-quiche-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9d88239524489fab/751x532cq70/crab-quiche-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Lamb Casserole with Dumplings"
 title: "How to Make Super Quick Homemade Lamb Casserole with Dumplings"
 slug: 834-how-to-make-super-quick-homemade-lamb-casserole-with-dumplings
-date: 2020-09-28T16:07:44.879Z
+date: 2021-09-28T16:07:44.879Z
 image: https://img-global.cpcdn.com/recipes/339d5c5ac7c9b3b2/751x532cq70/lamb-casserole-with-dumplings-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/339d5c5ac7c9b3b2/751x532cq70/lamb-casserole-with-dumplings-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/339d5c5ac7c9b3b2/751x532cq70/lamb-casserole-with-dumplings-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Zaater bread"
 title: "Steps to Make Award-winning Zaater bread"
 slug: 518-steps-to-make-award-winning-zaater-bread
-date: 2020-06-05T08:01:05.800Z
+date: 2021-06-05T08:01:05.800Z
 image: https://img-global.cpcdn.com/recipes/410cb0b864ec58ca/751x532cq70/zaater-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/410cb0b864ec58ca/751x532cq70/zaater-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/410cb0b864ec58ca/751x532cq70/zaater-bread-recipe-main-photo.jpg

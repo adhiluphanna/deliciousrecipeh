@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Cocktail chicken sausages in rice biryani"
 title: "How to Make Award-winning Cocktail chicken sausages in rice biryani"
 slug: 1012-how-to-make-award-winning-cocktail-chicken-sausages-in-rice-biryani
-date: 2020-11-01T08:32:54.527Z
+date: 2021-11-01T08:32:54.527Z
 image: https://img-global.cpcdn.com/recipes/f000891989968bcb/751x532cq70/cocktail-chicken-sausages-in-rice-biryani-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f000891989968bcb/751x532cq70/cocktail-chicken-sausages-in-rice-biryani-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f000891989968bcb/751x532cq70/cocktail-chicken-sausages-in-rice-biryani-recipe-main-photo.jpg

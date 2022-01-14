@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Cocktail Popsicles"
 title: "Recipe of Favorite Cocktail Popsicles"
 slug: 990-recipe-of-favorite-cocktail-popsicles
-date: 2020-08-29T17:12:33.240Z
+date: 2021-08-29T17:12:33.240Z
 image: https://img-global.cpcdn.com/recipes/4b825c0253ed7a8a/751x532cq70/cocktail-popsicles-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4b825c0253ed7a8a/751x532cq70/cocktail-popsicles-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4b825c0253ed7a8a/751x532cq70/cocktail-popsicles-recipe-main-photo.jpg

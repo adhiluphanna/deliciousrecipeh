@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Cold Crab Salad"
 title: "Simple Way to Make Award-winning Cold Crab Salad"
 slug: 441-simple-way-to-make-award-winning-cold-crab-salad
-date: 2020-10-18T12:58:12.832Z
+date: 2021-10-18T12:58:12.832Z
 image: https://img-global.cpcdn.com/recipes/5763614027808768/751x532cq70/cold-crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5763614027808768/751x532cq70/cold-crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5763614027808768/751x532cq70/cold-crab-salad-recipe-main-photo.jpg

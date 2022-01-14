@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Perfect Pineapple and Bacon Sandwich"
 title: "Step-by-Step Guide to Make Perfect Pineapple and Bacon Sandwich"
 slug: 152-step-by-step-guide-to-make-perfect-pineapple-and-bacon-sandwich
-date: 2020-09-09T18:38:09.134Z
+date: 2021-09-09T18:38:09.134Z
 image: https://img-global.cpcdn.com/recipes/3274c764be9407ff/751x532cq70/pineapple-and-bacon-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3274c764be9407ff/751x532cq70/pineapple-and-bacon-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3274c764be9407ff/751x532cq70/pineapple-and-bacon-sandwich-recipe-main-photo.jpg

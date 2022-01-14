@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Mango cocktail delight"
 title: "Steps to Prepare Quick Mango cocktail delight"
 slug: 984-steps-to-prepare-quick-mango-cocktail-delight
-date: 2020-07-18T01:33:45.798Z
+date: 2021-07-18T01:33:45.798Z
 image: https://img-global.cpcdn.com/recipes/3e7e7146c0c3ad70/751x532cq70/mango-cocktail-delight-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3e7e7146c0c3ad70/751x532cq70/mango-cocktail-delight-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3e7e7146c0c3ad70/751x532cq70/mango-cocktail-delight-recipe-main-photo.jpg

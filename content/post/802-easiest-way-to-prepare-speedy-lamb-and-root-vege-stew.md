@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Lamb and root vege stew"
 title: "Easiest Way to Prepare Speedy Lamb and root vege stew"
 slug: 802-easiest-way-to-prepare-speedy-lamb-and-root-vege-stew
-date: 2020-08-09T17:09:52.641Z
+date: 2021-08-09T17:09:52.641Z
 image: https://img-global.cpcdn.com/recipes/91a5a8325863e309/751x532cq70/lamb-and-root-vege-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/91a5a8325863e309/751x532cq70/lamb-and-root-vege-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/91a5a8325863e309/751x532cq70/lamb-and-root-vege-stew-recipe-main-photo.jpg

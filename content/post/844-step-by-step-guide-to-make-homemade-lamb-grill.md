@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Lamb Grill"
 title: "Step-by-Step Guide to Make Homemade Lamb Grill"
 slug: 844-step-by-step-guide-to-make-homemade-lamb-grill
-date: 2020-06-10T07:08:48.073Z
+date: 2021-06-10T07:08:48.073Z
 image: https://img-global.cpcdn.com/recipes/f341bbba58ddaea1/751x532cq70/lamb-grill-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f341bbba58ddaea1/751x532cq70/lamb-grill-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f341bbba58ddaea1/751x532cq70/lamb-grill-recipe-main-photo.jpg

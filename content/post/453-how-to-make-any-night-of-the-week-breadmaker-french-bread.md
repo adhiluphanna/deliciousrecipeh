@@ -2,7 +2,7 @@
 description: "How to Make Any-night-of-the-week Breadmaker French Bread"
 title: "How to Make Any-night-of-the-week Breadmaker French Bread"
 slug: 453-how-to-make-any-night-of-the-week-breadmaker-french-bread
-date: 2020-10-09T16:28:49.020Z
+date: 2021-10-09T16:28:49.020Z
 image: https://img-global.cpcdn.com/recipes/5384251055800320/751x532cq70/breadmaker-french-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5384251055800320/751x532cq70/breadmaker-french-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5384251055800320/751x532cq70/breadmaker-french-bread-recipe-main-photo.jpg

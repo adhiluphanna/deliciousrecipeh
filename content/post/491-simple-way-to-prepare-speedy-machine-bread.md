@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Speedy Machine Bread"
 title: "Simple Way to Prepare Speedy Machine Bread"
 slug: 491-simple-way-to-prepare-speedy-machine-bread
-date: 2020-06-29T02:04:09.182Z
+date: 2021-06-29T02:04:09.182Z
 image: https://img-global.cpcdn.com/recipes/5f8e001bea620c55/751x532cq70/machine-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5f8e001bea620c55/751x532cq70/machine-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5f8e001bea620c55/751x532cq70/machine-bread-recipe-main-photo.jpg

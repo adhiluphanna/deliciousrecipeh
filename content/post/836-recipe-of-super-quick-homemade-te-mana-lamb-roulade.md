@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade TE Mana Lamb Roulade"
 title: "Recipe of Super Quick Homemade TE Mana Lamb Roulade"
 slug: 836-recipe-of-super-quick-homemade-te-mana-lamb-roulade
-date: 2020-09-10T21:11:29.874Z
+date: 2021-09-10T21:11:29.874Z
 image: https://img-global.cpcdn.com/recipes/76abe0a9284ad61a/751x532cq70/te-mana-lamb-roulade-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/76abe0a9284ad61a/751x532cq70/te-mana-lamb-roulade-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/76abe0a9284ad61a/751x532cq70/te-mana-lamb-roulade-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Bacon Mac &amp;amp; Cheese"
 title: "Step-by-Step Guide to Make Award-winning Bacon Mac &amp;amp; Cheese"
 slug: 201-step-by-step-guide-to-make-award-winning-bacon-mac-and-amp-cheese
-date: 2020-08-31T02:06:27.085Z
+date: 2021-08-31T02:06:27.085Z
 image: https://img-global.cpcdn.com/recipes/a15a56e22543fcdf/751x532cq70/bacon-mac-cheese-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a15a56e22543fcdf/751x532cq70/bacon-mac-cheese-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a15a56e22543fcdf/751x532cq70/bacon-mac-cheese-recipe-main-photo.jpg

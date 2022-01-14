@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Jamaican Cocktail Bread Pudding"
 title: "Recipe of Super Quick Homemade Jamaican Cocktail Bread Pudding"
 slug: 951-recipe-of-super-quick-homemade-jamaican-cocktail-bread-pudding
-date: 2020-07-22T18:23:22.002Z
+date: 2021-07-22T18:23:22.002Z
 image: https://img-global.cpcdn.com/recipes/5150985646243840/751x532cq70/jamaican-cocktail-bread-pudding-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5150985646243840/751x532cq70/jamaican-cocktail-bread-pudding-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5150985646243840/751x532cq70/jamaican-cocktail-bread-pudding-recipe-main-photo.jpg

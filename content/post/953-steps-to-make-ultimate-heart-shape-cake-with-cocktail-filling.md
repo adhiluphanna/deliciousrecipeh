@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Heart shape cake with cocktail filling"
 title: "Steps to Make Ultimate Heart shape cake with cocktail filling"
 slug: 953-steps-to-make-ultimate-heart-shape-cake-with-cocktail-filling
-date: 2020-08-02T20:47:03.375Z
+date: 2021-08-02T20:47:03.375Z
 image: https://img-global.cpcdn.com/recipes/4b8c8f8877394bde/751x532cq70/heart-shape-cake-with-cocktail-filling-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4b8c8f8877394bde/751x532cq70/heart-shape-cake-with-cocktail-filling-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4b8c8f8877394bde/751x532cq70/heart-shape-cake-with-cocktail-filling-recipe-main-photo.jpg

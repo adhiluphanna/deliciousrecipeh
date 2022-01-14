@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Steam Crab 蒸螃蟹"
 title: "Easiest Way to Make Quick Steam Crab 蒸螃蟹"
 slug: 258-easiest-way-to-make-quick-steam-crab
-date: 2020-09-26T00:34:32.132Z
+date: 2021-09-26T00:34:32.132Z
 image: https://img-global.cpcdn.com/recipes/81ddeb75e56351dd/751x532cq70/steam-crab-蒸螃蟹-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/81ddeb75e56351dd/751x532cq70/steam-crab-蒸螃蟹-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/81ddeb75e56351dd/751x532cq70/steam-crab-蒸螃蟹-recipe-main-photo.jpg

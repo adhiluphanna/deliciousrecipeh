@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Ultimate Bacon Pea Creamy Pasta Salad with lemon parmesan dressing"
 title: "Easiest Way to Prepare Ultimate Bacon Pea Creamy Pasta Salad with lemon parmesan dressing"
 slug: 96-easiest-way-to-prepare-ultimate-bacon-pea-creamy-pasta-salad-with-lemon-parmesan-dressing
-date: 2020-06-04T21:22:03.707Z
+date: 2021-06-04T21:22:03.707Z
 image: https://img-global.cpcdn.com/recipes/62684beb44a1a258/751x532cq70/bacon-pea-creamy-pasta-salad-with-lemon-parmesan-dressing-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/62684beb44a1a258/751x532cq70/bacon-pea-creamy-pasta-salad-with-lemon-parmesan-dressing-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/62684beb44a1a258/751x532cq70/bacon-pea-creamy-pasta-salad-with-lemon-parmesan-dressing-recipe-main-photo.jpg

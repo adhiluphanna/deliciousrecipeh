@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate El Floridita cocktail"
 title: "Easiest Way to Make Ultimate El Floridita cocktail"
 slug: 950-easiest-way-to-make-ultimate-el-floridita-cocktail
-date: 2020-07-08T20:17:02.597Z
+date: 2021-07-08T20:17:02.597Z
 image: https://img-global.cpcdn.com/recipes/0189dfda582b7e3a/751x532cq70/el-floridita-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0189dfda582b7e3a/751x532cq70/el-floridita-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0189dfda582b7e3a/751x532cq70/el-floridita-cocktail-recipe-main-photo.jpg

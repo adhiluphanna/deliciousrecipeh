@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Toast bread"
 title: "Simple Way to Make Super Quick Homemade Toast bread"
 slug: 537-simple-way-to-make-super-quick-homemade-toast-bread
-date: 2020-10-13T13:17:54.734Z
+date: 2021-10-13T13:17:54.734Z
 image: https://img-global.cpcdn.com/recipes/03da579d1f0c5d44/751x532cq70/toast-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/03da579d1f0c5d44/751x532cq70/toast-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/03da579d1f0c5d44/751x532cq70/toast-bread-recipe-main-photo.jpg

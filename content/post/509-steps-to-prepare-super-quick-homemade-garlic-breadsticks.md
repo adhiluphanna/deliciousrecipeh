@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade Garlic Breadsticks"
 title: "Steps to Prepare Super Quick Homemade Garlic Breadsticks"
 slug: 509-steps-to-prepare-super-quick-homemade-garlic-breadsticks
-date: 2020-07-27T02:19:15.828Z
+date: 2021-07-27T02:19:15.828Z
 image: https://img-global.cpcdn.com/recipes/5723ad798de6ac7a/751x532cq70/garlic-breadsticks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5723ad798de6ac7a/751x532cq70/garlic-breadsticks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5723ad798de6ac7a/751x532cq70/garlic-breadsticks-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Bacon &amp;amp; Egg Breakfast Wrap"
 title: "Step-by-Step Guide to Prepare Favorite Bacon &amp;amp; Egg Breakfast Wrap"
 slug: 74-step-by-step-guide-to-prepare-favorite-bacon-and-amp-egg-breakfast-wrap
-date: 2020-09-24T06:32:55.775Z
+date: 2021-09-24T06:32:55.775Z
 image: https://img-global.cpcdn.com/recipes/b200463a0410683d/751x532cq70/bacon-egg-breakfast-wrap-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b200463a0410683d/751x532cq70/bacon-egg-breakfast-wrap-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b200463a0410683d/751x532cq70/bacon-egg-breakfast-wrap-recipe-main-photo.jpg

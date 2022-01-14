@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Brad's bacon asparagus and cream cheese stuffed pork wellington"
 title: "Easiest Way to Prepare Any-night-of-the-week Brad's bacon asparagus and cream cheese stuffed pork wellington"
 slug: 196-easiest-way-to-prepare-any-night-of-the-week-brad-and-39-s-bacon-asparagus-and-cream-cheese-stuffed-pork-wellington
-date: 2020-10-18T01:19:09.873Z
+date: 2021-10-18T01:19:09.873Z
 image: https://img-global.cpcdn.com/recipes/d2b6cc3205ac1989/751x532cq70/brads-bacon-asparagus-and-cream-cheese-stuffed-pork-wellington-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d2b6cc3205ac1989/751x532cq70/brads-bacon-asparagus-and-cream-cheese-stuffed-pork-wellington-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d2b6cc3205ac1989/751x532cq70/brads-bacon-asparagus-and-cream-cheese-stuffed-pork-wellington-recipe-main-photo.jpg

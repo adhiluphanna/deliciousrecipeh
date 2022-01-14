@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week Easy grilled lamb"
 title: "Steps to Make Any-night-of-the-week Easy grilled lamb"
 slug: 872-steps-to-make-any-night-of-the-week-easy-grilled-lamb
-date: 2020-11-08T14:32:13.702Z
+date: 2021-11-08T14:32:13.702Z
 image: https://img-global.cpcdn.com/recipes/f0441a47c39e3007/751x532cq70/easy-grilled-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f0441a47c39e3007/751x532cq70/easy-grilled-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f0441a47c39e3007/751x532cq70/easy-grilled-lamb-recipe-main-photo.jpg

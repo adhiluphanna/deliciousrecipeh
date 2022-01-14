@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Lamb and Vegetables, well mainly Potatoes"
 title: "Recipe of Homemade Lamb and Vegetables, well mainly Potatoes"
 slug: 800-recipe-of-homemade-lamb-and-vegetables-well-mainly-potatoes
-date: 2020-10-11T06:10:15.609Z
+date: 2021-10-11T06:10:15.609Z
 image: https://img-global.cpcdn.com/recipes/650409eeb4673dc4/751x532cq70/lamb-and-vegetables-well-mainly-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/650409eeb4673dc4/751x532cq70/lamb-and-vegetables-well-mainly-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/650409eeb4673dc4/751x532cq70/lamb-and-vegetables-well-mainly-potatoes-recipe-main-photo.jpg

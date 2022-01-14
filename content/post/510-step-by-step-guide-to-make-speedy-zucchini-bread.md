@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Zucchini Bread"
 title: "Step-by-Step Guide to Make Speedy Zucchini Bread"
 slug: 510-step-by-step-guide-to-make-speedy-zucchini-bread
-date: 2020-07-10T04:13:13.316Z
+date: 2021-07-10T04:13:13.316Z
 image: https://img-global.cpcdn.com/recipes/61f1aded0edd80d3/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/61f1aded0edd80d3/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/61f1aded0edd80d3/751x532cq70/zucchini-bread-recipe-main-photo.jpg

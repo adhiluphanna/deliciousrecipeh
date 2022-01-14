@@ -2,7 +2,7 @@
 description: "Steps to Make Super Quick Homemade Grilled Bacon Wrapped Jalapeno Poppers"
 title: "Steps to Make Super Quick Homemade Grilled Bacon Wrapped Jalapeno Poppers"
 slug: 212-steps-to-make-super-quick-homemade-grilled-bacon-wrapped-jalapeno-poppers
-date: 2020-08-21T14:17:45.633Z
+date: 2021-08-21T14:17:45.633Z
 image: https://img-global.cpcdn.com/recipes/3090efa6fc41fbe5/751x532cq70/grilled-bacon-wrapped-jalapeno-poppers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3090efa6fc41fbe5/751x532cq70/grilled-bacon-wrapped-jalapeno-poppers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3090efa6fc41fbe5/751x532cq70/grilled-bacon-wrapped-jalapeno-poppers-recipe-main-photo.jpg

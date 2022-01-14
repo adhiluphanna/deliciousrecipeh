@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Caribbean Lamb Potjie"
 title: "How to Prepare Ultimate Caribbean Lamb Potjie"
 slug: 772-how-to-prepare-ultimate-caribbean-lamb-potjie
-date: 2020-07-24T21:00:14.388Z
+date: 2021-07-24T21:00:14.388Z
 image: https://img-global.cpcdn.com/recipes/e7d294e9222c25d2/751x532cq70/caribbean-lamb-potjie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e7d294e9222c25d2/751x532cq70/caribbean-lamb-potjie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e7d294e9222c25d2/751x532cq70/caribbean-lamb-potjie-recipe-main-photo.jpg

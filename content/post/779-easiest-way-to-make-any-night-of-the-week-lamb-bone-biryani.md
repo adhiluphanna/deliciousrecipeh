@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Lamb Bone Biryani"
 title: "Easiest Way to Make Any-night-of-the-week Lamb Bone Biryani"
 slug: 779-easiest-way-to-make-any-night-of-the-week-lamb-bone-biryani
-date: 2020-09-25T07:42:36.776Z
+date: 2021-09-25T07:42:36.776Z
 image: https://img-global.cpcdn.com/recipes/54abe626881d4cca/751x532cq70/lamb-bone-biryani-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/54abe626881d4cca/751x532cq70/lamb-bone-biryani-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/54abe626881d4cca/751x532cq70/lamb-bone-biryani-recipe-main-photo.jpg

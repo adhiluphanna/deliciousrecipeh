@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Bacon Kimchi Fried Rice"
 title: "Recipe of Favorite Bacon Kimchi Fried Rice"
 slug: 29-recipe-of-favorite-bacon-kimchi-fried-rice
-date: 2020-08-10T04:03:51.860Z
+date: 2021-08-10T04:03:51.860Z
 image: https://img-global.cpcdn.com/recipes/a749e64a836a0bad/751x532cq70/bacon-kimchi-fried-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a749e64a836a0bad/751x532cq70/bacon-kimchi-fried-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a749e64a836a0bad/751x532cq70/bacon-kimchi-fried-rice-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Speedy LAMB BIRYANI:"
 title: "Recipe of Speedy LAMB BIRYANI:"
 slug: 716-recipe-of-speedy-lamb-biryani
-date: 2020-06-29T22:01:30.090Z
+date: 2021-06-29T22:01:30.090Z
 image: https://img-global.cpcdn.com/recipes/aa4f7c89015f9ff3/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/aa4f7c89015f9ff3/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/aa4f7c89015f9ff3/751x532cq70/lamb-biryani-recipe-main-photo.jpg

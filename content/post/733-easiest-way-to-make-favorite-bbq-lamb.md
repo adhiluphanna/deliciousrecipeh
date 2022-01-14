@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite BBQ lamb"
 title: "Easiest Way to Make Favorite BBQ lamb"
 slug: 733-easiest-way-to-make-favorite-bbq-lamb
-date: 2020-09-26T02:37:30.256Z
+date: 2021-09-26T02:37:30.256Z
 image: https://img-global.cpcdn.com/recipes/b77f1ba05f328d8c/751x532cq70/bbq-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b77f1ba05f328d8c/751x532cq70/bbq-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b77f1ba05f328d8c/751x532cq70/bbq-lamb-recipe-main-photo.jpg

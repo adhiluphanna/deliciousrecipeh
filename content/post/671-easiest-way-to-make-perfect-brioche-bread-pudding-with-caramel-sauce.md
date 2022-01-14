@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Perfect Brioche Bread Pudding with Caramel Sauce"
 title: "Easiest Way to Make Perfect Brioche Bread Pudding with Caramel Sauce"
 slug: 671-easiest-way-to-make-perfect-brioche-bread-pudding-with-caramel-sauce
-date: 2020-09-06T13:46:28.263Z
+date: 2021-09-06T13:46:28.263Z
 image: https://img-global.cpcdn.com/recipes/f02ef6d6e32af49d/751x532cq70/brioche-bread-pudding-with-caramel-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f02ef6d6e32af49d/751x532cq70/brioche-bread-pudding-with-caramel-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f02ef6d6e32af49d/751x532cq70/brioche-bread-pudding-with-caramel-sauce-recipe-main-photo.jpg

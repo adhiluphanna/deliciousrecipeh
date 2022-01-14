@@ -2,7 +2,7 @@
 description: "Steps to Make Favorite Chocolate Brionche Bread"
 title: "Steps to Make Favorite Chocolate Brionche Bread"
 slug: 557-steps-to-make-favorite-chocolate-brionche-bread
-date: 2020-09-24T15:57:29.478Z
+date: 2021-09-24T15:57:29.478Z
 image: https://img-global.cpcdn.com/recipes/643fb32156547187/751x532cq70/chocolate-brionche-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/643fb32156547187/751x532cq70/chocolate-brionche-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/643fb32156547187/751x532cq70/chocolate-brionche-bread-recipe-main-photo.jpg

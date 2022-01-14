@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Pancakes and bacon with vanilla syrup"
 title: "Step-by-Step Guide to Make Favorite Pancakes and bacon with vanilla syrup"
 slug: 47-step-by-step-guide-to-make-favorite-pancakes-and-bacon-with-vanilla-syrup
-date: 2020-08-21T09:43:14.806Z
+date: 2021-08-21T09:43:14.806Z
 image: https://img-global.cpcdn.com/recipes/54592f38280d9444/751x532cq70/pancakes-and-bacon-with-vanilla-syrup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/54592f38280d9444/751x532cq70/pancakes-and-bacon-with-vanilla-syrup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/54592f38280d9444/751x532cq70/pancakes-and-bacon-with-vanilla-syrup-recipe-main-photo.jpg

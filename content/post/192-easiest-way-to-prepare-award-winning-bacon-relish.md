@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning Bacon Relish"
 title: "Easiest Way to Prepare Award-winning Bacon Relish"
 slug: 192-easiest-way-to-prepare-award-winning-bacon-relish
-date: 2020-07-03T00:00:40.897Z
+date: 2021-07-03T00:00:40.897Z
 image: https://img-global.cpcdn.com/recipes/d7050910790a4a76/751x532cq70/bacon-relish-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d7050910790a4a76/751x532cq70/bacon-relish-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d7050910790a4a76/751x532cq70/bacon-relish-recipe-main-photo.jpg

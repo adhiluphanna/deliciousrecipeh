@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Shrimp cocktail"
 title: "Recipe of Favorite Shrimp cocktail"
 slug: 968-recipe-of-favorite-shrimp-cocktail
-date: 2020-07-02T18:39:08.109Z
+date: 2021-07-02T18:39:08.109Z
 image: https://img-global.cpcdn.com/recipes/246f7c05cd7c6610/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/246f7c05cd7c6610/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/246f7c05cd7c6610/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg

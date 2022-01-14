@@ -2,7 +2,7 @@
 description: "How to Make Favorite Chinese Surimi (Imitation Crab) Casserole"
 title: "How to Make Favorite Chinese Surimi (Imitation Crab) Casserole"
 slug: 447-how-to-make-favorite-chinese-surimi-imitation-crab-casserole
-date: 2020-10-01T05:02:32.498Z
+date: 2021-10-01T05:02:32.498Z
 image: https://img-global.cpcdn.com/recipes/fd50973afab4bbeb/751x532cq70/chinese-surimi-imitation-crab-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fd50973afab4bbeb/751x532cq70/chinese-surimi-imitation-crab-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fd50973afab4bbeb/751x532cq70/chinese-surimi-imitation-crab-casserole-recipe-main-photo.jpg

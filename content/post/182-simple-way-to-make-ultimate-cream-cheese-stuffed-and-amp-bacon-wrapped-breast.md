@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Cream Cheese Stuffed &amp;amp; Bacon Wrapped Breast"
 title: "Simple Way to Make Ultimate Cream Cheese Stuffed &amp;amp; Bacon Wrapped Breast"
 slug: 182-simple-way-to-make-ultimate-cream-cheese-stuffed-and-amp-bacon-wrapped-breast
-date: 2020-06-13T13:48:19.951Z
+date: 2021-06-13T13:48:19.951Z
 image: https://img-global.cpcdn.com/recipes/40446e1d73c8cad7/751x532cq70/cream-cheese-stuffed-bacon-wrapped-breast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/40446e1d73c8cad7/751x532cq70/cream-cheese-stuffed-bacon-wrapped-breast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/40446e1d73c8cad7/751x532cq70/cream-cheese-stuffed-bacon-wrapped-breast-recipe-main-photo.jpg

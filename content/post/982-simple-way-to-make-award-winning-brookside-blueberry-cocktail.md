@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Brookside blueberry cocktail"
 title: "Simple Way to Make Award-winning Brookside blueberry cocktail"
 slug: 982-simple-way-to-make-award-winning-brookside-blueberry-cocktail
-date: 2020-08-21T23:48:02.179Z
+date: 2021-08-21T23:48:02.179Z
 image: https://img-global.cpcdn.com/recipes/602dd5567a90e1b0/751x532cq70/brookside-blueberry-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/602dd5567a90e1b0/751x532cq70/brookside-blueberry-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/602dd5567a90e1b0/751x532cq70/brookside-blueberry-cocktail-recipe-main-photo.jpg

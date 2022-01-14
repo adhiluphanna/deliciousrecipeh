@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Vodka sauce with beef and bacon"
 title: "Recipe of Any-night-of-the-week Vodka sauce with beef and bacon"
 slug: 197-recipe-of-any-night-of-the-week-vodka-sauce-with-beef-and-bacon
-date: 2020-07-01T15:44:10.402Z
+date: 2021-07-01T15:44:10.402Z
 image: https://img-global.cpcdn.com/recipes/75abb9cf77adf854/751x532cq70/vodka-sauce-with-beef-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/75abb9cf77adf854/751x532cq70/vodka-sauce-with-beef-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/75abb9cf77adf854/751x532cq70/vodka-sauce-with-beef-and-bacon-recipe-main-photo.jpg

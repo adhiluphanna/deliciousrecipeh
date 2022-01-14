@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Crab Darling"
 title: "Recipe of Super Quick Homemade Crab Darling"
 slug: 331-recipe-of-super-quick-homemade-crab-darling
-date: 2020-10-07T22:56:29.389Z
+date: 2021-10-07T22:56:29.389Z
 image: https://img-global.cpcdn.com/recipes/996a35a7392521c0/751x532cq70/crab-darling-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/996a35a7392521c0/751x532cq70/crab-darling-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/996a35a7392521c0/751x532cq70/crab-darling-recipe-main-photo.jpg

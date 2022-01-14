@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning Banana Bread"
 title: "Easiest Way to Prepare Award-winning Banana Bread"
 slug: 568-easiest-way-to-prepare-award-winning-banana-bread
-date: 2020-10-14T05:41:00.920Z
+date: 2021-10-14T05:41:00.920Z
 image: https://img-global.cpcdn.com/recipes/deea793154987797/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/deea793154987797/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/deea793154987797/751x532cq70/banana-bread-recipe-main-photo.jpg

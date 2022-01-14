@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Crab Stuffed Mushrooms"
 title: "How to Prepare Quick Crab Stuffed Mushrooms"
 slug: 360-how-to-prepare-quick-crab-stuffed-mushrooms
-date: 2020-07-27T13:29:25.845Z
+date: 2021-07-27T13:29:25.845Z
 image: https://img-global.cpcdn.com/recipes/ca60e51a3689bd10/751x532cq70/crab-stuffed-mushrooms-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ca60e51a3689bd10/751x532cq70/crab-stuffed-mushrooms-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ca60e51a3689bd10/751x532cq70/crab-stuffed-mushrooms-recipe-main-photo.jpg

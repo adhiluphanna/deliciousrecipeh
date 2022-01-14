@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Perfect Crab delicious Bagels"
 title: "Simple Way to Prepare Perfect Crab delicious Bagels"
 slug: 393-simple-way-to-prepare-perfect-crab-delicious-bagels
-date: 2020-07-22T06:46:08.674Z
+date: 2021-07-22T06:46:08.674Z
 image: https://img-global.cpcdn.com/recipes/c5a57ad0da84605f/751x532cq70/crab-delicious-bagels-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c5a57ad0da84605f/751x532cq70/crab-delicious-bagels-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c5a57ad0da84605f/751x532cq70/crab-delicious-bagels-recipe-main-photo.jpg

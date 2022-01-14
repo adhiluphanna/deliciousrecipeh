@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Crab curry"
 title: "Simple Way to Make Favorite Crab curry"
 slug: 379-simple-way-to-make-favorite-crab-curry
-date: 2020-08-11T02:23:54.113Z
+date: 2021-08-11T02:23:54.113Z
 image: https://img-global.cpcdn.com/recipes/9f0ff87a8b3fb5c5/751x532cq70/crab-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9f0ff87a8b3fb5c5/751x532cq70/crab-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9f0ff87a8b3fb5c5/751x532cq70/crab-curry-recipe-main-photo.jpg

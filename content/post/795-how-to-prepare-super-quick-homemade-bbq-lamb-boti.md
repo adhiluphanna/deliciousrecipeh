@@ -2,7 +2,7 @@
 description: "How to Prepare Super Quick Homemade Bbq lamb boti"
 title: "How to Prepare Super Quick Homemade Bbq lamb boti"
 slug: 795-how-to-prepare-super-quick-homemade-bbq-lamb-boti
-date: 2020-10-16T03:44:39.679Z
+date: 2021-10-16T03:44:39.679Z
 image: https://img-global.cpcdn.com/recipes/8a7f3c5fb4608e5e/751x532cq70/bbq-lamb-boti-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8a7f3c5fb4608e5e/751x532cq70/bbq-lamb-boti-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8a7f3c5fb4608e5e/751x532cq70/bbq-lamb-boti-recipe-main-photo.jpg

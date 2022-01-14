@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Crab Salad"
 title: "Recipe of Favorite Crab Salad"
 slug: 349-recipe-of-favorite-crab-salad
-date: 2020-07-28T23:00:15.358Z
+date: 2021-07-28T23:00:15.358Z
 image: https://img-global.cpcdn.com/recipes/6298574561214464/751x532cq70/crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6298574561214464/751x532cq70/crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6298574561214464/751x532cq70/crab-salad-recipe-main-photo.jpg

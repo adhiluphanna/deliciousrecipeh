@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Salt Baked Crab #"
 title: "Steps to Make Quick Salt Baked Crab #"
 slug: 244-steps-to-make-quick-salt-baked-crab
-date: 2020-10-02T10:55:36.700Z
+date: 2021-10-02T10:55:36.700Z
 image: https://img-global.cpcdn.com/recipes/8435b9332fcdde57/751x532cq70/salt-baked-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8435b9332fcdde57/751x532cq70/salt-baked-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8435b9332fcdde57/751x532cq70/salt-baked-crab-recipe-main-photo.jpg

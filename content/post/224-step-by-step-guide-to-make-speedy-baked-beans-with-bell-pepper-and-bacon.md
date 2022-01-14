@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Baked Beans with bell pepper and bacon"
 title: "Step-by-Step Guide to Make Speedy Baked Beans with bell pepper and bacon"
 slug: 224-step-by-step-guide-to-make-speedy-baked-beans-with-bell-pepper-and-bacon
-date: 2020-10-20T17:10:29.129Z
+date: 2021-10-20T17:10:29.129Z
 image: https://img-global.cpcdn.com/recipes/bffe976efb63b802/751x532cq70/baked-beans-with-bell-pepper-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bffe976efb63b802/751x532cq70/baked-beans-with-bell-pepper-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bffe976efb63b802/751x532cq70/baked-beans-with-bell-pepper-and-bacon-recipe-main-photo.jpg

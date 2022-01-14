@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Super Quick Homemade Bacon Cheddar Scones"
 title: "Step-by-Step Guide to Make Super Quick Homemade Bacon Cheddar Scones"
 slug: 215-step-by-step-guide-to-make-super-quick-homemade-bacon-cheddar-scones
-date: 2020-09-22T19:44:53.767Z
+date: 2021-09-22T19:44:53.767Z
 image: https://img-global.cpcdn.com/recipes/dd9b6afc75c4b2b1/751x532cq70/bacon-cheddar-scones-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dd9b6afc75c4b2b1/751x532cq70/bacon-cheddar-scones-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dd9b6afc75c4b2b1/751x532cq70/bacon-cheddar-scones-recipe-main-photo.jpg

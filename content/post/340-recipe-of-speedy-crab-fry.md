@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Crab fry"
 title: "Recipe of Speedy Crab fry"
 slug: 340-recipe-of-speedy-crab-fry
-date: 2020-09-13T04:49:41.194Z
+date: 2021-09-13T04:49:41.194Z
 image: https://img-global.cpcdn.com/recipes/2632a0df18545217/751x532cq70/crab-fry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2632a0df18545217/751x532cq70/crab-fry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2632a0df18545217/751x532cq70/crab-fry-recipe-main-photo.jpg

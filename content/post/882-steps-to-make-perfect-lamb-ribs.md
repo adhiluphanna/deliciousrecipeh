@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Lamb ribs"
 title: "Steps to Make Perfect Lamb ribs"
 slug: 882-steps-to-make-perfect-lamb-ribs
-date: 2020-05-30T22:34:05.923Z
+date: 2021-05-30T22:34:05.923Z
 image: https://img-global.cpcdn.com/recipes/5e27679d13dcd9df/751x532cq70/lamb-ribs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5e27679d13dcd9df/751x532cq70/lamb-ribs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5e27679d13dcd9df/751x532cq70/lamb-ribs-recipe-main-photo.jpg

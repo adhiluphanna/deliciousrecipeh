@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Banana Bread"
 title: "Step-by-Step Guide to Make Favorite Banana Bread"
 slug: 588-step-by-step-guide-to-make-favorite-banana-bread
-date: 2020-09-06T16:09:07.453Z
+date: 2021-09-06T16:09:07.453Z
 image: https://img-global.cpcdn.com/recipes/5206b3c85f43ec79/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5206b3c85f43ec79/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5206b3c85f43ec79/751x532cq70/banana-bread-recipe-main-photo.jpg

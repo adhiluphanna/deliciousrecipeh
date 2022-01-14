@@ -2,7 +2,7 @@
 description: "Steps to Make Super Quick Homemade Rosemary and garlic breaded fried lamb"
 title: "Steps to Make Super Quick Homemade Rosemary and garlic breaded fried lamb"
 slug: 877-steps-to-make-super-quick-homemade-rosemary-and-garlic-breaded-fried-lamb
-date: 2020-06-14T17:23:29.121Z
+date: 2021-06-14T17:23:29.121Z
 image: https://img-global.cpcdn.com/recipes/9d866132e7906695/751x532cq70/rosemary-and-garlic-breaded-fried-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9d866132e7906695/751x532cq70/rosemary-and-garlic-breaded-fried-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9d866132e7906695/751x532cq70/rosemary-and-garlic-breaded-fried-lamb-recipe-main-photo.jpg

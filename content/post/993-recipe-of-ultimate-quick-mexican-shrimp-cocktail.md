@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Quick Mexican Shrimp Cocktail"
 title: "Recipe of Ultimate Quick Mexican Shrimp Cocktail"
 slug: 993-recipe-of-ultimate-quick-mexican-shrimp-cocktail
-date: 2020-11-12T14:28:04.780Z
+date: 2021-11-12T14:28:04.780Z
 image: https://img-global.cpcdn.com/recipes/2d118246723785eb/751x532cq70/quick-mexican-shrimp-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2d118246723785eb/751x532cq70/quick-mexican-shrimp-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2d118246723785eb/751x532cq70/quick-mexican-shrimp-cocktail-recipe-main-photo.jpg

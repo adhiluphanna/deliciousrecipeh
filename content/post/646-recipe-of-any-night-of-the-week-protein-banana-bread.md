@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Protein Banana Bread"
 title: "Recipe of Any-night-of-the-week Protein Banana Bread"
 slug: 646-recipe-of-any-night-of-the-week-protein-banana-bread
-date: 2020-06-09T15:48:29.851Z
+date: 2021-06-09T15:48:29.851Z
 image: https://img-global.cpcdn.com/recipes/fd4a8fef79188afb/751x532cq70/protein-banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fd4a8fef79188afb/751x532cq70/protein-banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fd4a8fef79188afb/751x532cq70/protein-banana-bread-recipe-main-photo.jpg

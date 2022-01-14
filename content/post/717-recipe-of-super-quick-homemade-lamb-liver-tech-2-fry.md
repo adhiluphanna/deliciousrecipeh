@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Lamb liver. #Tech 2 #fry"
 title: "Recipe of Super Quick Homemade Lamb liver. #Tech 2 #fry"
 slug: 717-recipe-of-super-quick-homemade-lamb-liver-tech-2-fry
-date: 2020-10-14T01:02:43.919Z
+date: 2021-10-14T01:02:43.919Z
 image: https://img-global.cpcdn.com/recipes/2cd8d951db96c60d/751x532cq70/lamb-liver-tech-2-fry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2cd8d951db96c60d/751x532cq70/lamb-liver-tech-2-fry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2cd8d951db96c60d/751x532cq70/lamb-liver-tech-2-fry-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Lamb tabouleh"
 title: "Recipe of Perfect Lamb tabouleh"
 slug: 815-recipe-of-perfect-lamb-tabouleh
-date: 2020-06-21T06:13:28.484Z
+date: 2021-06-21T06:13:28.484Z
 image: https://img-global.cpcdn.com/recipes/5992bc1727e73dfb/751x532cq70/lamb-tabouleh-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5992bc1727e73dfb/751x532cq70/lamb-tabouleh-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5992bc1727e73dfb/751x532cq70/lamb-tabouleh-recipe-main-photo.jpg

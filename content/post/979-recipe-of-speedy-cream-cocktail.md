@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Cream cocktail"
 title: "Recipe of Speedy Cream cocktail"
 slug: 979-recipe-of-speedy-cream-cocktail
-date: 2020-11-13T15:30:20.877Z
+date: 2021-11-13T15:30:20.877Z
 image: https://img-global.cpcdn.com/recipes/54ee2cadef1c4bbc/751x532cq70/cream-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/54ee2cadef1c4bbc/751x532cq70/cream-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/54ee2cadef1c4bbc/751x532cq70/cream-cocktail-recipe-main-photo.jpg

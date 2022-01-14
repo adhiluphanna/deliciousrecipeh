@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Perfect Lamb biryani"
 title: "Easiest Way to Make Perfect Lamb biryani"
 slug: 852-easiest-way-to-make-perfect-lamb-biryani
-date: 2020-06-27T06:03:21.382Z
+date: 2021-06-27T06:03:21.382Z
 image: https://img-global.cpcdn.com/recipes/4ddc288e0a644814/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4ddc288e0a644814/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4ddc288e0a644814/751x532cq70/lamb-biryani-recipe-main-photo.jpg

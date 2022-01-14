@@ -2,7 +2,7 @@
 description: "How to Prepare Speedy Smoked bacon wrapped green beans"
 title: "How to Prepare Speedy Smoked bacon wrapped green beans"
 slug: 87-how-to-prepare-speedy-smoked-bacon-wrapped-green-beans
-date: 2020-09-02T06:19:29.052Z
+date: 2021-09-02T06:19:29.052Z
 image: https://img-global.cpcdn.com/recipes/da32dad46f4040e0/751x532cq70/smoked-bacon-wrapped-green-beans-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/da32dad46f4040e0/751x532cq70/smoked-bacon-wrapped-green-beans-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/da32dad46f4040e0/751x532cq70/smoked-bacon-wrapped-green-beans-recipe-main-photo.jpg

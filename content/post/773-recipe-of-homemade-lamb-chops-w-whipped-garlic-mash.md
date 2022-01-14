@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Lamb Chops w/ Whipped Garlic Mash"
 title: "Recipe of Homemade Lamb Chops w/ Whipped Garlic Mash"
 slug: 773-recipe-of-homemade-lamb-chops-w-whipped-garlic-mash
-date: 2020-08-11T06:07:05.266Z
+date: 2021-08-11T06:07:05.266Z
 image: https://img-global.cpcdn.com/recipes/81499eed55193cdc/751x532cq70/lamb-chops-w-whipped-garlic-mash-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/81499eed55193cdc/751x532cq70/lamb-chops-w-whipped-garlic-mash-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/81499eed55193cdc/751x532cq70/lamb-chops-w-whipped-garlic-mash-recipe-main-photo.jpg

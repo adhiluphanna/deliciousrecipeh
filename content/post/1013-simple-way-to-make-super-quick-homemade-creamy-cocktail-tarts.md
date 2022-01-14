@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Creamy cocktail tarts"
 title: "Simple Way to Make Super Quick Homemade Creamy cocktail tarts"
 slug: 1013-simple-way-to-make-super-quick-homemade-creamy-cocktail-tarts
-date: 2020-08-26T19:00:31.833Z
+date: 2021-08-26T19:00:31.833Z
 image: https://img-global.cpcdn.com/recipes/4fdaccd0883b7ad0/751x532cq70/creamy-cocktail-tarts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4fdaccd0883b7ad0/751x532cq70/creamy-cocktail-tarts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4fdaccd0883b7ad0/751x532cq70/creamy-cocktail-tarts-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Chicken bread cups"
 title: "Steps to Make Award-winning Chicken bread cups"
 slug: 659-steps-to-make-award-winning-chicken-bread-cups
-date: 2020-07-06T19:55:28.804Z
+date: 2021-07-06T19:55:28.804Z
 image: https://img-global.cpcdn.com/recipes/6b4edf6a231fcbc1/751x532cq70/chicken-bread-cups-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6b4edf6a231fcbc1/751x532cq70/chicken-bread-cups-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6b4edf6a231fcbc1/751x532cq70/chicken-bread-cups-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Speedy Crab and corn chowder"
 title: "How to Prepare Speedy Crab and corn chowder"
 slug: 296-how-to-prepare-speedy-crab-and-corn-chowder
-date: 2020-08-06T21:14:36.829Z
+date: 2021-08-06T21:14:36.829Z
 image: https://img-global.cpcdn.com/recipes/a1c06c1e1a84ae94/751x532cq70/crab-and-corn-chowder-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a1c06c1e1a84ae94/751x532cq70/crab-and-corn-chowder-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a1c06c1e1a84ae94/751x532cq70/crab-and-corn-chowder-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Super Quick Homemade lamb shanks with red wine and barley"
 title: "Easiest Way to Make Super Quick Homemade lamb shanks with red wine and barley"
 slug: 838-easiest-way-to-make-super-quick-homemade-lamb-shanks-with-red-wine-and-barley
-date: 2020-10-21T05:54:40.077Z
+date: 2021-10-21T05:54:40.077Z
 image: https://img-global.cpcdn.com/recipes/58409668/751x532cq70/lamb-shanks-with-red-wine-and-barley-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/58409668/751x532cq70/lamb-shanks-with-red-wine-and-barley-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/58409668/751x532cq70/lamb-shanks-with-red-wine-and-barley-recipe-main-photo.jpg

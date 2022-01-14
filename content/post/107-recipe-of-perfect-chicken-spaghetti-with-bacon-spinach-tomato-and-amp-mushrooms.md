@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Chicken Spaghetti with Bacon, spinach, tomato, &amp;amp; mushrooms"
 title: "Recipe of Perfect Chicken Spaghetti with Bacon, spinach, tomato, &amp;amp; mushrooms"
 slug: 107-recipe-of-perfect-chicken-spaghetti-with-bacon-spinach-tomato-and-amp-mushrooms
-date: 2020-08-27T07:28:11.064Z
+date: 2021-08-27T07:28:11.064Z
 image: https://img-global.cpcdn.com/recipes/845a598c1d21556f/751x532cq70/chicken-spaghetti-with-bacon-spinach-tomato-mushrooms-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/845a598c1d21556f/751x532cq70/chicken-spaghetti-with-bacon-spinach-tomato-mushrooms-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/845a598c1d21556f/751x532cq70/chicken-spaghetti-with-bacon-spinach-tomato-mushrooms-recipe-main-photo.jpg

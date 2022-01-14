@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Seafood Cocktail Salad"
 title: "Recipe of Ultimate Seafood Cocktail Salad"
 slug: 944-recipe-of-ultimate-seafood-cocktail-salad
-date: 2020-08-31T14:27:33.292Z
+date: 2021-08-31T14:27:33.292Z
 image: https://img-global.cpcdn.com/recipes/4929162379788288/751x532cq70/seafood-cocktail-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4929162379788288/751x532cq70/seafood-cocktail-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4929162379788288/751x532cq70/seafood-cocktail-salad-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Roasted Lamb Shanks And Onion Fried Rice"
 title: "Recipe of Speedy Roasted Lamb Shanks And Onion Fried Rice"
 slug: 715-recipe-of-speedy-roasted-lamb-shanks-and-onion-fried-rice
-date: 2020-06-30T00:11:21.561Z
+date: 2021-06-30T00:11:21.561Z
 image: https://img-global.cpcdn.com/recipes/5593990232539136/751x532cq70/roasted-lamb-shanks-and-onion-fried-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5593990232539136/751x532cq70/roasted-lamb-shanks-and-onion-fried-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5593990232539136/751x532cq70/roasted-lamb-shanks-and-onion-fried-rice-recipe-main-photo.jpg

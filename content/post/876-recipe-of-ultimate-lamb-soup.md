@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Lamb soup"
 title: "Recipe of Ultimate Lamb soup"
 slug: 876-recipe-of-ultimate-lamb-soup
-date: 2020-09-03T23:21:45.336Z
+date: 2021-09-03T23:21:45.336Z
 image: https://img-global.cpcdn.com/recipes/ec358ab05a39f53c/751x532cq70/lamb-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ec358ab05a39f53c/751x532cq70/lamb-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ec358ab05a39f53c/751x532cq70/lamb-soup-recipe-main-photo.jpg

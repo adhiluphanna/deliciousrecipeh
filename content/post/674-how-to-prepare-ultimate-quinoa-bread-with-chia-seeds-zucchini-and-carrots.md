@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Quinoa bread with chia seeds, zucchini and carrots"
 title: "How to Prepare Ultimate Quinoa bread with chia seeds, zucchini and carrots"
 slug: 674-how-to-prepare-ultimate-quinoa-bread-with-chia-seeds-zucchini-and-carrots
-date: 2020-07-03T21:03:43.580Z
+date: 2021-07-03T21:03:43.580Z
 image: https://img-global.cpcdn.com/recipes/6fcc353f441ac819/751x532cq70/quinoa-bread-with-chia-seeds-zucchini-and-carrots-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6fcc353f441ac819/751x532cq70/quinoa-bread-with-chia-seeds-zucchini-and-carrots-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6fcc353f441ac819/751x532cq70/quinoa-bread-with-chia-seeds-zucchini-and-carrots-recipe-main-photo.jpg

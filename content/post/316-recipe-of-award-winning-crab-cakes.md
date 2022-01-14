@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Crab Cakes"
 title: "Recipe of Award-winning Crab Cakes"
 slug: 316-recipe-of-award-winning-crab-cakes
-date: 2020-10-17T07:28:10.361Z
+date: 2021-10-17T07:28:10.361Z
 image: https://img-global.cpcdn.com/recipes/5183796472709120/751x532cq70/crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5183796472709120/751x532cq70/crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5183796472709120/751x532cq70/crab-cakes-recipe-main-photo.jpg

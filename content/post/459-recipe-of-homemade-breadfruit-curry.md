@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Breadfruit Curry"
 title: "Recipe of Homemade Breadfruit Curry"
 slug: 459-recipe-of-homemade-breadfruit-curry
-date: 2020-09-01T15:11:31.112Z
+date: 2021-09-01T15:11:31.112Z
 image: https://img-global.cpcdn.com/recipes/a90b194c83a9ea23/751x532cq70/breadfruit-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a90b194c83a9ea23/751x532cq70/breadfruit-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a90b194c83a9ea23/751x532cq70/breadfruit-curry-recipe-main-photo.jpg

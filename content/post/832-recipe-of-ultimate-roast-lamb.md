@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Roast Lamb"
 title: "Recipe of Ultimate Roast Lamb"
 slug: 832-recipe-of-ultimate-roast-lamb
-date: 2020-07-12T05:43:23.971Z
+date: 2021-07-12T05:43:23.971Z
 image: https://img-global.cpcdn.com/recipes/7bb27ad7764e95cf/751x532cq70/roast-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7bb27ad7764e95cf/751x532cq70/roast-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7bb27ad7764e95cf/751x532cq70/roast-lamb-recipe-main-photo.jpg

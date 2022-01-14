@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Cocoa Bread"
 title: "Recipe of Super Quick Homemade Cocoa Bread"
 slug: 534-recipe-of-super-quick-homemade-cocoa-bread
-date: 2020-06-05T14:12:30.234Z
+date: 2021-06-05T14:12:30.234Z
 image: https://img-global.cpcdn.com/recipes/f182e821334a18d8/751x532cq70/cocoa-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f182e821334a18d8/751x532cq70/cocoa-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f182e821334a18d8/751x532cq70/cocoa-bread-recipe-main-photo.jpg

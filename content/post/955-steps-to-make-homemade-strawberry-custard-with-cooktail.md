@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Strawberry custard with cooktail"
 title: "Steps to Make Homemade Strawberry custard with cooktail"
 slug: 955-steps-to-make-homemade-strawberry-custard-with-cooktail
-date: 2020-09-15T14:07:29.152Z
+date: 2021-09-15T14:07:29.152Z
 image: https://img-global.cpcdn.com/recipes/3b74f7545be908ad/751x532cq70/strawberry-custard-with-cooktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3b74f7545be908ad/751x532cq70/strawberry-custard-with-cooktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3b74f7545be908ad/751x532cq70/strawberry-custard-with-cooktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Speedy Greek Marinade Lamb Chops"
 title: "Steps to Make Speedy Greek Marinade Lamb Chops"
 slug: 711-steps-to-make-speedy-greek-marinade-lamb-chops
-date: 2020-05-30T15:53:46.743Z
+date: 2021-05-30T15:53:46.743Z
 image: https://img-global.cpcdn.com/recipes/0ce8bcf72dc214e2/751x532cq70/greek-marinade-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0ce8bcf72dc214e2/751x532cq70/greek-marinade-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0ce8bcf72dc214e2/751x532cq70/greek-marinade-lamb-chops-recipe-main-photo.jpg

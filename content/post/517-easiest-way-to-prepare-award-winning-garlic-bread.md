@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning Garlic bread"
 title: "Easiest Way to Prepare Award-winning Garlic bread"
 slug: 517-easiest-way-to-prepare-award-winning-garlic-bread
-date: 2020-10-01T22:17:36.265Z
+date: 2021-10-01T22:17:36.265Z
 image: https://img-global.cpcdn.com/recipes/55d0ef8f59904e0e/751x532cq70/garlic-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/55d0ef8f59904e0e/751x532cq70/garlic-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/55d0ef8f59904e0e/751x532cq70/garlic-bread-recipe-main-photo.jpg

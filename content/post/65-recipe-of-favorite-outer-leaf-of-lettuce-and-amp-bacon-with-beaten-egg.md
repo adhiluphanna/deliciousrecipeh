@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Outer leaf of Lettuce &amp;amp; Bacon  with Beaten Egg"
 title: "Recipe of Favorite Outer leaf of Lettuce &amp;amp; Bacon  with Beaten Egg"
 slug: 65-recipe-of-favorite-outer-leaf-of-lettuce-and-amp-bacon-with-beaten-egg
-date: 2020-07-20T08:30:34.809Z
+date: 2021-07-20T08:30:34.809Z
 image: https://img-global.cpcdn.com/recipes/85ca5d47baa4d6d3/751x532cq70/outer-leaf-of-lettuce-bacon-with-beaten-egg-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/85ca5d47baa4d6d3/751x532cq70/outer-leaf-of-lettuce-bacon-with-beaten-egg-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/85ca5d47baa4d6d3/751x532cq70/outer-leaf-of-lettuce-bacon-with-beaten-egg-recipe-main-photo.jpg

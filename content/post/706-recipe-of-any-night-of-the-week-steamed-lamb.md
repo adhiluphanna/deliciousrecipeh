@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Steamed lamb"
 title: "Recipe of Any-night-of-the-week Steamed lamb"
 slug: 706-recipe-of-any-night-of-the-week-steamed-lamb
-date: 2020-10-14T11:23:38.989Z
+date: 2021-10-14T11:23:38.989Z
 image: https://img-global.cpcdn.com/recipes/963a2a4104a013fd/751x532cq70/steamed-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/963a2a4104a013fd/751x532cq70/steamed-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/963a2a4104a013fd/751x532cq70/steamed-lamb-recipe-main-photo.jpg

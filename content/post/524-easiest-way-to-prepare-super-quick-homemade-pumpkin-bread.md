@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Pumpkin bread"
 title: "Easiest Way to Prepare Super Quick Homemade Pumpkin bread"
 slug: 524-easiest-way-to-prepare-super-quick-homemade-pumpkin-bread
-date: 2020-09-11T00:37:16.913Z
+date: 2021-09-11T00:37:16.913Z
 image: https://img-global.cpcdn.com/recipes/dcc4b5cc60fc59ad/751x532cq70/pumpkin-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dcc4b5cc60fc59ad/751x532cq70/pumpkin-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dcc4b5cc60fc59ad/751x532cq70/pumpkin-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Hot Crab Dip"
 title: "How to Prepare Quick Hot Crab Dip"
 slug: 433-how-to-prepare-quick-hot-crab-dip
-date: 2020-09-22T22:50:49.874Z
+date: 2021-09-22T22:50:49.874Z
 image: https://img-global.cpcdn.com/recipes/6193621895217152/751x532cq70/hot-crab-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6193621895217152/751x532cq70/hot-crab-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6193621895217152/751x532cq70/hot-crab-dip-recipe-main-photo.jpg

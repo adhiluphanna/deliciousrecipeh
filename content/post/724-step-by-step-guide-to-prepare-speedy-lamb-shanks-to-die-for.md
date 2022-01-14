@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Lamb Shanks to die for"
 title: "Step-by-Step Guide to Prepare Speedy Lamb Shanks to die for"
 slug: 724-step-by-step-guide-to-prepare-speedy-lamb-shanks-to-die-for
-date: 2020-10-12T11:30:00.878Z
+date: 2021-10-12T11:30:00.878Z
 image: https://img-global.cpcdn.com/recipes/3c9c6348fbd2ad29/751x532cq70/lamb-shanks-to-die-for-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3c9c6348fbd2ad29/751x532cq70/lamb-shanks-to-die-for-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3c9c6348fbd2ad29/751x532cq70/lamb-shanks-to-die-for-recipe-main-photo.jpg

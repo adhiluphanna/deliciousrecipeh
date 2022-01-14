@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Bacon apple cider salad"
 title: "Recipe of Award-winning Bacon apple cider salad"
 slug: 160-recipe-of-award-winning-bacon-apple-cider-salad
-date: 2020-07-20T11:27:22.814Z
+date: 2021-07-20T11:27:22.814Z
 image: https://img-global.cpcdn.com/recipes/f54e3d2e6419fd79/751x532cq70/bacon-apple-cider-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f54e3d2e6419fd79/751x532cq70/bacon-apple-cider-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f54e3d2e6419fd79/751x532cq70/bacon-apple-cider-salad-recipe-main-photo.jpg

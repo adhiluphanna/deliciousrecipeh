@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Ham and Cheese Rolls Bread"
 title: "Recipe of Perfect Ham and Cheese Rolls Bread"
 slug: 664-recipe-of-perfect-ham-and-cheese-rolls-bread
-date: 2020-06-19T19:36:28.211Z
+date: 2021-06-19T19:36:28.211Z
 image: https://img-global.cpcdn.com/recipes/55f426a9ca62d35a/751x532cq70/ham-and-cheese-rolls-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/55f426a9ca62d35a/751x532cq70/ham-and-cheese-rolls-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/55f426a9ca62d35a/751x532cq70/ham-and-cheese-rolls-bread-recipe-main-photo.jpg

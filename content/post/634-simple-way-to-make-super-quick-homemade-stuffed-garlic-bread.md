@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Stuffed Garlic Bread"
 title: "Simple Way to Make Super Quick Homemade Stuffed Garlic Bread"
 slug: 634-simple-way-to-make-super-quick-homemade-stuffed-garlic-bread
-date: 2020-07-26T15:15:59.883Z
+date: 2021-07-26T15:15:59.883Z
 image: https://img-global.cpcdn.com/recipes/008f8cc8534f8a13/751x532cq70/stuffed-garlic-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/008f8cc8534f8a13/751x532cq70/stuffed-garlic-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/008f8cc8534f8a13/751x532cq70/stuffed-garlic-bread-recipe-main-photo.jpg

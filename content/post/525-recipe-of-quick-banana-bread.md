@@ -2,7 +2,7 @@
 description: "Recipe of Quick Banana Bread"
 title: "Recipe of Quick Banana Bread"
 slug: 525-recipe-of-quick-banana-bread
-date: 2020-09-25T06:52:23.516Z
+date: 2021-09-25T06:52:23.516Z
 image: https://img-global.cpcdn.com/recipes/f77a007873af404f/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f77a007873af404f/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f77a007873af404f/751x532cq70/banana-bread-recipe-main-photo.jpg

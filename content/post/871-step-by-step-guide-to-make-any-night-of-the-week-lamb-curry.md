@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Any-night-of-the-week Lamb Curry"
 title: "Step-by-Step Guide to Make Any-night-of-the-week Lamb Curry"
 slug: 871-step-by-step-guide-to-make-any-night-of-the-week-lamb-curry
-date: 2020-11-17T17:36:38.375Z
+date: 2021-11-17T17:36:38.375Z
 image: https://img-global.cpcdn.com/recipes/61984d6f0f301920/751x532cq70/lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/61984d6f0f301920/751x532cq70/lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/61984d6f0f301920/751x532cq70/lamb-curry-recipe-main-photo.jpg

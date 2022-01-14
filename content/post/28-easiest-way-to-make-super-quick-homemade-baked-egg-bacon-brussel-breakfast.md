@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Super Quick Homemade Baked egg bacon brussel breakfast"
 title: "Easiest Way to Make Super Quick Homemade Baked egg bacon brussel breakfast"
 slug: 28-easiest-way-to-make-super-quick-homemade-baked-egg-bacon-brussel-breakfast
-date: 2020-07-17T15:06:42.400Z
+date: 2021-07-17T15:06:42.400Z
 image: https://img-global.cpcdn.com/recipes/fc67c7eae00e994f/751x532cq70/baked-egg-bacon-brussel-breakfast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fc67c7eae00e994f/751x532cq70/baked-egg-bacon-brussel-breakfast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fc67c7eae00e994f/751x532cq70/baked-egg-bacon-brussel-breakfast-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Smoked bbq bacon wrapped rabbit"
 title: "Recipe of Favorite Smoked bbq bacon wrapped rabbit"
 slug: 213-recipe-of-favorite-smoked-bbq-bacon-wrapped-rabbit
-date: 2020-09-12T04:37:38.980Z
+date: 2021-09-12T04:37:38.980Z
 image: https://img-global.cpcdn.com/recipes/636df538e4d3a5d6/751x532cq70/smoked-bbq-bacon-wrapped-rabbit-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/636df538e4d3a5d6/751x532cq70/smoked-bbq-bacon-wrapped-rabbit-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/636df538e4d3a5d6/751x532cq70/smoked-bbq-bacon-wrapped-rabbit-recipe-main-photo.jpg

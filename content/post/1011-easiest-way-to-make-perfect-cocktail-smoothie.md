@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Perfect Cocktail Smoothie"
 title: "Easiest Way to Make Perfect Cocktail Smoothie"
 slug: 1011-easiest-way-to-make-perfect-cocktail-smoothie
-date: 2020-10-18T11:07:00.149Z
+date: 2021-10-18T11:07:00.149Z
 image: https://img-global.cpcdn.com/recipes/2551123_511b2e96bc4efde0/751x532cq70/cocktail-smoothie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2551123_511b2e96bc4efde0/751x532cq70/cocktail-smoothie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2551123_511b2e96bc4efde0/751x532cq70/cocktail-smoothie-recipe-main-photo.jpg

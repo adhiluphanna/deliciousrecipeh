@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Chickpea flat bread"
 title: "Simple Way to Make Ultimate Chickpea flat bread"
 slug: 626-simple-way-to-make-ultimate-chickpea-flat-bread
-date: 2020-05-26T06:15:41.446Z
+date: 2021-05-26T06:15:41.446Z
 image: https://img-global.cpcdn.com/recipes/1d2c47a90a5df118/751x532cq70/chickpea-flat-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1d2c47a90a5df118/751x532cq70/chickpea-flat-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1d2c47a90a5df118/751x532cq70/chickpea-flat-bread-recipe-main-photo.jpg

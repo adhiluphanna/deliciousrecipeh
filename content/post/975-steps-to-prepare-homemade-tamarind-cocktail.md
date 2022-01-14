@@ -2,7 +2,7 @@
 description: "Steps to Prepare Homemade Tamarind Cocktail"
 title: "Steps to Prepare Homemade Tamarind Cocktail"
 slug: 975-steps-to-prepare-homemade-tamarind-cocktail
-date: 2020-07-20T18:48:43.030Z
+date: 2021-07-20T18:48:43.030Z
 image: https://img-global.cpcdn.com/recipes/dba9c347ba037d52/751x532cq70/tamarind-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dba9c347ba037d52/751x532cq70/tamarind-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dba9c347ba037d52/751x532cq70/tamarind-cocktail-recipe-main-photo.jpg

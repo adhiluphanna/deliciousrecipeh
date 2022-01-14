@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Ultimate Imitation Crab Salad"
 title: "Step-by-Step Guide to Make Ultimate Imitation Crab Salad"
 slug: 410-step-by-step-guide-to-make-ultimate-imitation-crab-salad
-date: 2020-08-25T11:28:03.552Z
+date: 2021-08-25T11:28:03.552Z
 image: https://img-global.cpcdn.com/recipes/6445975054319616/751x532cq70/imitation-crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6445975054319616/751x532cq70/imitation-crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6445975054319616/751x532cq70/imitation-crab-salad-recipe-main-photo.jpg

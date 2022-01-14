@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Brown Sugar and Garlic Bacon Wrapped Chicken"
 title: "Easiest Way to Prepare Super Quick Homemade Brown Sugar and Garlic Bacon Wrapped Chicken"
 slug: 166-easiest-way-to-prepare-super-quick-homemade-brown-sugar-and-garlic-bacon-wrapped-chicken
-date: 2020-10-26T05:26:35.954Z
+date: 2021-10-26T05:26:35.954Z
 image: https://img-global.cpcdn.com/recipes/f98367035b53cf15/751x532cq70/brown-sugar-and-garlic-bacon-wrapped-chicken-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f98367035b53cf15/751x532cq70/brown-sugar-and-garlic-bacon-wrapped-chicken-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f98367035b53cf15/751x532cq70/brown-sugar-and-garlic-bacon-wrapped-chicken-recipe-main-photo.jpg

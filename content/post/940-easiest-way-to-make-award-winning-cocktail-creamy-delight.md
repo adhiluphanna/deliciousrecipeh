@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Award-winning Cocktail creamy delight"
 title: "Easiest Way to Make Award-winning Cocktail creamy delight"
 slug: 940-easiest-way-to-make-award-winning-cocktail-creamy-delight
-date: 2020-05-28T01:33:29.555Z
+date: 2021-05-28T01:33:29.555Z
 image: https://img-global.cpcdn.com/recipes/91f5e505fd726c4a/751x532cq70/cocktail-creamy-delight-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/91f5e505fd726c4a/751x532cq70/cocktail-creamy-delight-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/91f5e505fd726c4a/751x532cq70/cocktail-creamy-delight-recipe-main-photo.jpg

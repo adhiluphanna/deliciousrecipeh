@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Moroccan Lamb Meatballs"
 title: "Simple Way to Prepare Super Quick Homemade Moroccan Lamb Meatballs"
 slug: 748-simple-way-to-prepare-super-quick-homemade-moroccan-lamb-meatballs
-date: 2020-06-26T22:51:34.628Z
+date: 2021-06-26T22:51:34.628Z
 image: https://img-global.cpcdn.com/recipes/fb3afa05e8da2449/751x532cq70/moroccan-lamb-meatballs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fb3afa05e8da2449/751x532cq70/moroccan-lamb-meatballs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fb3afa05e8da2449/751x532cq70/moroccan-lamb-meatballs-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Homemade Coconut rice and lamb curry"
 title: "How to Prepare Homemade Coconut rice and lamb curry"
 slug: 874-how-to-prepare-homemade-coconut-rice-and-lamb-curry
-date: 2020-07-01T05:24:30.961Z
+date: 2021-07-01T05:24:30.961Z
 image: https://img-global.cpcdn.com/recipes/f35ed1f7ac3bef2a/751x532cq70/coconut-rice-and-lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f35ed1f7ac3bef2a/751x532cq70/coconut-rice-and-lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f35ed1f7ac3bef2a/751x532cq70/coconut-rice-and-lamb-curry-recipe-main-photo.jpg

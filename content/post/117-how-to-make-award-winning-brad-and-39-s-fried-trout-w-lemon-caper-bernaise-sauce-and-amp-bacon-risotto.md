@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Brad's fried trout w/ lemon caper bernaise sauce &amp;amp; bacon risotto"
 title: "How to Make Award-winning Brad's fried trout w/ lemon caper bernaise sauce &amp;amp; bacon risotto"
 slug: 117-how-to-make-award-winning-brad-and-39-s-fried-trout-w-lemon-caper-bernaise-sauce-and-amp-bacon-risotto
-date: 2020-09-26T16:53:01.686Z
+date: 2021-09-26T16:53:01.686Z
 image: https://img-global.cpcdn.com/recipes/53125382b0f99894/751x532cq70/brads-fried-trout-w-lemon-caper-bernaise-sauce-bacon-risotto-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/53125382b0f99894/751x532cq70/brads-fried-trout-w-lemon-caper-bernaise-sauce-bacon-risotto-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/53125382b0f99894/751x532cq70/brads-fried-trout-w-lemon-caper-bernaise-sauce-bacon-risotto-recipe-main-photo.jpg

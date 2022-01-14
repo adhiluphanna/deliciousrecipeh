@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Crab-Asparagus Frittata"
 title: "Easiest Way to Make Speedy Crab-Asparagus Frittata"
 slug: 414-easiest-way-to-make-speedy-crab-asparagus-frittata
-date: 2020-06-06T14:57:56.525Z
+date: 2021-06-06T14:57:56.525Z
 image: https://img-global.cpcdn.com/recipes/d182199dd315ccf9/751x532cq70/crab-asparagus-frittata-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d182199dd315ccf9/751x532cq70/crab-asparagus-frittata-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d182199dd315ccf9/751x532cq70/crab-asparagus-frittata-recipe-main-photo.jpg

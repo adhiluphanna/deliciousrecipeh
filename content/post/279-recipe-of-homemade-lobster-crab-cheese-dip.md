@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Lobster crab cheese dip"
 title: "Recipe of Homemade Lobster crab cheese dip"
 slug: 279-recipe-of-homemade-lobster-crab-cheese-dip
-date: 2020-09-24T10:29:20.491Z
+date: 2021-09-24T10:29:20.491Z
 image: https://img-global.cpcdn.com/recipes/161221ecdacca97c/751x532cq70/lobster-crab-cheese-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/161221ecdacca97c/751x532cq70/lobster-crab-cheese-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/161221ecdacca97c/751x532cq70/lobster-crab-cheese-dip-recipe-main-photo.jpg

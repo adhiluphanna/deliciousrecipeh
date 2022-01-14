@@ -2,7 +2,7 @@
 description: "Steps to Prepare Any-night-of-the-week Crab delicious Bagels"
 title: "Steps to Prepare Any-night-of-the-week Crab delicious Bagels"
 slug: 387-steps-to-prepare-any-night-of-the-week-crab-delicious-bagels
-date: 2020-08-03T01:46:11.065Z
+date: 2021-08-03T01:46:11.065Z
 image: https://img-global.cpcdn.com/recipes/c5a57ad0da84605f/751x532cq70/crab-delicious-bagels-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c5a57ad0da84605f/751x532cq70/crab-delicious-bagels-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c5a57ad0da84605f/751x532cq70/crab-delicious-bagels-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Indian Breads"
 title: "How to Make Super Quick Homemade Indian Breads"
 slug: 507-how-to-make-super-quick-homemade-indian-breads
-date: 2020-08-14T04:45:55.725Z
+date: 2021-08-14T04:45:55.725Z
 image: https://img-global.cpcdn.com/recipes/0a864458bce92ef4/751x532cq70/indian-breads-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0a864458bce92ef4/751x532cq70/indian-breads-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0a864458bce92ef4/751x532cq70/indian-breads-recipe-main-photo.jpg

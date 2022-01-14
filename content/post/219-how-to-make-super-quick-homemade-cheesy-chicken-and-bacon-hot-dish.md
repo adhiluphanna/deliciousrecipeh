@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Cheesy Chicken and Bacon Hot Dish"
 title: "How to Make Super Quick Homemade Cheesy Chicken and Bacon Hot Dish"
 slug: 219-how-to-make-super-quick-homemade-cheesy-chicken-and-bacon-hot-dish
-date: 2020-06-06T06:37:25.610Z
+date: 2021-06-06T06:37:25.610Z
 image: https://img-global.cpcdn.com/recipes/5eae9b3e49240847/751x532cq70/cheesy-chicken-and-bacon-hot-dish-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5eae9b3e49240847/751x532cq70/cheesy-chicken-and-bacon-hot-dish-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5eae9b3e49240847/751x532cq70/cheesy-chicken-and-bacon-hot-dish-recipe-main-photo.jpg

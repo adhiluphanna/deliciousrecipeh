@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Lobster and Crab Cannalloni"
 title: "Recipe of Homemade Lobster and Crab Cannalloni"
 slug: 398-recipe-of-homemade-lobster-and-crab-cannalloni
-date: 2020-09-15T12:50:18.121Z
+date: 2021-09-15T12:50:18.121Z
 image: https://img-global.cpcdn.com/recipes/3001241537e1df91/751x532cq70/lobster-and-crab-cannalloni-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3001241537e1df91/751x532cq70/lobster-and-crab-cannalloni-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3001241537e1df91/751x532cq70/lobster-and-crab-cannalloni-recipe-main-photo.jpg

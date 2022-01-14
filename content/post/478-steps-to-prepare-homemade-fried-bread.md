@@ -2,7 +2,7 @@
 description: "Steps to Prepare Homemade Fried Bread"
 title: "Steps to Prepare Homemade Fried Bread"
 slug: 478-steps-to-prepare-homemade-fried-bread
-date: 2020-10-19T19:40:15.741Z
+date: 2021-10-19T19:40:15.741Z
 image: https://img-global.cpcdn.com/recipes/9eb35c8853a09228/751x532cq70/fried-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9eb35c8853a09228/751x532cq70/fried-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9eb35c8853a09228/751x532cq70/fried-bread-recipe-main-photo.jpg

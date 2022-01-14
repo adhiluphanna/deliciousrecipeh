@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Bacon, Goat Cheese, &amp;amp; Caramelized Red Onion Frittata"
 title: "How to Prepare Quick Bacon, Goat Cheese, &amp;amp; Caramelized Red Onion Frittata"
 slug: 217-how-to-prepare-quick-bacon-goat-cheese-and-amp-caramelized-red-onion-frittata
-date: 2020-11-12T17:26:02.130Z
+date: 2021-11-12T17:26:02.130Z
 image: https://img-global.cpcdn.com/recipes/0ebfc08d6a0453e1/751x532cq70/bacon-goat-cheese-caramelized-red-onion-frittata-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0ebfc08d6a0453e1/751x532cq70/bacon-goat-cheese-caramelized-red-onion-frittata-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0ebfc08d6a0453e1/751x532cq70/bacon-goat-cheese-caramelized-red-onion-frittata-recipe-main-photo.jpg

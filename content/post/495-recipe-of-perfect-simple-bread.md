@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Simple Bread"
 title: "Recipe of Perfect Simple Bread"
 slug: 495-recipe-of-perfect-simple-bread
-date: 2020-07-06T20:31:50.029Z
+date: 2021-07-06T20:31:50.029Z
 image: https://img-global.cpcdn.com/recipes/aebe22a3e2bafcba/751x532cq70/simple-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/aebe22a3e2bafcba/751x532cq70/simple-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/aebe22a3e2bafcba/751x532cq70/simple-bread-recipe-main-photo.jpg

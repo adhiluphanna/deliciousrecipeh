@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Dhakaya Beef / Lamb / Mutton Kacchi"
 title: "Easiest Way to Prepare Speedy Dhakaya Beef / Lamb / Mutton Kacchi"
 slug: 767-easiest-way-to-prepare-speedy-dhakaya-beef-lamb-mutton-kacchi
-date: 2020-10-27T08:24:41.067Z
+date: 2021-10-27T08:24:41.067Z
 image: https://img-global.cpcdn.com/recipes/5ab85ce07f6d46a3/751x532cq70/dhakaya-beef-lamb-mutton-kacchi-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5ab85ce07f6d46a3/751x532cq70/dhakaya-beef-lamb-mutton-kacchi-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5ab85ce07f6d46a3/751x532cq70/dhakaya-beef-lamb-mutton-kacchi-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy lamb chops"
 title: "Step-by-Step Guide to Make Speedy lamb chops"
 slug: 780-step-by-step-guide-to-make-speedy-lamb-chops
-date: 2020-08-08T14:38:23.134Z
+date: 2021-08-08T14:38:23.134Z
 image: https://img-global.cpcdn.com/recipes/6174507/751x532cq70/lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6174507/751x532cq70/lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6174507/751x532cq70/lamb-chops-recipe-main-photo.jpg

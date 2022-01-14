@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick French Beans in Bacon"
 title: "Steps to Prepare Quick French Beans in Bacon"
 slug: 1-steps-to-prepare-quick-french-beans-in-bacon
-date: 2020-08-27T22:02:52.191Z
+date: 2021-08-27T22:02:52.191Z
 image: https://img-global.cpcdn.com/recipes/fe0426251d415884/751x532cq70/french-beans-in-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fe0426251d415884/751x532cq70/french-beans-in-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fe0426251d415884/751x532cq70/french-beans-in-bacon-recipe-main-photo.jpg

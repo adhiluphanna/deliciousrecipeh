@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week BBQ Rosemary lamb skewer"
 title: "Simple Way to Make Any-night-of-the-week BBQ Rosemary lamb skewer"
 slug: 690-simple-way-to-make-any-night-of-the-week-bbq-rosemary-lamb-skewer
-date: 2020-10-06T20:06:32.751Z
+date: 2021-10-06T20:06:32.751Z
 image: https://img-global.cpcdn.com/recipes/e85c2bfbef0a14a8/751x532cq70/bbq-rosemary-lamb-skewer-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e85c2bfbef0a14a8/751x532cq70/bbq-rosemary-lamb-skewer-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e85c2bfbef0a14a8/751x532cq70/bbq-rosemary-lamb-skewer-recipe-main-photo.jpg

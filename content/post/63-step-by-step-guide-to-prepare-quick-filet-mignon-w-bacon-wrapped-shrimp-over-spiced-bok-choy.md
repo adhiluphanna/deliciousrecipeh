@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Quick Filet Mignon w/ Bacon-wrapped Shrimp over Spiced Bok Choy"
 title: "Step-by-Step Guide to Prepare Quick Filet Mignon w/ Bacon-wrapped Shrimp over Spiced Bok Choy"
 slug: 63-step-by-step-guide-to-prepare-quick-filet-mignon-w-bacon-wrapped-shrimp-over-spiced-bok-choy
-date: 2020-08-25T21:37:31.818Z
+date: 2021-08-25T21:37:31.818Z
 image: https://img-global.cpcdn.com/recipes/d60cc7e7949f6a3e/751x532cq70/filet-mignon-w-bacon-wrapped-shrimp-over-spiced-bok-choy-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d60cc7e7949f6a3e/751x532cq70/filet-mignon-w-bacon-wrapped-shrimp-over-spiced-bok-choy-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d60cc7e7949f6a3e/751x532cq70/filet-mignon-w-bacon-wrapped-shrimp-over-spiced-bok-choy-recipe-main-photo.jpg

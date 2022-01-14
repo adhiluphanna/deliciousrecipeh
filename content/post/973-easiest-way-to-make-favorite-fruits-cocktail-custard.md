@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite Fruits Cocktail Custard"
 title: "Easiest Way to Make Favorite Fruits Cocktail Custard"
 slug: 973-easiest-way-to-make-favorite-fruits-cocktail-custard
-date: 2020-07-23T14:51:30.647Z
+date: 2021-07-23T14:51:30.647Z
 image: https://img-global.cpcdn.com/recipes/2313f60d65321b84/751x532cq70/fruits-cocktail-custard-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2313f60d65321b84/751x532cq70/fruits-cocktail-custard-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2313f60d65321b84/751x532cq70/fruits-cocktail-custard-recipe-main-photo.jpg

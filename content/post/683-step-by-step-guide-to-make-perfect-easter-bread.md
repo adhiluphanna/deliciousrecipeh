@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Perfect أقراص العيد القيامة Easter bread"
 title: "Step-by-Step Guide to Make Perfect أقراص العيد القيامة Easter bread"
 slug: 683-step-by-step-guide-to-make-perfect-easter-bread
-date: 2020-06-27T10:33:44.658Z
+date: 2021-06-27T10:33:44.658Z
 image: https://img-global.cpcdn.com/recipes/aa4521e7397403c9/751x532cq70/أقراص-العيد-القيامة-easter-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/aa4521e7397403c9/751x532cq70/أقراص-العيد-القيامة-easter-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/aa4521e7397403c9/751x532cq70/أقراص-العيد-القيامة-easter-bread-recipe-main-photo.jpg

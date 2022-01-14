@@ -2,7 +2,7 @@
 description: "How to Prepare Super Quick Homemade BBQ Chicken &amp;amp; Bacon Jalapeno Poppers"
 title: "How to Prepare Super Quick Homemade BBQ Chicken &amp;amp; Bacon Jalapeno Poppers"
 slug: 119-how-to-prepare-super-quick-homemade-bbq-chicken-and-amp-bacon-jalapeno-poppers
-date: 2020-07-23T22:54:57.079Z
+date: 2021-07-23T22:54:57.079Z
 image: https://img-global.cpcdn.com/recipes/0409585509997e84/751x532cq70/bbq-chicken-bacon-jalapeno-poppers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0409585509997e84/751x532cq70/bbq-chicken-bacon-jalapeno-poppers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0409585509997e84/751x532cq70/bbq-chicken-bacon-jalapeno-poppers-recipe-main-photo.jpg

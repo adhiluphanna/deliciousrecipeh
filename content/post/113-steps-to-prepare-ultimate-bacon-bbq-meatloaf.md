@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Bacon BBQ Meatloaf"
 title: "Steps to Prepare Ultimate Bacon BBQ Meatloaf"
 slug: 113-steps-to-prepare-ultimate-bacon-bbq-meatloaf
-date: 2020-06-16T04:50:32.416Z
+date: 2021-06-16T04:50:32.416Z
 image: https://img-global.cpcdn.com/recipes/a872d58f586dfd83/751x532cq70/bacon-bbq-meatloaf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a872d58f586dfd83/751x532cq70/bacon-bbq-meatloaf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a872d58f586dfd83/751x532cq70/bacon-bbq-meatloaf-recipe-main-photo.jpg

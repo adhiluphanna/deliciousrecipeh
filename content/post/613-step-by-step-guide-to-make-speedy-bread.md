@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Bread"
 title: "Step-by-Step Guide to Make Speedy Bread"
 slug: 613-step-by-step-guide-to-make-speedy-bread
-date: 2020-07-13T02:31:43.042Z
+date: 2021-07-13T02:31:43.042Z
 image: https://img-global.cpcdn.com/recipes/f505207ad2d82920/751x532cq70/bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f505207ad2d82920/751x532cq70/bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f505207ad2d82920/751x532cq70/bread-recipe-main-photo.jpg

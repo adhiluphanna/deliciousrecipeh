@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Evan's Crab Cakes"
 title: "Step-by-Step Guide to Make Award-winning Evan's Crab Cakes"
 slug: 416-step-by-step-guide-to-make-award-winning-evan-and-39-s-crab-cakes
-date: 2020-09-16T19:05:29.217Z
+date: 2021-09-16T19:05:29.217Z
 image: https://img-global.cpcdn.com/recipes/5323362894610432/751x532cq70/evans-crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5323362894610432/751x532cq70/evans-crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5323362894610432/751x532cq70/evans-crab-cakes-recipe-main-photo.jpg

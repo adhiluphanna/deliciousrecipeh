@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Bacon wrapped meatloaf"
 title: "Recipe of Any-night-of-the-week Bacon wrapped meatloaf"
 slug: 210-recipe-of-any-night-of-the-week-bacon-wrapped-meatloaf
-date: 2020-08-22T07:56:57.703Z
+date: 2021-08-22T07:56:57.703Z
 image: https://img-global.cpcdn.com/recipes/2073f9271bda18af/751x532cq70/bacon-wrapped-meatloaf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2073f9271bda18af/751x532cq70/bacon-wrapped-meatloaf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2073f9271bda18af/751x532cq70/bacon-wrapped-meatloaf-recipe-main-photo.jpg

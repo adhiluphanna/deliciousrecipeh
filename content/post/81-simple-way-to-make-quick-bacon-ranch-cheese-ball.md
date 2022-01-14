@@ -2,7 +2,7 @@
 description: "Simple Way to Make Quick Bacon ranch cheese ball"
 title: "Simple Way to Make Quick Bacon ranch cheese ball"
 slug: 81-simple-way-to-make-quick-bacon-ranch-cheese-ball
-date: 2020-06-17T15:26:41.453Z
+date: 2021-06-17T15:26:41.453Z
 image: https://img-global.cpcdn.com/recipes/884ac77412e220f2/751x532cq70/bacon-ranch-cheese-ball-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/884ac77412e220f2/751x532cq70/bacon-ranch-cheese-ball-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/884ac77412e220f2/751x532cq70/bacon-ranch-cheese-ball-recipe-main-photo.jpg

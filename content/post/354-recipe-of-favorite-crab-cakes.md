@@ -2,7 +2,7 @@
 description: "Recipe of Favorite crab cakes"
 title: "Recipe of Favorite crab cakes"
 slug: 354-recipe-of-favorite-crab-cakes
-date: 2020-05-27T02:55:50.260Z
+date: 2021-05-27T02:55:50.260Z
 image: https://img-global.cpcdn.com/recipes/4981331507281920/751x532cq70/crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4981331507281920/751x532cq70/crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4981331507281920/751x532cq70/crab-cakes-recipe-main-photo.jpg

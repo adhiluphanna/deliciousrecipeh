@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Roasted Leg of Lamb Batch 4"
 title: "Simple Way to Prepare Ultimate Roasted Leg of Lamb Batch 4"
 slug: 764-simple-way-to-prepare-ultimate-roasted-leg-of-lamb-batch-4
-date: 2020-09-26T00:27:44.049Z
+date: 2021-09-26T00:27:44.049Z
 image: https://img-global.cpcdn.com/recipes/90fb17681205e6a7/751x532cq70/roasted-leg-of-lamb-batch-4-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/90fb17681205e6a7/751x532cq70/roasted-leg-of-lamb-batch-4-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/90fb17681205e6a7/751x532cq70/roasted-leg-of-lamb-batch-4-recipe-main-photo.jpg

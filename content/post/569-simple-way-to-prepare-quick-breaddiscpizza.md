@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Quick BreadDiscPizza"
 title: "Simple Way to Prepare Quick BreadDiscPizza"
 slug: 569-simple-way-to-prepare-quick-breaddiscpizza
-date: 2020-05-23T10:28:24.281Z
+date: 2021-05-23T10:28:24.281Z
 image: https://img-global.cpcdn.com/recipes/ca6ad80257b7a218/751x532cq70/breaddiscpizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ca6ad80257b7a218/751x532cq70/breaddiscpizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ca6ad80257b7a218/751x532cq70/breaddiscpizza-recipe-main-photo.jpg

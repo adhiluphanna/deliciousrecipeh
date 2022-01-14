@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Baked crab ragoons"
 title: "Recipe of Favorite Baked crab ragoons"
 slug: 426-recipe-of-favorite-baked-crab-ragoons
-date: 2020-09-11T11:10:06.504Z
+date: 2021-09-11T11:10:06.504Z
 image: https://img-global.cpcdn.com/recipes/5265565131210752/751x532cq70/baked-crab-ragoons-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5265565131210752/751x532cq70/baked-crab-ragoons-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5265565131210752/751x532cq70/baked-crab-ragoons-recipe-main-photo.jpg

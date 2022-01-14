@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Bread for Breakfast"
 title: "Step-by-Step Guide to Make Favorite Bread for Breakfast"
 slug: 630-step-by-step-guide-to-make-favorite-bread-for-breakfast
-date: 2020-09-11T08:57:43.224Z
+date: 2021-09-11T08:57:43.224Z
 image: https://img-global.cpcdn.com/recipes/204448ac106b032e/751x532cq70/bread-for-breakfast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/204448ac106b032e/751x532cq70/bread-for-breakfast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/204448ac106b032e/751x532cq70/bread-for-breakfast-recipe-main-photo.jpg

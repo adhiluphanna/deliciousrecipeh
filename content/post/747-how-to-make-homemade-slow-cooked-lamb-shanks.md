@@ -2,7 +2,7 @@
 description: "How to Make Homemade Slow cooked lamb shanks"
 title: "How to Make Homemade Slow cooked lamb shanks"
 slug: 747-how-to-make-homemade-slow-cooked-lamb-shanks
-date: 2020-11-17T16:06:45.934Z
+date: 2021-11-17T16:06:45.934Z
 image: https://img-global.cpcdn.com/recipes/f51db36b0565f3da/751x532cq70/slow-cooked-lamb-shanks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f51db36b0565f3da/751x532cq70/slow-cooked-lamb-shanks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f51db36b0565f3da/751x532cq70/slow-cooked-lamb-shanks-recipe-main-photo.jpg

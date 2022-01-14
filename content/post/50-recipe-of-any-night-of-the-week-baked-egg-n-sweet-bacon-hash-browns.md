@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Baked egg n sweet bacon hash browns"
 title: "Recipe of Any-night-of-the-week Baked egg n sweet bacon hash browns"
 slug: 50-recipe-of-any-night-of-the-week-baked-egg-n-sweet-bacon-hash-browns
-date: 2020-10-30T19:02:01.498Z
+date: 2021-10-30T19:02:01.498Z
 image: https://img-global.cpcdn.com/recipes/b6781289cbf33acc/751x532cq70/baked-egg-n-sweet-bacon-hash-browns-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b6781289cbf33acc/751x532cq70/baked-egg-n-sweet-bacon-hash-browns-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b6781289cbf33acc/751x532cq70/baked-egg-n-sweet-bacon-hash-browns-recipe-main-photo.jpg

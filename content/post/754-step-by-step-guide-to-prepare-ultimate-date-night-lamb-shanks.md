@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Ultimate Date Night Lamb Shanks"
 title: "Step-by-Step Guide to Prepare Ultimate Date Night Lamb Shanks"
 slug: 754-step-by-step-guide-to-prepare-ultimate-date-night-lamb-shanks
-date: 2020-10-17T01:21:12.084Z
+date: 2021-10-17T01:21:12.084Z
 image: https://img-global.cpcdn.com/recipes/56299492/751x532cq70/date-night-lamb-shanks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/56299492/751x532cq70/date-night-lamb-shanks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/56299492/751x532cq70/date-night-lamb-shanks-recipe-main-photo.jpg

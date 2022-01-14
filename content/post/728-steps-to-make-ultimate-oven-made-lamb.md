@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Oven Made Lamb"
 title: "Steps to Make Ultimate Oven Made Lamb"
 slug: 728-steps-to-make-ultimate-oven-made-lamb
-date: 2020-06-24T04:43:45.218Z
+date: 2021-06-24T04:43:45.218Z
 image: https://img-global.cpcdn.com/recipes/dbc2ff9e6ccda2ec/751x532cq70/oven-made-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dbc2ff9e6ccda2ec/751x532cq70/oven-made-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dbc2ff9e6ccda2ec/751x532cq70/oven-made-lamb-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Homemade Bacon Wrapped Cheesesteak Meatloaf"
 title: "How to Prepare Homemade Bacon Wrapped Cheesesteak Meatloaf"
 slug: 135-how-to-prepare-homemade-bacon-wrapped-cheesesteak-meatloaf
-date: 2020-10-12T15:44:20.574Z
+date: 2021-10-12T15:44:20.574Z
 image: https://img-global.cpcdn.com/recipes/9d84f8c966cbd46e/751x532cq70/bacon-wrapped-cheesesteak-meatloaf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9d84f8c966cbd46e/751x532cq70/bacon-wrapped-cheesesteak-meatloaf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9d84f8c966cbd46e/751x532cq70/bacon-wrapped-cheesesteak-meatloaf-recipe-main-photo.jpg

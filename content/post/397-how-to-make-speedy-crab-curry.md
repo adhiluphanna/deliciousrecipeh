@@ -2,7 +2,7 @@
 description: "How to Make Speedy Crab Curry"
 title: "How to Make Speedy Crab Curry"
 slug: 397-how-to-make-speedy-crab-curry
-date: 2020-06-11T23:53:20.223Z
+date: 2021-06-11T23:53:20.223Z
 image: https://img-global.cpcdn.com/recipes/3e0f596ba846d2d1/751x532cq70/crab-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3e0f596ba846d2d1/751x532cq70/crab-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3e0f596ba846d2d1/751x532cq70/crab-curry-recipe-main-photo.jpg

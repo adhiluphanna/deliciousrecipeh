@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Bacon wrapped dates stuffed with ricotta cheese"
 title: "Simple Way to Make Ultimate Bacon wrapped dates stuffed with ricotta cheese"
 slug: 16-simple-way-to-make-ultimate-bacon-wrapped-dates-stuffed-with-ricotta-cheese
-date: 2020-11-11T04:14:39.368Z
+date: 2021-11-11T04:14:39.368Z
 image: https://img-global.cpcdn.com/recipes/acc7d6cd70ac4819/751x532cq70/bacon-wrapped-dates-stuffed-with-ricotta-cheese-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/acc7d6cd70ac4819/751x532cq70/bacon-wrapped-dates-stuffed-with-ricotta-cheese-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/acc7d6cd70ac4819/751x532cq70/bacon-wrapped-dates-stuffed-with-ricotta-cheese-recipe-main-photo.jpg

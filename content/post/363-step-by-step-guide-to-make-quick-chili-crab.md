@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Quick Chili Crab"
 title: "Step-by-Step Guide to Make Quick Chili Crab"
 slug: 363-step-by-step-guide-to-make-quick-chili-crab
-date: 2020-08-07T19:46:39.759Z
+date: 2021-08-07T19:46:39.759Z
 image: https://img-global.cpcdn.com/recipes/5405884964405248/751x532cq70/chili-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5405884964405248/751x532cq70/chili-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5405884964405248/751x532cq70/chili-crab-recipe-main-photo.jpg

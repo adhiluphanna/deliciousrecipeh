@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Perfect Banana Breads"
 title: "Step-by-Step Guide to Make Perfect Banana Breads"
 slug: 663-step-by-step-guide-to-make-perfect-banana-breads
-date: 2020-09-11T08:13:05.292Z
+date: 2021-09-11T08:13:05.292Z
 image: https://img-global.cpcdn.com/recipes/bb9d732aafc97001/751x532cq70/banana-breads-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bb9d732aafc97001/751x532cq70/banana-breads-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bb9d732aafc97001/751x532cq70/banana-breads-recipe-main-photo.jpg

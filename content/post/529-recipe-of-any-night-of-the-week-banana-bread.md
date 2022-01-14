@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Banana Bread"
 title: "Recipe of Any-night-of-the-week Banana Bread"
 slug: 529-recipe-of-any-night-of-the-week-banana-bread
-date: 2020-07-02T16:44:07.432Z
+date: 2021-07-02T16:44:07.432Z
 image: https://img-global.cpcdn.com/recipes/f77a007873af404f/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f77a007873af404f/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f77a007873af404f/751x532cq70/banana-bread-recipe-main-photo.jpg

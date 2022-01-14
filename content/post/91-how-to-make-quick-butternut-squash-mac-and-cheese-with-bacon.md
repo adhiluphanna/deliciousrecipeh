@@ -2,7 +2,7 @@
 description: "How to Make Quick Butternut Squash Mac and Cheese with Bacon"
 title: "How to Make Quick Butternut Squash Mac and Cheese with Bacon"
 slug: 91-how-to-make-quick-butternut-squash-mac-and-cheese-with-bacon
-date: 2020-11-22T15:19:54.583Z
+date: 2021-11-22T15:19:54.583Z
 image: https://img-global.cpcdn.com/recipes/c2f67255dedd6526/751x532cq70/butternut-squash-mac-and-cheese-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c2f67255dedd6526/751x532cq70/butternut-squash-mac-and-cheese-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c2f67255dedd6526/751x532cq70/butternut-squash-mac-and-cheese-with-bacon-recipe-main-photo.jpg

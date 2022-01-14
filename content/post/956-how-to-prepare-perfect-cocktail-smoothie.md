@@ -2,7 +2,7 @@
 description: "How to Prepare Perfect Cocktail smoothie"
 title: "How to Prepare Perfect Cocktail smoothie"
 slug: 956-how-to-prepare-perfect-cocktail-smoothie
-date: 2020-08-29T18:18:28.786Z
+date: 2021-08-29T18:18:28.786Z
 image: https://img-global.cpcdn.com/recipes/c427108c5bf26318/751x532cq70/cocktail-smoothie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c427108c5bf26318/751x532cq70/cocktail-smoothie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c427108c5bf26318/751x532cq70/cocktail-smoothie-recipe-main-photo.jpg

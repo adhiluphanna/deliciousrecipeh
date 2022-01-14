@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Multi Grain Bread's square"
 title: "Step-by-Step Guide to Make Favorite Multi Grain Bread's square"
 slug: 567-step-by-step-guide-to-make-favorite-multi-grain-bread-and-39-s-square
-date: 2020-06-23T21:31:00.450Z
+date: 2021-06-23T21:31:00.450Z
 image: https://img-global.cpcdn.com/recipes/a22efb0602e07a0b/751x532cq70/multi-grain-breads-square-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a22efb0602e07a0b/751x532cq70/multi-grain-breads-square-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a22efb0602e07a0b/751x532cq70/multi-grain-breads-square-recipe-main-photo.jpg

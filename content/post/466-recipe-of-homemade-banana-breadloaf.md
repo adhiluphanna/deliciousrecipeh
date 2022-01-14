@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Banana Breadloaf"
 title: "Recipe of Homemade Banana Breadloaf"
 slug: 466-recipe-of-homemade-banana-breadloaf
-date: 2020-10-19T07:36:01.036Z
+date: 2021-10-19T07:36:01.036Z
 image: https://img-global.cpcdn.com/recipes/fa219f675b9d32b7/751x532cq70/banana-breadloaf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fa219f675b9d32b7/751x532cq70/banana-breadloaf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fa219f675b9d32b7/751x532cq70/banana-breadloaf-recipe-main-photo.jpg

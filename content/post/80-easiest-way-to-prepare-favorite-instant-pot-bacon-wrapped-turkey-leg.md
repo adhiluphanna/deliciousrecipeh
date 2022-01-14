@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Instant Pot Bacon Wrapped Turkey Leg"
 title: "Easiest Way to Prepare Favorite Instant Pot Bacon Wrapped Turkey Leg"
 slug: 80-easiest-way-to-prepare-favorite-instant-pot-bacon-wrapped-turkey-leg
-date: 2020-11-11T01:13:39.270Z
+date: 2021-11-11T01:13:39.270Z
 image: https://img-global.cpcdn.com/recipes/c8ad24b926941897/751x532cq70/instant-pot-bacon-wrapped-turkey-leg-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c8ad24b926941897/751x532cq70/instant-pot-bacon-wrapped-turkey-leg-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c8ad24b926941897/751x532cq70/instant-pot-bacon-wrapped-turkey-leg-recipe-main-photo.jpg

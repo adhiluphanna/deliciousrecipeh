@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Bread Omelette"
 title: "Steps to Make Homemade Bread Omelette"
 slug: 473-steps-to-make-homemade-bread-omelette
-date: 2020-07-31T18:53:19.094Z
+date: 2021-07-31T18:53:19.094Z
 image: https://img-global.cpcdn.com/recipes/6043ce8fe64a4bea/751x532cq70/bread-omelette-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6043ce8fe64a4bea/751x532cq70/bread-omelette-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6043ce8fe64a4bea/751x532cq70/bread-omelette-recipe-main-photo.jpg

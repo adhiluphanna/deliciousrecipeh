@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Tropical Cocktail Carrot Tang Drink"
 title: "Simple Way to Make Favorite Tropical Cocktail Carrot Tang Drink"
 slug: 947-simple-way-to-make-favorite-tropical-cocktail-carrot-tang-drink
-date: 2020-11-20T11:54:41.373Z
+date: 2021-11-20T11:54:41.373Z
 image: https://img-global.cpcdn.com/recipes/0cfd9dd207d42d60/751x532cq70/tropical-cocktail-carrot-tang-drink-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0cfd9dd207d42d60/751x532cq70/tropical-cocktail-carrot-tang-drink-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0cfd9dd207d42d60/751x532cq70/tropical-cocktail-carrot-tang-drink-recipe-main-photo.jpg

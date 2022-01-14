@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Super Quick Homemade Caramel Apple Cocktail"
 title: "Step-by-Step Guide to Make Super Quick Homemade Caramel Apple Cocktail"
 slug: 915-step-by-step-guide-to-make-super-quick-homemade-caramel-apple-cocktail
-date: 2020-07-17T09:41:57.503Z
+date: 2021-07-17T09:41:57.503Z
 image: https://img-global.cpcdn.com/recipes/989c9f6907cea750/751x532cq70/caramel-apple-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/989c9f6907cea750/751x532cq70/caramel-apple-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/989c9f6907cea750/751x532cq70/caramel-apple-cocktail-recipe-main-photo.jpg

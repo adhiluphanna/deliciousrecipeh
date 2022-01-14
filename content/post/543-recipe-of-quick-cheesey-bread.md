@@ -2,7 +2,7 @@
 description: "Recipe of Quick Cheesey Bread"
 title: "Recipe of Quick Cheesey Bread"
 slug: 543-recipe-of-quick-cheesey-bread
-date: 2020-07-27T02:10:24.441Z
+date: 2021-07-27T02:10:24.441Z
 image: https://img-global.cpcdn.com/recipes/0cf144dcdeedbb71/751x532cq70/cheesey-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0cf144dcdeedbb71/751x532cq70/cheesey-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0cf144dcdeedbb71/751x532cq70/cheesey-bread-recipe-main-photo.jpg

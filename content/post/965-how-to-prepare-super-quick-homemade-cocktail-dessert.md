@@ -2,7 +2,7 @@
 description: "How to Prepare Super Quick Homemade Cocktail Dessert"
 title: "How to Prepare Super Quick Homemade Cocktail Dessert"
 slug: 965-how-to-prepare-super-quick-homemade-cocktail-dessert
-date: 2020-06-07T09:03:38.669Z
+date: 2021-06-07T09:03:38.669Z
 image: https://img-global.cpcdn.com/recipes/2d4c4a61b8ae0b8f/751x532cq70/cocktail-dessert-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2d4c4a61b8ae0b8f/751x532cq70/cocktail-dessert-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2d4c4a61b8ae0b8f/751x532cq70/cocktail-dessert-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Favorite Fish Floss Bread"
 title: "How to Prepare Favorite Fish Floss Bread"
 slug: 595-how-to-prepare-favorite-fish-floss-bread
-date: 2020-08-13T08:20:37.344Z
+date: 2021-08-13T08:20:37.344Z
 image: https://img-global.cpcdn.com/recipes/119af8ae6730bfff/751x532cq70/fish-floss-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/119af8ae6730bfff/751x532cq70/fish-floss-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/119af8ae6730bfff/751x532cq70/fish-floss-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Lobster crab cheese dip"
 title: "Step-by-Step Guide to Make Favorite Lobster crab cheese dip"
 slug: 306-step-by-step-guide-to-make-favorite-lobster-crab-cheese-dip
-date: 2020-11-03T18:36:57.227Z
+date: 2021-11-03T18:36:57.227Z
 image: https://img-global.cpcdn.com/recipes/161221ecdacca97c/751x532cq70/lobster-crab-cheese-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/161221ecdacca97c/751x532cq70/lobster-crab-cheese-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/161221ecdacca97c/751x532cq70/lobster-crab-cheese-dip-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Quick Amanda's Lamb meatballs"
 title: "Recipe of Quick Amanda's Lamb meatballs"
 slug: 904-recipe-of-quick-amanda-and-39-s-lamb-meatballs
-date: 2020-06-05T20:17:11.448Z
+date: 2021-06-05T20:17:11.448Z
 image: https://img-global.cpcdn.com/recipes/5990920908439552/751x532cq70/amandas-lamb-meatballs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5990920908439552/751x532cq70/amandas-lamb-meatballs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5990920908439552/751x532cq70/amandas-lamb-meatballs-recipe-main-photo.jpg

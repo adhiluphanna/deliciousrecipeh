@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Spinach, Cheese and Bacon Crustless Quiche"
 title: "Easiest Way to Make Ultimate Spinach, Cheese and Bacon Crustless Quiche"
 slug: 83-easiest-way-to-make-ultimate-spinach-cheese-and-bacon-crustless-quiche
-date: 2020-07-20T15:54:07.867Z
+date: 2021-07-20T15:54:07.867Z
 image: https://img-global.cpcdn.com/recipes/043bfb710cffb5e9/751x532cq70/spinach-cheese-and-bacon-crustless-quiche-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/043bfb710cffb5e9/751x532cq70/spinach-cheese-and-bacon-crustless-quiche-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/043bfb710cffb5e9/751x532cq70/spinach-cheese-and-bacon-crustless-quiche-recipe-main-photo.jpg

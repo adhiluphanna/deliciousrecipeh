@@ -2,7 +2,7 @@
 description: "Recipe of Quick Lamb stew"
 title: "Recipe of Quick Lamb stew"
 slug: 804-recipe-of-quick-lamb-stew
-date: 2020-05-31T19:55:25.388Z
+date: 2021-05-31T19:55:25.388Z
 image: https://img-global.cpcdn.com/recipes/4836161871675392/751x532cq70/lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4836161871675392/751x532cq70/lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4836161871675392/751x532cq70/lamb-stew-recipe-main-photo.jpg

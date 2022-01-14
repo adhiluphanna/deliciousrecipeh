@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Marinated Lamb Breast"
 title: "Steps to Make Homemade Marinated Lamb Breast"
 slug: 768-steps-to-make-homemade-marinated-lamb-breast
-date: 2020-10-16T22:26:26.573Z
+date: 2021-10-16T22:26:26.573Z
 image: https://img-global.cpcdn.com/recipes/f75a63a6e153d3f7/751x532cq70/marinated-lamb-breast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f75a63a6e153d3f7/751x532cq70/marinated-lamb-breast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f75a63a6e153d3f7/751x532cq70/marinated-lamb-breast-recipe-main-photo.jpg

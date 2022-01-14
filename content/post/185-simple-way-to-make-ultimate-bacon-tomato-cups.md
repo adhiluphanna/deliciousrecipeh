@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Bacon Tomato Cups"
 title: "Simple Way to Make Ultimate Bacon Tomato Cups"
 slug: 185-simple-way-to-make-ultimate-bacon-tomato-cups
-date: 2020-08-08T23:55:36.994Z
+date: 2021-08-08T23:55:36.994Z
 image: https://img-global.cpcdn.com/recipes/b2fa10a6d23319cc/751x532cq70/bacon-tomato-cups-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b2fa10a6d23319cc/751x532cq70/bacon-tomato-cups-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b2fa10a6d23319cc/751x532cq70/bacon-tomato-cups-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Breadmaker Beet Bread"
 title: "Easiest Way to Make Any-night-of-the-week Breadmaker Beet Bread"
 slug: 454-easiest-way-to-make-any-night-of-the-week-breadmaker-beet-bread
-date: 2020-06-19T12:56:03.160Z
+date: 2021-06-19T12:56:03.160Z
 image: https://img-global.cpcdn.com/recipes/6006702738505728/751x532cq70/breadmaker-beet-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6006702738505728/751x532cq70/breadmaker-beet-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6006702738505728/751x532cq70/breadmaker-beet-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Bacon wrapped chestnuts"
 title: "Recipe of Super Quick Homemade Bacon wrapped chestnuts"
 slug: 129-recipe-of-super-quick-homemade-bacon-wrapped-chestnuts
-date: 2020-08-21T21:03:37.566Z
+date: 2021-08-21T21:03:37.566Z
 image: https://img-global.cpcdn.com/recipes/b5bbd6212bb6fdb7/751x532cq70/bacon-wrapped-chestnuts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b5bbd6212bb6fdb7/751x532cq70/bacon-wrapped-chestnuts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b5bbd6212bb6fdb7/751x532cq70/bacon-wrapped-chestnuts-recipe-main-photo.jpg

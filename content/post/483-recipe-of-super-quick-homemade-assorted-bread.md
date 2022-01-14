@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Assorted Bread"
 title: "Recipe of Super Quick Homemade Assorted Bread"
 slug: 483-recipe-of-super-quick-homemade-assorted-bread
-date: 2020-08-30T23:51:10.496Z
+date: 2021-08-30T23:51:10.496Z
 image: https://img-global.cpcdn.com/recipes/b2d071c31786c40e/751x532cq70/assorted-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b2d071c31786c40e/751x532cq70/assorted-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b2d071c31786c40e/751x532cq70/assorted-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Quick Minted Lamb &amp;amp; Potato Budget Stew"
 title: "Simple Way to Prepare Quick Minted Lamb &amp;amp; Potato Budget Stew"
 slug: 909-simple-way-to-prepare-quick-minted-lamb-and-amp-potato-budget-stew
-date: 2020-08-14T05:23:14.734Z
+date: 2021-08-14T05:23:14.734Z
 image: https://img-global.cpcdn.com/recipes/0507d88dbe8458e5/751x532cq70/minted-lamb-potato-budget-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0507d88dbe8458e5/751x532cq70/minted-lamb-potato-budget-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0507d88dbe8458e5/751x532cq70/minted-lamb-potato-budget-stew-recipe-main-photo.jpg

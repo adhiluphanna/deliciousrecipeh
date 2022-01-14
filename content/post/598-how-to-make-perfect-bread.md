@@ -2,7 +2,7 @@
 description: "How to Make Perfect Bread."
 title: "How to Make Perfect Bread."
 slug: 598-how-to-make-perfect-bread
-date: 2020-08-08T21:02:17.803Z
+date: 2021-08-08T21:02:17.803Z
 image: https://img-global.cpcdn.com/recipes/6a06b66143aa9f51/751x532cq70/bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6a06b66143aa9f51/751x532cq70/bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6a06b66143aa9f51/751x532cq70/bread-recipe-main-photo.jpg

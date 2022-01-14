@@ -2,7 +2,7 @@
 description: "How to Prepare Award-winning Pomegranate Watermelon Cocktail"
 title: "How to Prepare Award-winning Pomegranate Watermelon Cocktail"
 slug: 1016-how-to-prepare-award-winning-pomegranate-watermelon-cocktail
-date: 2020-08-05T23:30:05.428Z
+date: 2021-08-05T23:30:05.428Z
 image: https://img-global.cpcdn.com/recipes/38b9cc177da9a1b8/751x532cq70/pomegranate-watermelon-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/38b9cc177da9a1b8/751x532cq70/pomegranate-watermelon-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/38b9cc177da9a1b8/751x532cq70/pomegranate-watermelon-cocktail-recipe-main-photo.jpg

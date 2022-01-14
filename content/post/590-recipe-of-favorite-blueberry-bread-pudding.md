@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Blueberry Bread Pudding"
 title: "Recipe of Favorite Blueberry Bread Pudding"
 slug: 590-recipe-of-favorite-blueberry-bread-pudding
-date: 2020-08-06T04:53:34.026Z
+date: 2021-08-06T04:53:34.026Z
 image: https://img-global.cpcdn.com/recipes/faeb486aa984f511/751x532cq70/blueberry-bread-pudding-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/faeb486aa984f511/751x532cq70/blueberry-bread-pudding-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/faeb486aa984f511/751x532cq70/blueberry-bread-pudding-recipe-main-photo.jpg

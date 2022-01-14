@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Lamb including Gravy"
 title: "Recipe of Super Quick Homemade Lamb including Gravy"
 slug: 734-recipe-of-super-quick-homemade-lamb-including-gravy
-date: 2020-07-09T07:13:40.204Z
+date: 2021-07-09T07:13:40.204Z
 image: https://img-global.cpcdn.com/recipes/ea65f8277f5b521f/751x532cq70/lamb-including-gravy-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ea65f8277f5b521f/751x532cq70/lamb-including-gravy-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ea65f8277f5b521f/751x532cq70/lamb-including-gravy-recipe-main-photo.jpg

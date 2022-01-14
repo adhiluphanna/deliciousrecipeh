@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Cocktail"
 title: "Easiest Way to Make Quick Cocktail"
 slug: 963-easiest-way-to-make-quick-cocktail
-date: 2020-11-04T12:41:06.375Z
+date: 2021-11-04T12:41:06.375Z
 image: https://img-global.cpcdn.com/recipes/fa4a8a1f3a5b4bdb/751x532cq70/cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fa4a8a1f3a5b4bdb/751x532cq70/cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fa4a8a1f3a5b4bdb/751x532cq70/cocktail-recipe-main-photo.jpg

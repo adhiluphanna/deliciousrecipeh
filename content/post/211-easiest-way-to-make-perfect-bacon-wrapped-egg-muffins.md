@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Perfect Bacon Wrapped Egg Muffins"
 title: "Easiest Way to Make Perfect Bacon Wrapped Egg Muffins"
 slug: 211-easiest-way-to-make-perfect-bacon-wrapped-egg-muffins
-date: 2020-11-11T08:48:30.087Z
+date: 2021-11-11T08:48:30.087Z
 image: https://img-global.cpcdn.com/recipes/0be34c75c785d29d/751x532cq70/bacon-wrapped-egg-muffins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0be34c75c785d29d/751x532cq70/bacon-wrapped-egg-muffins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0be34c75c785d29d/751x532cq70/bacon-wrapped-egg-muffins-recipe-main-photo.jpg

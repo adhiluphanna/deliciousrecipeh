@@ -2,7 +2,7 @@
 description: "How to Make Favorite Grilled Lamb"
 title: "How to Make Favorite Grilled Lamb"
 slug: 744-how-to-make-favorite-grilled-lamb
-date: 2020-09-26T15:49:18.267Z
+date: 2021-09-26T15:49:18.267Z
 image: https://img-global.cpcdn.com/recipes/63b7faabde9fd6ee/751x532cq70/grilled-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/63b7faabde9fd6ee/751x532cq70/grilled-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/63b7faabde9fd6ee/751x532cq70/grilled-lamb-recipe-main-photo.jpg

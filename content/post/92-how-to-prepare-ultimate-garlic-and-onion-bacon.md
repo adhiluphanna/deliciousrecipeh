@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Garlic and onion bacon"
 title: "How to Prepare Ultimate Garlic and onion bacon"
 slug: 92-how-to-prepare-ultimate-garlic-and-onion-bacon
-date: 2020-09-09T23:26:32.572Z
+date: 2021-09-09T23:26:32.572Z
 image: https://img-global.cpcdn.com/recipes/8dbeba8437cd4688/751x532cq70/garlic-and-onion-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8dbeba8437cd4688/751x532cq70/garlic-and-onion-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8dbeba8437cd4688/751x532cq70/garlic-and-onion-bacon-recipe-main-photo.jpg

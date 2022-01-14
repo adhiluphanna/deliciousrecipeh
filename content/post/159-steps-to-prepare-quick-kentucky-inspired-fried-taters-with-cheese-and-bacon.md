@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Kentucky Inspired Fried Taters with Cheese and Bacon"
 title: "Steps to Prepare Quick Kentucky Inspired Fried Taters with Cheese and Bacon"
 slug: 159-steps-to-prepare-quick-kentucky-inspired-fried-taters-with-cheese-and-bacon
-date: 2020-05-23T23:20:05.655Z
+date: 2021-05-23T23:20:05.655Z
 image: https://img-global.cpcdn.com/recipes/b174df7811bc0061/751x532cq70/kentucky-inspired-fried-taters-with-cheese-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b174df7811bc0061/751x532cq70/kentucky-inspired-fried-taters-with-cheese-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b174df7811bc0061/751x532cq70/kentucky-inspired-fried-taters-with-cheese-and-bacon-recipe-main-photo.jpg

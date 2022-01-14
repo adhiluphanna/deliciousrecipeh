@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Lamb ribs"
 title: "Recipe of Super Quick Homemade Lamb ribs"
 slug: 740-recipe-of-super-quick-homemade-lamb-ribs
-date: 2020-06-19T08:16:55.139Z
+date: 2021-06-19T08:16:55.139Z
 image: https://img-global.cpcdn.com/recipes/5e27679d13dcd9df/751x532cq70/lamb-ribs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5e27679d13dcd9df/751x532cq70/lamb-ribs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5e27679d13dcd9df/751x532cq70/lamb-ribs-recipe-main-photo.jpg

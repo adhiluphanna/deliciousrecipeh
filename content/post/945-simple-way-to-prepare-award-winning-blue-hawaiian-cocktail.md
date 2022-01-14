@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Award-winning Blue Hawaiian cocktail"
 title: "Simple Way to Prepare Award-winning Blue Hawaiian cocktail"
 slug: 945-simple-way-to-prepare-award-winning-blue-hawaiian-cocktail
-date: 2020-11-05T13:34:34.461Z
+date: 2021-11-05T13:34:34.461Z
 image: https://img-global.cpcdn.com/recipes/139509cf309e7ef3/751x532cq70/blue-hawaiian-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/139509cf309e7ef3/751x532cq70/blue-hawaiian-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/139509cf309e7ef3/751x532cq70/blue-hawaiian-cocktail-recipe-main-photo.jpg

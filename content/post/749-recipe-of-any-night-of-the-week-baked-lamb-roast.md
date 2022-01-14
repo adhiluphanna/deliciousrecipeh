@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Baked lamb roast"
 title: "Recipe of Any-night-of-the-week Baked lamb roast"
 slug: 749-recipe-of-any-night-of-the-week-baked-lamb-roast
-date: 2020-06-16T17:54:10.253Z
+date: 2021-06-16T17:54:10.253Z
 image: https://img-global.cpcdn.com/recipes/e42316ae7c179160/751x532cq70/baked-lamb-roast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e42316ae7c179160/751x532cq70/baked-lamb-roast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e42316ae7c179160/751x532cq70/baked-lamb-roast-recipe-main-photo.jpg

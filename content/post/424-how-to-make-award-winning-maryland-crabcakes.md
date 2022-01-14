@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Maryland Crabcakes"
 title: "How to Make Award-winning Maryland Crabcakes"
 slug: 424-how-to-make-award-winning-maryland-crabcakes
-date: 2020-09-12T21:37:09.086Z
+date: 2021-09-12T21:37:09.086Z
 image: https://img-global.cpcdn.com/recipes/4736851663ebde6a/751x532cq70/maryland-crabcakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4736851663ebde6a/751x532cq70/maryland-crabcakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4736851663ebde6a/751x532cq70/maryland-crabcakes-recipe-main-photo.jpg

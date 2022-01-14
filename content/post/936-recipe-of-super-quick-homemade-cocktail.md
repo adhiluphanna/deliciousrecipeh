@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Cocktail"
 title: "Recipe of Super Quick Homemade Cocktail"
 slug: 936-recipe-of-super-quick-homemade-cocktail
-date: 2020-06-17T08:42:03.148Z
+date: 2021-06-17T08:42:03.148Z
 image: https://img-global.cpcdn.com/recipes/606371b404101531/751x532cq70/cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/606371b404101531/751x532cq70/cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/606371b404101531/751x532cq70/cocktail-recipe-main-photo.jpg

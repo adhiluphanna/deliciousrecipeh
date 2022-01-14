@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Creamy Bacon &amp;amp; Mushroom Pasta"
 title: "Easiest Way to Prepare Super Quick Homemade Creamy Bacon &amp;amp; Mushroom Pasta"
 slug: 54-easiest-way-to-prepare-super-quick-homemade-creamy-bacon-and-amp-mushroom-pasta
-date: 2020-09-14T22:46:36.427Z
+date: 2021-09-14T22:46:36.427Z
 image: https://img-global.cpcdn.com/recipes/959a07154cb78c0d/751x532cq70/creamy-bacon-mushroom-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/959a07154cb78c0d/751x532cq70/creamy-bacon-mushroom-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/959a07154cb78c0d/751x532cq70/creamy-bacon-mushroom-pasta-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Bacon Wrapped Stuffed Cream Cheese Beef Poblano Pepper"
 title: "How to Prepare Any-night-of-the-week Bacon Wrapped Stuffed Cream Cheese Beef Poblano Pepper"
 slug: 155-how-to-prepare-any-night-of-the-week-bacon-wrapped-stuffed-cream-cheese-beef-poblano-pepper
-date: 2020-09-06T20:56:33.887Z
+date: 2021-09-06T20:56:33.887Z
 image: https://img-global.cpcdn.com/recipes/77b5aeb186cc7d6b/751x532cq70/bacon-wrapped-stuffed-cream-cheese-beef-poblano-pepper-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/77b5aeb186cc7d6b/751x532cq70/bacon-wrapped-stuffed-cream-cheese-beef-poblano-pepper-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/77b5aeb186cc7d6b/751x532cq70/bacon-wrapped-stuffed-cream-cheese-beef-poblano-pepper-recipe-main-photo.jpg

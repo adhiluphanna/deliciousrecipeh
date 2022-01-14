@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Any-night-of-the-week Bread rolls"
 title: "Simple Way to Prepare Any-night-of-the-week Bread rolls"
 slug: 591-simple-way-to-prepare-any-night-of-the-week-bread-rolls
-date: 2020-08-10T07:09:12.986Z
+date: 2021-08-10T07:09:12.986Z
 image: https://img-global.cpcdn.com/recipes/fbf8cb2aed7a1ca3/751x532cq70/bread-rolls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fbf8cb2aed7a1ca3/751x532cq70/bread-rolls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fbf8cb2aed7a1ca3/751x532cq70/bread-rolls-recipe-main-photo.jpg

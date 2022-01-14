@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade Lamb stew"
 title: "Steps to Prepare Super Quick Homemade Lamb stew"
 slug: 818-steps-to-prepare-super-quick-homemade-lamb-stew
-date: 2020-05-29T19:00:54.123Z
+date: 2021-05-29T19:00:54.123Z
 image: https://img-global.cpcdn.com/recipes/99ed48fbf937d04e/751x532cq70/lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/99ed48fbf937d04e/751x532cq70/lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/99ed48fbf937d04e/751x532cq70/lamb-stew-recipe-main-photo.jpg

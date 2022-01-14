@@ -2,7 +2,7 @@
 description: "Steps to Prepare Any-night-of-the-week Machine Made Bread"
 title: "Steps to Prepare Any-night-of-the-week Machine Made Bread"
 slug: 618-steps-to-prepare-any-night-of-the-week-machine-made-bread
-date: 2020-08-30T02:13:19.132Z
+date: 2021-08-30T02:13:19.132Z
 image: https://img-global.cpcdn.com/recipes/8498b6fe4fce4807/751x532cq70/machine-made-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8498b6fe4fce4807/751x532cq70/machine-made-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8498b6fe4fce4807/751x532cq70/machine-made-bread-recipe-main-photo.jpg

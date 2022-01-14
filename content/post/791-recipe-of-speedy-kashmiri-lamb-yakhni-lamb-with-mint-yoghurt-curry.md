@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Kashmiri Lamb Yakhni (Lamb with Mint Yoghurt curry)"
 title: "Recipe of Speedy Kashmiri Lamb Yakhni (Lamb with Mint Yoghurt curry)"
 slug: 791-recipe-of-speedy-kashmiri-lamb-yakhni-lamb-with-mint-yoghurt-curry
-date: 2020-11-13T00:00:12.350Z
+date: 2021-11-13T00:00:12.350Z
 image: https://img-global.cpcdn.com/recipes/da2550a2bcb8d34f/751x532cq70/kashmiri-lamb-yakhni-lamb-with-mint-yoghurt-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/da2550a2bcb8d34f/751x532cq70/kashmiri-lamb-yakhni-lamb-with-mint-yoghurt-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/da2550a2bcb8d34f/751x532cq70/kashmiri-lamb-yakhni-lamb-with-mint-yoghurt-curry-recipe-main-photo.jpg

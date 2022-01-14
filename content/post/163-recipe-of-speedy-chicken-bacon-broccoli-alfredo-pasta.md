@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Chicken Bacon Broccoli Alfredo Pasta"
 title: "Recipe of Speedy Chicken Bacon Broccoli Alfredo Pasta"
 slug: 163-recipe-of-speedy-chicken-bacon-broccoli-alfredo-pasta
-date: 2020-08-16T17:34:14.548Z
+date: 2021-08-16T17:34:14.548Z
 image: https://img-global.cpcdn.com/recipes/6a569b25b24f13de/751x532cq70/chicken-bacon-broccoli-alfredo-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6a569b25b24f13de/751x532cq70/chicken-bacon-broccoli-alfredo-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6a569b25b24f13de/751x532cq70/chicken-bacon-broccoli-alfredo-pasta-recipe-main-photo.jpg

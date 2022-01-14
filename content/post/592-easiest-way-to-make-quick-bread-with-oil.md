@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Bread with oil"
 title: "Easiest Way to Make Quick Bread with oil"
 slug: 592-easiest-way-to-make-quick-bread-with-oil
-date: 2020-06-28T13:32:18.555Z
+date: 2021-06-28T13:32:18.555Z
 image: https://img-global.cpcdn.com/recipes/be2204f6822056f7/751x532cq70/bread-with-oil-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/be2204f6822056f7/751x532cq70/bread-with-oil-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/be2204f6822056f7/751x532cq70/bread-with-oil-recipe-main-photo.jpg

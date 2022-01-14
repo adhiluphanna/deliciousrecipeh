@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Polebeans and Bacon"
 title: "Easiest Way to Prepare Any-night-of-the-week Polebeans and Bacon"
 slug: 122-easiest-way-to-prepare-any-night-of-the-week-polebeans-and-bacon
-date: 2020-11-23T06:38:13.990Z
+date: 2021-11-23T06:38:13.990Z
 image: https://img-global.cpcdn.com/recipes/733f291ff62ea53f/751x532cq70/polebeans-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/733f291ff62ea53f/751x532cq70/polebeans-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/733f291ff62ea53f/751x532cq70/polebeans-and-bacon-recipe-main-photo.jpg

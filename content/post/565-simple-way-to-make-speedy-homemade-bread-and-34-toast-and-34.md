@@ -2,7 +2,7 @@
 description: "Simple Way to Make Speedy Homemade bread &amp;#34;Toast&amp;#34;"
 title: "Simple Way to Make Speedy Homemade bread &amp;#34;Toast&amp;#34;"
 slug: 565-simple-way-to-make-speedy-homemade-bread-and-34-toast-and-34
-date: 2020-05-26T23:10:25.281Z
+date: 2021-05-26T23:10:25.281Z
 image: https://img-global.cpcdn.com/recipes/11c42127f1097ab8/751x532cq70/homemade-bread-toast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/11c42127f1097ab8/751x532cq70/homemade-bread-toast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/11c42127f1097ab8/751x532cq70/homemade-bread-toast-recipe-main-photo.jpg

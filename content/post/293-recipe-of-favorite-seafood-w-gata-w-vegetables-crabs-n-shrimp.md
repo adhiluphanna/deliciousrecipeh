@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Seafood w Gata w Vegetables Crabs n Shrimp"
 title: "Recipe of Favorite Seafood w Gata w Vegetables Crabs n Shrimp"
 slug: 293-recipe-of-favorite-seafood-w-gata-w-vegetables-crabs-n-shrimp
-date: 2020-09-18T20:06:32.145Z
+date: 2021-09-18T20:06:32.145Z
 image: https://img-global.cpcdn.com/recipes/cf6483d9e45ac4ad/751x532cq70/seafood-w-gata-w-vegetables-crabs-n-shrimp-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/cf6483d9e45ac4ad/751x532cq70/seafood-w-gata-w-vegetables-crabs-n-shrimp-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/cf6483d9e45ac4ad/751x532cq70/seafood-w-gata-w-vegetables-crabs-n-shrimp-recipe-main-photo.jpg

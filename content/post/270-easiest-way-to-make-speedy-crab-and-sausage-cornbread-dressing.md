@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Crab and Sausage Cornbread Dressing"
 title: "Easiest Way to Make Speedy Crab and Sausage Cornbread Dressing"
 slug: 270-easiest-way-to-make-speedy-crab-and-sausage-cornbread-dressing
-date: 2020-06-02T15:09:36.981Z
+date: 2021-06-02T15:09:36.981Z
 image: https://img-global.cpcdn.com/recipes/e957ec9f047f36c4/751x532cq70/crab-and-sausage-cornbread-dressing-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e957ec9f047f36c4/751x532cq70/crab-and-sausage-cornbread-dressing-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e957ec9f047f36c4/751x532cq70/crab-and-sausage-cornbread-dressing-recipe-main-photo.jpg

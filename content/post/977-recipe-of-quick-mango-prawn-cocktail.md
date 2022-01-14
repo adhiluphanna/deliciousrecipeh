@@ -2,7 +2,7 @@
 description: "Recipe of Quick Mango prawn cocktail"
 title: "Recipe of Quick Mango prawn cocktail"
 slug: 977-recipe-of-quick-mango-prawn-cocktail
-date: 2020-08-07T05:21:00.947Z
+date: 2021-08-07T05:21:00.947Z
 image: https://img-global.cpcdn.com/recipes/e9348bbedd2aa576/751x532cq70/mango-prawn-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e9348bbedd2aa576/751x532cq70/mango-prawn-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e9348bbedd2aa576/751x532cq70/mango-prawn-cocktail-recipe-main-photo.jpg

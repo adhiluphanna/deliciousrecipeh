@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Sourdough bread"
 title: "Recipe of Ultimate Sourdough bread"
 slug: 496-recipe-of-ultimate-sourdough-bread
-date: 2020-09-19T08:46:18.078Z
+date: 2021-09-19T08:46:18.078Z
 image: https://img-global.cpcdn.com/recipes/b34d2bc1c1678e26/751x532cq70/sourdough-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b34d2bc1c1678e26/751x532cq70/sourdough-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b34d2bc1c1678e26/751x532cq70/sourdough-bread-recipe-main-photo.jpg

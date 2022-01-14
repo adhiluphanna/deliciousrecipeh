@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Bacon Wrapped Haddock"
 title: "Recipe of Award-winning Bacon Wrapped Haddock"
 slug: 227-recipe-of-award-winning-bacon-wrapped-haddock
-date: 2020-10-18T11:32:18.798Z
+date: 2021-10-18T11:32:18.798Z
 image: https://img-global.cpcdn.com/recipes/392ba2c9c0564509/751x532cq70/bacon-wrapped-haddock-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/392ba2c9c0564509/751x532cq70/bacon-wrapped-haddock-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/392ba2c9c0564509/751x532cq70/bacon-wrapped-haddock-recipe-main-photo.jpg

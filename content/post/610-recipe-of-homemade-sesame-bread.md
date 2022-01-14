@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Sesame bread"
 title: "Recipe of Homemade Sesame bread"
 slug: 610-recipe-of-homemade-sesame-bread
-date: 2020-11-09T12:51:19.324Z
+date: 2021-11-09T12:51:19.324Z
 image: https://img-global.cpcdn.com/recipes/cc204ec04ae4af74/751x532cq70/sesame-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/cc204ec04ae4af74/751x532cq70/sesame-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/cc204ec04ae4af74/751x532cq70/sesame-bread-recipe-main-photo.jpg

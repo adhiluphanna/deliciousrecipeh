@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Lamb Kidney Gravy (South Indian Style)"
 title: "Recipe of Ultimate Lamb Kidney Gravy (South Indian Style)"
 slug: 899-recipe-of-ultimate-lamb-kidney-gravy-south-indian-style
-date: 2020-11-22T17:49:13.029Z
+date: 2021-11-22T17:49:13.029Z
 image: https://img-global.cpcdn.com/recipes/6be56b8cdf84b8c6/751x532cq70/lamb-kidney-gravy-south-indian-style-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6be56b8cdf84b8c6/751x532cq70/lamb-kidney-gravy-south-indian-style-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6be56b8cdf84b8c6/751x532cq70/lamb-kidney-gravy-south-indian-style-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Toyohira Lamb-Chop with Toyohira Apple Sauce"
 title: "Recipe of Ultimate Toyohira Lamb-Chop with Toyohira Apple Sauce"
 slug: 696-recipe-of-ultimate-toyohira-lamb-chop-with-toyohira-apple-sauce
-date: 2020-05-27T03:43:17.575Z
+date: 2021-05-27T03:43:17.575Z
 image: https://img-global.cpcdn.com/recipes/679e341cd75e43f9/751x532cq70/toyohira-lamb-chop-with-toyohira-apple-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/679e341cd75e43f9/751x532cq70/toyohira-lamb-chop-with-toyohira-apple-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/679e341cd75e43f9/751x532cq70/toyohira-lamb-chop-with-toyohira-apple-sauce-recipe-main-photo.jpg

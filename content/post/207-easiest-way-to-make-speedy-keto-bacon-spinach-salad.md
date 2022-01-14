@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Keto Bacon Spinach Salad"
 title: "Easiest Way to Make Speedy Keto Bacon Spinach Salad"
 slug: 207-easiest-way-to-make-speedy-keto-bacon-spinach-salad
-date: 2020-10-26T13:33:14.314Z
+date: 2021-10-26T13:33:14.314Z
 image: https://img-global.cpcdn.com/recipes/3295e022a7278a40/751x532cq70/keto-bacon-spinach-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3295e022a7278a40/751x532cq70/keto-bacon-spinach-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3295e022a7278a40/751x532cq70/keto-bacon-spinach-salad-recipe-main-photo.jpg

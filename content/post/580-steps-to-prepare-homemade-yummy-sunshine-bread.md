@@ -2,7 +2,7 @@
 description: "Steps to Prepare Homemade Yummy Sunshine bread"
 title: "Steps to Prepare Homemade Yummy Sunshine bread"
 slug: 580-steps-to-prepare-homemade-yummy-sunshine-bread
-date: 2020-06-24T11:00:31.710Z
+date: 2021-06-24T11:00:31.710Z
 image: https://img-global.cpcdn.com/recipes/44c077658e318d4f/751x532cq70/yummy-sunshine-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/44c077658e318d4f/751x532cq70/yummy-sunshine-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/44c077658e318d4f/751x532cq70/yummy-sunshine-bread-recipe-main-photo.jpg

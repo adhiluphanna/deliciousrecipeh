@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Lamb stew"
 title: "Recipe of Speedy Lamb stew"
 slug: 894-recipe-of-speedy-lamb-stew
-date: 2020-05-28T12:11:14.149Z
+date: 2021-05-28T12:11:14.149Z
 image: https://img-global.cpcdn.com/recipes/4836161871675392/751x532cq70/lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4836161871675392/751x532cq70/lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4836161871675392/751x532cq70/lamb-stew-recipe-main-photo.jpg

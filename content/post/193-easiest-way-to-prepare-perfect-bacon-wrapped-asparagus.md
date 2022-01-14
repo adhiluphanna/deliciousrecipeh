@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Bacon wrapped asparagus"
 title: "Easiest Way to Prepare Perfect Bacon wrapped asparagus"
 slug: 193-easiest-way-to-prepare-perfect-bacon-wrapped-asparagus
-date: 2020-10-10T02:20:31.926Z
+date: 2021-10-10T02:20:31.926Z
 image: https://img-global.cpcdn.com/recipes/130e892c7723f740/751x532cq70/bacon-wrapped-asparagus-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/130e892c7723f740/751x532cq70/bacon-wrapped-asparagus-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/130e892c7723f740/751x532cq70/bacon-wrapped-asparagus-recipe-main-photo.jpg

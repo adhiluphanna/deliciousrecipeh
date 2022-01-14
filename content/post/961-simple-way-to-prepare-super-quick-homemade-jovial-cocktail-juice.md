@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade JOVIAL 🍸cocktail juice"
 title: "Simple Way to Prepare Super Quick Homemade JOVIAL 🍸cocktail juice"
 slug: 961-simple-way-to-prepare-super-quick-homemade-jovial-cocktail-juice
-date: 2020-11-03T18:58:35.164Z
+date: 2021-11-03T18:58:35.164Z
 image: https://img-global.cpcdn.com/recipes/c387372eb8cb3f59/751x532cq70/jovial-🍸cocktail-juice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c387372eb8cb3f59/751x532cq70/jovial-🍸cocktail-juice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c387372eb8cb3f59/751x532cq70/jovial-🍸cocktail-juice-recipe-main-photo.jpg

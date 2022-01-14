@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Italian Breaded Pork Chops"
 title: "Recipe of Perfect Italian Breaded Pork Chops"
 slug: 621-recipe-of-perfect-italian-breaded-pork-chops
-date: 2020-10-02T01:01:57.642Z
+date: 2021-10-02T01:01:57.642Z
 image: https://img-global.cpcdn.com/recipes/fe6e7c6add733ddd/751x532cq70/italian-breaded-pork-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fe6e7c6add733ddd/751x532cq70/italian-breaded-pork-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fe6e7c6add733ddd/751x532cq70/italian-breaded-pork-chops-recipe-main-photo.jpg

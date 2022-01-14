@@ -2,7 +2,7 @@
 description: "Steps to Prepare Homemade Kani (Crab) Salad"
 title: "Steps to Prepare Homemade Kani (Crab) Salad"
 slug: 428-steps-to-prepare-homemade-kani-crab-salad
-date: 2020-08-14T23:43:38.535Z
+date: 2021-08-14T23:43:38.535Z
 image: https://img-global.cpcdn.com/recipes/4836878070054912/751x532cq70/kani-crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4836878070054912/751x532cq70/kani-crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4836878070054912/751x532cq70/kani-crab-salad-recipe-main-photo.jpg

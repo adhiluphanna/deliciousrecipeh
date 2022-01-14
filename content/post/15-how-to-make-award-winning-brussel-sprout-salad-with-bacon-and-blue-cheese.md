@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Brussel Sprout Salad with Bacon and Blue Cheese"
 title: "How to Make Award-winning Brussel Sprout Salad with Bacon and Blue Cheese"
 slug: 15-how-to-make-award-winning-brussel-sprout-salad-with-bacon-and-blue-cheese
-date: 2020-10-13T10:30:24.726Z
+date: 2021-10-13T10:30:24.726Z
 image: https://img-global.cpcdn.com/recipes/eec79f0cdf4df8d5/751x532cq70/brussel-sprout-salad-with-bacon-and-blue-cheese-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/eec79f0cdf4df8d5/751x532cq70/brussel-sprout-salad-with-bacon-and-blue-cheese-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/eec79f0cdf4df8d5/751x532cq70/brussel-sprout-salad-with-bacon-and-blue-cheese-recipe-main-photo.jpg

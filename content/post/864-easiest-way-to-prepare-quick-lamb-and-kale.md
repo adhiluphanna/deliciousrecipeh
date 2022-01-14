@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Lamb and kale"
 title: "Easiest Way to Prepare Quick Lamb and kale"
 slug: 864-easiest-way-to-prepare-quick-lamb-and-kale
-date: 2020-07-29T10:01:14.872Z
+date: 2021-07-29T10:01:14.872Z
 image: https://img-global.cpcdn.com/recipes/6334018845933568/751x532cq70/lamb-and-kale-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6334018845933568/751x532cq70/lamb-and-kale-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6334018845933568/751x532cq70/lamb-and-kale-recipe-main-photo.jpg

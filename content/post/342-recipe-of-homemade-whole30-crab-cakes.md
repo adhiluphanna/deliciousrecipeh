@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Whole30 crab cakes"
 title: "Recipe of Homemade Whole30 crab cakes"
 slug: 342-recipe-of-homemade-whole30-crab-cakes
-date: 2020-11-04T20:42:12.424Z
+date: 2021-11-04T20:42:12.424Z
 image: https://img-global.cpcdn.com/recipes/9b1e31943801dad0/751x532cq70/whole30-crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9b1e31943801dad0/751x532cq70/whole30-crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9b1e31943801dad0/751x532cq70/whole30-crab-cakes-recipe-main-photo.jpg

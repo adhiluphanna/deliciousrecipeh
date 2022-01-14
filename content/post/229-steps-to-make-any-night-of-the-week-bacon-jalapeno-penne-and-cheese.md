@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week Bacon Jalapeno Penne and Cheese"
 title: "Steps to Make Any-night-of-the-week Bacon Jalapeno Penne and Cheese"
 slug: 229-steps-to-make-any-night-of-the-week-bacon-jalapeno-penne-and-cheese
-date: 2020-08-07T22:21:15.645Z
+date: 2021-08-07T22:21:15.645Z
 image: https://img-global.cpcdn.com/recipes/24492bc1e9cb88b3/751x532cq70/bacon-jalapeno-penne-and-cheese-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/24492bc1e9cb88b3/751x532cq70/bacon-jalapeno-penne-and-cheese-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/24492bc1e9cb88b3/751x532cq70/bacon-jalapeno-penne-and-cheese-recipe-main-photo.jpg

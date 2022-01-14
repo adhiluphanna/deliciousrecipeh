@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Spaghetti Aglio Olio with Lettuce and Bacon (Non-Halal)"
 title: "Step-by-Step Guide to Make Speedy Spaghetti Aglio Olio with Lettuce and Bacon (Non-Halal)"
 slug: 79-step-by-step-guide-to-make-speedy-spaghetti-aglio-olio-with-lettuce-and-bacon-non-halal
-date: 2020-07-07T21:13:18.708Z
+date: 2021-07-07T21:13:18.708Z
 image: https://img-global.cpcdn.com/recipes/a3028455d7cc3bfe/751x532cq70/spaghetti-aglio-olio-with-lettuce-and-bacon-non-halal-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a3028455d7cc3bfe/751x532cq70/spaghetti-aglio-olio-with-lettuce-and-bacon-non-halal-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a3028455d7cc3bfe/751x532cq70/spaghetti-aglio-olio-with-lettuce-and-bacon-non-halal-recipe-main-photo.jpg

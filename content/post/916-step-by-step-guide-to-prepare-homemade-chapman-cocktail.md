@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Homemade Chapman cocktail"
 title: "Step-by-Step Guide to Prepare Homemade Chapman cocktail"
 slug: 916-step-by-step-guide-to-prepare-homemade-chapman-cocktail
-date: 2020-10-06T09:08:17.417Z
+date: 2021-10-06T09:08:17.417Z
 image: https://img-global.cpcdn.com/recipes/a0c295e45e141cb9/751x532cq70/chapman-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a0c295e45e141cb9/751x532cq70/chapman-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a0c295e45e141cb9/751x532cq70/chapman-cocktail-recipe-main-photo.jpg

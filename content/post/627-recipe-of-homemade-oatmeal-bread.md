@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Oatmeal bread"
 title: "Recipe of Homemade Oatmeal bread"
 slug: 627-recipe-of-homemade-oatmeal-bread
-date: 2020-11-17T19:47:31.319Z
+date: 2021-11-17T19:47:31.319Z
 image: https://img-global.cpcdn.com/recipes/06c18d2735273a71/751x532cq70/oatmeal-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/06c18d2735273a71/751x532cq70/oatmeal-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/06c18d2735273a71/751x532cq70/oatmeal-bread-recipe-main-photo.jpg

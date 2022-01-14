@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Lamb stew"
 title: "Recipe of Any-night-of-the-week Lamb stew"
 slug: 755-recipe-of-any-night-of-the-week-lamb-stew
-date: 2020-09-29T10:14:47.333Z
+date: 2021-09-29T10:14:47.333Z
 image: https://img-global.cpcdn.com/recipes/5a0ef169f9e839bc/751x532cq70/lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5a0ef169f9e839bc/751x532cq70/lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5a0ef169f9e839bc/751x532cq70/lamb-stew-recipe-main-photo.jpg

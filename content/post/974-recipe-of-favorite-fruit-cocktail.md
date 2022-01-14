@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Fruit cocktail"
 title: "Recipe of Favorite Fruit cocktail"
 slug: 974-recipe-of-favorite-fruit-cocktail
-date: 2020-09-22T11:35:01.195Z
+date: 2021-09-22T11:35:01.195Z
 image: https://img-global.cpcdn.com/recipes/c4d271f050b99b0f/751x532cq70/fruit-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c4d271f050b99b0f/751x532cq70/fruit-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c4d271f050b99b0f/751x532cq70/fruit-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Cheesy pullover pizza breadpuff"
 title: "Recipe of Super Quick Homemade Cheesy pullover pizza breadpuff"
 slug: 585-recipe-of-super-quick-homemade-cheesy-pullover-pizza-breadpuff
-date: 2020-07-26T20:58:57.820Z
+date: 2021-07-26T20:58:57.820Z
 image: https://img-global.cpcdn.com/recipes/142197f0f46219fb/751x532cq70/cheesy-pullover-pizza-breadpuff-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/142197f0f46219fb/751x532cq70/cheesy-pullover-pizza-breadpuff-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/142197f0f46219fb/751x532cq70/cheesy-pullover-pizza-breadpuff-recipe-main-photo.jpg

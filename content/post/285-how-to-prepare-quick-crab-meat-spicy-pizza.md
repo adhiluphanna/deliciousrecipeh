@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Crab meat spicy pizza"
 title: "How to Prepare Quick Crab meat spicy pizza"
 slug: 285-how-to-prepare-quick-crab-meat-spicy-pizza
-date: 2020-10-14T00:40:43.390Z
+date: 2021-10-14T00:40:43.390Z
 image: https://img-global.cpcdn.com/recipes/fe08f219459660ea/751x532cq70/crab-meat-spicy-pizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fe08f219459660ea/751x532cq70/crab-meat-spicy-pizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fe08f219459660ea/751x532cq70/crab-meat-spicy-pizza-recipe-main-photo.jpg

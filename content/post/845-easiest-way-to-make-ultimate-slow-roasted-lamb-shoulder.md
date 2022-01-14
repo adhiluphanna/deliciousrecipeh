@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Slow roasted lamb shoulder"
 title: "Easiest Way to Make Ultimate Slow roasted lamb shoulder"
 slug: 845-easiest-way-to-make-ultimate-slow-roasted-lamb-shoulder
-date: 2020-08-14T22:02:33.782Z
+date: 2021-08-14T22:02:33.782Z
 image: https://img-global.cpcdn.com/recipes/39018b82acb33011/751x532cq70/slow-roasted-lamb-shoulder-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/39018b82acb33011/751x532cq70/slow-roasted-lamb-shoulder-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/39018b82acb33011/751x532cq70/slow-roasted-lamb-shoulder-recipe-main-photo.jpg

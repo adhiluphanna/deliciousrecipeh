@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Bacon (mushroom) /Wild Rice"
 title: "Recipe of Ultimate Bacon (mushroom) /Wild Rice"
 slug: 109-recipe-of-ultimate-bacon-mushroom-wild-rice
-date: 2020-06-29T20:54:34.065Z
+date: 2021-06-29T20:54:34.065Z
 image: https://img-global.cpcdn.com/recipes/74779cb64246f45b/751x532cq70/bacon-mushroom-wild-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/74779cb64246f45b/751x532cq70/bacon-mushroom-wild-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/74779cb64246f45b/751x532cq70/bacon-mushroom-wild-rice-recipe-main-photo.jpg

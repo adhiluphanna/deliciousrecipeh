@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Greek Style Lamb"
 title: "How to Make Super Quick Homemade Greek Style Lamb"
 slug: 865-how-to-make-super-quick-homemade-greek-style-lamb
-date: 2020-08-11T08:46:33.801Z
+date: 2021-08-11T08:46:33.801Z
 image: https://img-global.cpcdn.com/recipes/6533163108007936/751x532cq70/greek-style-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6533163108007936/751x532cq70/greek-style-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6533163108007936/751x532cq70/greek-style-lamb-recipe-main-photo.jpg

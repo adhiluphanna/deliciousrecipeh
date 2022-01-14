@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Perfect Breadrolls"
 title: "Simple Way to Prepare Perfect Breadrolls"
 slug: 656-simple-way-to-prepare-perfect-breadrolls
-date: 2020-11-21T10:46:51.544Z
+date: 2021-11-21T10:46:51.544Z
 image: https://img-global.cpcdn.com/recipes/ecd0b26ecec68eca/751x532cq70/breadrolls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ecd0b26ecec68eca/751x532cq70/breadrolls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ecd0b26ecec68eca/751x532cq70/breadrolls-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Bread Pizza"
 title: "Easiest Way to Prepare Favorite Bread Pizza"
 slug: 468-easiest-way-to-prepare-favorite-bread-pizza
-date: 2020-07-09T08:55:13.358Z
+date: 2021-07-09T08:55:13.358Z
 image: https://img-global.cpcdn.com/recipes/8dca4238cd19af5b/751x532cq70/bread-pizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8dca4238cd19af5b/751x532cq70/bread-pizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8dca4238cd19af5b/751x532cq70/bread-pizza-recipe-main-photo.jpg

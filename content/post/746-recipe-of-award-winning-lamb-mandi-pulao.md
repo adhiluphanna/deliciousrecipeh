@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Lamb Mandi Pulao"
 title: "Recipe of Award-winning Lamb Mandi Pulao"
 slug: 746-recipe-of-award-winning-lamb-mandi-pulao
-date: 2020-10-12T21:55:45.461Z
+date: 2021-10-12T21:55:45.461Z
 image: https://img-global.cpcdn.com/recipes/5872aae14f4ac8f0/751x532cq70/lamb-mandi-pulao-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5872aae14f4ac8f0/751x532cq70/lamb-mandi-pulao-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5872aae14f4ac8f0/751x532cq70/lamb-mandi-pulao-recipe-main-photo.jpg

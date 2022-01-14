@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Lamb soup"
 title: "Steps to Make Homemade Lamb soup"
 slug: 851-steps-to-make-homemade-lamb-soup
-date: 2020-08-26T15:16:01.720Z
+date: 2021-08-26T15:16:01.720Z
 image: https://img-global.cpcdn.com/recipes/ec358ab05a39f53c/751x532cq70/lamb-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ec358ab05a39f53c/751x532cq70/lamb-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ec358ab05a39f53c/751x532cq70/lamb-soup-recipe-main-photo.jpg

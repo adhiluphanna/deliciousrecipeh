@@ -2,7 +2,7 @@
 description: "Simple Way to Make Quick Melon cocktail"
 title: "Simple Way to Make Quick Melon cocktail"
 slug: 935-simple-way-to-make-quick-melon-cocktail
-date: 2020-08-12T08:40:08.261Z
+date: 2021-08-12T08:40:08.261Z
 image: https://img-global.cpcdn.com/recipes/a97962cd473495fa/751x532cq70/melon-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a97962cd473495fa/751x532cq70/melon-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a97962cd473495fa/751x532cq70/melon-cocktail-recipe-main-photo.jpg

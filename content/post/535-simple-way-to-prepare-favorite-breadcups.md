@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Breadcups"
 title: "Simple Way to Prepare Favorite Breadcups"
 slug: 535-simple-way-to-prepare-favorite-breadcups
-date: 2020-06-10T07:18:42.461Z
+date: 2021-06-10T07:18:42.461Z
 image: https://img-global.cpcdn.com/recipes/4b3c8210e413fd9e/751x532cq70/breadcups-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4b3c8210e413fd9e/751x532cq70/breadcups-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4b3c8210e413fd9e/751x532cq70/breadcups-recipe-main-photo.jpg

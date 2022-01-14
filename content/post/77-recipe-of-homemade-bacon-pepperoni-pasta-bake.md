@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Bacon Pepperoni Pasta Bake"
 title: "Recipe of Homemade Bacon Pepperoni Pasta Bake"
 slug: 77-recipe-of-homemade-bacon-pepperoni-pasta-bake
-date: 2020-05-24T08:11:29.840Z
+date: 2021-05-24T08:11:29.840Z
 image: https://img-global.cpcdn.com/recipes/96d23490af5a96a2/751x532cq70/bacon-pepperoni-pasta-bake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/96d23490af5a96a2/751x532cq70/bacon-pepperoni-pasta-bake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/96d23490af5a96a2/751x532cq70/bacon-pepperoni-pasta-bake-recipe-main-photo.jpg

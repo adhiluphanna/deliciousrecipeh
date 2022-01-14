@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Yucca Bread"
 title: "Step-by-Step Guide to Make Award-winning Yucca Bread"
 slug: 522-step-by-step-guide-to-make-award-winning-yucca-bread
-date: 2020-09-06T00:00:27.724Z
+date: 2021-09-06T00:00:27.724Z
 image: https://img-global.cpcdn.com/recipes/88d6de58a83e3a0d/751x532cq70/yucca-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/88d6de58a83e3a0d/751x532cq70/yucca-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/88d6de58a83e3a0d/751x532cq70/yucca-bread-recipe-main-photo.jpg

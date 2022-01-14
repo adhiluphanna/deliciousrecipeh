@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Bacon wrapped cheddar Brats"
 title: "Easiest Way to Prepare Homemade Bacon wrapped cheddar Brats"
 slug: 25-easiest-way-to-prepare-homemade-bacon-wrapped-cheddar-brats
-date: 2020-06-09T07:55:32.445Z
+date: 2021-06-09T07:55:32.445Z
 image: https://img-global.cpcdn.com/recipes/90589c0f351cb170/751x532cq70/bacon-wrapped-cheddar-brats-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/90589c0f351cb170/751x532cq70/bacon-wrapped-cheddar-brats-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/90589c0f351cb170/751x532cq70/bacon-wrapped-cheddar-brats-recipe-main-photo.jpg

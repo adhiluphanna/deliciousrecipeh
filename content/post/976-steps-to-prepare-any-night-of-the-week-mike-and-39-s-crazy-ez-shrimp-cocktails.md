@@ -2,7 +2,7 @@
 description: "Steps to Prepare Any-night-of-the-week Mike's Crazy EZ Shrimp Cocktails"
 title: "Steps to Prepare Any-night-of-the-week Mike's Crazy EZ Shrimp Cocktails"
 slug: 976-steps-to-prepare-any-night-of-the-week-mike-and-39-s-crazy-ez-shrimp-cocktails
-date: 2020-09-26T21:36:37.541Z
+date: 2021-09-26T21:36:37.541Z
 image: https://img-global.cpcdn.com/recipes/1a286d8dd2c57201/751x532cq70/mikes-crazy-ez-shrimp-cocktails-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1a286d8dd2c57201/751x532cq70/mikes-crazy-ez-shrimp-cocktails-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1a286d8dd2c57201/751x532cq70/mikes-crazy-ez-shrimp-cocktails-recipe-main-photo.jpg

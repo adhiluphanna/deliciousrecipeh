@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Crab Stuffed Shrimp"
 title: "Easiest Way to Make Any-night-of-the-week Crab Stuffed Shrimp"
 slug: 445-easiest-way-to-make-any-night-of-the-week-crab-stuffed-shrimp
-date: 2020-08-14T17:15:26.224Z
+date: 2021-08-14T17:15:26.224Z
 image: https://img-global.cpcdn.com/recipes/5326014972428288/751x532cq70/crab-stuffed-shrimp-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5326014972428288/751x532cq70/crab-stuffed-shrimp-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5326014972428288/751x532cq70/crab-stuffed-shrimp-recipe-main-photo.jpg

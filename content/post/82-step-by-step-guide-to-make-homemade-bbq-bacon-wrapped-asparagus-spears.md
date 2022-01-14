@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade BBQ Bacon Wrapped Asparagus Spears"
 title: "Step-by-Step Guide to Make Homemade BBQ Bacon Wrapped Asparagus Spears"
 slug: 82-step-by-step-guide-to-make-homemade-bbq-bacon-wrapped-asparagus-spears
-date: 2020-08-30T10:31:34.585Z
+date: 2021-08-30T10:31:34.585Z
 image: https://img-global.cpcdn.com/recipes/682f06e45f5e5db2/751x532cq70/bbq-bacon-wrapped-asparagus-spears-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/682f06e45f5e5db2/751x532cq70/bbq-bacon-wrapped-asparagus-spears-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/682f06e45f5e5db2/751x532cq70/bbq-bacon-wrapped-asparagus-spears-recipe-main-photo.jpg

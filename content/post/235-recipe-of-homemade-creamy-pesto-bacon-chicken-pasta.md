@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Creamy Pesto Bacon Chicken Pasta"
 title: "Recipe of Homemade Creamy Pesto Bacon Chicken Pasta"
 slug: 235-recipe-of-homemade-creamy-pesto-bacon-chicken-pasta
-date: 2020-10-20T09:33:29.485Z
+date: 2021-10-20T09:33:29.485Z
 image: https://img-global.cpcdn.com/recipes/59fd036d723d5852/751x532cq70/creamy-pesto-bacon-chicken-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/59fd036d723d5852/751x532cq70/creamy-pesto-bacon-chicken-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/59fd036d723d5852/751x532cq70/creamy-pesto-bacon-chicken-pasta-recipe-main-photo.jpg

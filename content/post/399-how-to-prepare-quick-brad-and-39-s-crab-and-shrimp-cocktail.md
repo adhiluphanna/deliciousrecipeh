@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Brad's crab and shrimp cocktail"
 title: "How to Prepare Quick Brad's crab and shrimp cocktail"
 slug: 399-how-to-prepare-quick-brad-and-39-s-crab-and-shrimp-cocktail
-date: 2020-07-03T07:52:03.409Z
+date: 2021-07-03T07:52:03.409Z
 image: https://img-global.cpcdn.com/recipes/e1b68f6266bbcff4/751x532cq70/brads-crab-and-shrimp-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e1b68f6266bbcff4/751x532cq70/brads-crab-and-shrimp-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e1b68f6266bbcff4/751x532cq70/brads-crab-and-shrimp-cocktail-recipe-main-photo.jpg

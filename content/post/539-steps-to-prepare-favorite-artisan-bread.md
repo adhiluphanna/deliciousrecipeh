@@ -2,7 +2,7 @@
 description: "Steps to Prepare Favorite Artisan bread"
 title: "Steps to Prepare Favorite Artisan bread"
 slug: 539-steps-to-prepare-favorite-artisan-bread
-date: 2020-06-21T15:11:55.104Z
+date: 2021-06-21T15:11:55.104Z
 image: https://img-global.cpcdn.com/recipes/1582c28ad3d6cfd7/751x532cq70/artisan-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1582c28ad3d6cfd7/751x532cq70/artisan-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1582c28ad3d6cfd7/751x532cq70/artisan-bread-recipe-main-photo.jpg

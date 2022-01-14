@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Crab roll"
 title: "Recipe of Favorite Crab roll"
 slug: 309-recipe-of-favorite-crab-roll
-date: 2020-06-12T22:32:08.862Z
+date: 2021-06-12T22:32:08.862Z
 image: https://img-global.cpcdn.com/recipes/e21012b98b2a8ae0/751x532cq70/crab-roll-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e21012b98b2a8ae0/751x532cq70/crab-roll-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e21012b98b2a8ae0/751x532cq70/crab-roll-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week Baked Chicken with pesto and bacon"
 title: "Steps to Make Any-night-of-the-week Baked Chicken with pesto and bacon"
 slug: 101-steps-to-make-any-night-of-the-week-baked-chicken-with-pesto-and-bacon
-date: 2020-10-06T03:43:59.648Z
+date: 2021-10-06T03:43:59.648Z
 image: https://img-global.cpcdn.com/recipes/27d3bd4df269fa39/751x532cq70/baked-chicken-with-pesto-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/27d3bd4df269fa39/751x532cq70/baked-chicken-with-pesto-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/27d3bd4df269fa39/751x532cq70/baked-chicken-with-pesto-and-bacon-recipe-main-photo.jpg

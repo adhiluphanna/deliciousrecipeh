@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Pinto Bean And Bacon Soup"
 title: "Recipe of Super Quick Homemade Pinto Bean And Bacon Soup"
 slug: 43-recipe-of-super-quick-homemade-pinto-bean-and-bacon-soup
-date: 2020-06-08T03:29:39.382Z
+date: 2021-06-08T03:29:39.382Z
 image: https://img-global.cpcdn.com/recipes/0d8b1553c64573a3/751x532cq70/pinto-bean-and-bacon-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0d8b1553c64573a3/751x532cq70/pinto-bean-and-bacon-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0d8b1553c64573a3/751x532cq70/pinto-bean-and-bacon-soup-recipe-main-photo.jpg

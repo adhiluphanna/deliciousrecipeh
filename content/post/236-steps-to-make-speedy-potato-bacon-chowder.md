@@ -2,7 +2,7 @@
 description: "Steps to Make Speedy Potato-bacon chowder"
 title: "Steps to Make Speedy Potato-bacon chowder"
 slug: 236-steps-to-make-speedy-potato-bacon-chowder
-date: 2020-08-31T01:09:15.629Z
+date: 2021-08-31T01:09:15.629Z
 image: https://img-global.cpcdn.com/recipes/346f642df575865f/751x532cq70/potato-bacon-chowder-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/346f642df575865f/751x532cq70/potato-bacon-chowder-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/346f642df575865f/751x532cq70/potato-bacon-chowder-recipe-main-photo.jpg

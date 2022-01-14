@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Super Quick Homemade Basil with Tomato cocktail macaroni"
 title: "Step-by-Step Guide to Prepare Super Quick Homemade Basil with Tomato cocktail macaroni"
 slug: 985-step-by-step-guide-to-prepare-super-quick-homemade-basil-with-tomato-cocktail-macaroni
-date: 2020-06-10T04:46:31.349Z
+date: 2021-06-10T04:46:31.349Z
 image: https://img-global.cpcdn.com/recipes/4470fd8555a3ea18/751x532cq70/basil-with-tomato-cocktail-macaroni-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4470fd8555a3ea18/751x532cq70/basil-with-tomato-cocktail-macaroni-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4470fd8555a3ea18/751x532cq70/basil-with-tomato-cocktail-macaroni-recipe-main-photo.jpg

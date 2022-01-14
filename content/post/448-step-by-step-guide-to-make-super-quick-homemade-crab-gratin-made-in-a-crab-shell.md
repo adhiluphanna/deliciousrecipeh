@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Super Quick Homemade Crab Gratin Made in a Crab Shell"
 title: "Step-by-Step Guide to Make Super Quick Homemade Crab Gratin Made in a Crab Shell"
 slug: 448-step-by-step-guide-to-make-super-quick-homemade-crab-gratin-made-in-a-crab-shell
-date: 2020-10-27T03:03:20.906Z
+date: 2021-10-27T03:03:20.906Z
 image: https://img-global.cpcdn.com/recipes/5259111802339328/751x532cq70/crab-gratin-made-in-a-crab-shell-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5259111802339328/751x532cq70/crab-gratin-made-in-a-crab-shell-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5259111802339328/751x532cq70/crab-gratin-made-in-a-crab-shell-recipe-main-photo.jpg

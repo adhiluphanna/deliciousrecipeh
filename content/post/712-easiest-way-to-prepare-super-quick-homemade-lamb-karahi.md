@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Lamb karahi"
 title: "Easiest Way to Prepare Super Quick Homemade Lamb karahi"
 slug: 712-easiest-way-to-prepare-super-quick-homemade-lamb-karahi
-date: 2020-07-03T21:41:15.521Z
+date: 2021-07-03T21:41:15.521Z
 image: https://img-global.cpcdn.com/recipes/87c140f98e715ad1/751x532cq70/lamb-karahi-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/87c140f98e715ad1/751x532cq70/lamb-karahi-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/87c140f98e715ad1/751x532cq70/lamb-karahi-recipe-main-photo.jpg

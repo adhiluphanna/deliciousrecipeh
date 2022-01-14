@@ -2,7 +2,7 @@
 description: "How to Make Speedy crab dip"
 title: "How to Make Speedy crab dip"
 slug: 371-how-to-make-speedy-crab-dip
-date: 2020-06-01T14:44:34.886Z
+date: 2021-06-01T14:44:34.886Z
 image: https://img-global.cpcdn.com/recipes/6476732836085760/751x532cq70/crab-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6476732836085760/751x532cq70/crab-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6476732836085760/751x532cq70/crab-dip-recipe-main-photo.jpg

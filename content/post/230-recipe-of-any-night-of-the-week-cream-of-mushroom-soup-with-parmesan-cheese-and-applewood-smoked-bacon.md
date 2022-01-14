@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Cream of Mushroom Soup with Parmesan Cheese and Applewood Smoked Bacon"
 title: "Recipe of Any-night-of-the-week Cream of Mushroom Soup with Parmesan Cheese and Applewood Smoked Bacon"
 slug: 230-recipe-of-any-night-of-the-week-cream-of-mushroom-soup-with-parmesan-cheese-and-applewood-smoked-bacon
-date: 2020-10-11T03:57:36.536Z
+date: 2021-10-11T03:57:36.536Z
 image: https://img-global.cpcdn.com/recipes/f154f1358b12c092/751x532cq70/cream-of-mushroom-soup-with-parmesan-cheese-and-applewood-smoked-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f154f1358b12c092/751x532cq70/cream-of-mushroom-soup-with-parmesan-cheese-and-applewood-smoked-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f154f1358b12c092/751x532cq70/cream-of-mushroom-soup-with-parmesan-cheese-and-applewood-smoked-bacon-recipe-main-photo.jpg

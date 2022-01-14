@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Okra with lamb chop"
 title: "Recipe of Perfect Okra with lamb chop"
 slug: 726-recipe-of-perfect-okra-with-lamb-chop
-date: 2020-11-18T09:53:45.192Z
+date: 2021-11-18T09:53:45.192Z
 image: https://img-global.cpcdn.com/recipes/a52666d1b5e07272/751x532cq70/okra-with-lamb-chop-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a52666d1b5e07272/751x532cq70/okra-with-lamb-chop-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a52666d1b5e07272/751x532cq70/okra-with-lamb-chop-recipe-main-photo.jpg

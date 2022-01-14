@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Grilled lamb"
 title: "How to Make Award-winning Grilled lamb"
 slug: 809-how-to-make-award-winning-grilled-lamb
-date: 2020-10-14T05:46:22.301Z
+date: 2021-10-14T05:46:22.301Z
 image: https://img-global.cpcdn.com/recipes/d676aeb9e9866962/751x532cq70/grilled-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d676aeb9e9866962/751x532cq70/grilled-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d676aeb9e9866962/751x532cq70/grilled-lamb-recipe-main-photo.jpg

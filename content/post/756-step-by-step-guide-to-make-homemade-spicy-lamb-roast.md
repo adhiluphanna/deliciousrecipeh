@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Spicy Lamb Roast"
 title: "Step-by-Step Guide to Make Homemade Spicy Lamb Roast"
 slug: 756-step-by-step-guide-to-make-homemade-spicy-lamb-roast
-date: 2020-09-18T06:35:55.334Z
+date: 2021-09-18T06:35:55.334Z
 image: https://img-global.cpcdn.com/recipes/1f04635cd40afd20/751x532cq70/spicy-lamb-roast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1f04635cd40afd20/751x532cq70/spicy-lamb-roast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1f04635cd40afd20/751x532cq70/spicy-lamb-roast-recipe-main-photo.jpg

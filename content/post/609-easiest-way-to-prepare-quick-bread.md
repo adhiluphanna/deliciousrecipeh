@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Bread"
 title: "Easiest Way to Prepare Quick Bread"
 slug: 609-easiest-way-to-prepare-quick-bread
-date: 2020-10-02T11:43:48.895Z
+date: 2021-10-02T11:43:48.895Z
 image: https://img-global.cpcdn.com/recipes/00f98df9fb007195/751x532cq70/bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/00f98df9fb007195/751x532cq70/bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/00f98df9fb007195/751x532cq70/bread-recipe-main-photo.jpg

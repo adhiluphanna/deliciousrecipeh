@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Bread Bhurji"
 title: "Recipe of Speedy Bread Bhurji"
 slug: 512-recipe-of-speedy-bread-bhurji
-date: 2020-10-10T17:40:24.355Z
+date: 2021-10-10T17:40:24.355Z
 image: https://img-global.cpcdn.com/recipes/ece4273b7a5efbd1/751x532cq70/bread-bhurji-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ece4273b7a5efbd1/751x532cq70/bread-bhurji-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ece4273b7a5efbd1/751x532cq70/bread-bhurji-recipe-main-photo.jpg

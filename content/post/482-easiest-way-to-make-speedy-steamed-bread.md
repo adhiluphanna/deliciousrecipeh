@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Steamed bread"
 title: "Easiest Way to Make Speedy Steamed bread"
 slug: 482-easiest-way-to-make-speedy-steamed-bread
-date: 2020-09-16T17:08:49.366Z
+date: 2021-09-16T17:08:49.366Z
 image: https://img-global.cpcdn.com/recipes/4d038431e70bcb31/751x532cq70/steamed-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4d038431e70bcb31/751x532cq70/steamed-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4d038431e70bcb31/751x532cq70/steamed-bread-recipe-main-photo.jpg

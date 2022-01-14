@@ -2,7 +2,7 @@
 description: "Recipe of Quick Baked Crab Cakes"
 title: "Recipe of Quick Baked Crab Cakes"
 slug: 420-recipe-of-quick-baked-crab-cakes
-date: 2020-05-25T15:38:48.511Z
+date: 2021-05-25T15:38:48.511Z
 image: https://img-global.cpcdn.com/recipes/5446522935705600/751x532cq70/baked-crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5446522935705600/751x532cq70/baked-crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5446522935705600/751x532cq70/baked-crab-cakes-recipe-main-photo.jpg

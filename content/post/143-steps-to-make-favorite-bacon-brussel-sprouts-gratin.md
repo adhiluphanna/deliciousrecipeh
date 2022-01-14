@@ -2,7 +2,7 @@
 description: "Steps to Make Favorite Bacon Brussel Sprouts Gratin"
 title: "Steps to Make Favorite Bacon Brussel Sprouts Gratin"
 slug: 143-steps-to-make-favorite-bacon-brussel-sprouts-gratin
-date: 2020-07-17T00:27:35.073Z
+date: 2021-07-17T00:27:35.073Z
 image: https://img-global.cpcdn.com/recipes/e3344f2026e29681/751x532cq70/bacon-brussel-sprouts-gratin-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e3344f2026e29681/751x532cq70/bacon-brussel-sprouts-gratin-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e3344f2026e29681/751x532cq70/bacon-brussel-sprouts-gratin-recipe-main-photo.jpg

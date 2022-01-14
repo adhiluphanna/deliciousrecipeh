@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Quick Keto Bacon Sausage Bombs"
 title: "Simple Way to Prepare Quick Keto Bacon Sausage Bombs"
 slug: 75-simple-way-to-prepare-quick-keto-bacon-sausage-bombs
-date: 2020-05-23T14:42:19.052Z
+date: 2021-05-23T14:42:19.052Z
 image: https://img-global.cpcdn.com/recipes/8aae224438e91a3f/751x532cq70/keto-bacon-sausage-bombs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8aae224438e91a3f/751x532cq70/keto-bacon-sausage-bombs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8aae224438e91a3f/751x532cq70/keto-bacon-sausage-bombs-recipe-main-photo.jpg

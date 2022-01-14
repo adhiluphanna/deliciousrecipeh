@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning French Bread"
 title: "Easiest Way to Prepare Award-winning French Bread"
 slug: 527-easiest-way-to-prepare-award-winning-french-bread
-date: 2020-05-28T08:34:22.453Z
+date: 2021-05-28T08:34:22.453Z
 image: https://img-global.cpcdn.com/recipes/5323caa2b33ca1c5/751x532cq70/french-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5323caa2b33ca1c5/751x532cq70/french-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5323caa2b33ca1c5/751x532cq70/french-bread-recipe-main-photo.jpg

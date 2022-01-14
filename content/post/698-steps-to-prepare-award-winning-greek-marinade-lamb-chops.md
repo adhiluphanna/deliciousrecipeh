@@ -2,7 +2,7 @@
 description: "Steps to Prepare Award-winning Greek Marinade Lamb Chops"
 title: "Steps to Prepare Award-winning Greek Marinade Lamb Chops"
 slug: 698-steps-to-prepare-award-winning-greek-marinade-lamb-chops
-date: 2020-07-16T23:43:26.949Z
+date: 2021-07-16T23:43:26.949Z
 image: https://img-global.cpcdn.com/recipes/0ce8bcf72dc214e2/751x532cq70/greek-marinade-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0ce8bcf72dc214e2/751x532cq70/greek-marinade-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0ce8bcf72dc214e2/751x532cq70/greek-marinade-lamb-chops-recipe-main-photo.jpg

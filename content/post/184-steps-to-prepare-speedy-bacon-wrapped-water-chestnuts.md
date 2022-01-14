@@ -2,7 +2,7 @@
 description: "Steps to Prepare Speedy Bacon wrapped Water Chestnuts"
 title: "Steps to Prepare Speedy Bacon wrapped Water Chestnuts"
 slug: 184-steps-to-prepare-speedy-bacon-wrapped-water-chestnuts
-date: 2020-06-25T06:32:52.656Z
+date: 2021-06-25T06:32:52.656Z
 image: https://img-global.cpcdn.com/recipes/015a1dd70feed412/751x532cq70/bacon-wrapped-water-chestnuts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/015a1dd70feed412/751x532cq70/bacon-wrapped-water-chestnuts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/015a1dd70feed412/751x532cq70/bacon-wrapped-water-chestnuts-recipe-main-photo.jpg

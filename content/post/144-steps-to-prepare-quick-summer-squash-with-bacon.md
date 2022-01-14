@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Summer squash with bacon"
 title: "Steps to Prepare Quick Summer squash with bacon"
 slug: 144-steps-to-prepare-quick-summer-squash-with-bacon
-date: 2020-10-29T23:06:26.853Z
+date: 2021-10-29T23:06:26.853Z
 image: https://img-global.cpcdn.com/recipes/ef08ab224c40e50e/751x532cq70/summer-squash-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ef08ab224c40e50e/751x532cq70/summer-squash-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ef08ab224c40e50e/751x532cq70/summer-squash-with-bacon-recipe-main-photo.jpg

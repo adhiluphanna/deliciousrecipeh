@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Japanese style egg roll (crab stick with salad dressing)"
 title: "Recipe of Ultimate Japanese style egg roll (crab stick with salad dressing)"
 slug: 286-recipe-of-ultimate-japanese-style-egg-roll-crab-stick-with-salad-dressing
-date: 2020-08-23T00:25:03.056Z
+date: 2021-08-23T00:25:03.056Z
 image: https://img-global.cpcdn.com/recipes/2c62571e553ebd2f/751x532cq70/japanese-style-egg-roll-crab-stick-with-salad-dressing-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2c62571e553ebd2f/751x532cq70/japanese-style-egg-roll-crab-stick-with-salad-dressing-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2c62571e553ebd2f/751x532cq70/japanese-style-egg-roll-crab-stick-with-salad-dressing-recipe-main-photo.jpg

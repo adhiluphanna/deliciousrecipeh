@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Grilled Corn and Bacon"
 title: "Recipe of Any-night-of-the-week Grilled Corn and Bacon"
 slug: 156-recipe-of-any-night-of-the-week-grilled-corn-and-bacon
-date: 2020-08-10T13:09:28.413Z
+date: 2021-08-10T13:09:28.413Z
 image: https://img-global.cpcdn.com/recipes/3d62b33cae7daa50/751x532cq70/grilled-corn-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3d62b33cae7daa50/751x532cq70/grilled-corn-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3d62b33cae7daa50/751x532cq70/grilled-corn-and-bacon-recipe-main-photo.jpg

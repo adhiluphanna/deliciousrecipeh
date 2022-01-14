@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade BreadCutlet"
 title: "How to Make Super Quick Homemade BreadCutlet"
 slug: 547-how-to-make-super-quick-homemade-breadcutlet
-date: 2020-09-04T21:06:52.252Z
+date: 2021-09-04T21:06:52.252Z
 image: https://img-global.cpcdn.com/recipes/07dc1e815486d50d/751x532cq70/breadcutlet-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/07dc1e815486d50d/751x532cq70/breadcutlet-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/07dc1e815486d50d/751x532cq70/breadcutlet-recipe-main-photo.jpg

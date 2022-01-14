@@ -2,7 +2,7 @@
 description: "How to Prepare Favorite Crab salad"
 title: "How to Prepare Favorite Crab salad"
 slug: 333-how-to-prepare-favorite-crab-salad
-date: 2020-07-07T20:51:51.577Z
+date: 2021-07-07T20:51:51.577Z
 image: https://img-global.cpcdn.com/recipes/6460484746739712/751x532cq70/crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6460484746739712/751x532cq70/crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6460484746739712/751x532cq70/crab-salad-recipe-main-photo.jpg

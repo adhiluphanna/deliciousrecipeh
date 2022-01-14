@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Keema in khasta bread"
 title: "Steps to Make Award-winning Keema in khasta bread"
 slug: 675-steps-to-make-award-winning-keema-in-khasta-bread
-date: 2020-11-04T01:20:36.393Z
+date: 2021-11-04T01:20:36.393Z
 image: https://img-global.cpcdn.com/recipes/2853d97196f527c6/751x532cq70/keema-in-khasta-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2853d97196f527c6/751x532cq70/keema-in-khasta-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2853d97196f527c6/751x532cq70/keema-in-khasta-bread-recipe-main-photo.jpg

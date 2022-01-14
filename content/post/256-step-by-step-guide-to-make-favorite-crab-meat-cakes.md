@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Crab meat cakes"
 title: "Step-by-Step Guide to Make Favorite Crab meat cakes"
 slug: 256-step-by-step-guide-to-make-favorite-crab-meat-cakes
-date: 2020-09-16T21:20:53.759Z
+date: 2021-09-16T21:20:53.759Z
 image: https://img-global.cpcdn.com/recipes/6eb9a2e3d98fbde8/751x532cq70/crab-meat-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6eb9a2e3d98fbde8/751x532cq70/crab-meat-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6eb9a2e3d98fbde8/751x532cq70/crab-meat-cakes-recipe-main-photo.jpg

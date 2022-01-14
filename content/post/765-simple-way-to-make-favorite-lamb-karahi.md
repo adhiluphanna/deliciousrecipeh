@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Lamb karahi"
 title: "Simple Way to Make Favorite Lamb karahi"
 slug: 765-simple-way-to-make-favorite-lamb-karahi
-date: 2020-08-04T05:47:05.356Z
+date: 2021-08-04T05:47:05.356Z
 image: https://img-global.cpcdn.com/recipes/5c723f16f760736b/751x532cq70/lamb-karahi-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5c723f16f760736b/751x532cq70/lamb-karahi-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5c723f16f760736b/751x532cq70/lamb-karahi-recipe-main-photo.jpg

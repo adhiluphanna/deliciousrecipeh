@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Potato Bacon Cheddar Soup"
 title: "Recipe of Award-winning Potato Bacon Cheddar Soup"
 slug: 238-recipe-of-award-winning-potato-bacon-cheddar-soup
-date: 2020-06-10T08:21:30.126Z
+date: 2021-06-10T08:21:30.126Z
 image: https://img-global.cpcdn.com/recipes/3179d1df4545ce52/751x532cq70/potato-bacon-cheddar-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3179d1df4545ce52/751x532cq70/potato-bacon-cheddar-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3179d1df4545ce52/751x532cq70/potato-bacon-cheddar-soup-recipe-main-photo.jpg

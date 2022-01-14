@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Mustard Breaded Lamb Crown Roast"
 title: "Recipe of Speedy Mustard Breaded Lamb Crown Roast"
 slug: 869-recipe-of-speedy-mustard-breaded-lamb-crown-roast
-date: 2020-08-17T21:14:02.593Z
+date: 2021-08-17T21:14:02.593Z
 image: https://img-global.cpcdn.com/recipes/62ad715d9acbe15a/751x532cq70/mustard-breaded-lamb-crown-roast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/62ad715d9acbe15a/751x532cq70/mustard-breaded-lamb-crown-roast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/62ad715d9acbe15a/751x532cq70/mustard-breaded-lamb-crown-roast-recipe-main-photo.jpg

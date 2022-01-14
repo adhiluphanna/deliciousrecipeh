@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Chicken Bread Patties"
 title: "Steps to Make Perfect Chicken Bread Patties"
 slug: 638-steps-to-make-perfect-chicken-bread-patties
-date: 2020-08-21T19:47:17.658Z
+date: 2021-08-21T19:47:17.658Z
 image: https://img-global.cpcdn.com/recipes/3c26687d9535098a/751x532cq70/chicken-bread-patties-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3c26687d9535098a/751x532cq70/chicken-bread-patties-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3c26687d9535098a/751x532cq70/chicken-bread-patties-recipe-main-photo.jpg

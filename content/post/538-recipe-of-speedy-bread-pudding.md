@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Bread Pudding"
 title: "Recipe of Speedy Bread Pudding"
 slug: 538-recipe-of-speedy-bread-pudding
-date: 2020-07-20T18:10:03.625Z
+date: 2021-07-20T18:10:03.625Z
 image: https://img-global.cpcdn.com/recipes/565153d58d64820d/751x532cq70/bread-pudding-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/565153d58d64820d/751x532cq70/bread-pudding-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/565153d58d64820d/751x532cq70/bread-pudding-recipe-main-photo.jpg

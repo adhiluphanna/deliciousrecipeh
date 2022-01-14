@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Crab Cakes w/ Spicy Avocado Purée *EASY*"
 title: "Easiest Way to Make Speedy Crab Cakes w/ Spicy Avocado Purée *EASY*"
 slug: 282-easiest-way-to-make-speedy-crab-cakes-w-spicy-avocado-puree-easy
-date: 2020-09-19T13:56:12.071Z
+date: 2021-09-19T13:56:12.071Z
 image: https://img-global.cpcdn.com/recipes/b2f0d43fd877bad8/751x532cq70/crab-cakes-w-spicy-avocado-puree-easy-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b2f0d43fd877bad8/751x532cq70/crab-cakes-w-spicy-avocado-puree-easy-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b2f0d43fd877bad8/751x532cq70/crab-cakes-w-spicy-avocado-puree-easy-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Crab Curry"
 title: "Recipe of Ultimate Crab Curry"
 slug: 312-recipe-of-ultimate-crab-curry
-date: 2020-09-26T20:34:02.179Z
+date: 2021-09-26T20:34:02.179Z
 image: https://img-global.cpcdn.com/recipes/ca099ee62a4cd36d/751x532cq70/crab-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ca099ee62a4cd36d/751x532cq70/crab-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ca099ee62a4cd36d/751x532cq70/crab-curry-recipe-main-photo.jpg

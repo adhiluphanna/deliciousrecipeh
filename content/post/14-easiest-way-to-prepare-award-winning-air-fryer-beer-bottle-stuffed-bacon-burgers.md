@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning Air Fryer beer bottle stuffed bacon burgers"
 title: "Easiest Way to Prepare Award-winning Air Fryer beer bottle stuffed bacon burgers"
 slug: 14-easiest-way-to-prepare-award-winning-air-fryer-beer-bottle-stuffed-bacon-burgers
-date: 2020-10-11T21:29:44.335Z
+date: 2021-10-11T21:29:44.335Z
 image: https://img-global.cpcdn.com/recipes/9054de46c8b4eae0/751x532cq70/air-fryer-beer-bottle-stuffed-bacon-burgers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9054de46c8b4eae0/751x532cq70/air-fryer-beer-bottle-stuffed-bacon-burgers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9054de46c8b4eae0/751x532cq70/air-fryer-beer-bottle-stuffed-bacon-burgers-recipe-main-photo.jpg

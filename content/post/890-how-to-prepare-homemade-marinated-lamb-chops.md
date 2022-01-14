@@ -2,7 +2,7 @@
 description: "How to Prepare Homemade Marinated Lamb Chops"
 title: "How to Prepare Homemade Marinated Lamb Chops"
 slug: 890-how-to-prepare-homemade-marinated-lamb-chops
-date: 2020-07-28T11:30:25.237Z
+date: 2021-07-28T11:30:25.237Z
 image: https://img-global.cpcdn.com/recipes/df0ec8f9ab492fb0/751x532cq70/marinated-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/df0ec8f9ab492fb0/751x532cq70/marinated-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/df0ec8f9ab492fb0/751x532cq70/marinated-lamb-chops-recipe-main-photo.jpg

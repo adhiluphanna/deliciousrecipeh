@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Potato &amp;amp; Bacon Soup"
 title: "Steps to Make Award-winning Potato &amp;amp; Bacon Soup"
 slug: 232-steps-to-make-award-winning-potato-and-amp-bacon-soup
-date: 2020-10-25T19:06:30.004Z
+date: 2021-10-25T19:06:30.004Z
 image: https://img-global.cpcdn.com/recipes/333d7b985ec85132/751x532cq70/potato-bacon-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/333d7b985ec85132/751x532cq70/potato-bacon-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/333d7b985ec85132/751x532cq70/potato-bacon-soup-recipe-main-photo.jpg

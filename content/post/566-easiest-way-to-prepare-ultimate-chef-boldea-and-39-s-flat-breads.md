@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Ultimate Chef Boldea's Flat Breads"
 title: "Easiest Way to Prepare Ultimate Chef Boldea's Flat Breads"
 slug: 566-easiest-way-to-prepare-ultimate-chef-boldea-and-39-s-flat-breads
-date: 2020-08-03T08:57:22.216Z
+date: 2021-08-03T08:57:22.216Z
 image: https://img-global.cpcdn.com/recipes/c0823a38148eb6df/751x532cq70/chef-boldeas-flat-breads-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c0823a38148eb6df/751x532cq70/chef-boldeas-flat-breads-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c0823a38148eb6df/751x532cq70/chef-boldeas-flat-breads-recipe-main-photo.jpg

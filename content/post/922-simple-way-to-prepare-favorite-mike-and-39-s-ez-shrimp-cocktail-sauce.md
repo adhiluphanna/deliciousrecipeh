@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Mike's EZ Shrimp Cocktail Sauce"
 title: "Simple Way to Prepare Favorite Mike's EZ Shrimp Cocktail Sauce"
 slug: 922-simple-way-to-prepare-favorite-mike-and-39-s-ez-shrimp-cocktail-sauce
-date: 2020-07-06T09:27:06.017Z
+date: 2021-07-06T09:27:06.017Z
 image: https://img-global.cpcdn.com/recipes/4657756533948416/751x532cq70/mikes-ez-shrimp-cocktail-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4657756533948416/751x532cq70/mikes-ez-shrimp-cocktail-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4657756533948416/751x532cq70/mikes-ez-shrimp-cocktail-sauce-recipe-main-photo.jpg

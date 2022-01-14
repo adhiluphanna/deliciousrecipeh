@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Soda Bread"
 title: "Step-by-Step Guide to Make Homemade Soda Bread"
 slug: 464-step-by-step-guide-to-make-homemade-soda-bread
-date: 2020-11-04T18:19:10.013Z
+date: 2021-11-04T18:19:10.013Z
 image: https://img-global.cpcdn.com/recipes/4b1b5baf00de5f24/751x532cq70/soda-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4b1b5baf00de5f24/751x532cq70/soda-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4b1b5baf00de5f24/751x532cq70/soda-bread-recipe-main-photo.jpg

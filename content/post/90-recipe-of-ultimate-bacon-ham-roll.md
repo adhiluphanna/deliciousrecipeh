@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Bacon ham roll"
 title: "Recipe of Ultimate Bacon ham roll"
 slug: 90-recipe-of-ultimate-bacon-ham-roll
-date: 2020-08-29T19:58:11.805Z
+date: 2021-08-29T19:58:11.805Z
 image: https://img-global.cpcdn.com/recipes/4f9733487a503cdd/751x532cq70/bacon-ham-roll-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4f9733487a503cdd/751x532cq70/bacon-ham-roll-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4f9733487a503cdd/751x532cq70/bacon-ham-roll-recipe-main-photo.jpg

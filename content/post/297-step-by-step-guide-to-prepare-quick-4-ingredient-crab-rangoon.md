@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Quick 4 Ingredient Crab Rangoon"
 title: "Step-by-Step Guide to Prepare Quick 4 Ingredient Crab Rangoon"
 slug: 297-step-by-step-guide-to-prepare-quick-4-ingredient-crab-rangoon
-date: 2020-10-27T13:37:50.730Z
+date: 2021-10-27T13:37:50.730Z
 image: https://img-global.cpcdn.com/recipes/69fbaf904c2cb6b4/751x532cq70/4-ingredient-crab-rangoon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/69fbaf904c2cb6b4/751x532cq70/4-ingredient-crab-rangoon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/69fbaf904c2cb6b4/751x532cq70/4-ingredient-crab-rangoon-recipe-main-photo.jpg

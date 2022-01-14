@@ -2,7 +2,7 @@
 description: "How to Make Speedy Crab sandwich with whole wheat bread"
 title: "How to Make Speedy Crab sandwich with whole wheat bread"
 slug: 400-how-to-make-speedy-crab-sandwich-with-whole-wheat-bread
-date: 2020-09-24T06:40:45.456Z
+date: 2021-09-24T06:40:45.456Z
 image: https://img-global.cpcdn.com/recipes/26dfd96a8734fb47/751x532cq70/crab-sandwich-with-whole-wheat-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/26dfd96a8734fb47/751x532cq70/crab-sandwich-with-whole-wheat-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/26dfd96a8734fb47/751x532cq70/crab-sandwich-with-whole-wheat-bread-recipe-main-photo.jpg

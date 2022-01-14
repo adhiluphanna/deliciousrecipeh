@@ -2,7 +2,7 @@
 description: "How to Prepare Super Quick Homemade Lamb steaks"
 title: "How to Prepare Super Quick Homemade Lamb steaks"
 slug: 778-how-to-prepare-super-quick-homemade-lamb-steaks
-date: 2020-09-15T04:23:20.099Z
+date: 2021-09-15T04:23:20.099Z
 image: https://img-global.cpcdn.com/recipes/6731931274706944/751x532cq70/lamb-steaks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6731931274706944/751x532cq70/lamb-steaks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6731931274706944/751x532cq70/lamb-steaks-recipe-main-photo.jpg

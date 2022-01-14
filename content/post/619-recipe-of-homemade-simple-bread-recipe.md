@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Simple Bread Recipe"
 title: "Recipe of Homemade Simple Bread Recipe"
 slug: 619-recipe-of-homemade-simple-bread-recipe
-date: 2020-07-03T16:53:21.571Z
+date: 2021-07-03T16:53:21.571Z
 image: https://img-global.cpcdn.com/recipes/21b120daf953c0be/751x532cq70/simple-bread-recipe-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/21b120daf953c0be/751x532cq70/simple-bread-recipe-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/21b120daf953c0be/751x532cq70/simple-bread-recipe-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Make Perfect Apple Fritter Bread"
 title: "How to Make Perfect Apple Fritter Bread"
 slug: 575-how-to-make-perfect-apple-fritter-bread
-date: 2020-06-05T22:16:14.886Z
+date: 2021-06-05T22:16:14.886Z
 image: https://img-global.cpcdn.com/recipes/f9c2e49127b040f9/751x532cq70/apple-fritter-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f9c2e49127b040f9/751x532cq70/apple-fritter-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f9c2e49127b040f9/751x532cq70/apple-fritter-bread-recipe-main-photo.jpg

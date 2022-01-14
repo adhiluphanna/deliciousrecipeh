@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Mike's Drunken Shrimp Cocktails"
 title: "Simple Way to Make Ultimate Mike's Drunken Shrimp Cocktails"
 slug: 912-simple-way-to-make-ultimate-mike-and-39-s-drunken-shrimp-cocktails
-date: 2020-09-16T21:47:11.139Z
+date: 2021-09-16T21:47:11.139Z
 image: https://img-global.cpcdn.com/recipes/bdd7a0f137d398f0/751x532cq70/mikes-drunken-shrimp-cocktails-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bdd7a0f137d398f0/751x532cq70/mikes-drunken-shrimp-cocktails-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bdd7a0f137d398f0/751x532cq70/mikes-drunken-shrimp-cocktails-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Crab Curry"
 title: "Recipe of Homemade Crab Curry"
 slug: 348-recipe-of-homemade-crab-curry
-date: 2020-05-31T15:36:13.503Z
+date: 2021-05-31T15:36:13.503Z
 image: https://img-global.cpcdn.com/recipes/3b1180e75aaef91b/751x532cq70/crab-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3b1180e75aaef91b/751x532cq70/crab-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3b1180e75aaef91b/751x532cq70/crab-curry-recipe-main-photo.jpg

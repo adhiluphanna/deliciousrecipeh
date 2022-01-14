@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate My Garlic Bacon Pasta"
 title: "Recipe of Ultimate My Garlic Bacon Pasta"
 slug: 12-recipe-of-ultimate-my-garlic-bacon-pasta
-date: 2020-08-13T18:28:48.731Z
+date: 2021-08-13T18:28:48.731Z
 image: https://img-global.cpcdn.com/recipes/99d406a03497e04b/751x532cq70/my-garlic-bacon-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/99d406a03497e04b/751x532cq70/my-garlic-bacon-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/99d406a03497e04b/751x532cq70/my-garlic-bacon-pasta-recipe-main-photo.jpg

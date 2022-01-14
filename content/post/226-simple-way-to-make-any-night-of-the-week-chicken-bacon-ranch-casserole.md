@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week Chicken Bacon Ranch Casserole"
 title: "Simple Way to Make Any-night-of-the-week Chicken Bacon Ranch Casserole"
 slug: 226-simple-way-to-make-any-night-of-the-week-chicken-bacon-ranch-casserole
-date: 2020-10-25T18:48:28.054Z
+date: 2021-10-25T18:48:28.054Z
 image: https://img-global.cpcdn.com/recipes/58e9b68a9a60073d/751x532cq70/chicken-bacon-ranch-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/58e9b68a9a60073d/751x532cq70/chicken-bacon-ranch-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/58e9b68a9a60073d/751x532cq70/chicken-bacon-ranch-casserole-recipe-main-photo.jpg

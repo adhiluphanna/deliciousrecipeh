@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Banana Bread"
 title: "How to Prepare Any-night-of-the-week Banana Bread"
 slug: 536-how-to-prepare-any-night-of-the-week-banana-bread
-date: 2020-07-12T12:05:10.346Z
+date: 2021-07-12T12:05:10.346Z
 image: https://img-global.cpcdn.com/recipes/28f8a53127f1e95d/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/28f8a53127f1e95d/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/28f8a53127f1e95d/751x532cq70/banana-bread-recipe-main-photo.jpg

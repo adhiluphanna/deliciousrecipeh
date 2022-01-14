@@ -2,7 +2,7 @@
 description: "How to Make Homemade Beef and Applewood bacon chilli in slow cooker"
 title: "How to Make Homemade Beef and Applewood bacon chilli in slow cooker"
 slug: 237-how-to-make-homemade-beef-and-applewood-bacon-chilli-in-slow-cooker
-date: 2020-06-25T09:50:29.314Z
+date: 2021-06-25T09:50:29.314Z
 image: https://img-global.cpcdn.com/recipes/d3d86a505c7eec0f/751x532cq70/beef-and-applewood-bacon-chilli-in-slow-cooker-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d3d86a505c7eec0f/751x532cq70/beef-and-applewood-bacon-chilli-in-slow-cooker-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d3d86a505c7eec0f/751x532cq70/beef-and-applewood-bacon-chilli-in-slow-cooker-recipe-main-photo.jpg

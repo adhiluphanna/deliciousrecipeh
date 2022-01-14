@@ -2,7 +2,7 @@
 description: "Simple Way to Make Quick Kadhai Crab"
 title: "Simple Way to Make Quick Kadhai Crab"
 slug: 325-simple-way-to-make-quick-kadhai-crab
-date: 2020-06-06T23:44:27.139Z
+date: 2021-06-06T23:44:27.139Z
 image: https://img-global.cpcdn.com/recipes/2322795e971760ba/751x532cq70/kadhai-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2322795e971760ba/751x532cq70/kadhai-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2322795e971760ba/751x532cq70/kadhai-crab-recipe-main-photo.jpg

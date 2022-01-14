@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Creamy Garlic Crab Spaghetti Squash Boats"
 title: "Step-by-Step Guide to Make Homemade Creamy Garlic Crab Spaghetti Squash Boats"
 slug: 242-step-by-step-guide-to-make-homemade-creamy-garlic-crab-spaghetti-squash-boats
-date: 2020-10-26T11:25:50.055Z
+date: 2021-10-26T11:25:50.055Z
 image: https://img-global.cpcdn.com/recipes/fa9fd5d030d67232/751x532cq70/creamy-garlic-crab-spaghetti-squash-boats-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fa9fd5d030d67232/751x532cq70/creamy-garlic-crab-spaghetti-squash-boats-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fa9fd5d030d67232/751x532cq70/creamy-garlic-crab-spaghetti-squash-boats-recipe-main-photo.jpg

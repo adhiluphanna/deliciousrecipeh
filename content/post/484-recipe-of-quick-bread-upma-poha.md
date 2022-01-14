@@ -2,7 +2,7 @@
 description: "Recipe of Quick Bread_upma/poha"
 title: "Recipe of Quick Bread_upma/poha"
 slug: 484-recipe-of-quick-bread-upma-poha
-date: 2020-05-31T13:07:52.738Z
+date: 2021-05-31T13:07:52.738Z
 image: https://img-global.cpcdn.com/recipes/5c01556debee9306/751x532cq70/bread_upmapoha-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5c01556debee9306/751x532cq70/bread_upmapoha-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5c01556debee9306/751x532cq70/bread_upmapoha-recipe-main-photo.jpg

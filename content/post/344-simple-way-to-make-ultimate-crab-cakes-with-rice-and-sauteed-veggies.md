@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Crab cakes with rice and sautéed veggies"
 title: "Simple Way to Make Ultimate Crab cakes with rice and sautéed veggies"
 slug: 344-simple-way-to-make-ultimate-crab-cakes-with-rice-and-sauteed-veggies
-date: 2020-08-04T08:33:07.439Z
+date: 2021-08-04T08:33:07.439Z
 image: https://img-global.cpcdn.com/recipes/017d841edaec81ee/751x532cq70/crab-cakes-with-rice-and-sauteed-veggies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/017d841edaec81ee/751x532cq70/crab-cakes-with-rice-and-sauteed-veggies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/017d841edaec81ee/751x532cq70/crab-cakes-with-rice-and-sauteed-veggies-recipe-main-photo.jpg

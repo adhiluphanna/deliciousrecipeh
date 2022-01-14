@@ -2,7 +2,7 @@
 description: "Simple Way to Make Homemade Crab curry"
 title: "Simple Way to Make Homemade Crab curry"
 slug: 389-simple-way-to-make-homemade-crab-curry
-date: 2020-08-31T01:45:40.558Z
+date: 2021-08-31T01:45:40.558Z
 image: https://img-global.cpcdn.com/recipes/3bbd3eaad299564f/751x532cq70/crab-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3bbd3eaad299564f/751x532cq70/crab-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3bbd3eaad299564f/751x532cq70/crab-curry-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Quick Pork and Lamb Casserole"
 title: "Simple Way to Prepare Quick Pork and Lamb Casserole"
 slug: 781-simple-way-to-prepare-quick-pork-and-lamb-casserole
-date: 2020-07-31T00:18:55.486Z
+date: 2021-07-31T00:18:55.486Z
 image: https://img-global.cpcdn.com/recipes/42c10d9bf0e31f61/751x532cq70/pork-and-lamb-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/42c10d9bf0e31f61/751x532cq70/pork-and-lamb-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/42c10d9bf0e31f61/751x532cq70/pork-and-lamb-casserole-recipe-main-photo.jpg

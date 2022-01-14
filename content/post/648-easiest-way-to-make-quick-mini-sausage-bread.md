@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Mini Sausage Bread"
 title: "Easiest Way to Make Quick Mini Sausage Bread"
 slug: 648-easiest-way-to-make-quick-mini-sausage-bread
-date: 2020-10-19T10:35:16.625Z
+date: 2021-10-19T10:35:16.625Z
 image: https://img-global.cpcdn.com/recipes/9cd62d257d071a23/751x532cq70/mini-sausage-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9cd62d257d071a23/751x532cq70/mini-sausage-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9cd62d257d071a23/751x532cq70/mini-sausage-bread-recipe-main-photo.jpg

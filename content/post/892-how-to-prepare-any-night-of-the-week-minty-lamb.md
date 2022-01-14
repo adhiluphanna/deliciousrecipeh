@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Minty Lamb"
 title: "How to Prepare Any-night-of-the-week Minty Lamb"
 slug: 892-how-to-prepare-any-night-of-the-week-minty-lamb
-date: 2020-08-17T19:06:31.094Z
+date: 2021-08-17T19:06:31.094Z
 image: https://img-global.cpcdn.com/recipes/c96b78d3f20723ef/751x532cq70/minty-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c96b78d3f20723ef/751x532cq70/minty-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c96b78d3f20723ef/751x532cq70/minty-lamb-recipe-main-photo.jpg

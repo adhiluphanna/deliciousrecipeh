@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Fried Fajita Chicken and Bacon Quesadillas"
 title: "Easiest Way to Prepare Any-night-of-the-week Fried Fajita Chicken and Bacon Quesadillas"
 slug: 2-easiest-way-to-prepare-any-night-of-the-week-fried-fajita-chicken-and-bacon-quesadillas
-date: 2020-06-12T07:51:17.408Z
+date: 2021-06-12T07:51:17.408Z
 image: https://img-global.cpcdn.com/recipes/d7f0d389000334fb/751x532cq70/fried-fajita-chicken-and-bacon-quesadillas-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d7f0d389000334fb/751x532cq70/fried-fajita-chicken-and-bacon-quesadillas-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d7f0d389000334fb/751x532cq70/fried-fajita-chicken-and-bacon-quesadillas-recipe-main-photo.jpg

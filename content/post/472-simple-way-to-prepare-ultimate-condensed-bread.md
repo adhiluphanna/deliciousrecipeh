@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Condensed Bread"
 title: "Simple Way to Prepare Ultimate Condensed Bread"
 slug: 472-simple-way-to-prepare-ultimate-condensed-bread
-date: 2020-06-07T00:44:21.978Z
+date: 2021-06-07T00:44:21.978Z
 image: https://img-global.cpcdn.com/recipes/bb4732ba2aa119e2/751x532cq70/condensed-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bb4732ba2aa119e2/751x532cq70/condensed-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bb4732ba2aa119e2/751x532cq70/condensed-bread-recipe-main-photo.jpg

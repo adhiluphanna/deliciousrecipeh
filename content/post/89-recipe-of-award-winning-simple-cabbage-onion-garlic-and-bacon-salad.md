@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Simple cabbage, onion, garlic and bacon salad"
 title: "Recipe of Award-winning Simple cabbage, onion, garlic and bacon salad"
 slug: 89-recipe-of-award-winning-simple-cabbage-onion-garlic-and-bacon-salad
-date: 2020-06-16T18:01:30.872Z
+date: 2021-06-16T18:01:30.872Z
 image: https://img-global.cpcdn.com/recipes/f47770e20ad9419b/751x532cq70/simple-cabbage-onion-garlic-and-bacon-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f47770e20ad9419b/751x532cq70/simple-cabbage-onion-garlic-and-bacon-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f47770e20ad9419b/751x532cq70/simple-cabbage-onion-garlic-and-bacon-salad-recipe-main-photo.jpg

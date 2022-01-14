@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning Crab Cream Gratin"
 title: "Easiest Way to Prepare Award-winning Crab Cream Gratin"
 slug: 281-easiest-way-to-prepare-award-winning-crab-cream-gratin
-date: 2020-09-14T03:45:04.401Z
+date: 2021-09-14T03:45:04.401Z
 image: https://img-global.cpcdn.com/recipes/32cc66a9aa3ba427/751x532cq70/crab-cream-gratin-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/32cc66a9aa3ba427/751x532cq70/crab-cream-gratin-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/32cc66a9aa3ba427/751x532cq70/crab-cream-gratin-recipe-main-photo.jpg

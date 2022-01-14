@@ -2,7 +2,7 @@
 description: "How to Make Speedy Crab and Bok Choy in Thick Ankake Sauce (Using Canned Crabmeat)"
 title: "How to Make Speedy Crab and Bok Choy in Thick Ankake Sauce (Using Canned Crabmeat)"
 slug: 313-how-to-make-speedy-crab-and-bok-choy-in-thick-ankake-sauce-using-canned-crabmeat
-date: 2020-10-30T22:01:34.445Z
+date: 2021-10-30T22:01:34.445Z
 image: https://img-global.cpcdn.com/recipes/4932093084696576/751x532cq70/crab-and-bok-choy-in-thick-ankake-sauce-using-canned-crabmeat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4932093084696576/751x532cq70/crab-and-bok-choy-in-thick-ankake-sauce-using-canned-crabmeat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4932093084696576/751x532cq70/crab-and-bok-choy-in-thick-ankake-sauce-using-canned-crabmeat-recipe-main-photo.jpg

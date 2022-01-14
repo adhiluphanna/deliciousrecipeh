@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Bengali spicy crab curry"
 title: "Recipe of Any-night-of-the-week Bengali spicy crab curry"
 slug: 383-recipe-of-any-night-of-the-week-bengali-spicy-crab-curry
-date: 2020-08-02T12:49:53.509Z
+date: 2021-08-02T12:49:53.509Z
 image: https://img-global.cpcdn.com/recipes/b94752040924362c/751x532cq70/bengali-spicy-crab-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b94752040924362c/751x532cq70/bengali-spicy-crab-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b94752040924362c/751x532cq70/bengali-spicy-crab-curry-recipe-main-photo.jpg

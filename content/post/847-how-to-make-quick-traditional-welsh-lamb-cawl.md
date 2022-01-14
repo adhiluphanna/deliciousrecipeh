@@ -2,7 +2,7 @@
 description: "How to Make Quick Traditional Welsh Lamb Cawl"
 title: "How to Make Quick Traditional Welsh Lamb Cawl"
 slug: 847-how-to-make-quick-traditional-welsh-lamb-cawl
-date: 2020-09-18T09:37:01.181Z
+date: 2021-09-18T09:37:01.181Z
 image: https://img-global.cpcdn.com/recipes/34d2f47b57160dfe/751x532cq70/traditional-welsh-lamb-cawl-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/34d2f47b57160dfe/751x532cq70/traditional-welsh-lamb-cawl-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/34d2f47b57160dfe/751x532cq70/traditional-welsh-lamb-cawl-recipe-main-photo.jpg

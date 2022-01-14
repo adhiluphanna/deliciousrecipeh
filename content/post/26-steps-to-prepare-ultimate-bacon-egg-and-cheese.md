@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Bacon egg and cheese"
 title: "Steps to Prepare Ultimate Bacon egg and cheese"
 slug: 26-steps-to-prepare-ultimate-bacon-egg-and-cheese
-date: 2020-06-06T13:10:54.828Z
+date: 2021-06-06T13:10:54.828Z
 image: https://img-global.cpcdn.com/recipes/ee8e8b147f815f3e/751x532cq70/bacon-egg-and-cheese-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ee8e8b147f815f3e/751x532cq70/bacon-egg-and-cheese-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ee8e8b147f815f3e/751x532cq70/bacon-egg-and-cheese-recipe-main-photo.jpg

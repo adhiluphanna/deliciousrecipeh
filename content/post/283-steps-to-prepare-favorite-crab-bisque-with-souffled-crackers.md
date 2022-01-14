@@ -2,7 +2,7 @@
 description: "Steps to Prepare Favorite Crab bisque with souffléd crackers"
 title: "Steps to Prepare Favorite Crab bisque with souffléd crackers"
 slug: 283-steps-to-prepare-favorite-crab-bisque-with-souffled-crackers
-date: 2020-09-04T20:57:11.450Z
+date: 2021-09-04T20:57:11.450Z
 image: https://img-global.cpcdn.com/recipes/658809dfdb14fb20/751x532cq70/crab-bisque-with-souffled-crackers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/658809dfdb14fb20/751x532cq70/crab-bisque-with-souffled-crackers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/658809dfdb14fb20/751x532cq70/crab-bisque-with-souffled-crackers-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Breadmaker express white bread"
 title: "Step-by-Step Guide to Prepare Favorite Breadmaker express white bread"
 slug: 469-step-by-step-guide-to-prepare-favorite-breadmaker-express-white-bread
-date: 2020-07-01T14:25:22.733Z
+date: 2021-07-01T14:25:22.733Z
 image: https://img-global.cpcdn.com/recipes/6739436730580992/751x532cq70/breadmaker-express-white-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6739436730580992/751x532cq70/breadmaker-express-white-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6739436730580992/751x532cq70/breadmaker-express-white-bread-recipe-main-photo.jpg

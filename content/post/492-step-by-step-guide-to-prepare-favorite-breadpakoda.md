@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Breadpakoda"
 title: "Step-by-Step Guide to Prepare Favorite Breadpakoda"
 slug: 492-step-by-step-guide-to-prepare-favorite-breadpakoda
-date: 2020-07-04T17:25:22.020Z
+date: 2021-07-04T17:25:22.020Z
 image: https://img-global.cpcdn.com/recipes/eac7d466eea43aa8/751x532cq70/breadpakoda-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/eac7d466eea43aa8/751x532cq70/breadpakoda-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/eac7d466eea43aa8/751x532cq70/breadpakoda-recipe-main-photo.jpg

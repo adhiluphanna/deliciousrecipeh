@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Roasted Leg of Lamb Batch 4"
 title: "Steps to Make Perfect Roasted Leg of Lamb Batch 4"
 slug: 694-steps-to-make-perfect-roasted-leg-of-lamb-batch-4
-date: 2020-10-05T06:41:05.633Z
+date: 2021-10-05T06:41:05.633Z
 image: https://img-global.cpcdn.com/recipes/90fb17681205e6a7/751x532cq70/roasted-leg-of-lamb-batch-4-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/90fb17681205e6a7/751x532cq70/roasted-leg-of-lamb-batch-4-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/90fb17681205e6a7/751x532cq70/roasted-leg-of-lamb-batch-4-recipe-main-photo.jpg

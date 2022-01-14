@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Spicy Creamy Shrimp &amp;amp; Crab Manicotti"
 title: "Simple Way to Make Ultimate Spicy Creamy Shrimp &amp;amp; Crab Manicotti"
 slug: 274-simple-way-to-make-ultimate-spicy-creamy-shrimp-and-amp-crab-manicotti
-date: 2020-06-04T04:07:23.071Z
+date: 2021-06-04T04:07:23.071Z
 image: https://img-global.cpcdn.com/recipes/4054bdfba7d33c24/751x532cq70/spicy-creamy-shrimp-crab-manicotti-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4054bdfba7d33c24/751x532cq70/spicy-creamy-shrimp-crab-manicotti-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4054bdfba7d33c24/751x532cq70/spicy-creamy-shrimp-crab-manicotti-recipe-main-photo.jpg

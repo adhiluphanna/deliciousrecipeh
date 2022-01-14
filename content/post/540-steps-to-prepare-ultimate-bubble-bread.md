@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Bubble Bread"
 title: "Steps to Prepare Ultimate Bubble Bread"
 slug: 540-steps-to-prepare-ultimate-bubble-bread
-date: 2020-05-28T02:37:30.054Z
+date: 2021-05-28T02:37:30.054Z
 image: https://img-global.cpcdn.com/recipes/85d49ed87734e494/751x532cq70/bubble-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/85d49ed87734e494/751x532cq70/bubble-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/85d49ed87734e494/751x532cq70/bubble-bread-recipe-main-photo.jpg

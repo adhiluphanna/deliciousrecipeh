@@ -2,7 +2,7 @@
 description: "Steps to Prepare Homemade Broiled lamb kebabs"
 title: "Steps to Prepare Homemade Broiled lamb kebabs"
 slug: 692-steps-to-prepare-homemade-broiled-lamb-kebabs
-date: 2020-08-18T10:39:57.660Z
+date: 2021-08-18T10:39:57.660Z
 image: https://img-global.cpcdn.com/recipes/a0ce4ea9da8c70b7/751x532cq70/broiled-lamb-kebabs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a0ce4ea9da8c70b7/751x532cq70/broiled-lamb-kebabs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a0ce4ea9da8c70b7/751x532cq70/broiled-lamb-kebabs-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Breadrolls"
 title: "Step-by-Step Guide to Make Favorite Breadrolls"
 slug: 542-step-by-step-guide-to-make-favorite-breadrolls
-date: 2020-08-27T03:49:05.329Z
+date: 2021-08-27T03:49:05.329Z
 image: https://img-global.cpcdn.com/recipes/46991e329b42f404/751x532cq70/breadrolls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/46991e329b42f404/751x532cq70/breadrolls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/46991e329b42f404/751x532cq70/breadrolls-recipe-main-photo.jpg

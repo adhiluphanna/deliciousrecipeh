@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Mutton Lamb Ribs"
 title: "Easiest Way to Make Ultimate Mutton Lamb Ribs"
 slug: 801-easiest-way-to-make-ultimate-mutton-lamb-ribs
-date: 2020-11-09T08:11:32.878Z
+date: 2021-11-09T08:11:32.878Z
 image: https://img-global.cpcdn.com/recipes/2c05d4a625c89033/751x532cq70/mutton-lamb-ribs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2c05d4a625c89033/751x532cq70/mutton-lamb-ribs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2c05d4a625c89033/751x532cq70/mutton-lamb-ribs-recipe-main-photo.jpg

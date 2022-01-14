@@ -2,7 +2,7 @@
 description: "Recipe of Quick Chicken Hotdog Bread"
 title: "Recipe of Quick Chicken Hotdog Bread"
 slug: 661-recipe-of-quick-chicken-hotdog-bread
-date: 2020-07-09T05:56:15.367Z
+date: 2021-07-09T05:56:15.367Z
 image: https://img-global.cpcdn.com/recipes/a118788793a14565/751x532cq70/chicken-hotdog-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a118788793a14565/751x532cq70/chicken-hotdog-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a118788793a14565/751x532cq70/chicken-hotdog-bread-recipe-main-photo.jpg

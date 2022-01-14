@@ -2,7 +2,7 @@
 description: "How to Make Favorite Minced lamb pie"
 title: "How to Make Favorite Minced lamb pie"
 slug: 729-how-to-make-favorite-minced-lamb-pie
-date: 2020-08-11T23:35:11.268Z
+date: 2021-08-11T23:35:11.268Z
 image: https://img-global.cpcdn.com/recipes/9be06f4e9d4b5e86/751x532cq70/minced-lamb-pie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9be06f4e9d4b5e86/751x532cq70/minced-lamb-pie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9be06f4e9d4b5e86/751x532cq70/minced-lamb-pie-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade Lentil lamb shank"
 title: "Steps to Prepare Super Quick Homemade Lentil lamb shank"
 slug: 837-steps-to-prepare-super-quick-homemade-lentil-lamb-shank
-date: 2020-09-26T01:46:24.025Z
+date: 2021-09-26T01:46:24.025Z
 image: https://img-global.cpcdn.com/recipes/b0756b02b0bafb70/751x532cq70/lentil-lamb-shank-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b0756b02b0bafb70/751x532cq70/lentil-lamb-shank-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b0756b02b0bafb70/751x532cq70/lentil-lamb-shank-recipe-main-photo.jpg

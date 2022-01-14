@@ -2,7 +2,7 @@
 description: "Recipe of Quick Paprika Potted Crab"
 title: "Recipe of Quick Paprika Potted Crab"
 slug: 357-recipe-of-quick-paprika-potted-crab
-date: 2020-07-02T15:25:41.297Z
+date: 2021-07-02T15:25:41.297Z
 image: https://img-global.cpcdn.com/recipes/2d45da480c75bb32/751x532cq70/paprika-potted-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2d45da480c75bb32/751x532cq70/paprika-potted-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2d45da480c75bb32/751x532cq70/paprika-potted-crab-recipe-main-photo.jpg

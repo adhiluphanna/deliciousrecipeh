@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Ultimate Tricia's Soda Bread"
 title: "Easiest Way to Prepare Ultimate Tricia's Soda Bread"
 slug: 576-easiest-way-to-prepare-ultimate-tricia-and-39-s-soda-bread
-date: 2020-05-24T05:50:45.526Z
+date: 2021-05-24T05:50:45.526Z
 image: https://img-global.cpcdn.com/recipes/107f03a744e20a86/751x532cq70/tricias-soda-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/107f03a744e20a86/751x532cq70/tricias-soda-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/107f03a744e20a86/751x532cq70/tricias-soda-bread-recipe-main-photo.jpg

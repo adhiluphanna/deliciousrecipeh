@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Over Easy Fried Eggs and Bacon"
 title: "Recipe of Homemade Over Easy Fried Eggs and Bacon"
 slug: 68-recipe-of-homemade-over-easy-fried-eggs-and-bacon
-date: 2020-06-24T11:03:58.287Z
+date: 2021-06-24T11:03:58.287Z
 image: https://img-global.cpcdn.com/recipes/a52b60904e21de72/751x532cq70/over-easy-fried-eggs-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a52b60904e21de72/751x532cq70/over-easy-fried-eggs-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a52b60904e21de72/751x532cq70/over-easy-fried-eggs-and-bacon-recipe-main-photo.jpg

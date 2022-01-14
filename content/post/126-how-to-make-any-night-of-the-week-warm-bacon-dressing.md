@@ -2,7 +2,7 @@
 description: "How to Make Any-night-of-the-week Warm Bacon dressing"
 title: "How to Make Any-night-of-the-week Warm Bacon dressing"
 slug: 126-how-to-make-any-night-of-the-week-warm-bacon-dressing
-date: 2020-09-26T08:38:00.221Z
+date: 2021-09-26T08:38:00.221Z
 image: https://img-global.cpcdn.com/recipes/daffe406cfe5c454/751x532cq70/warm-bacon-dressing-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/daffe406cfe5c454/751x532cq70/warm-bacon-dressing-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/daffe406cfe5c454/751x532cq70/warm-bacon-dressing-recipe-main-photo.jpg

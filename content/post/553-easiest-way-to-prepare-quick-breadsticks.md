@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Breadsticks"
 title: "Easiest Way to Prepare Quick Breadsticks"
 slug: 553-easiest-way-to-prepare-quick-breadsticks
-date: 2020-07-06T02:27:03.216Z
+date: 2021-07-06T02:27:03.216Z
 image: https://img-global.cpcdn.com/recipes/da38ef0b35c55778/751x532cq70/breadsticks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/da38ef0b35c55778/751x532cq70/breadsticks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/da38ef0b35c55778/751x532cq70/breadsticks-recipe-main-photo.jpg

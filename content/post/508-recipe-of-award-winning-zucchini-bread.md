@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Zucchini Bread"
 title: "Recipe of Award-winning Zucchini Bread"
 slug: 508-recipe-of-award-winning-zucchini-bread
-date: 2020-08-25T00:25:02.207Z
+date: 2021-08-25T00:25:02.207Z
 image: https://img-global.cpcdn.com/recipes/5ee632d0c35457e2/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5ee632d0c35457e2/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5ee632d0c35457e2/751x532cq70/zucchini-bread-recipe-main-photo.jpg

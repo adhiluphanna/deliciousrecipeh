@@ -2,7 +2,7 @@
 description: "How to Make Homemade Lamb biryani"
 title: "How to Make Homemade Lamb biryani"
 slug: 793-how-to-make-homemade-lamb-biryani
-date: 2020-08-10T04:01:24.342Z
+date: 2021-08-10T04:01:24.342Z
 image: https://img-global.cpcdn.com/recipes/560ffb48c6d58ab6/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/560ffb48c6d58ab6/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/560ffb48c6d58ab6/751x532cq70/lamb-biryani-recipe-main-photo.jpg

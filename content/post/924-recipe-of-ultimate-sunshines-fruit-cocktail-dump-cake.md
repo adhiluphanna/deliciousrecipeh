@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate sunshines fruit cocktail dump cake"
 title: "Recipe of Ultimate sunshines fruit cocktail dump cake"
 slug: 924-recipe-of-ultimate-sunshines-fruit-cocktail-dump-cake
-date: 2020-11-01T15:22:18.364Z
+date: 2021-11-01T15:22:18.364Z
 image: https://img-global.cpcdn.com/recipes/4722802822742016/751x532cq70/sunshines-fruit-cocktail-dump-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4722802822742016/751x532cq70/sunshines-fruit-cocktail-dump-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4722802822742016/751x532cq70/sunshines-fruit-cocktail-dump-cake-recipe-main-photo.jpg

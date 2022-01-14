@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Shrimp Cocktail Salad"
 title: "How to Make Award-winning Shrimp Cocktail Salad"
 slug: 992-how-to-make-award-winning-shrimp-cocktail-salad
-date: 2020-11-11T20:52:57.579Z
+date: 2021-11-11T20:52:57.579Z
 image: https://img-global.cpcdn.com/recipes/85835e3ef53ee567/751x532cq70/shrimp-cocktail-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/85835e3ef53ee567/751x532cq70/shrimp-cocktail-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/85835e3ef53ee567/751x532cq70/shrimp-cocktail-salad-recipe-main-photo.jpg

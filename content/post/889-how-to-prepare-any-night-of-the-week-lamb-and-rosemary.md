@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Lamb and Rosemary"
 title: "How to Prepare Any-night-of-the-week Lamb and Rosemary"
 slug: 889-how-to-prepare-any-night-of-the-week-lamb-and-rosemary
-date: 2020-10-18T21:59:25.183Z
+date: 2021-10-18T21:59:25.183Z
 image: https://img-global.cpcdn.com/recipes/5332758491561984/751x532cq70/lamb-and-rosemary-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5332758491561984/751x532cq70/lamb-and-rosemary-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5332758491561984/751x532cq70/lamb-and-rosemary-recipe-main-photo.jpg

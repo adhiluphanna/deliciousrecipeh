@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Ultimate Anything goes cocktail"
 title: "Step-by-Step Guide to Prepare Ultimate Anything goes cocktail"
 slug: 939-step-by-step-guide-to-prepare-ultimate-anything-goes-cocktail
-date: 2020-10-06T22:21:11.626Z
+date: 2021-10-06T22:21:11.626Z
 image: https://img-global.cpcdn.com/recipes/66549ff7ee792542/751x532cq70/anything-goes-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/66549ff7ee792542/751x532cq70/anything-goes-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/66549ff7ee792542/751x532cq70/anything-goes-cocktail-recipe-main-photo.jpg

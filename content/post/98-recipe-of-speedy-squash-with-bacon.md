@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Squash with bacon"
 title: "Recipe of Speedy Squash with bacon"
 slug: 98-recipe-of-speedy-squash-with-bacon
-date: 2020-11-06T17:04:38.013Z
+date: 2021-11-06T17:04:38.013Z
 image: https://img-global.cpcdn.com/recipes/f9f722b528dff1ae/751x532cq70/squash-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f9f722b528dff1ae/751x532cq70/squash-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f9f722b528dff1ae/751x532cq70/squash-with-bacon-recipe-main-photo.jpg

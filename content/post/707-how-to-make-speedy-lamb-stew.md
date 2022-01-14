@@ -2,7 +2,7 @@
 description: "How to Make Speedy Lamb Stew"
 title: "How to Make Speedy Lamb Stew"
 slug: 707-how-to-make-speedy-lamb-stew
-date: 2020-08-29T07:12:20.599Z
+date: 2021-08-29T07:12:20.599Z
 image: https://img-global.cpcdn.com/recipes/057469bdb6185467/751x532cq70/lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/057469bdb6185467/751x532cq70/lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/057469bdb6185467/751x532cq70/lamb-stew-recipe-main-photo.jpg

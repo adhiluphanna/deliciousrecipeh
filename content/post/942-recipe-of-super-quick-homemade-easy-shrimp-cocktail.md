@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade EASY SHRIMP COCKTAIL"
 title: "Recipe of Super Quick Homemade EASY SHRIMP COCKTAIL"
 slug: 942-recipe-of-super-quick-homemade-easy-shrimp-cocktail
-date: 2020-10-09T18:35:44.102Z
+date: 2021-10-09T18:35:44.102Z
 image: https://img-global.cpcdn.com/recipes/6343788369281024/751x532cq70/easy-shrimp-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6343788369281024/751x532cq70/easy-shrimp-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6343788369281024/751x532cq70/easy-shrimp-cocktail-recipe-main-photo.jpg

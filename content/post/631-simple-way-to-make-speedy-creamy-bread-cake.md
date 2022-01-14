@@ -2,7 +2,7 @@
 description: "Simple Way to Make Speedy Creamy Bread Cake"
 title: "Simple Way to Make Speedy Creamy Bread Cake"
 slug: 631-simple-way-to-make-speedy-creamy-bread-cake
-date: 2020-06-30T14:06:30.111Z
+date: 2021-06-30T14:06:30.111Z
 image: https://img-global.cpcdn.com/recipes/7396c483c9ee3925/751x532cq70/creamy-bread-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7396c483c9ee3925/751x532cq70/creamy-bread-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7396c483c9ee3925/751x532cq70/creamy-bread-cake-recipe-main-photo.jpg

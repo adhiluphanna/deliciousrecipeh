@@ -2,7 +2,7 @@
 description: "Recipe of Quick Crab Bake"
 title: "Recipe of Quick Crab Bake"
 slug: 369-recipe-of-quick-crab-bake
-date: 2020-07-11T09:50:03.188Z
+date: 2021-07-11T09:50:03.188Z
 image: https://img-global.cpcdn.com/recipes/5220278183395328/751x532cq70/crab-bake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5220278183395328/751x532cq70/crab-bake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5220278183395328/751x532cq70/crab-bake-recipe-main-photo.jpg

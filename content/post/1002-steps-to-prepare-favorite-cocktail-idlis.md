@@ -2,7 +2,7 @@
 description: "Steps to Prepare Favorite Cocktail Idlis"
 title: "Steps to Prepare Favorite Cocktail Idlis"
 slug: 1002-steps-to-prepare-favorite-cocktail-idlis
-date: 2020-07-16T13:17:06.568Z
+date: 2021-07-16T13:17:06.568Z
 image: https://img-global.cpcdn.com/recipes/8c82b1e940e2ca15/751x532cq70/cocktail-idlis-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8c82b1e940e2ca15/751x532cq70/cocktail-idlis-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8c82b1e940e2ca15/751x532cq70/cocktail-idlis-recipe-main-photo.jpg

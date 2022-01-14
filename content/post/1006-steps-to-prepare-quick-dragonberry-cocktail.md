@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Dragonberry Cocktail"
 title: "Steps to Prepare Quick Dragonberry Cocktail"
 slug: 1006-steps-to-prepare-quick-dragonberry-cocktail
-date: 2020-10-29T12:31:21.312Z
+date: 2021-10-29T12:31:21.312Z
 image: https://img-global.cpcdn.com/recipes/6568328253931520/751x532cq70/dragonberry-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6568328253931520/751x532cq70/dragonberry-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6568328253931520/751x532cq70/dragonberry-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Mallorca Bread"
 title: "Easiest Way to Prepare Super Quick Homemade Mallorca Bread"
 slug: 551-easiest-way-to-prepare-super-quick-homemade-mallorca-bread
-date: 2020-09-24T07:15:17.787Z
+date: 2021-09-24T07:15:17.787Z
 image: https://img-global.cpcdn.com/recipes/99f61ba1749260d0/751x532cq70/mallorca-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/99f61ba1749260d0/751x532cq70/mallorca-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/99f61ba1749260d0/751x532cq70/mallorca-bread-recipe-main-photo.jpg

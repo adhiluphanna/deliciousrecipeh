@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Bacon Jalepeno Popper Pinwheels"
 title: "Easiest Way to Make Ultimate Bacon Jalepeno Popper Pinwheels"
 slug: 186-easiest-way-to-make-ultimate-bacon-jalepeno-popper-pinwheels
-date: 2020-09-19T18:39:37.343Z
+date: 2021-09-19T18:39:37.343Z
 image: https://img-global.cpcdn.com/recipes/1458c7f3da9b316f/751x532cq70/bacon-jalepeno-popper-pinwheels-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1458c7f3da9b316f/751x532cq70/bacon-jalepeno-popper-pinwheels-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1458c7f3da9b316f/751x532cq70/bacon-jalepeno-popper-pinwheels-recipe-main-photo.jpg

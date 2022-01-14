@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Jalapeno Bacon Wrapped Poppers"
 title: "Recipe of Ultimate Jalapeno Bacon Wrapped Poppers"
 slug: 140-recipe-of-ultimate-jalapeno-bacon-wrapped-poppers
-date: 2020-05-24T11:22:06.861Z
+date: 2021-05-24T11:22:06.861Z
 image: https://img-global.cpcdn.com/recipes/8468d8f2127ca765/751x532cq70/jalapeno-bacon-wrapped-poppers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8468d8f2127ca765/751x532cq70/jalapeno-bacon-wrapped-poppers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8468d8f2127ca765/751x532cq70/jalapeno-bacon-wrapped-poppers-recipe-main-photo.jpg

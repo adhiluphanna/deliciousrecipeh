@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Green Curry Lamb"
 title: "Steps to Prepare Quick Green Curry Lamb"
 slug: 826-steps-to-prepare-quick-green-curry-lamb
-date: 2020-06-21T14:21:57.173Z
+date: 2021-06-21T14:21:57.173Z
 image: https://img-global.cpcdn.com/recipes/105dc7212c3ee108/751x532cq70/green-curry-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/105dc7212c3ee108/751x532cq70/green-curry-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/105dc7212c3ee108/751x532cq70/green-curry-lamb-recipe-main-photo.jpg

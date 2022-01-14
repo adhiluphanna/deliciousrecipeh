@@ -2,7 +2,7 @@
 description: "Simple Way to Make Perfect Beef, Bacon, and Vegetable Soup"
 title: "Simple Way to Make Perfect Beef, Bacon, and Vegetable Soup"
 slug: 99-simple-way-to-make-perfect-beef-bacon-and-vegetable-soup
-date: 2020-11-04T20:59:50.816Z
+date: 2021-11-04T20:59:50.816Z
 image: https://img-global.cpcdn.com/recipes/816b29d4e56709ac/751x532cq70/beef-bacon-and-vegetable-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/816b29d4e56709ac/751x532cq70/beef-bacon-and-vegetable-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/816b29d4e56709ac/751x532cq70/beef-bacon-and-vegetable-soup-recipe-main-photo.jpg

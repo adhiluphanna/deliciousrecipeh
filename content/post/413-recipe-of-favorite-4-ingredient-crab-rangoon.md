@@ -2,7 +2,7 @@
 description: "Recipe of Favorite 4 Ingredient Crab Rangoon"
 title: "Recipe of Favorite 4 Ingredient Crab Rangoon"
 slug: 413-recipe-of-favorite-4-ingredient-crab-rangoon
-date: 2020-09-15T09:00:24.574Z
+date: 2021-09-15T09:00:24.574Z
 image: https://img-global.cpcdn.com/recipes/69fbaf904c2cb6b4/751x532cq70/4-ingredient-crab-rangoon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/69fbaf904c2cb6b4/751x532cq70/4-ingredient-crab-rangoon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/69fbaf904c2cb6b4/751x532cq70/4-ingredient-crab-rangoon-recipe-main-photo.jpg

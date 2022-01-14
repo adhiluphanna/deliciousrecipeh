@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Crab masala"
 title: "Simple Way to Prepare Favorite Crab masala"
 slug: 381-simple-way-to-prepare-favorite-crab-masala
-date: 2020-11-10T18:38:25.185Z
+date: 2021-11-10T18:38:25.185Z
 image: https://img-global.cpcdn.com/recipes/8e2ea48cee5ccd49/751x532cq70/crab-masala-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8e2ea48cee5ccd49/751x532cq70/crab-masala-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8e2ea48cee5ccd49/751x532cq70/crab-masala-recipe-main-photo.jpg

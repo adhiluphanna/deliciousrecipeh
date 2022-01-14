@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Lamb Marsala"
 title: "Steps to Make Ultimate Lamb Marsala"
 slug: 903-steps-to-make-ultimate-lamb-marsala
-date: 2020-10-26T10:53:11.435Z
+date: 2021-10-26T10:53:11.435Z
 image: https://img-global.cpcdn.com/recipes/15d6cd7dd3f8b121/751x532cq70/lamb-marsala-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/15d6cd7dd3f8b121/751x532cq70/lamb-marsala-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/15d6cd7dd3f8b121/751x532cq70/lamb-marsala-recipe-main-photo.jpg

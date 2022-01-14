@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week Bacon Sauce Small Batch"
 title: "Steps to Make Any-night-of-the-week Bacon Sauce Small Batch"
 slug: 51-steps-to-make-any-night-of-the-week-bacon-sauce-small-batch
-date: 2020-10-20T06:32:53.701Z
+date: 2021-10-20T06:32:53.701Z
 image: https://img-global.cpcdn.com/recipes/0138d2b98099b32e/751x532cq70/bacon-sauce-small-batch-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0138d2b98099b32e/751x532cq70/bacon-sauce-small-batch-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0138d2b98099b32e/751x532cq70/bacon-sauce-small-batch-recipe-main-photo.jpg

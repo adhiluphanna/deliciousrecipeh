@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Perfect Freeke with Lamb"
 title: "Step-by-Step Guide to Prepare Perfect Freeke with Lamb"
 slug: 901-step-by-step-guide-to-prepare-perfect-freeke-with-lamb
-date: 2020-10-05T02:55:05.585Z
+date: 2021-10-05T02:55:05.585Z
 image: https://img-global.cpcdn.com/recipes/14862/751x532cq70/freeke-with-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/14862/751x532cq70/freeke-with-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/14862/751x532cq70/freeke-with-lamb-recipe-main-photo.jpg

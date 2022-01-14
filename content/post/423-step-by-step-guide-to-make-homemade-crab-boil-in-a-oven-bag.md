@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Crab boil in a oven Bag"
 title: "Step-by-Step Guide to Make Homemade Crab boil in a oven Bag"
 slug: 423-step-by-step-guide-to-make-homemade-crab-boil-in-a-oven-bag
-date: 2020-08-21T03:12:01.182Z
+date: 2021-08-21T03:12:01.182Z
 image: https://img-global.cpcdn.com/recipes/c4c3855f94541ecd/751x532cq70/crab-boil-in-a-oven-bag-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c4c3855f94541ecd/751x532cq70/crab-boil-in-a-oven-bag-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c4c3855f94541ecd/751x532cq70/crab-boil-in-a-oven-bag-recipe-main-photo.jpg

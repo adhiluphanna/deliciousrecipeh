@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Cocktail  delight 🍹"
 title: "Easiest Way to Prepare Favorite Cocktail  delight 🍹"
 slug: 927-easiest-way-to-prepare-favorite-cocktail-delight
-date: 2020-06-15T07:06:37.586Z
+date: 2021-06-15T07:06:37.586Z
 image: https://img-global.cpcdn.com/recipes/9ae878f2dcc0d39e/751x532cq70/cocktail-delight-🍹-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9ae878f2dcc0d39e/751x532cq70/cocktail-delight-🍹-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9ae878f2dcc0d39e/751x532cq70/cocktail-delight-🍹-recipe-main-photo.jpg

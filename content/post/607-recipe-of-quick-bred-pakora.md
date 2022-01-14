@@ -2,7 +2,7 @@
 description: "Recipe of Quick Bred pakora"
 title: "Recipe of Quick Bred pakora"
 slug: 607-recipe-of-quick-bred-pakora
-date: 2020-08-21T03:59:42.751Z
+date: 2021-08-21T03:59:42.751Z
 image: https://img-global.cpcdn.com/recipes/11c49777fbc173ac/751x532cq70/bred-pakora-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/11c49777fbc173ac/751x532cq70/bred-pakora-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/11c49777fbc173ac/751x532cq70/bred-pakora-recipe-main-photo.jpg

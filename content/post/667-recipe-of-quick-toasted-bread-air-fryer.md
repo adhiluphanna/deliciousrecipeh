@@ -2,7 +2,7 @@
 description: "Recipe of Quick Toasted bread - Air Fryer"
 title: "Recipe of Quick Toasted bread - Air Fryer"
 slug: 667-recipe-of-quick-toasted-bread-air-fryer
-date: 2020-06-09T00:59:21.046Z
+date: 2021-06-09T00:59:21.046Z
 image: https://img-global.cpcdn.com/recipes/4abf3b83b22635b5/751x532cq70/toasted-bread-air-fryer-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4abf3b83b22635b5/751x532cq70/toasted-bread-air-fryer-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4abf3b83b22635b5/751x532cq70/toasted-bread-air-fryer-recipe-main-photo.jpg

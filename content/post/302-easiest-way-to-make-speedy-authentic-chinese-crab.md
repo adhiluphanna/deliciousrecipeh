@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Authentic Chinese crab"
 title: "Easiest Way to Make Speedy Authentic Chinese crab"
 slug: 302-easiest-way-to-make-speedy-authentic-chinese-crab
-date: 2020-08-11T10:52:40.449Z
+date: 2021-08-11T10:52:40.449Z
 image: https://img-global.cpcdn.com/recipes/58523ca365db2ae3/751x532cq70/authentic-chinese-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/58523ca365db2ae3/751x532cq70/authentic-chinese-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/58523ca365db2ae3/751x532cq70/authentic-chinese-crab-recipe-main-photo.jpg

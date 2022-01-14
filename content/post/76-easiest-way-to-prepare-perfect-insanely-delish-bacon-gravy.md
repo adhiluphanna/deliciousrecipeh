@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Insanely Delish Bacon Gravy"
 title: "Easiest Way to Prepare Perfect Insanely Delish Bacon Gravy"
 slug: 76-easiest-way-to-prepare-perfect-insanely-delish-bacon-gravy
-date: 2020-07-03T17:45:31.314Z
+date: 2021-07-03T17:45:31.314Z
 image: https://img-global.cpcdn.com/recipes/053fb199537bd7f2/751x532cq70/insanely-delish-bacon-gravy-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/053fb199537bd7f2/751x532cq70/insanely-delish-bacon-gravy-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/053fb199537bd7f2/751x532cq70/insanely-delish-bacon-gravy-recipe-main-photo.jpg

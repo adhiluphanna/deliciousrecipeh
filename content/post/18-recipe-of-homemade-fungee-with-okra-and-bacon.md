@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Fungee with Okra and Bacon"
 title: "Recipe of Homemade Fungee with Okra and Bacon"
 slug: 18-recipe-of-homemade-fungee-with-okra-and-bacon
-date: 2020-08-10T18:33:35.681Z
+date: 2021-08-10T18:33:35.681Z
 image: https://img-global.cpcdn.com/recipes/df41b78703c6facb/751x532cq70/fungee-with-okra-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/df41b78703c6facb/751x532cq70/fungee-with-okra-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/df41b78703c6facb/751x532cq70/fungee-with-okra-and-bacon-recipe-main-photo.jpg

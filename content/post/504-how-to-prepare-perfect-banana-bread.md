@@ -2,7 +2,7 @@
 description: "How to Prepare Perfect Banana Bread"
 title: "How to Prepare Perfect Banana Bread"
 slug: 504-how-to-prepare-perfect-banana-bread
-date: 2020-10-10T01:36:18.246Z
+date: 2021-10-10T01:36:18.246Z
 image: https://img-global.cpcdn.com/recipes/32fe4a535970870a/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/32fe4a535970870a/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/32fe4a535970870a/751x532cq70/banana-bread-recipe-main-photo.jpg

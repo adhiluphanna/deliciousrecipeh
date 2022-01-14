@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Any-night-of-the-week Air fried bacon"
 title: "Step-by-Step Guide to Prepare Any-night-of-the-week Air fried bacon"
 slug: 56-step-by-step-guide-to-prepare-any-night-of-the-week-air-fried-bacon
-date: 2020-09-28T07:41:15.863Z
+date: 2021-09-28T07:41:15.863Z
 image: https://img-global.cpcdn.com/recipes/84721ee7eb32cb7d/751x532cq70/air-fried-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/84721ee7eb32cb7d/751x532cq70/air-fried-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/84721ee7eb32cb7d/751x532cq70/air-fried-bacon-recipe-main-photo.jpg

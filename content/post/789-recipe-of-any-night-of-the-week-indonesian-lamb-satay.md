@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Indonesian Lamb Satay"
 title: "Recipe of Any-night-of-the-week Indonesian Lamb Satay"
 slug: 789-recipe-of-any-night-of-the-week-indonesian-lamb-satay
-date: 2020-06-26T09:11:40.375Z
+date: 2021-06-26T09:11:40.375Z
 image: https://img-global.cpcdn.com/recipes/be99937268774f51/751x532cq70/indonesian-lamb-satay-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/be99937268774f51/751x532cq70/indonesian-lamb-satay-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/be99937268774f51/751x532cq70/indonesian-lamb-satay-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Any-night-of-the-week Simple spicy lamb soup"
 title: "Simple Way to Prepare Any-night-of-the-week Simple spicy lamb soup"
 slug: 841-simple-way-to-prepare-any-night-of-the-week-simple-spicy-lamb-soup
-date: 2020-11-20T16:38:19.685Z
+date: 2021-11-20T16:38:19.685Z
 image: https://img-global.cpcdn.com/recipes/de55d2520afa51c8/751x532cq70/simple-spicy-lamb-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/de55d2520afa51c8/751x532cq70/simple-spicy-lamb-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/de55d2520afa51c8/751x532cq70/simple-spicy-lamb-soup-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Pumpkin bread"
 title: "Recipe of Any-night-of-the-week Pumpkin bread"
 slug: 485-recipe-of-any-night-of-the-week-pumpkin-bread
-date: 2020-10-12T17:26:08.996Z
+date: 2021-10-12T17:26:08.996Z
 image: https://img-global.cpcdn.com/recipes/811427436b45fcb9/751x532cq70/pumpkin-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/811427436b45fcb9/751x532cq70/pumpkin-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/811427436b45fcb9/751x532cq70/pumpkin-bread-recipe-main-photo.jpg

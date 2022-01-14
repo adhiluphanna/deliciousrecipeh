@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Award-winning Lamb and Beef Noodle Casserole"
 title: "Step-by-Step Guide to Prepare Award-winning Lamb and Beef Noodle Casserole"
 slug: 751-step-by-step-guide-to-prepare-award-winning-lamb-and-beef-noodle-casserole
-date: 2020-08-21T23:41:26.770Z
+date: 2021-08-21T23:41:26.770Z
 image: https://img-global.cpcdn.com/recipes/a16a57537f1ddb8f/751x532cq70/lamb-and-beef-noodle-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a16a57537f1ddb8f/751x532cq70/lamb-and-beef-noodle-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a16a57537f1ddb8f/751x532cq70/lamb-and-beef-noodle-casserole-recipe-main-photo.jpg

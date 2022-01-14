@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Pineapple cocktail"
 title: "Easiest Way to Make Quick Pineapple cocktail"
 slug: 964-easiest-way-to-make-quick-pineapple-cocktail
-date: 2020-11-07T01:41:31.150Z
+date: 2021-11-07T01:41:31.150Z
 image: https://img-global.cpcdn.com/recipes/93db0131d9e24c9c/751x532cq70/pineapple-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/93db0131d9e24c9c/751x532cq70/pineapple-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/93db0131d9e24c9c/751x532cq70/pineapple-cocktail-recipe-main-photo.jpg

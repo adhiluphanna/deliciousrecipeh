@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Lamb Stew Batch 8"
 title: "Steps to Prepare Ultimate Lamb Stew Batch 8"
 slug: 702-steps-to-prepare-ultimate-lamb-stew-batch-8
-date: 2020-08-02T13:50:14.928Z
+date: 2021-08-02T13:50:14.928Z
 image: https://img-global.cpcdn.com/recipes/27c1d9db880d73c5/751x532cq70/lamb-stew-batch-8-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/27c1d9db880d73c5/751x532cq70/lamb-stew-batch-8-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/27c1d9db880d73c5/751x532cq70/lamb-stew-batch-8-recipe-main-photo.jpg

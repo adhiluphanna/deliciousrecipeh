@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Milk Bread"
 title: "Recipe of Award-winning Milk Bread"
 slug: 461-recipe-of-award-winning-milk-bread
-date: 2020-08-24T04:54:17.812Z
+date: 2021-08-24T04:54:17.812Z
 image: https://img-global.cpcdn.com/recipes/91d8e7ae1a98e548/751x532cq70/milk-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/91d8e7ae1a98e548/751x532cq70/milk-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/91d8e7ae1a98e548/751x532cq70/milk-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Homemade Banana Bread"
 title: "Easiest Way to Make Homemade Banana Bread"
 slug: 500-easiest-way-to-make-homemade-banana-bread
-date: 2020-07-03T21:54:46.681Z
+date: 2021-07-03T21:54:46.681Z
 image: https://img-global.cpcdn.com/recipes/a2e127b992d2468a/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a2e127b992d2468a/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a2e127b992d2468a/751x532cq70/banana-bread-recipe-main-photo.jpg

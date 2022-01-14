@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Cocktail"
 title: "How to Prepare Ultimate Cocktail"
 slug: 911-how-to-prepare-ultimate-cocktail
-date: 2020-08-06T10:49:42.838Z
+date: 2021-08-06T10:49:42.838Z
 image: https://img-global.cpcdn.com/recipes/dda2928f610c3f8a/751x532cq70/cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dda2928f610c3f8a/751x532cq70/cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dda2928f610c3f8a/751x532cq70/cocktail-recipe-main-photo.jpg

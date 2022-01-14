@@ -2,7 +2,7 @@
 description: "Recipe of Quick Home made Breadroll"
 title: "Recipe of Quick Home made Breadroll"
 slug: 544-recipe-of-quick-home-made-breadroll
-date: 2020-10-22T13:49:16.637Z
+date: 2021-10-22T13:49:16.637Z
 image: https://img-global.cpcdn.com/recipes/ad7d7b348f6bb778/751x532cq70/home-made-breadroll-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ad7d7b348f6bb778/751x532cq70/home-made-breadroll-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ad7d7b348f6bb778/751x532cq70/home-made-breadroll-recipe-main-photo.jpg

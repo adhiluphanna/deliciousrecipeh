@@ -2,7 +2,7 @@
 description: "Recipe of Quick Mallorca Bread"
 title: "Recipe of Quick Mallorca Bread"
 slug: 515-recipe-of-quick-mallorca-bread
-date: 2020-09-06T11:22:07.971Z
+date: 2021-09-06T11:22:07.971Z
 image: https://img-global.cpcdn.com/recipes/8b9071fee88ae095/751x532cq70/mallorca-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8b9071fee88ae095/751x532cq70/mallorca-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8b9071fee88ae095/751x532cq70/mallorca-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Quick Turkey avocado bacon sandwiches (with rosemary olive oil rolls)"
 title: "Step-by-Step Guide to Prepare Quick Turkey avocado bacon sandwiches (with rosemary olive oil rolls)"
 slug: 125-step-by-step-guide-to-prepare-quick-turkey-avocado-bacon-sandwiches-with-rosemary-olive-oil-rolls
-date: 2020-07-18T22:12:42.518Z
+date: 2021-07-18T22:12:42.518Z
 image: https://img-global.cpcdn.com/recipes/da65b8018563ab1d/751x532cq70/turkey-avocado-bacon-sandwiches-with-rosemary-olive-oil-rolls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/da65b8018563ab1d/751x532cq70/turkey-avocado-bacon-sandwiches-with-rosemary-olive-oil-rolls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/da65b8018563ab1d/751x532cq70/turkey-avocado-bacon-sandwiches-with-rosemary-olive-oil-rolls-recipe-main-photo.jpg

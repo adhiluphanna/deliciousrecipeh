@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Oatmeal bread"
 title: "Recipe of Ultimate Oatmeal bread"
 slug: 625-recipe-of-ultimate-oatmeal-bread
-date: 2020-06-17T21:23:35.063Z
+date: 2021-06-17T21:23:35.063Z
 image: https://img-global.cpcdn.com/recipes/06c18d2735273a71/751x532cq70/oatmeal-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/06c18d2735273a71/751x532cq70/oatmeal-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/06c18d2735273a71/751x532cq70/oatmeal-bread-recipe-main-photo.jpg

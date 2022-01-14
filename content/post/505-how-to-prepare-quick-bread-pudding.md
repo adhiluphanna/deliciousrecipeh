@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Bread Pudding"
 title: "How to Prepare Quick Bread Pudding"
 slug: 505-how-to-prepare-quick-bread-pudding
-date: 2020-08-16T20:15:13.624Z
+date: 2021-08-16T20:15:13.624Z
 image: https://img-global.cpcdn.com/recipes/d262fe9f3fc8115d/751x532cq70/bread-pudding-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d262fe9f3fc8115d/751x532cq70/bread-pudding-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d262fe9f3fc8115d/751x532cq70/bread-pudding-recipe-main-photo.jpg

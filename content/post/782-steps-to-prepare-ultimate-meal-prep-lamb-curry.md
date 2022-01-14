@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Meal Prep: Lamb Curry"
 title: "Steps to Prepare Ultimate Meal Prep: Lamb Curry"
 slug: 782-steps-to-prepare-ultimate-meal-prep-lamb-curry
-date: 2020-11-20T08:49:31.580Z
+date: 2021-11-20T08:49:31.580Z
 image: https://img-global.cpcdn.com/recipes/203d77489e5a2191/751x532cq70/meal-prep-lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/203d77489e5a2191/751x532cq70/meal-prep-lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/203d77489e5a2191/751x532cq70/meal-prep-lamb-curry-recipe-main-photo.jpg

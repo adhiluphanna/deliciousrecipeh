@@ -2,7 +2,7 @@
 description: "Recipe of Quick Cajun Crab Dip"
 title: "Recipe of Quick Cajun Crab Dip"
 slug: 430-recipe-of-quick-cajun-crab-dip
-date: 2020-07-30T17:17:22.095Z
+date: 2021-07-30T17:17:22.095Z
 image: https://img-global.cpcdn.com/recipes/5450696844378112/751x532cq70/cajun-crab-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5450696844378112/751x532cq70/cajun-crab-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5450696844378112/751x532cq70/cajun-crab-dip-recipe-main-photo.jpg

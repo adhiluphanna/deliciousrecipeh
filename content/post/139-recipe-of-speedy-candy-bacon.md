@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Candy Bacon"
 title: "Recipe of Speedy Candy Bacon"
 slug: 139-recipe-of-speedy-candy-bacon
-date: 2020-06-15T14:35:19.054Z
+date: 2021-06-15T14:35:19.054Z
 image: https://img-global.cpcdn.com/recipes/e5c5c95a33e5aa9c/751x532cq70/candy-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e5c5c95a33e5aa9c/751x532cq70/candy-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e5c5c95a33e5aa9c/751x532cq70/candy-bacon-recipe-main-photo.jpg

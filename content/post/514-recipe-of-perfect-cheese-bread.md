@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Cheese bread"
 title: "Recipe of Perfect Cheese bread"
 slug: 514-recipe-of-perfect-cheese-bread
-date: 2020-05-23T09:53:40.692Z
+date: 2021-05-23T09:53:40.692Z
 image: https://img-global.cpcdn.com/recipes/a1fe40c21b25db69/751x532cq70/cheese-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a1fe40c21b25db69/751x532cq70/cheese-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a1fe40c21b25db69/751x532cq70/cheese-bread-recipe-main-photo.jpg

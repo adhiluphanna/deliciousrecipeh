@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning Bacon Mushroom Swiss Burger Casserole"
 title: "Easiest Way to Prepare Award-winning Bacon Mushroom Swiss Burger Casserole"
 slug: 127-easiest-way-to-prepare-award-winning-bacon-mushroom-swiss-burger-casserole
-date: 2020-06-18T21:33:14.068Z
+date: 2021-06-18T21:33:14.068Z
 image: https://img-global.cpcdn.com/recipes/749af8c036952174/751x532cq70/bacon-mushroom-swiss-burger-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/749af8c036952174/751x532cq70/bacon-mushroom-swiss-burger-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/749af8c036952174/751x532cq70/bacon-mushroom-swiss-burger-casserole-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Any-night-of-the-week crab salad"
 title: "Step-by-Step Guide to Make Any-night-of-the-week crab salad"
 slug: 356-step-by-step-guide-to-make-any-night-of-the-week-crab-salad
-date: 2020-07-02T17:14:47.858Z
+date: 2021-07-02T17:14:47.858Z
 image: https://img-global.cpcdn.com/recipes/5623342925086720/751x532cq70/crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5623342925086720/751x532cq70/crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5623342925086720/751x532cq70/crab-salad-recipe-main-photo.jpg

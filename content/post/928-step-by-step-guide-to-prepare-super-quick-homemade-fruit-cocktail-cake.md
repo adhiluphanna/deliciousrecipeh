@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Super Quick Homemade Fruit Cocktail Cake"
 title: "Step-by-Step Guide to Prepare Super Quick Homemade Fruit Cocktail Cake"
 slug: 928-step-by-step-guide-to-prepare-super-quick-homemade-fruit-cocktail-cake
-date: 2020-06-07T07:01:03.735Z
+date: 2021-06-07T07:01:03.735Z
 image: https://img-global.cpcdn.com/recipes/50deab4a2b6bc128/751x532cq70/fruit-cocktail-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/50deab4a2b6bc128/751x532cq70/fruit-cocktail-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/50deab4a2b6bc128/751x532cq70/fruit-cocktail-cake-recipe-main-photo.jpg

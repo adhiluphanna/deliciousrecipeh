@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Sauteé Caulini, Brown Mushroom, Bacon, and Walnut"
 title: "Easiest Way to Prepare Favorite Sauteé Caulini, Brown Mushroom, Bacon, and Walnut"
 slug: 104-easiest-way-to-prepare-favorite-sautee-caulini-brown-mushroom-bacon-and-walnut
-date: 2020-11-23T05:42:28.991Z
+date: 2021-11-23T05:42:28.991Z
 image: https://img-global.cpcdn.com/recipes/b9315de15564d30c/751x532cq70/sautee-caulini-brown-mushroom-bacon-and-walnut-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b9315de15564d30c/751x532cq70/sautee-caulini-brown-mushroom-bacon-and-walnut-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b9315de15564d30c/751x532cq70/sautee-caulini-brown-mushroom-bacon-and-walnut-recipe-main-photo.jpg

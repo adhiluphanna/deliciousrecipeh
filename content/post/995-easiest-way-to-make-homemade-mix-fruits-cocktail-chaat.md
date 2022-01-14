@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Homemade Mix Fruits cocktail Chaat"
 title: "Easiest Way to Make Homemade Mix Fruits cocktail Chaat"
 slug: 995-easiest-way-to-make-homemade-mix-fruits-cocktail-chaat
-date: 2020-06-06T14:19:16.598Z
+date: 2021-06-06T14:19:16.598Z
 image: https://img-global.cpcdn.com/recipes/17d6d333814426e8/751x532cq70/mix-fruits-cocktail-chaat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/17d6d333814426e8/751x532cq70/mix-fruits-cocktail-chaat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/17d6d333814426e8/751x532cq70/mix-fruits-cocktail-chaat-recipe-main-photo.jpg

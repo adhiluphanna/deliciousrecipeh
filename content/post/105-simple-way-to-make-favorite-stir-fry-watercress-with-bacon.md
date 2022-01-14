@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Stir Fry Watercress with Bacon"
 title: "Simple Way to Make Favorite Stir Fry Watercress with Bacon"
 slug: 105-simple-way-to-make-favorite-stir-fry-watercress-with-bacon
-date: 2020-09-29T15:33:55.818Z
+date: 2021-09-29T15:33:55.818Z
 image: https://img-global.cpcdn.com/recipes/446e46fbf922240f/751x532cq70/stir-fry-watercress-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/446e46fbf922240f/751x532cq70/stir-fry-watercress-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/446e46fbf922240f/751x532cq70/stir-fry-watercress-with-bacon-recipe-main-photo.jpg

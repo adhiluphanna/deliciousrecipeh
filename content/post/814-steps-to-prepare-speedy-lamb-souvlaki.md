@@ -2,7 +2,7 @@
 description: "Steps to Prepare Speedy Lamb Souvlaki"
 title: "Steps to Prepare Speedy Lamb Souvlaki"
 slug: 814-steps-to-prepare-speedy-lamb-souvlaki
-date: 2020-07-06T23:49:49.211Z
+date: 2021-07-06T23:49:49.211Z
 image: https://img-global.cpcdn.com/recipes/5367264673529856/751x532cq70/lamb-souvlaki-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5367264673529856/751x532cq70/lamb-souvlaki-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5367264673529856/751x532cq70/lamb-souvlaki-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Super Quick Homemade Cheesy malunggay bread"
 title: "Step-by-Step Guide to Make Super Quick Homemade Cheesy malunggay bread"
 slug: 599-step-by-step-guide-to-make-super-quick-homemade-cheesy-malunggay-bread
-date: 2020-11-02T19:47:07.273Z
+date: 2021-11-02T19:47:07.273Z
 image: https://img-global.cpcdn.com/recipes/5669ab11d827ae31/751x532cq70/cheesy-malunggay-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5669ab11d827ae31/751x532cq70/cheesy-malunggay-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5669ab11d827ae31/751x532cq70/cheesy-malunggay-bread-recipe-main-photo.jpg

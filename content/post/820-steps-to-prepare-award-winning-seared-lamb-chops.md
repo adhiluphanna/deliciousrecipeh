@@ -2,7 +2,7 @@
 description: "Steps to Prepare Award-winning Seared Lamb Chops"
 title: "Steps to Prepare Award-winning Seared Lamb Chops"
 slug: 820-steps-to-prepare-award-winning-seared-lamb-chops
-date: 2020-07-06T23:34:23.670Z
+date: 2021-07-06T23:34:23.670Z
 image: https://img-global.cpcdn.com/recipes/2ce0bfe9c217ce31/751x532cq70/seared-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2ce0bfe9c217ce31/751x532cq70/seared-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2ce0bfe9c217ce31/751x532cq70/seared-lamb-chops-recipe-main-photo.jpg

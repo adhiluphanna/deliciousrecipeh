@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Homemade Mango Cocktail Chat"
 title: "Simple Way to Prepare Homemade Mango Cocktail Chat"
 slug: 999-simple-way-to-prepare-homemade-mango-cocktail-chat
-date: 2020-07-23T07:50:25.345Z
+date: 2021-07-23T07:50:25.345Z
 image: https://img-global.cpcdn.com/recipes/d9697af427098cdd/751x532cq70/mango-cocktail-chat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d9697af427098cdd/751x532cq70/mango-cocktail-chat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d9697af427098cdd/751x532cq70/mango-cocktail-chat-recipe-main-photo.jpg

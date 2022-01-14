@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Cocktail fried rice"
 title: "Recipe of Ultimate Cocktail fried rice"
 slug: 998-recipe-of-ultimate-cocktail-fried-rice
-date: 2020-10-18T15:15:48.679Z
+date: 2021-10-18T15:15:48.679Z
 image: https://img-global.cpcdn.com/recipes/d5e29dad72aa2aca/751x532cq70/cocktail-fried-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d5e29dad72aa2aca/751x532cq70/cocktail-fried-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d5e29dad72aa2aca/751x532cq70/cocktail-fried-rice-recipe-main-photo.jpg

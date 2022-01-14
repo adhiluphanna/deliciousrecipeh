@@ -2,7 +2,7 @@
 description: "Recipe of Quick Special lamb chops"
 title: "Recipe of Quick Special lamb chops"
 slug: 897-recipe-of-quick-special-lamb-chops
-date: 2020-08-22T22:37:54.800Z
+date: 2021-08-22T22:37:54.800Z
 image: https://img-global.cpcdn.com/recipes/694e276fcd26d295/751x532cq70/special-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/694e276fcd26d295/751x532cq70/special-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/694e276fcd26d295/751x532cq70/special-lamb-chops-recipe-main-photo.jpg

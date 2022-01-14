@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Any-night-of-the-week Shrimp Cocktail"
 title: "Step-by-Step Guide to Prepare Any-night-of-the-week Shrimp Cocktail"
 slug: 966-step-by-step-guide-to-prepare-any-night-of-the-week-shrimp-cocktail
-date: 2020-11-19T14:32:20.937Z
+date: 2021-11-19T14:32:20.937Z
 image: https://img-global.cpcdn.com/recipes/4a904bf9078910a4/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4a904bf9078910a4/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4a904bf9078910a4/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg

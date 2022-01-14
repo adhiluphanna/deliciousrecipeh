@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Traditional Welsh Lamb Cawl"
 title: "Simple Way to Make Award-winning Traditional Welsh Lamb Cawl"
 slug: 880-simple-way-to-make-award-winning-traditional-welsh-lamb-cawl
-date: 2020-05-27T20:39:56.899Z
+date: 2021-05-27T20:39:56.899Z
 image: https://img-global.cpcdn.com/recipes/34d2f47b57160dfe/751x532cq70/traditional-welsh-lamb-cawl-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/34d2f47b57160dfe/751x532cq70/traditional-welsh-lamb-cawl-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/34d2f47b57160dfe/751x532cq70/traditional-welsh-lamb-cawl-recipe-main-photo.jpg

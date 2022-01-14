@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Sidecar: a French cocktail"
 title: "Simple Way to Make Super Quick Homemade Sidecar: a French cocktail"
 slug: 914-simple-way-to-make-super-quick-homemade-sidecar-a-french-cocktail
-date: 2020-07-18T10:03:15.223Z
+date: 2021-07-18T10:03:15.223Z
 image: https://img-global.cpcdn.com/recipes/03e48568d886a8cb/751x532cq70/sidecar-a-french-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/03e48568d886a8cb/751x532cq70/sidecar-a-french-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/03e48568d886a8cb/751x532cq70/sidecar-a-french-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Crab Salad Magic"
 title: "Easiest Way to Prepare Perfect Crab Salad Magic"
 slug: 345-easiest-way-to-prepare-perfect-crab-salad-magic
-date: 2020-06-05T07:27:04.896Z
+date: 2021-06-05T07:27:04.896Z
 image: https://img-global.cpcdn.com/recipes/29733929cde5924a/751x532cq70/crab-salad-magic-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/29733929cde5924a/751x532cq70/crab-salad-magic-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/29733929cde5924a/751x532cq70/crab-salad-magic-recipe-main-photo.jpg

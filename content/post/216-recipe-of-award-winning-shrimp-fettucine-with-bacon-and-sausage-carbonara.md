@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Shrimp Fettucine with bacon and sausage carbonara"
 title: "Recipe of Award-winning Shrimp Fettucine with bacon and sausage carbonara"
 slug: 216-recipe-of-award-winning-shrimp-fettucine-with-bacon-and-sausage-carbonara
-date: 2020-08-05T17:30:28.710Z
+date: 2021-08-05T17:30:28.710Z
 image: https://img-global.cpcdn.com/recipes/5e9f627f8d7553df/751x532cq70/shrimp-fettucine-with-bacon-and-sausage-carbonara-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5e9f627f8d7553df/751x532cq70/shrimp-fettucine-with-bacon-and-sausage-carbonara-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5e9f627f8d7553df/751x532cq70/shrimp-fettucine-with-bacon-and-sausage-carbonara-recipe-main-photo.jpg

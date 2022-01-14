@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Quick Crab Shala"
 title: "Step-by-Step Guide to Prepare Quick Crab Shala"
 slug: 336-step-by-step-guide-to-prepare-quick-crab-shala
-date: 2020-09-21T05:07:32.760Z
+date: 2021-09-21T05:07:32.760Z
 image: https://img-global.cpcdn.com/recipes/5433291325833216/751x532cq70/crab-shala-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5433291325833216/751x532cq70/crab-shala-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5433291325833216/751x532cq70/crab-shala-recipe-main-photo.jpg

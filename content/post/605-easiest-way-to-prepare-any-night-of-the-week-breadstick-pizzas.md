@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Breadstick Pizzas"
 title: "Easiest Way to Prepare Any-night-of-the-week Breadstick Pizzas"
 slug: 605-easiest-way-to-prepare-any-night-of-the-week-breadstick-pizzas
-date: 2020-08-23T04:06:53.496Z
+date: 2021-08-23T04:06:53.496Z
 image: https://img-global.cpcdn.com/recipes/4925732099194880/751x532cq70/breadstick-pizzas-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4925732099194880/751x532cq70/breadstick-pizzas-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4925732099194880/751x532cq70/breadstick-pizzas-recipe-main-photo.jpg

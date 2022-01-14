@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Grilled Lamb Chops and Potatoes #themechallenge"
 title: "Recipe of Perfect Grilled Lamb Chops and Potatoes #themechallenge"
 slug: 850-recipe-of-perfect-grilled-lamb-chops-and-potatoes-themechallenge
-date: 2020-11-21T22:47:16.230Z
+date: 2021-11-21T22:47:16.230Z
 image: https://img-global.cpcdn.com/recipes/e30371e7fa25046f/751x532cq70/grilled-lamb-chops-and-potatoes-themechallenge-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e30371e7fa25046f/751x532cq70/grilled-lamb-chops-and-potatoes-themechallenge-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e30371e7fa25046f/751x532cq70/grilled-lamb-chops-and-potatoes-themechallenge-recipe-main-photo.jpg

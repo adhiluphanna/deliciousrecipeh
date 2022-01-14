@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Chilli fried cocktail sausage"
 title: "Recipe of Perfect Chilli fried cocktail sausage"
 slug: 943-recipe-of-perfect-chilli-fried-cocktail-sausage
-date: 2020-11-07T11:39:34.102Z
+date: 2021-11-07T11:39:34.102Z
 image: https://img-global.cpcdn.com/recipes/2f49f71089f64a18/751x532cq70/chilli-fried-cocktail-sausage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2f49f71089f64a18/751x532cq70/chilli-fried-cocktail-sausage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2f49f71089f64a18/751x532cq70/chilli-fried-cocktail-sausage-recipe-main-photo.jpg

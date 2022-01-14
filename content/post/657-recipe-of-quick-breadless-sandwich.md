@@ -2,7 +2,7 @@
 description: "Recipe of Quick Breadless sandwich"
 title: "Recipe of Quick Breadless sandwich"
 slug: 657-recipe-of-quick-breadless-sandwich
-date: 2020-10-02T21:14:23.411Z
+date: 2021-10-02T21:14:23.411Z
 image: https://img-global.cpcdn.com/recipes/64fc6153c7fbeb37/751x532cq70/breadless-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/64fc6153c7fbeb37/751x532cq70/breadless-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/64fc6153c7fbeb37/751x532cq70/breadless-sandwich-recipe-main-photo.jpg

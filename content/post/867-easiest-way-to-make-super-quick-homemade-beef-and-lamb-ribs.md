@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Super Quick Homemade Beef and lamb ribs"
 title: "Easiest Way to Make Super Quick Homemade Beef and lamb ribs"
 slug: 867-easiest-way-to-make-super-quick-homemade-beef-and-lamb-ribs
-date: 2020-09-29T19:22:53.278Z
+date: 2021-09-29T19:22:53.278Z
 image: https://img-global.cpcdn.com/recipes/ecc2bd44f3549b88/751x532cq70/beef-and-lamb-ribs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ecc2bd44f3549b88/751x532cq70/beef-and-lamb-ribs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ecc2bd44f3549b88/751x532cq70/beef-and-lamb-ribs-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Nann breads"
 title: "Steps to Prepare Quick Nann breads"
 slug: 602-steps-to-prepare-quick-nann-breads
-date: 2020-09-04T05:42:37.061Z
+date: 2021-09-04T05:42:37.061Z
 image: https://img-global.cpcdn.com/recipes/1fe9a33c9e222891/751x532cq70/nann-breads-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1fe9a33c9e222891/751x532cq70/nann-breads-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1fe9a33c9e222891/751x532cq70/nann-breads-recipe-main-photo.jpg

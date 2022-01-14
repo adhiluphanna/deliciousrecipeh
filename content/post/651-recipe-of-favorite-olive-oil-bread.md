@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Olive Oil Bread"
 title: "Recipe of Favorite Olive Oil Bread"
 slug: 651-recipe-of-favorite-olive-oil-bread
-date: 2020-09-15T02:30:28.833Z
+date: 2021-09-15T02:30:28.833Z
 image: https://img-global.cpcdn.com/recipes/86e1a36f1a6618d8/751x532cq70/olive-oil-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/86e1a36f1a6618d8/751x532cq70/olive-oil-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/86e1a36f1a6618d8/751x532cq70/olive-oil-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Ultimate Lamb pepper meat"
 title: "Easiest Way to Make Ultimate Lamb pepper meat"
 slug: 769-easiest-way-to-make-ultimate-lamb-pepper-meat
-date: 2020-10-12T00:20:59.349Z
+date: 2021-10-12T00:20:59.349Z
 image: https://img-global.cpcdn.com/recipes/57fae5cd2c9045b8/751x532cq70/lamb-pepper-meat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/57fae5cd2c9045b8/751x532cq70/lamb-pepper-meat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/57fae5cd2c9045b8/751x532cq70/lamb-pepper-meat-recipe-main-photo.jpg

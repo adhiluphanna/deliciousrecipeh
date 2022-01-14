@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Soft shell crab tempura"
 title: "Recipe of Super Quick Homemade Soft shell crab tempura"
 slug: 427-recipe-of-super-quick-homemade-soft-shell-crab-tempura
-date: 2020-09-05T03:06:37.921Z
+date: 2021-09-05T03:06:37.921Z
 image: https://img-global.cpcdn.com/recipes/b2d158cd09dc5b1d/751x532cq70/soft-shell-crab-tempura-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b2d158cd09dc5b1d/751x532cq70/soft-shell-crab-tempura-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b2d158cd09dc5b1d/751x532cq70/soft-shell-crab-tempura-recipe-main-photo.jpg

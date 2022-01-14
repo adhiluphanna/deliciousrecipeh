@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Bread"
 title: "Simple Way to Prepare Ultimate Bread"
 slug: 457-simple-way-to-prepare-ultimate-bread
-date: 2020-08-09T09:26:57.088Z
+date: 2021-08-09T09:26:57.088Z
 image: https://img-global.cpcdn.com/recipes/c761c12dc021f745/751x532cq70/bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c761c12dc021f745/751x532cq70/bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c761c12dc021f745/751x532cq70/bread-recipe-main-photo.jpg

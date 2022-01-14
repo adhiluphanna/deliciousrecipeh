@@ -2,7 +2,7 @@
 description: "Recipe of Quick Chicken and Bacon with Brown Rice"
 title: "Recipe of Quick Chicken and Bacon with Brown Rice"
 slug: 97-recipe-of-quick-chicken-and-bacon-with-brown-rice
-date: 2020-06-11T19:01:47.026Z
+date: 2021-06-11T19:01:47.026Z
 image: https://img-global.cpcdn.com/recipes/967414a33e3f67e8/751x532cq70/chicken-and-bacon-with-brown-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/967414a33e3f67e8/751x532cq70/chicken-and-bacon-with-brown-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/967414a33e3f67e8/751x532cq70/chicken-and-bacon-with-brown-rice-recipe-main-photo.jpg

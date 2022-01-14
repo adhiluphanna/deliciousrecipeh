@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Garlicy Brussels Sprouts and Carrots with Crispy Bacon"
 title: "Step-by-Step Guide to Make Speedy Garlicy Brussels Sprouts and Carrots with Crispy Bacon"
 slug: 239-step-by-step-guide-to-make-speedy-garlicy-brussels-sprouts-and-carrots-with-crispy-bacon
-date: 2020-08-09T08:58:14.799Z
+date: 2021-08-09T08:58:14.799Z
 image: https://img-global.cpcdn.com/recipes/d2bfbdb159838462/751x532cq70/garlicy-brussels-sprouts-and-carrots-with-crispy-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d2bfbdb159838462/751x532cq70/garlicy-brussels-sprouts-and-carrots-with-crispy-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d2bfbdb159838462/751x532cq70/garlicy-brussels-sprouts-and-carrots-with-crispy-bacon-recipe-main-photo.jpg

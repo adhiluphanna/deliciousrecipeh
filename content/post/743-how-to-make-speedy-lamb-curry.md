@@ -2,7 +2,7 @@
 description: "How to Make Speedy Lamb curry"
 title: "How to Make Speedy Lamb curry"
 slug: 743-how-to-make-speedy-lamb-curry
-date: 2020-07-13T20:42:49.377Z
+date: 2021-07-13T20:42:49.377Z
 image: https://img-global.cpcdn.com/recipes/71a127ec23951965/751x532cq70/lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/71a127ec23951965/751x532cq70/lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/71a127ec23951965/751x532cq70/lamb-curry-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Ultimate Honey Soy Chilli Lamb Cutlets"
 title: "Step-by-Step Guide to Prepare Ultimate Honey Soy Chilli Lamb Cutlets"
 slug: 691-step-by-step-guide-to-prepare-ultimate-honey-soy-chilli-lamb-cutlets
-date: 2020-10-10T03:41:59.878Z
+date: 2021-10-10T03:41:59.878Z
 image: https://img-global.cpcdn.com/recipes/a1e5139e58bf454a/751x532cq70/honey-soy-chilli-lamb-cutlets-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a1e5139e58bf454a/751x532cq70/honey-soy-chilli-lamb-cutlets-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a1e5139e58bf454a/751x532cq70/honey-soy-chilli-lamb-cutlets-recipe-main-photo.jpg

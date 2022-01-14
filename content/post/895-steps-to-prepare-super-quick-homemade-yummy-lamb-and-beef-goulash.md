@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade Yummy lamb and beef goulash"
 title: "Steps to Prepare Super Quick Homemade Yummy lamb and beef goulash"
 slug: 895-steps-to-prepare-super-quick-homemade-yummy-lamb-and-beef-goulash
-date: 2020-08-07T02:00:52.217Z
+date: 2021-08-07T02:00:52.217Z
 image: https://img-global.cpcdn.com/recipes/27342fe2b64b158a/751x532cq70/yummy-lamb-and-beef-goulash-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/27342fe2b64b158a/751x532cq70/yummy-lamb-and-beef-goulash-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/27342fe2b64b158a/751x532cq70/yummy-lamb-and-beef-goulash-recipe-main-photo.jpg

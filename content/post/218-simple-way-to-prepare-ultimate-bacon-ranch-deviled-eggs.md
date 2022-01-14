@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Bacon ranch deviled eggs"
 title: "Simple Way to Prepare Ultimate Bacon ranch deviled eggs"
 slug: 218-simple-way-to-prepare-ultimate-bacon-ranch-deviled-eggs
-date: 2020-09-19T04:49:37.835Z
+date: 2021-09-19T04:49:37.835Z
 image: https://img-global.cpcdn.com/recipes/f96d3d0544f8f41c/751x532cq70/bacon-ranch-deviled-eggs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f96d3d0544f8f41c/751x532cq70/bacon-ranch-deviled-eggs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f96d3d0544f8f41c/751x532cq70/bacon-ranch-deviled-eggs-recipe-main-photo.jpg

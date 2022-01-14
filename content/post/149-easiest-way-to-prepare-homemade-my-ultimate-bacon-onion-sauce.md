@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade My Ultimate Bacon Onion Sauce"
 title: "Easiest Way to Prepare Homemade My Ultimate Bacon Onion Sauce"
 slug: 149-easiest-way-to-prepare-homemade-my-ultimate-bacon-onion-sauce
-date: 2020-07-06T14:20:26.276Z
+date: 2021-07-06T14:20:26.276Z
 image: https://img-global.cpcdn.com/recipes/b08969e1d8f2df69/751x532cq70/my-ultimate-bacon-onion-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b08969e1d8f2df69/751x532cq70/my-ultimate-bacon-onion-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b08969e1d8f2df69/751x532cq70/my-ultimate-bacon-onion-sauce-recipe-main-photo.jpg

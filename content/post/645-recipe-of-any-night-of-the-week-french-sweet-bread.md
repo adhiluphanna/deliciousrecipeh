@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week French sweet bread"
 title: "Recipe of Any-night-of-the-week French sweet bread"
 slug: 645-recipe-of-any-night-of-the-week-french-sweet-bread
-date: 2020-06-15T08:20:27.958Z
+date: 2021-06-15T08:20:27.958Z
 image: https://img-global.cpcdn.com/recipes/feffaf033724ab37/751x532cq70/french-sweet-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/feffaf033724ab37/751x532cq70/french-sweet-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/feffaf033724ab37/751x532cq70/french-sweet-bread-recipe-main-photo.jpg

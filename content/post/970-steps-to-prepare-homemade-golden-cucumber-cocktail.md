@@ -2,7 +2,7 @@
 description: "Steps to Prepare Homemade Golden Cucumber (cocktail)"
 title: "Steps to Prepare Homemade Golden Cucumber (cocktail)"
 slug: 970-steps-to-prepare-homemade-golden-cucumber-cocktail
-date: 2020-06-05T10:04:30.347Z
+date: 2021-06-05T10:04:30.347Z
 image: https://img-global.cpcdn.com/recipes/1167aac5280eb01f/751x532cq70/golden-cucumber-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1167aac5280eb01f/751x532cq70/golden-cucumber-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1167aac5280eb01f/751x532cq70/golden-cucumber-cocktail-recipe-main-photo.jpg

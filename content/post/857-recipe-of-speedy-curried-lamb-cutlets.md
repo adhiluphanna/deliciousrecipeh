@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Curried Lamb Cutlets"
 title: "Recipe of Speedy Curried Lamb Cutlets"
 slug: 857-recipe-of-speedy-curried-lamb-cutlets
-date: 2020-07-03T10:03:27.598Z
+date: 2021-07-03T10:03:27.598Z
 image: https://img-global.cpcdn.com/recipes/0a204daa54c67f50/751x532cq70/curried-lamb-cutlets-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0a204daa54c67f50/751x532cq70/curried-lamb-cutlets-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0a204daa54c67f50/751x532cq70/curried-lamb-cutlets-recipe-main-photo.jpg

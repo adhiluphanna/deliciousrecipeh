@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Crab or Lobster Bisque"
 title: "Recipe of Favorite Crab or Lobster Bisque"
 slug: 417-recipe-of-favorite-crab-or-lobster-bisque
-date: 2020-05-24T15:13:35.660Z
+date: 2021-05-24T15:13:35.660Z
 image: https://img-global.cpcdn.com/recipes/658e5646a1d09748/751x532cq70/crab-or-lobster-bisque-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/658e5646a1d09748/751x532cq70/crab-or-lobster-bisque-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/658e5646a1d09748/751x532cq70/crab-or-lobster-bisque-recipe-main-photo.jpg

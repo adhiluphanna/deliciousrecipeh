@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Speedy Crab Cakes"
 title: "Simple Way to Prepare Speedy Crab Cakes"
 slug: 324-simple-way-to-prepare-speedy-crab-cakes
-date: 2020-10-03T11:51:50.410Z
+date: 2021-10-03T11:51:50.410Z
 image: https://img-global.cpcdn.com/recipes/a27909cfc43f3148/751x532cq70/crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a27909cfc43f3148/751x532cq70/crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a27909cfc43f3148/751x532cq70/crab-cakes-recipe-main-photo.jpg

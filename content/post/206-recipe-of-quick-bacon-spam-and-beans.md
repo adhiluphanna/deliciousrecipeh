@@ -2,7 +2,7 @@
 description: "Recipe of Quick Bacon Spam and Beans"
 title: "Recipe of Quick Bacon Spam and Beans"
 slug: 206-recipe-of-quick-bacon-spam-and-beans
-date: 2020-10-10T11:29:46.949Z
+date: 2021-10-10T11:29:46.949Z
 image: https://img-global.cpcdn.com/recipes/af79b839b5b4a165/751x532cq70/bacon-spam-and-beans-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/af79b839b5b4a165/751x532cq70/bacon-spam-and-beans-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/af79b839b5b4a165/751x532cq70/bacon-spam-and-beans-recipe-main-photo.jpg

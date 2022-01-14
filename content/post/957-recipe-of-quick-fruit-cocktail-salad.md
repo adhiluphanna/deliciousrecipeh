@@ -2,7 +2,7 @@
 description: "Recipe of Quick Fruit Cocktail Salad🤙😍"
 title: "Recipe of Quick Fruit Cocktail Salad🤙😍"
 slug: 957-recipe-of-quick-fruit-cocktail-salad
-date: 2020-09-29T06:45:56.583Z
+date: 2021-09-29T06:45:56.583Z
 image: https://img-global.cpcdn.com/recipes/009e80a58e87f500/751x532cq70/fruit-cocktail-salad🤙😍-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/009e80a58e87f500/751x532cq70/fruit-cocktail-salad🤙😍-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/009e80a58e87f500/751x532cq70/fruit-cocktail-salad🤙😍-recipe-main-photo.jpg

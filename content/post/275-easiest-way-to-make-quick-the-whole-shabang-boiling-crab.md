@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick The Whole Shabang Boiling Crab"
 title: "Easiest Way to Make Quick The Whole Shabang Boiling Crab"
 slug: 275-easiest-way-to-make-quick-the-whole-shabang-boiling-crab
-date: 2020-10-29T08:34:49.680Z
+date: 2021-10-29T08:34:49.680Z
 image: https://img-global.cpcdn.com/recipes/23953ff4b0c7ec53/751x532cq70/the-whole-shabang-boiling-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/23953ff4b0c7ec53/751x532cq70/the-whole-shabang-boiling-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/23953ff4b0c7ec53/751x532cq70/the-whole-shabang-boiling-crab-recipe-main-photo.jpg

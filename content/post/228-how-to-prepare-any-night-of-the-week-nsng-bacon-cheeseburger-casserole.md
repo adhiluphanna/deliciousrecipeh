@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week NSNG Bacon Cheeseburger Casserole"
 title: "How to Prepare Any-night-of-the-week NSNG Bacon Cheeseburger Casserole"
 slug: 228-how-to-prepare-any-night-of-the-week-nsng-bacon-cheeseburger-casserole
-date: 2020-08-22T23:04:25.292Z
+date: 2021-08-22T23:04:25.292Z
 image: https://img-global.cpcdn.com/recipes/d85f0f4c4168de54/751x532cq70/nsng-bacon-cheeseburger-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d85f0f4c4168de54/751x532cq70/nsng-bacon-cheeseburger-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d85f0f4c4168de54/751x532cq70/nsng-bacon-cheeseburger-casserole-recipe-main-photo.jpg

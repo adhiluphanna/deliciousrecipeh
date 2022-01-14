@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Chicken &amp;amp; crab Alfredo lasagna roll ups"
 title: "Recipe of Homemade Chicken &amp;amp; crab Alfredo lasagna roll ups"
 slug: 254-recipe-of-homemade-chicken-and-amp-crab-alfredo-lasagna-roll-ups
-date: 2020-11-04T00:31:58.755Z
+date: 2021-11-04T00:31:58.755Z
 image: https://img-global.cpcdn.com/recipes/f84f3b86f318f1e5/751x532cq70/chicken-crab-alfredo-lasagna-roll-ups-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f84f3b86f318f1e5/751x532cq70/chicken-crab-alfredo-lasagna-roll-ups-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f84f3b86f318f1e5/751x532cq70/chicken-crab-alfredo-lasagna-roll-ups-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Country French Bread"
 title: "Recipe of Perfect Country French Bread"
 slug: 655-recipe-of-perfect-country-french-bread
-date: 2020-09-29T23:24:56.500Z
+date: 2021-09-29T23:24:56.500Z
 image: https://img-global.cpcdn.com/recipes/47d4e650f994227e/751x532cq70/country-french-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/47d4e650f994227e/751x532cq70/country-french-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/47d4e650f994227e/751x532cq70/country-french-bread-recipe-main-photo.jpg

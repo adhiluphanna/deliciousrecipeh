@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Breadroll"
 title: "Easiest Way to Prepare Homemade Breadroll"
 slug: 564-easiest-way-to-prepare-homemade-breadroll
-date: 2020-09-04T19:18:13.938Z
+date: 2021-09-04T19:18:13.938Z
 image: https://img-global.cpcdn.com/recipes/a184278f093cf3b3/751x532cq70/breadroll-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a184278f093cf3b3/751x532cq70/breadroll-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a184278f093cf3b3/751x532cq70/breadroll-recipe-main-photo.jpg

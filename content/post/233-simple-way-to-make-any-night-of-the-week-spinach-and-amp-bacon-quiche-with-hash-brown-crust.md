@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week Spinach &amp;amp; Bacon Quiche with hash brown crust"
 title: "Simple Way to Make Any-night-of-the-week Spinach &amp;amp; Bacon Quiche with hash brown crust"
 slug: 233-simple-way-to-make-any-night-of-the-week-spinach-and-amp-bacon-quiche-with-hash-brown-crust
-date: 2020-06-09T03:29:01.163Z
+date: 2021-06-09T03:29:01.163Z
 image: https://img-global.cpcdn.com/recipes/77fe4d020b396182/751x532cq70/spinach-bacon-quiche-with-hash-brown-crust-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/77fe4d020b396182/751x532cq70/spinach-bacon-quiche-with-hash-brown-crust-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/77fe4d020b396182/751x532cq70/spinach-bacon-quiche-with-hash-brown-crust-recipe-main-photo.jpg

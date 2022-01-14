@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade Grilled Lamb with khalta Rice"
 title: "Steps to Prepare Super Quick Homemade Grilled Lamb with khalta Rice"
 slug: 687-steps-to-prepare-super-quick-homemade-grilled-lamb-with-khalta-rice
-date: 2020-10-26T02:51:36.046Z
+date: 2021-10-26T02:51:36.046Z
 image: https://img-global.cpcdn.com/recipes/4bbaff77b21a32c9/751x532cq70/grilled-lamb-with-khalta-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4bbaff77b21a32c9/751x532cq70/grilled-lamb-with-khalta-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4bbaff77b21a32c9/751x532cq70/grilled-lamb-with-khalta-rice-recipe-main-photo.jpg

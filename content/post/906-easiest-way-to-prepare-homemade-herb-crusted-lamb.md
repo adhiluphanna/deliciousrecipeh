@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Herb-crusted lamb"
 title: "Easiest Way to Prepare Homemade Herb-crusted lamb"
 slug: 906-easiest-way-to-prepare-homemade-herb-crusted-lamb
-date: 2020-10-25T21:38:00.625Z
+date: 2021-10-25T21:38:00.625Z
 image: https://img-global.cpcdn.com/recipes/5789776280027136/751x532cq70/herb-crusted-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5789776280027136/751x532cq70/herb-crusted-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5789776280027136/751x532cq70/herb-crusted-lamb-recipe-main-photo.jpg

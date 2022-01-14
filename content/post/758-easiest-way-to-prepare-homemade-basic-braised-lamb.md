@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Basic Braised Lamb"
 title: "Easiest Way to Prepare Homemade Basic Braised Lamb"
 slug: 758-easiest-way-to-prepare-homemade-basic-braised-lamb
-date: 2020-10-13T22:16:30.254Z
+date: 2021-10-13T22:16:30.254Z
 image: https://img-global.cpcdn.com/recipes/5302eb9436e266ec/751x532cq70/basic-braised-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5302eb9436e266ec/751x532cq70/basic-braised-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5302eb9436e266ec/751x532cq70/basic-braised-lamb-recipe-main-photo.jpg

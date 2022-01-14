@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy BreadPeanutButterCookies"
 title: "Easiest Way to Prepare Speedy BreadPeanutButterCookies"
 slug: 546-easiest-way-to-prepare-speedy-breadpeanutbuttercookies
-date: 2020-09-26T21:06:10.186Z
+date: 2021-09-26T21:06:10.186Z
 image: https://img-global.cpcdn.com/recipes/63bbc99b65b8bca8/751x532cq70/breadpeanutbuttercookies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/63bbc99b65b8bca8/751x532cq70/breadpeanutbuttercookies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/63bbc99b65b8bca8/751x532cq70/breadpeanutbuttercookies-recipe-main-photo.jpg

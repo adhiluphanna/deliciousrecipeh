@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Mixed fruit cocktail"
 title: "Recipe of Super Quick Homemade Mixed fruit cocktail"
 slug: 1017-recipe-of-super-quick-homemade-mixed-fruit-cocktail
-date: 2020-10-15T14:20:59.000Z
+date: 2021-10-15T14:20:59.000Z
 image: https://img-global.cpcdn.com/recipes/0ec0d28da73d9681/751x532cq70/mixed-fruit-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0ec0d28da73d9681/751x532cq70/mixed-fruit-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0ec0d28da73d9681/751x532cq70/mixed-fruit-cocktail-recipe-main-photo.jpg

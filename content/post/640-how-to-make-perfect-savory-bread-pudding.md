@@ -2,7 +2,7 @@
 description: "How to Make Perfect Savory Bread Pudding"
 title: "How to Make Perfect Savory Bread Pudding"
 slug: 640-how-to-make-perfect-savory-bread-pudding
-date: 2020-09-22T02:59:53.805Z
+date: 2021-09-22T02:59:53.805Z
 image: https://img-global.cpcdn.com/recipes/aee9d657160104d7/751x532cq70/savory-bread-pudding-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/aee9d657160104d7/751x532cq70/savory-bread-pudding-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/aee9d657160104d7/751x532cq70/savory-bread-pudding-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Egg and cheese bacon roll ups"
 title: "Recipe of Homemade Egg and cheese bacon roll ups"
 slug: 137-recipe-of-homemade-egg-and-cheese-bacon-roll-ups
-date: 2020-05-26T03:08:21.549Z
+date: 2021-05-26T03:08:21.549Z
 image: https://img-global.cpcdn.com/recipes/15bc5823e1d6c26f/751x532cq70/egg-and-cheese-bacon-roll-ups-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/15bc5823e1d6c26f/751x532cq70/egg-and-cheese-bacon-roll-ups-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/15bc5823e1d6c26f/751x532cq70/egg-and-cheese-bacon-roll-ups-recipe-main-photo.jpg

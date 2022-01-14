@@ -2,7 +2,7 @@
 description: "Recipe of Quick Bacon cheeseburger meatballs with fries"
 title: "Recipe of Quick Bacon cheeseburger meatballs with fries"
 slug: 42-recipe-of-quick-bacon-cheeseburger-meatballs-with-fries
-date: 2020-08-27T19:52:36.579Z
+date: 2021-08-27T19:52:36.579Z
 image: https://img-global.cpcdn.com/recipes/afbdd63a2053be4b/751x532cq70/bacon-cheeseburger-meatballs-with-fries-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/afbdd63a2053be4b/751x532cq70/bacon-cheeseburger-meatballs-with-fries-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/afbdd63a2053be4b/751x532cq70/bacon-cheeseburger-meatballs-with-fries-recipe-main-photo.jpg

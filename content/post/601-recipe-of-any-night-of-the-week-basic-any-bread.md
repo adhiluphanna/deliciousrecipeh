@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Basic Any Bread"
 title: "Recipe of Any-night-of-the-week Basic Any Bread"
 slug: 601-recipe-of-any-night-of-the-week-basic-any-bread
-date: 2020-10-10T03:05:59.366Z
+date: 2021-10-10T03:05:59.366Z
 image: https://img-global.cpcdn.com/recipes/3d17d5efb3d9e166/751x532cq70/basic-any-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3d17d5efb3d9e166/751x532cq70/basic-any-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3d17d5efb3d9e166/751x532cq70/basic-any-bread-recipe-main-photo.jpg

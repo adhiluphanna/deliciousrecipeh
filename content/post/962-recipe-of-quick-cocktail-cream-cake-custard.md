@@ -2,7 +2,7 @@
 description: "Recipe of Quick Cocktail Cream Cake Custard"
 title: "Recipe of Quick Cocktail Cream Cake Custard"
 slug: 962-recipe-of-quick-cocktail-cream-cake-custard
-date: 2020-09-30T06:32:29.011Z
+date: 2021-09-30T06:32:29.011Z
 image: https://img-global.cpcdn.com/recipes/c80a5a1fbd9f49f4/751x532cq70/cocktail-cream-cake-custard-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c80a5a1fbd9f49f4/751x532cq70/cocktail-cream-cake-custard-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c80a5a1fbd9f49f4/751x532cq70/cocktail-cream-cake-custard-recipe-main-photo.jpg

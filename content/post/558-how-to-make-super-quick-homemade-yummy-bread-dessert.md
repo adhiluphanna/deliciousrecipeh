@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Yummy Bread Dessert"
 title: "How to Make Super Quick Homemade Yummy Bread Dessert"
 slug: 558-how-to-make-super-quick-homemade-yummy-bread-dessert
-date: 2020-11-12T00:21:06.243Z
+date: 2021-11-12T00:21:06.243Z
 image: https://img-global.cpcdn.com/recipes/17384002ac4dad59/751x532cq70/yummy-bread-dessert-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/17384002ac4dad59/751x532cq70/yummy-bread-dessert-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/17384002ac4dad59/751x532cq70/yummy-bread-dessert-recipe-main-photo.jpg

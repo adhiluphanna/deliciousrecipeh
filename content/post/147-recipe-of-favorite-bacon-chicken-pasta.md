@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Bacon chicken pasta"
 title: "Recipe of Favorite Bacon chicken pasta"
 slug: 147-recipe-of-favorite-bacon-chicken-pasta
-date: 2020-05-26T10:38:29.357Z
+date: 2021-05-26T10:38:29.357Z
 image: https://img-global.cpcdn.com/recipes/5d24c443be79bb3d/751x532cq70/bacon-chicken-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5d24c443be79bb3d/751x532cq70/bacon-chicken-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5d24c443be79bb3d/751x532cq70/bacon-chicken-pasta-recipe-main-photo.jpg

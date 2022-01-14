@@ -2,7 +2,7 @@
 description: "How to Make Perfect Bacon and Egg Fried Rice"
 title: "How to Make Perfect Bacon and Egg Fried Rice"
 slug: 131-how-to-make-perfect-bacon-and-egg-fried-rice
-date: 2020-05-29T21:03:40.423Z
+date: 2021-05-29T21:03:40.423Z
 image: https://img-global.cpcdn.com/recipes/49ef9684a55df916/751x532cq70/bacon-and-egg-fried-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/49ef9684a55df916/751x532cq70/bacon-and-egg-fried-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/49ef9684a55df916/751x532cq70/bacon-and-egg-fried-rice-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite Lamb curry"
 title: "Easiest Way to Make Favorite Lamb curry"
 slug: 736-easiest-way-to-make-favorite-lamb-curry
-date: 2020-06-29T05:56:04.411Z
+date: 2021-06-29T05:56:04.411Z
 image: https://img-global.cpcdn.com/recipes/2ffb7e12602599cf/751x532cq70/lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2ffb7e12602599cf/751x532cq70/lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2ffb7e12602599cf/751x532cq70/lamb-curry-recipe-main-photo.jpg

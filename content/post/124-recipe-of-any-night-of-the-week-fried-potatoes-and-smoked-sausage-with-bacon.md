@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Fried Potatoes and Smoked Sausage with Bacon"
 title: "Recipe of Any-night-of-the-week Fried Potatoes and Smoked Sausage with Bacon"
 slug: 124-recipe-of-any-night-of-the-week-fried-potatoes-and-smoked-sausage-with-bacon
-date: 2020-11-10T16:00:32.381Z
+date: 2021-11-10T16:00:32.381Z
 image: https://img-global.cpcdn.com/recipes/a224bbcace03899c/751x532cq70/fried-potatoes-and-smoked-sausage-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a224bbcace03899c/751x532cq70/fried-potatoes-and-smoked-sausage-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a224bbcace03899c/751x532cq70/fried-potatoes-and-smoked-sausage-with-bacon-recipe-main-photo.jpg

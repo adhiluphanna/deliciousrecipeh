@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Masala crab"
 title: "How to Prepare Any-night-of-the-week Masala crab"
 slug: 301-how-to-prepare-any-night-of-the-week-masala-crab
-date: 2020-09-20T10:23:59.446Z
+date: 2021-09-20T10:23:59.446Z
 image: https://img-global.cpcdn.com/recipes/29efb64e1cd9c32f/751x532cq70/masala-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/29efb64e1cd9c32f/751x532cq70/masala-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/29efb64e1cd9c32f/751x532cq70/masala-crab-recipe-main-photo.jpg

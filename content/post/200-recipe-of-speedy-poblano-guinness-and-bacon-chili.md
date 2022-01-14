@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Poblano Guinness and bacon chili"
 title: "Recipe of Speedy Poblano Guinness and bacon chili"
 slug: 200-recipe-of-speedy-poblano-guinness-and-bacon-chili
-date: 2020-10-25T22:12:58.792Z
+date: 2021-10-25T22:12:58.792Z
 image: https://img-global.cpcdn.com/recipes/4720719ceea910bc/751x532cq70/poblano-guinness-and-bacon-chili-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4720719ceea910bc/751x532cq70/poblano-guinness-and-bacon-chili-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4720719ceea910bc/751x532cq70/poblano-guinness-and-bacon-chili-recipe-main-photo.jpg

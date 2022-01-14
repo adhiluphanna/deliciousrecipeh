@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Crab Cakes"
 title: "Recipe of Any-night-of-the-week Crab Cakes"
 slug: 407-recipe-of-any-night-of-the-week-crab-cakes
-date: 2020-08-22T20:48:13.329Z
+date: 2021-08-22T20:48:13.329Z
 image: https://img-global.cpcdn.com/recipes/48202491/751x532cq70/crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/48202491/751x532cq70/crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/48202491/751x532cq70/crab-cakes-recipe-main-photo.jpg

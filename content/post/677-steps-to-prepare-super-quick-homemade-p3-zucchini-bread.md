@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade P3 Zucchini Bread"
 title: "Steps to Prepare Super Quick Homemade P3 Zucchini Bread"
 slug: 677-steps-to-prepare-super-quick-homemade-p3-zucchini-bread
-date: 2020-09-20T15:38:07.715Z
+date: 2021-09-20T15:38:07.715Z
 image: https://img-global.cpcdn.com/recipes/a7e65ab99eac81ad/751x532cq70/p3-zucchini-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a7e65ab99eac81ad/751x532cq70/p3-zucchini-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a7e65ab99eac81ad/751x532cq70/p3-zucchini-bread-recipe-main-photo.jpg

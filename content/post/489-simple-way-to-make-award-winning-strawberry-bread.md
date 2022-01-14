@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Strawberry bread"
 title: "Simple Way to Make Award-winning Strawberry bread"
 slug: 489-simple-way-to-make-award-winning-strawberry-bread
-date: 2020-09-28T16:14:21.034Z
+date: 2021-09-28T16:14:21.034Z
 image: https://img-global.cpcdn.com/recipes/3b8ab0df9586d49d/751x532cq70/strawberry-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3b8ab0df9586d49d/751x532cq70/strawberry-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3b8ab0df9586d49d/751x532cq70/strawberry-bread-recipe-main-photo.jpg

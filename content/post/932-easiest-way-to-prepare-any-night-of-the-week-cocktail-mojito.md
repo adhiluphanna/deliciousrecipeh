@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Cocktail mojito"
 title: "Easiest Way to Prepare Any-night-of-the-week Cocktail mojito"
 slug: 932-easiest-way-to-prepare-any-night-of-the-week-cocktail-mojito
-date: 2020-08-10T20:02:42.999Z
+date: 2021-08-10T20:02:42.999Z
 image: https://img-global.cpcdn.com/recipes/9c91afd686f2dcf7/751x532cq70/cocktail-mojito-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9c91afd686f2dcf7/751x532cq70/cocktail-mojito-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9c91afd686f2dcf7/751x532cq70/cocktail-mojito-recipe-main-photo.jpg

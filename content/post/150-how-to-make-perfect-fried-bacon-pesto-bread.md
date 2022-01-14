@@ -2,7 +2,7 @@
 description: "How to Make Perfect Fried Bacon Pesto Bread"
 title: "How to Make Perfect Fried Bacon Pesto Bread"
 slug: 150-how-to-make-perfect-fried-bacon-pesto-bread
-date: 2020-07-18T14:38:39.668Z
+date: 2021-07-18T14:38:39.668Z
 image: https://img-global.cpcdn.com/recipes/a2edd2f8d22c385b/751x532cq70/fried-bacon-pesto-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a2edd2f8d22c385b/751x532cq70/fried-bacon-pesto-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a2edd2f8d22c385b/751x532cq70/fried-bacon-pesto-bread-recipe-main-photo.jpg

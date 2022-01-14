@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Caipirinha (Brazilian Cocktail)"
 title: "Recipe of Any-night-of-the-week Caipirinha (Brazilian Cocktail)"
 slug: 923-recipe-of-any-night-of-the-week-caipirinha-brazilian-cocktail
-date: 2020-06-08T18:13:17.782Z
+date: 2021-06-08T18:13:17.782Z
 image: https://img-global.cpcdn.com/recipes/41d2ce375429f261/751x532cq70/caipirinha-brazilian-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/41d2ce375429f261/751x532cq70/caipirinha-brazilian-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/41d2ce375429f261/751x532cq70/caipirinha-brazilian-cocktail-recipe-main-photo.jpg

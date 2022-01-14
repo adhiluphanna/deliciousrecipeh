@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Crab Salad"
 title: "Recipe of Award-winning Crab Salad"
 slug: 328-recipe-of-award-winning-crab-salad
-date: 2020-08-09T13:46:53.223Z
+date: 2021-08-09T13:46:53.223Z
 image: https://img-global.cpcdn.com/recipes/6340129111670784/751x532cq70/crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6340129111670784/751x532cq70/crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6340129111670784/751x532cq70/crab-salad-recipe-main-photo.jpg

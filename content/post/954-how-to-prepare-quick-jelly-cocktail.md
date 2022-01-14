@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Jelly Cocktail ❤❤🥰🥰"
 title: "How to Prepare Quick Jelly Cocktail ❤❤🥰🥰"
 slug: 954-how-to-prepare-quick-jelly-cocktail
-date: 2020-07-02T13:09:18.034Z
+date: 2021-07-02T13:09:18.034Z
 image: https://img-global.cpcdn.com/recipes/3a8256a0b595baf8/751x532cq70/jelly-cocktail-❤❤🥰🥰-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3a8256a0b595baf8/751x532cq70/jelly-cocktail-❤❤🥰🥰-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3a8256a0b595baf8/751x532cq70/jelly-cocktail-❤❤🥰🥰-recipe-main-photo.jpg

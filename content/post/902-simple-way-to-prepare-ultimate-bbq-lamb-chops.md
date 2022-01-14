@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate BBQ Lamb chops"
 title: "Simple Way to Prepare Ultimate BBQ Lamb chops"
 slug: 902-simple-way-to-prepare-ultimate-bbq-lamb-chops
-date: 2020-07-20T15:01:11.045Z
+date: 2021-07-20T15:01:11.045Z
 image: https://img-global.cpcdn.com/recipes/5912334228783104/751x532cq70/bbq-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5912334228783104/751x532cq70/bbq-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5912334228783104/751x532cq70/bbq-lamb-chops-recipe-main-photo.jpg

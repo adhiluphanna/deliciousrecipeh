@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Lamb and Bean stew"
 title: "Recipe of Speedy Lamb and Bean stew"
 slug: 822-recipe-of-speedy-lamb-and-bean-stew
-date: 2020-10-28T00:54:14.778Z
+date: 2021-10-28T00:54:14.778Z
 image: https://img-global.cpcdn.com/recipes/7779d889f08c68b8/751x532cq70/lamb-and-bean-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7779d889f08c68b8/751x532cq70/lamb-and-bean-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7779d889f08c68b8/751x532cq70/lamb-and-bean-stew-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Homemade Chicken Sausage Bread"
 title: "Step-by-Step Guide to Prepare Homemade Chicken Sausage Bread"
 slug: 583-step-by-step-guide-to-prepare-homemade-chicken-sausage-bread
-date: 2020-08-28T22:21:34.830Z
+date: 2021-08-28T22:21:34.830Z
 image: https://img-global.cpcdn.com/recipes/10e1af16c403b71d/751x532cq70/chicken-sausage-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/10e1af16c403b71d/751x532cq70/chicken-sausage-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/10e1af16c403b71d/751x532cq70/chicken-sausage-bread-recipe-main-photo.jpg

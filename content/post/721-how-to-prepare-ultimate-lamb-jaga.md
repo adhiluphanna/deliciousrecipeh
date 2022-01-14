@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Lamb Jaga"
 title: "How to Prepare Ultimate Lamb Jaga"
 slug: 721-how-to-prepare-ultimate-lamb-jaga
-date: 2020-11-11T08:32:07.035Z
+date: 2021-11-11T08:32:07.035Z
 image: https://img-global.cpcdn.com/recipes/cc8690f2b36f3b47/751x532cq70/lamb-jaga-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/cc8690f2b36f3b47/751x532cq70/lamb-jaga-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/cc8690f2b36f3b47/751x532cq70/lamb-jaga-recipe-main-photo.jpg

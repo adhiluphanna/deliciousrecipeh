@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Grits and Bacon"
 title: "Recipe of Speedy Grits and Bacon"
 slug: 157-recipe-of-speedy-grits-and-bacon
-date: 2020-07-16T13:29:26.556Z
+date: 2021-07-16T13:29:26.556Z
 image: https://img-global.cpcdn.com/recipes/5652b06f08ad48e9/751x532cq70/grits-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5652b06f08ad48e9/751x532cq70/grits-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5652b06f08ad48e9/751x532cq70/grits-and-bacon-recipe-main-photo.jpg

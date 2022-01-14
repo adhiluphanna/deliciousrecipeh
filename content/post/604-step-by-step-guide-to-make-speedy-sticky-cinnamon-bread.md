@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Sticky cinnamon bread"
 title: "Step-by-Step Guide to Make Speedy Sticky cinnamon bread"
 slug: 604-step-by-step-guide-to-make-speedy-sticky-cinnamon-bread
-date: 2020-11-18T06:51:54.361Z
+date: 2021-11-18T06:51:54.361Z
 image: https://img-global.cpcdn.com/recipes/2b81cc665b89d78d/751x532cq70/sticky-cinnamon-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2b81cc665b89d78d/751x532cq70/sticky-cinnamon-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2b81cc665b89d78d/751x532cq70/sticky-cinnamon-bread-recipe-main-photo.jpg

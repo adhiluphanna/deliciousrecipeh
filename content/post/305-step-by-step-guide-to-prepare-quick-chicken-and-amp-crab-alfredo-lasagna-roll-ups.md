@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Quick Chicken &amp;amp; crab Alfredo lasagna roll ups"
 title: "Step-by-Step Guide to Prepare Quick Chicken &amp;amp; crab Alfredo lasagna roll ups"
 slug: 305-step-by-step-guide-to-prepare-quick-chicken-and-amp-crab-alfredo-lasagna-roll-ups
-date: 2020-06-25T02:47:32.725Z
+date: 2021-06-25T02:47:32.725Z
 image: https://img-global.cpcdn.com/recipes/f84f3b86f318f1e5/751x532cq70/chicken-crab-alfredo-lasagna-roll-ups-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f84f3b86f318f1e5/751x532cq70/chicken-crab-alfredo-lasagna-roll-ups-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f84f3b86f318f1e5/751x532cq70/chicken-crab-alfredo-lasagna-roll-ups-recipe-main-photo.jpg

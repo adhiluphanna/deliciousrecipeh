@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Chicken bacon cheddar ranch egg rolls"
 title: "Easiest Way to Prepare Super Quick Homemade Chicken bacon cheddar ranch egg rolls"
 slug: 45-easiest-way-to-prepare-super-quick-homemade-chicken-bacon-cheddar-ranch-egg-rolls
-date: 2020-10-23T18:04:11.891Z
+date: 2021-10-23T18:04:11.891Z
 image: https://img-global.cpcdn.com/recipes/912a5621d0754f9c/751x532cq70/chicken-bacon-cheddar-ranch-egg-rolls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/912a5621d0754f9c/751x532cq70/chicken-bacon-cheddar-ranch-egg-rolls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/912a5621d0754f9c/751x532cq70/chicken-bacon-cheddar-ranch-egg-rolls-recipe-main-photo.jpg

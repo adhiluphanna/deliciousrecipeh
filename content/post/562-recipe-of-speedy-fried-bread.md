@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Fried Bread"
 title: "Recipe of Speedy Fried Bread"
 slug: 562-recipe-of-speedy-fried-bread
-date: 2020-08-13T17:20:28.583Z
+date: 2021-08-13T17:20:28.583Z
 image: https://img-global.cpcdn.com/recipes/0a29f10d49e887a7/751x532cq70/fried-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0a29f10d49e887a7/751x532cq70/fried-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0a29f10d49e887a7/751x532cq70/fried-bread-recipe-main-photo.jpg

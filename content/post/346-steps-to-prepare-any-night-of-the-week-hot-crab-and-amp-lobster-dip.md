@@ -2,7 +2,7 @@
 description: "Steps to Prepare Any-night-of-the-week Hot Crab &amp;amp; Lobster Dip"
 title: "Steps to Prepare Any-night-of-the-week Hot Crab &amp;amp; Lobster Dip"
 slug: 346-steps-to-prepare-any-night-of-the-week-hot-crab-and-amp-lobster-dip
-date: 2020-07-02T06:16:11.356Z
+date: 2021-07-02T06:16:11.356Z
 image: https://img-global.cpcdn.com/recipes/f8b7dd781e5e33c0/751x532cq70/hot-crab-lobster-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f8b7dd781e5e33c0/751x532cq70/hot-crab-lobster-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f8b7dd781e5e33c0/751x532cq70/hot-crab-lobster-dip-recipe-main-photo.jpg

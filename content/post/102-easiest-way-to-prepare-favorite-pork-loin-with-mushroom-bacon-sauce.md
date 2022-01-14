@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Pork loin with mushroom bacon sauce"
 title: "Easiest Way to Prepare Favorite Pork loin with mushroom bacon sauce"
 slug: 102-easiest-way-to-prepare-favorite-pork-loin-with-mushroom-bacon-sauce
-date: 2020-07-27T03:49:02.755Z
+date: 2021-07-27T03:49:02.755Z
 image: https://img-global.cpcdn.com/recipes/21cfc3760bd6278b/751x532cq70/pork-loin-with-mushroom-bacon-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/21cfc3760bd6278b/751x532cq70/pork-loin-with-mushroom-bacon-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/21cfc3760bd6278b/751x532cq70/pork-loin-with-mushroom-bacon-sauce-recipe-main-photo.jpg

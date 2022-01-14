@@ -2,7 +2,7 @@
 description: "How to Make Ultimate Mandi lamb and rice"
 title: "How to Make Ultimate Mandi lamb and rice"
 slug: 854-how-to-make-ultimate-mandi-lamb-and-rice
-date: 2020-09-27T21:58:21.834Z
+date: 2021-09-27T21:58:21.834Z
 image: https://img-global.cpcdn.com/recipes/02cd9c4bcc893803/751x532cq70/mandi-lamb-and-rice-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/02cd9c4bcc893803/751x532cq70/mandi-lamb-and-rice-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/02cd9c4bcc893803/751x532cq70/mandi-lamb-and-rice-recipe-main-photo.jpg

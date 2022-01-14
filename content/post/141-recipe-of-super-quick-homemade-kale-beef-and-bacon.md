@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Kale, Beef, and Bacon"
 title: "Recipe of Super Quick Homemade Kale, Beef, and Bacon"
 slug: 141-recipe-of-super-quick-homemade-kale-beef-and-bacon
-date: 2020-09-23T15:51:12.783Z
+date: 2021-09-23T15:51:12.783Z
 image: https://img-global.cpcdn.com/recipes/c484340180013f12/751x532cq70/kale-beef-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c484340180013f12/751x532cq70/kale-beef-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c484340180013f12/751x532cq70/kale-beef-and-bacon-recipe-main-photo.jpg

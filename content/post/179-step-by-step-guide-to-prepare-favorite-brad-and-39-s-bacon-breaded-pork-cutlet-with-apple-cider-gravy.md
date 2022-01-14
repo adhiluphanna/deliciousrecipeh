@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Brad's bacon breaded pork cutlet with apple cider gravy"
 title: "Step-by-Step Guide to Prepare Favorite Brad's bacon breaded pork cutlet with apple cider gravy"
 slug: 179-step-by-step-guide-to-prepare-favorite-brad-and-39-s-bacon-breaded-pork-cutlet-with-apple-cider-gravy
-date: 2020-06-15T16:15:08.060Z
+date: 2021-06-15T16:15:08.060Z
 image: https://img-global.cpcdn.com/recipes/a111c4bc5b17aa08/751x532cq70/brads-bacon-breaded-pork-cutlet-with-apple-cider-gravy-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a111c4bc5b17aa08/751x532cq70/brads-bacon-breaded-pork-cutlet-with-apple-cider-gravy-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a111c4bc5b17aa08/751x532cq70/brads-bacon-breaded-pork-cutlet-with-apple-cider-gravy-recipe-main-photo.jpg

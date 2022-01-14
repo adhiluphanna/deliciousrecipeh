@@ -2,7 +2,7 @@
 description: "How to Make Ultimate Lamb handi 👌🤤"
 title: "How to Make Ultimate Lamb handi 👌🤤"
 slug: 879-how-to-make-ultimate-lamb-handi
-date: 2020-07-02T02:04:38.739Z
+date: 2021-07-02T02:04:38.739Z
 image: https://img-global.cpcdn.com/recipes/c239d789f5bfd9dc/751x532cq70/lamb-handi-👌🤤-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c239d789f5bfd9dc/751x532cq70/lamb-handi-👌🤤-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c239d789f5bfd9dc/751x532cq70/lamb-handi-👌🤤-recipe-main-photo.jpg

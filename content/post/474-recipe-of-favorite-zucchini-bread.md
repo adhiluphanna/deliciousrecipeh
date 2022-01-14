@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Zucchini Bread"
 title: "Recipe of Favorite Zucchini Bread"
 slug: 474-recipe-of-favorite-zucchini-bread
-date: 2020-11-16T15:19:36.567Z
+date: 2021-11-16T15:19:36.567Z
 image: https://img-global.cpcdn.com/recipes/5507b50c16256c3c/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5507b50c16256c3c/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5507b50c16256c3c/751x532cq70/zucchini-bread-recipe-main-photo.jpg

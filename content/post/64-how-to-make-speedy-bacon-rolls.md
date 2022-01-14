@@ -2,7 +2,7 @@
 description: "How to Make Speedy Bacon Rolls"
 title: "How to Make Speedy Bacon Rolls"
 slug: 64-how-to-make-speedy-bacon-rolls
-date: 2020-09-27T21:27:12.910Z
+date: 2021-09-27T21:27:12.910Z
 image: https://img-global.cpcdn.com/recipes/c63f06340169443f/751x532cq70/bacon-rolls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c63f06340169443f/751x532cq70/bacon-rolls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c63f06340169443f/751x532cq70/bacon-rolls-recipe-main-photo.jpg

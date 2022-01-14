@@ -2,7 +2,7 @@
 description: "How to Make Homemade Cocktail fruit chat"
 title: "How to Make Homemade Cocktail fruit chat"
 slug: 1005-how-to-make-homemade-cocktail-fruit-chat
-date: 2020-06-11T04:25:07.248Z
+date: 2021-06-11T04:25:07.248Z
 image: https://img-global.cpcdn.com/recipes/362ae4bbc8e06aa0/751x532cq70/cocktail-fruit-chat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/362ae4bbc8e06aa0/751x532cq70/cocktail-fruit-chat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/362ae4bbc8e06aa0/751x532cq70/cocktail-fruit-chat-recipe-main-photo.jpg

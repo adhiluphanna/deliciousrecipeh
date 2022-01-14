@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Sausage Bread"
 title: "Recipe of Homemade Sausage Bread"
 slug: 528-recipe-of-homemade-sausage-bread
-date: 2020-06-16T12:06:19.913Z
+date: 2021-06-16T12:06:19.913Z
 image: https://img-global.cpcdn.com/recipes/902038774b33be8f/751x532cq70/sausage-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/902038774b33be8f/751x532cq70/sausage-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/902038774b33be8f/751x532cq70/sausage-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Mongolian Lamb"
 title: "Recipe of Ultimate Mongolian Lamb"
 slug: 710-recipe-of-ultimate-mongolian-lamb
-date: 2020-11-01T05:03:03.886Z
+date: 2021-11-01T05:03:03.886Z
 image: https://img-global.cpcdn.com/recipes/886ff0673c67118a/751x532cq70/mongolian-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/886ff0673c67118a/751x532cq70/mongolian-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/886ff0673c67118a/751x532cq70/mongolian-lamb-recipe-main-photo.jpg

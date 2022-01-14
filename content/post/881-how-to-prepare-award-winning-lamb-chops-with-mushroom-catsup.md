@@ -2,7 +2,7 @@
 description: "How to Prepare Award-winning Lamb Chops with Mushroom Catsup"
 title: "How to Prepare Award-winning Lamb Chops with Mushroom Catsup"
 slug: 881-how-to-prepare-award-winning-lamb-chops-with-mushroom-catsup
-date: 2020-06-01T05:06:17.635Z
+date: 2021-06-01T05:06:17.635Z
 image: https://img-global.cpcdn.com/recipes/21a045174a7851a2/751x532cq70/lamb-chops-with-mushroom-catsup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/21a045174a7851a2/751x532cq70/lamb-chops-with-mushroom-catsup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/21a045174a7851a2/751x532cq70/lamb-chops-with-mushroom-catsup-recipe-main-photo.jpg

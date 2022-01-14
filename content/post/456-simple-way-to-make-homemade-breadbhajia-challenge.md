@@ -2,7 +2,7 @@
 description: "Simple Way to Make Homemade Breadbhajia# challenge"
 title: "Simple Way to Make Homemade Breadbhajia# challenge"
 slug: 456-simple-way-to-make-homemade-breadbhajia-challenge
-date: 2020-09-27T22:16:45.594Z
+date: 2021-09-27T22:16:45.594Z
 image: https://img-global.cpcdn.com/recipes/4fb48f3a9dbd1f3f/751x532cq70/breadbhajia-challenge-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4fb48f3a9dbd1f3f/751x532cq70/breadbhajia-challenge-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4fb48f3a9dbd1f3f/751x532cq70/breadbhajia-challenge-recipe-main-photo.jpg

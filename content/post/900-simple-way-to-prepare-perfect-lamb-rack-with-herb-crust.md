@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Perfect Lamb rack with herb crust"
 title: "Simple Way to Prepare Perfect Lamb rack with herb crust"
 slug: 900-simple-way-to-prepare-perfect-lamb-rack-with-herb-crust
-date: 2020-11-10T19:35:28.770Z
+date: 2021-11-10T19:35:28.770Z
 image: https://img-global.cpcdn.com/recipes/e0fac1a76db11957/751x532cq70/lamb-rack-with-herb-crust-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e0fac1a76db11957/751x532cq70/lamb-rack-with-herb-crust-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e0fac1a76db11957/751x532cq70/lamb-rack-with-herb-crust-recipe-main-photo.jpg

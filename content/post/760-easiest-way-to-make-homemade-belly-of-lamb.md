@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Homemade Belly of Lamb"
 title: "Easiest Way to Make Homemade Belly of Lamb"
 slug: 760-easiest-way-to-make-homemade-belly-of-lamb
-date: 2020-10-19T02:36:49.687Z
+date: 2021-10-19T02:36:49.687Z
 image: https://img-global.cpcdn.com/recipes/de06c5dc9fd07aa9/751x532cq70/belly-of-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/de06c5dc9fd07aa9/751x532cq70/belly-of-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/de06c5dc9fd07aa9/751x532cq70/belly-of-lamb-recipe-main-photo.jpg

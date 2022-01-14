@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Traditional Banana Bread"
 title: "Recipe of Award-winning Traditional Banana Bread"
 slug: 579-recipe-of-award-winning-traditional-banana-bread
-date: 2020-06-23T10:45:19.283Z
+date: 2021-06-23T10:45:19.283Z
 image: https://img-global.cpcdn.com/recipes/3babaadb4ceb3f50/751x532cq70/traditional-banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3babaadb4ceb3f50/751x532cq70/traditional-banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3babaadb4ceb3f50/751x532cq70/traditional-banana-bread-recipe-main-photo.jpg

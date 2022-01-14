@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Lamb curry"
 title: "Easiest Way to Prepare Super Quick Homemade Lamb curry"
 slug: 833-easiest-way-to-prepare-super-quick-homemade-lamb-curry
-date: 2020-11-13T11:01:17.049Z
+date: 2021-11-13T11:01:17.049Z
 image: https://img-global.cpcdn.com/recipes/f52de44e3e814ef1/751x532cq70/lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f52de44e3e814ef1/751x532cq70/lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f52de44e3e814ef1/751x532cq70/lamb-curry-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Rack of lamb"
 title: "Step-by-Step Guide to Prepare Speedy Rack of lamb"
 slug: 787-step-by-step-guide-to-prepare-speedy-rack-of-lamb
-date: 2020-09-27T07:04:24.809Z
+date: 2021-09-27T07:04:24.809Z
 image: https://img-global.cpcdn.com/recipes/a37475652b73cfa4/751x532cq70/rack-of-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a37475652b73cfa4/751x532cq70/rack-of-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a37475652b73cfa4/751x532cq70/rack-of-lamb-recipe-main-photo.jpg

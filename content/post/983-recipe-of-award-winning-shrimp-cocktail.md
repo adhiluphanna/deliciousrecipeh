@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Shrimp Cocktail"
 title: "Recipe of Award-winning Shrimp Cocktail"
 slug: 983-recipe-of-award-winning-shrimp-cocktail
-date: 2020-09-20T08:22:26.045Z
+date: 2021-09-20T08:22:26.045Z
 image: https://img-global.cpcdn.com/recipes/a97a50e0abc6e7da/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a97a50e0abc6e7da/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a97a50e0abc6e7da/751x532cq70/shrimp-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Lamb shank"
 title: "Recipe of Ultimate Lamb shank"
 slug: 714-recipe-of-ultimate-lamb-shank
-date: 2020-05-27T09:23:16.794Z
+date: 2021-05-27T09:23:16.794Z
 image: https://img-global.cpcdn.com/recipes/728a783c473c1ec8/751x532cq70/lamb-shank-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/728a783c473c1ec8/751x532cq70/lamb-shank-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/728a783c473c1ec8/751x532cq70/lamb-shank-recipe-main-photo.jpg

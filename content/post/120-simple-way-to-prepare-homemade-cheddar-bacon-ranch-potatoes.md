@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Homemade Cheddar Bacon Ranch Potatoes"
 title: "Simple Way to Prepare Homemade Cheddar Bacon Ranch Potatoes"
 slug: 120-simple-way-to-prepare-homemade-cheddar-bacon-ranch-potatoes
-date: 2020-09-06T02:16:32.762Z
+date: 2021-09-06T02:16:32.762Z
 image: https://img-global.cpcdn.com/recipes/9db03d5aaa0e92ad/751x532cq70/cheddar-bacon-ranch-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9db03d5aaa0e92ad/751x532cq70/cheddar-bacon-ranch-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9db03d5aaa0e92ad/751x532cq70/cheddar-bacon-ranch-potatoes-recipe-main-photo.jpg

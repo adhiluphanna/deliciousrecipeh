@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Ultimate Lobster and Crab Cannalloni"
 title: "Step-by-Step Guide to Prepare Ultimate Lobster and Crab Cannalloni"
 slug: 298-step-by-step-guide-to-prepare-ultimate-lobster-and-crab-cannalloni
-date: 2020-06-13T01:15:46.146Z
+date: 2021-06-13T01:15:46.146Z
 image: https://img-global.cpcdn.com/recipes/3001241537e1df91/751x532cq70/lobster-and-crab-cannalloni-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3001241537e1df91/751x532cq70/lobster-and-crab-cannalloni-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3001241537e1df91/751x532cq70/lobster-and-crab-cannalloni-recipe-main-photo.jpg

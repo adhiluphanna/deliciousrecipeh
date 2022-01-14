@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Delicious Crab Cakes"
 title: "Easiest Way to Make Speedy Delicious Crab Cakes"
 slug: 434-easiest-way-to-make-speedy-delicious-crab-cakes
-date: 2020-10-10T03:38:28.407Z
+date: 2021-10-10T03:38:28.407Z
 image: https://img-global.cpcdn.com/recipes/4661707318755328/751x532cq70/delicious-crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4661707318755328/751x532cq70/delicious-crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4661707318755328/751x532cq70/delicious-crab-cakes-recipe-main-photo.jpg

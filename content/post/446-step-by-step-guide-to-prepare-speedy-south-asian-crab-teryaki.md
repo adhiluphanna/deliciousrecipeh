@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy South Asian Crab Teryaki"
 title: "Step-by-Step Guide to Prepare Speedy South Asian Crab Teryaki"
 slug: 446-step-by-step-guide-to-prepare-speedy-south-asian-crab-teryaki
-date: 2020-05-31T15:54:47.121Z
+date: 2021-05-31T15:54:47.121Z
 image: https://img-global.cpcdn.com/recipes/7654a5d9fcc89186/751x532cq70/south-asian-crab-teryaki-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7654a5d9fcc89186/751x532cq70/south-asian-crab-teryaki-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7654a5d9fcc89186/751x532cq70/south-asian-crab-teryaki-recipe-main-photo.jpg

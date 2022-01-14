@@ -2,7 +2,7 @@
 description: "How to Prepare Award-winning No- knead bread"
 title: "How to Prepare Award-winning No- knead bread"
 slug: 636-how-to-prepare-award-winning-no-knead-bread
-date: 2020-06-04T20:31:19.440Z
+date: 2021-06-04T20:31:19.440Z
 image: https://img-global.cpcdn.com/recipes/2a8a7c7f16d1ae41/751x532cq70/no-knead-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2a8a7c7f16d1ae41/751x532cq70/no-knead-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2a8a7c7f16d1ae41/751x532cq70/no-knead-bread-recipe-main-photo.jpg

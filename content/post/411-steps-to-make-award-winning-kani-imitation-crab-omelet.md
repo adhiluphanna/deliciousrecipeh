@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Kani (Imitation Crab) Omelet"
 title: "Steps to Make Award-winning Kani (Imitation Crab) Omelet"
 slug: 411-steps-to-make-award-winning-kani-imitation-crab-omelet
-date: 2020-10-14T19:16:43.658Z
+date: 2021-10-14T19:16:43.658Z
 image: https://img-global.cpcdn.com/recipes/beb8cbf0cb2f069b/751x532cq70/kani-imitation-crab-omelet-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/beb8cbf0cb2f069b/751x532cq70/kani-imitation-crab-omelet-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/beb8cbf0cb2f069b/751x532cq70/kani-imitation-crab-omelet-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Breakfast Bread"
 title: "Easiest Way to Prepare Homemade Breakfast Bread"
 slug: 479-easiest-way-to-prepare-homemade-breakfast-bread
-date: 2020-06-15T13:41:51.172Z
+date: 2021-06-15T13:41:51.172Z
 image: https://img-global.cpcdn.com/recipes/85625a6d12f33ea0/751x532cq70/breakfast-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/85625a6d12f33ea0/751x532cq70/breakfast-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/85625a6d12f33ea0/751x532cq70/breakfast-bread-recipe-main-photo.jpg

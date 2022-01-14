@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Bacon Cheddar Duchesse Potatoes"
 title: "Recipe of Award-winning Bacon Cheddar Duchesse Potatoes"
 slug: 234-recipe-of-award-winning-bacon-cheddar-duchesse-potatoes
-date: 2020-10-18T11:18:22.785Z
+date: 2021-10-18T11:18:22.785Z
 image: https://img-global.cpcdn.com/recipes/e639af98bc488c9c/751x532cq70/bacon-cheddar-duchesse-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e639af98bc488c9c/751x532cq70/bacon-cheddar-duchesse-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e639af98bc488c9c/751x532cq70/bacon-cheddar-duchesse-potatoes-recipe-main-photo.jpg

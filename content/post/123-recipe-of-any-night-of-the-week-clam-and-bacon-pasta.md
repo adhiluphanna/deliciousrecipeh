@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Clam and bacon pasta"
 title: "Recipe of Any-night-of-the-week Clam and bacon pasta"
 slug: 123-recipe-of-any-night-of-the-week-clam-and-bacon-pasta
-date: 2020-08-23T01:52:49.292Z
+date: 2021-08-23T01:52:49.292Z
 image: https://img-global.cpcdn.com/recipes/aa329010e7672fc6/751x532cq70/clam-and-bacon-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/aa329010e7672fc6/751x532cq70/clam-and-bacon-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/aa329010e7672fc6/751x532cq70/clam-and-bacon-pasta-recipe-main-photo.jpg

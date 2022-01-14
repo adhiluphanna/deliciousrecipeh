@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Lamb Stew"
 title: "Recipe of Favorite Lamb Stew"
 slug: 783-recipe-of-favorite-lamb-stew
-date: 2020-08-19T09:46:06.941Z
+date: 2021-08-19T09:46:06.941Z
 image: https://img-global.cpcdn.com/recipes/5849226858201088/751x532cq70/lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5849226858201088/751x532cq70/lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5849226858201088/751x532cq70/lamb-stew-recipe-main-photo.jpg

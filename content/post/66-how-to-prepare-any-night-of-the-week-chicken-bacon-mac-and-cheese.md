@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Chicken bacon mac and cheese"
 title: "How to Prepare Any-night-of-the-week Chicken bacon mac and cheese"
 slug: 66-how-to-prepare-any-night-of-the-week-chicken-bacon-mac-and-cheese
-date: 2020-07-03T22:47:57.603Z
+date: 2021-07-03T22:47:57.603Z
 image: https://img-global.cpcdn.com/recipes/02a47e1635cf30c7/751x532cq70/chicken-bacon-mac-and-cheese-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/02a47e1635cf30c7/751x532cq70/chicken-bacon-mac-and-cheese-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/02a47e1635cf30c7/751x532cq70/chicken-bacon-mac-and-cheese-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Zucchini Apple Bread"
 title: "Simple Way to Make Award-winning Zucchini Apple Bread"
 slug: 596-simple-way-to-make-award-winning-zucchini-apple-bread
-date: 2020-09-23T05:27:29.433Z
+date: 2021-09-23T05:27:29.433Z
 image: https://img-global.cpcdn.com/recipes/6769e4b67b2bf6c7/751x532cq70/zucchini-apple-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6769e4b67b2bf6c7/751x532cq70/zucchini-apple-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6769e4b67b2bf6c7/751x532cq70/zucchini-apple-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Chicken Bacon Sundried Tomato Pasta"
 title: "Recipe of Any-night-of-the-week Chicken Bacon Sundried Tomato Pasta"
 slug: 59-recipe-of-any-night-of-the-week-chicken-bacon-sundried-tomato-pasta
-date: 2020-06-01T08:14:49.284Z
+date: 2021-06-01T08:14:49.284Z
 image: https://img-global.cpcdn.com/recipes/ed9eb409498bfa38/751x532cq70/chicken-bacon-sundried-tomato-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ed9eb409498bfa38/751x532cq70/chicken-bacon-sundried-tomato-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ed9eb409498bfa38/751x532cq70/chicken-bacon-sundried-tomato-pasta-recipe-main-photo.jpg

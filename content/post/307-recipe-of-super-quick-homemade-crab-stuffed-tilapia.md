@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Crab Stuffed Tilapia"
 title: "Recipe of Super Quick Homemade Crab Stuffed Tilapia"
 slug: 307-recipe-of-super-quick-homemade-crab-stuffed-tilapia
-date: 2020-08-09T07:04:45.664Z
+date: 2021-08-09T07:04:45.664Z
 image: https://img-global.cpcdn.com/recipes/91ef5b522dc77518/751x532cq70/crab-stuffed-tilapia-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/91ef5b522dc77518/751x532cq70/crab-stuffed-tilapia-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/91ef5b522dc77518/751x532cq70/crab-stuffed-tilapia-recipe-main-photo.jpg

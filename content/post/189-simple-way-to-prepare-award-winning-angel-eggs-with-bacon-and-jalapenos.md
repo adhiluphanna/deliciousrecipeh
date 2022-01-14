@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Award-winning Angel Eggs with Bacon and Jalapenos"
 title: "Simple Way to Prepare Award-winning Angel Eggs with Bacon and Jalapenos"
 slug: 189-simple-way-to-prepare-award-winning-angel-eggs-with-bacon-and-jalapenos
-date: 2020-05-26T01:12:25.651Z
+date: 2021-05-26T01:12:25.651Z
 image: https://img-global.cpcdn.com/recipes/997b9deb1372b7e2/751x532cq70/angel-eggs-with-bacon-and-jalapenos-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/997b9deb1372b7e2/751x532cq70/angel-eggs-with-bacon-and-jalapenos-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/997b9deb1372b7e2/751x532cq70/angel-eggs-with-bacon-and-jalapenos-recipe-main-photo.jpg

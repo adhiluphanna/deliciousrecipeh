@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Award-winning Bread Pudding Flowers"
 title: "Easiest Way to Prepare Award-winning Bread Pudding Flowers"
 slug: 612-easiest-way-to-prepare-award-winning-bread-pudding-flowers
-date: 2020-08-12T00:13:00.029Z
+date: 2021-08-12T00:13:00.029Z
 image: https://img-global.cpcdn.com/recipes/6bb3a4caa5617d05/751x532cq70/bread-pudding-flowers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6bb3a4caa5617d05/751x532cq70/bread-pudding-flowers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6bb3a4caa5617d05/751x532cq70/bread-pudding-flowers-recipe-main-photo.jpg

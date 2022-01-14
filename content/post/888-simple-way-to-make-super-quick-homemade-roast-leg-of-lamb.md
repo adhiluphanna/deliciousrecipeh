@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Roast leg of Lamb"
 title: "Simple Way to Make Super Quick Homemade Roast leg of Lamb"
 slug: 888-simple-way-to-make-super-quick-homemade-roast-leg-of-lamb
-date: 2020-09-27T16:16:02.049Z
+date: 2021-09-27T16:16:02.049Z
 image: https://img-global.cpcdn.com/recipes/a2a97db0c4bea795/751x532cq70/roast-leg-of-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a2a97db0c4bea795/751x532cq70/roast-leg-of-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a2a97db0c4bea795/751x532cq70/roast-leg-of-lamb-recipe-main-photo.jpg

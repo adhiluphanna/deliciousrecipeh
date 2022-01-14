@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Stir-Fry Asparagus &amp;amp; Bean Sprouts &amp;amp; Bacon"
 title: "Recipe of Perfect Stir-Fry Asparagus &amp;amp; Bean Sprouts &amp;amp; Bacon"
 slug: 40-recipe-of-perfect-stir-fry-asparagus-and-amp-bean-sprouts-and-amp-bacon
-date: 2020-07-22T04:41:24.481Z
+date: 2021-07-22T04:41:24.481Z
 image: https://img-global.cpcdn.com/recipes/8239e8e750ee87bc/751x532cq70/stir-fry-asparagus-bean-sprouts-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8239e8e750ee87bc/751x532cq70/stir-fry-asparagus-bean-sprouts-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8239e8e750ee87bc/751x532cq70/stir-fry-asparagus-bean-sprouts-bacon-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Favorite Bacon Cheeseburger Tater Tot Casserole"
 title: "Easiest Way to Prepare Favorite Bacon Cheeseburger Tater Tot Casserole"
 slug: 100-easiest-way-to-prepare-favorite-bacon-cheeseburger-tater-tot-casserole
-date: 2020-10-20T18:49:08.537Z
+date: 2021-10-20T18:49:08.537Z
 image: https://img-global.cpcdn.com/recipes/a186139007385766/751x532cq70/bacon-cheeseburger-tater-tot-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a186139007385766/751x532cq70/bacon-cheeseburger-tater-tot-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a186139007385766/751x532cq70/bacon-cheeseburger-tater-tot-casserole-recipe-main-photo.jpg

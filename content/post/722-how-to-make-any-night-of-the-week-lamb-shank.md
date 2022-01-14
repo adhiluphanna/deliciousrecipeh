@@ -2,7 +2,7 @@
 description: "How to Make Any-night-of-the-week Lamb shank"
 title: "How to Make Any-night-of-the-week Lamb shank"
 slug: 722-how-to-make-any-night-of-the-week-lamb-shank
-date: 2020-08-11T08:50:23.653Z
+date: 2021-08-11T08:50:23.653Z
 image: https://img-global.cpcdn.com/recipes/26b997998746ac54/751x532cq70/lamb-shank-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/26b997998746ac54/751x532cq70/lamb-shank-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/26b997998746ac54/751x532cq70/lamb-shank-recipe-main-photo.jpg

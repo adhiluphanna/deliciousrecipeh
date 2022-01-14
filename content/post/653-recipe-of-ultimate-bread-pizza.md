@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Bread pizza"
 title: "Recipe of Ultimate Bread pizza"
 slug: 653-recipe-of-ultimate-bread-pizza
-date: 2020-10-07T05:56:50.369Z
+date: 2021-10-07T05:56:50.369Z
 image: https://img-global.cpcdn.com/recipes/f9907b0eff4318ac/751x532cq70/bread-pizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f9907b0eff4318ac/751x532cq70/bread-pizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f9907b0eff4318ac/751x532cq70/bread-pizza-recipe-main-photo.jpg

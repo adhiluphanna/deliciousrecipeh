@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Sticky plum lamb shanks"
 title: "Simple Way to Make Ultimate Sticky plum lamb shanks"
 slug: 718-simple-way-to-make-ultimate-sticky-plum-lamb-shanks
-date: 2020-11-05T18:41:17.552Z
+date: 2021-11-05T18:41:17.552Z
 image: https://img-global.cpcdn.com/recipes/6416163147874304/751x532cq70/sticky-plum-lamb-shanks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6416163147874304/751x532cq70/sticky-plum-lamb-shanks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6416163147874304/751x532cq70/sticky-plum-lamb-shanks-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Lamb curry"
 title: "Recipe of Speedy Lamb curry"
 slug: 741-recipe-of-speedy-lamb-curry
-date: 2020-08-24T23:28:07.583Z
+date: 2021-08-24T23:28:07.583Z
 image: https://img-global.cpcdn.com/recipes/71a127ec23951965/751x532cq70/lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/71a127ec23951965/751x532cq70/lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/71a127ec23951965/751x532cq70/lamb-curry-recipe-main-photo.jpg

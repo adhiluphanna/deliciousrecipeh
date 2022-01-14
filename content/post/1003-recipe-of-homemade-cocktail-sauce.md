@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Cocktail sauce"
 title: "Recipe of Homemade Cocktail sauce"
 slug: 1003-recipe-of-homemade-cocktail-sauce
-date: 2020-09-14T20:26:46.651Z
+date: 2021-09-14T20:26:46.651Z
 image: https://img-global.cpcdn.com/recipes/0d47431b0a993aa2/751x532cq70/cocktail-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0d47431b0a993aa2/751x532cq70/cocktail-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0d47431b0a993aa2/751x532cq70/cocktail-sauce-recipe-main-photo.jpg

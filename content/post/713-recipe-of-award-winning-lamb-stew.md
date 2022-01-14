@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Lamb stew"
 title: "Recipe of Award-winning Lamb stew"
 slug: 713-recipe-of-award-winning-lamb-stew
-date: 2020-08-07T02:36:30.775Z
+date: 2021-08-07T02:36:30.775Z
 image: https://img-global.cpcdn.com/recipes/68d64886e7f69bd3/751x532cq70/lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/68d64886e7f69bd3/751x532cq70/lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/68d64886e7f69bd3/751x532cq70/lamb-stew-recipe-main-photo.jpg

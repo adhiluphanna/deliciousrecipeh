@@ -2,7 +2,7 @@
 description: "How to Prepare Homemade BBQ Roast leg of lamb"
 title: "How to Prepare Homemade BBQ Roast leg of lamb"
 slug: 908-how-to-prepare-homemade-bbq-roast-leg-of-lamb
-date: 2020-07-05T04:41:30.453Z
+date: 2021-07-05T04:41:30.453Z
 image: https://img-global.cpcdn.com/recipes/ed41529d4a79e860/751x532cq70/bbq-roast-leg-of-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ed41529d4a79e860/751x532cq70/bbq-roast-leg-of-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ed41529d4a79e860/751x532cq70/bbq-roast-leg-of-lamb-recipe-main-photo.jpg

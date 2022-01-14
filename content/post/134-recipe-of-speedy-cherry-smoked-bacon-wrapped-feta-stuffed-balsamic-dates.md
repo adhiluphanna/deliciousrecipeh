@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Cherry Smoked Bacon Wrapped Feta Stuffed Balsamic Dates"
 title: "Recipe of Speedy Cherry Smoked Bacon Wrapped Feta Stuffed Balsamic Dates"
 slug: 134-recipe-of-speedy-cherry-smoked-bacon-wrapped-feta-stuffed-balsamic-dates
-date: 2020-07-14T08:05:24.950Z
+date: 2021-07-14T08:05:24.950Z
 image: https://img-global.cpcdn.com/recipes/e253173d48fad861/751x532cq70/cherry-smoked-bacon-wrapped-feta-stuffed-balsamic-dates-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e253173d48fad861/751x532cq70/cherry-smoked-bacon-wrapped-feta-stuffed-balsamic-dates-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e253173d48fad861/751x532cq70/cherry-smoked-bacon-wrapped-feta-stuffed-balsamic-dates-recipe-main-photo.jpg

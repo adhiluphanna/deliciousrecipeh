@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Award-winning lamb skewers"
 title: "Step-by-Step Guide to Prepare Award-winning lamb skewers"
 slug: 829-step-by-step-guide-to-prepare-award-winning-lamb-skewers
-date: 2020-10-21T15:09:44.829Z
+date: 2021-10-21T15:09:44.829Z
 image: https://img-global.cpcdn.com/recipes/5520681848537088/751x532cq70/lamb-skewers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5520681848537088/751x532cq70/lamb-skewers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5520681848537088/751x532cq70/lamb-skewers-recipe-main-photo.jpg

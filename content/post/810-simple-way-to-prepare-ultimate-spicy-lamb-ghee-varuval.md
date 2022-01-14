@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Spicy lamb ghee varuval"
 title: "Simple Way to Prepare Ultimate Spicy lamb ghee varuval"
 slug: 810-simple-way-to-prepare-ultimate-spicy-lamb-ghee-varuval
-date: 2020-07-29T12:31:17.151Z
+date: 2021-07-29T12:31:17.151Z
 image: https://img-global.cpcdn.com/recipes/329140280963c36a/751x532cq70/spicy-lamb-ghee-varuval-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/329140280963c36a/751x532cq70/spicy-lamb-ghee-varuval-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/329140280963c36a/751x532cq70/spicy-lamb-ghee-varuval-recipe-main-photo.jpg

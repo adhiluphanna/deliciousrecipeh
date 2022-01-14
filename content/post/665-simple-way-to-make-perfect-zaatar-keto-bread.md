@@ -2,7 +2,7 @@
 description: "Simple Way to Make Perfect Zaatar keto bread"
 title: "Simple Way to Make Perfect Zaatar keto bread"
 slug: 665-simple-way-to-make-perfect-zaatar-keto-bread
-date: 2020-07-20T08:13:38.573Z
+date: 2021-07-20T08:13:38.573Z
 image: https://img-global.cpcdn.com/recipes/4fa8b967babe8884/751x532cq70/zaatar-keto-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4fa8b967babe8884/751x532cq70/zaatar-keto-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4fa8b967babe8884/751x532cq70/zaatar-keto-bread-recipe-main-photo.jpg

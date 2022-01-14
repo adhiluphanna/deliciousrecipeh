@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Bacon Cheddar Ranch Pasta Salad"
 title: "Recipe of Ultimate Bacon Cheddar Ranch Pasta Salad"
 slug: 67-recipe-of-ultimate-bacon-cheddar-ranch-pasta-salad
-date: 2020-08-08T02:43:24.783Z
+date: 2021-08-08T02:43:24.783Z
 image: https://img-global.cpcdn.com/recipes/a0234fe984d8cf0a/751x532cq70/bacon-cheddar-ranch-pasta-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a0234fe984d8cf0a/751x532cq70/bacon-cheddar-ranch-pasta-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a0234fe984d8cf0a/751x532cq70/bacon-cheddar-ranch-pasta-salad-recipe-main-photo.jpg

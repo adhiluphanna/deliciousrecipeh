@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Pot Roast leg of Lamb"
 title: "Recipe of Ultimate Pot Roast leg of Lamb"
 slug: 808-recipe-of-ultimate-pot-roast-leg-of-lamb
-date: 2020-05-24T04:25:18.492Z
+date: 2021-05-24T04:25:18.492Z
 image: https://img-global.cpcdn.com/recipes/888923ffd2ee96dd/751x532cq70/pot-roast-leg-of-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/888923ffd2ee96dd/751x532cq70/pot-roast-leg-of-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/888923ffd2ee96dd/751x532cq70/pot-roast-leg-of-lamb-recipe-main-photo.jpg

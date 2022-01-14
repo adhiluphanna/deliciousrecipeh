@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Lamb pepper soup"
 title: "Easiest Way to Make Any-night-of-the-week Lamb pepper soup"
 slug: 896-easiest-way-to-make-any-night-of-the-week-lamb-pepper-soup
-date: 2020-06-04T14:59:11.902Z
+date: 2021-06-04T14:59:11.902Z
 image: https://img-global.cpcdn.com/recipes/730dc7412311ac55/751x532cq70/lamb-pepper-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/730dc7412311ac55/751x532cq70/lamb-pepper-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/730dc7412311ac55/751x532cq70/lamb-pepper-soup-recipe-main-photo.jpg

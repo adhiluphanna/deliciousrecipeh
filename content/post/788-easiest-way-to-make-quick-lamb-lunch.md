@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Lamb lunch!"
 title: "Easiest Way to Make Quick Lamb lunch!"
 slug: 788-easiest-way-to-make-quick-lamb-lunch
-date: 2020-06-15T09:12:11.633Z
+date: 2021-06-15T09:12:11.633Z
 image: https://img-global.cpcdn.com/recipes/fdb2d83def30dfc7/751x532cq70/lamb-lunch-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fdb2d83def30dfc7/751x532cq70/lamb-lunch-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fdb2d83def30dfc7/751x532cq70/lamb-lunch-recipe-main-photo.jpg

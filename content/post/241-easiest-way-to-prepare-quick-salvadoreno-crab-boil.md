@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Salvadoreño crab boil"
 title: "Easiest Way to Prepare Quick Salvadoreño crab boil"
 slug: 241-easiest-way-to-prepare-quick-salvadoreno-crab-boil
-date: 2020-08-31T09:52:53.462Z
+date: 2021-08-31T09:52:53.462Z
 image: https://img-global.cpcdn.com/recipes/16e1a4b0f0fff18f/751x532cq70/salvadoreno-crab-boil-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/16e1a4b0f0fff18f/751x532cq70/salvadoreno-crab-boil-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/16e1a4b0f0fff18f/751x532cq70/salvadoreno-crab-boil-recipe-main-photo.jpg

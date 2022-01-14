@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning JON’S GREEN SPLIT PEAS SOUP WITH FETA CHEESE AND BACON BRUSCHETA"
 title: "Steps to Make Award-winning JON’S GREEN SPLIT PEAS SOUP WITH FETA CHEESE AND BACON BRUSCHETA"
 slug: 0-steps-to-make-award-winning-jons-green-split-peas-soup-with-feta-cheese-and-bacon-bruscheta
-date: 2020-06-06T05:54:58.686Z
+date: 2021-06-06T05:54:58.686Z
 image: https://img-global.cpcdn.com/recipes/8b04bfed4e9e8ab6/751x532cq70/jons-green-split-peas-soup-with-feta-cheese-and-bacon-bruscheta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8b04bfed4e9e8ab6/751x532cq70/jons-green-split-peas-soup-with-feta-cheese-and-bacon-bruscheta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8b04bfed4e9e8ab6/751x532cq70/jons-green-split-peas-soup-with-feta-cheese-and-bacon-bruscheta-recipe-main-photo.jpg

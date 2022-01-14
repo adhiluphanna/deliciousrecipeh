@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Perfect Lamb Stew Batch 8"
 title: "Step-by-Step Guide to Make Perfect Lamb Stew Batch 8"
 slug: 770-step-by-step-guide-to-make-perfect-lamb-stew-batch-8
-date: 2020-08-02T06:14:43.734Z
+date: 2021-08-02T06:14:43.734Z
 image: https://img-global.cpcdn.com/recipes/27c1d9db880d73c5/751x532cq70/lamb-stew-batch-8-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/27c1d9db880d73c5/751x532cq70/lamb-stew-batch-8-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/27c1d9db880d73c5/751x532cq70/lamb-stew-batch-8-recipe-main-photo.jpg

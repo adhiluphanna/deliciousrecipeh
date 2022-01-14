@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning Gourmet Breading Mix"
 title: "Simple Way to Make Award-winning Gourmet Breading Mix"
 slug: 506-simple-way-to-make-award-winning-gourmet-breading-mix
-date: 2020-10-13T00:39:11.965Z
+date: 2021-10-13T00:39:11.965Z
 image: https://img-global.cpcdn.com/recipes/73518bce10de2f1f/751x532cq70/gourmet-breading-mix-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/73518bce10de2f1f/751x532cq70/gourmet-breading-mix-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/73518bce10de2f1f/751x532cq70/gourmet-breading-mix-recipe-main-photo.jpg

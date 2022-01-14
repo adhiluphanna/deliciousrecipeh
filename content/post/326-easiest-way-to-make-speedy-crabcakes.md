@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy CrabCakes"
 title: "Easiest Way to Make Speedy CrabCakes"
 slug: 326-easiest-way-to-make-speedy-crabcakes
-date: 2020-08-19T09:53:53.639Z
+date: 2021-08-19T09:53:53.639Z
 image: https://img-global.cpcdn.com/recipes/5295838434689024/751x532cq70/crabcakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5295838434689024/751x532cq70/crabcakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5295838434689024/751x532cq70/crabcakes-recipe-main-photo.jpg

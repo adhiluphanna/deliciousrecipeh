@@ -2,7 +2,7 @@
 description: "How to Make Quick Cheesy,bacon and cauliflower cassarole"
 title: "How to Make Quick Cheesy,bacon and cauliflower cassarole"
 slug: 208-how-to-make-quick-cheesy-bacon-and-cauliflower-cassarole
-date: 2020-07-03T20:59:34.824Z
+date: 2021-07-03T20:59:34.824Z
 image: https://img-global.cpcdn.com/recipes/8bbb7d9dcadc35d6/751x532cq70/cheesybacon-and-cauliflower-cassarole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8bbb7d9dcadc35d6/751x532cq70/cheesybacon-and-cauliflower-cassarole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8bbb7d9dcadc35d6/751x532cq70/cheesybacon-and-cauliflower-cassarole-recipe-main-photo.jpg

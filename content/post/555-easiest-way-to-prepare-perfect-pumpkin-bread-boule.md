@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Pumpkin Bread (Boule)"
 title: "Easiest Way to Prepare Perfect Pumpkin Bread (Boule)"
 slug: 555-easiest-way-to-prepare-perfect-pumpkin-bread-boule
-date: 2020-07-08T18:46:21.321Z
+date: 2021-07-08T18:46:21.321Z
 image: https://img-global.cpcdn.com/recipes/be2f1ea3e7ede0c5/751x532cq70/pumpkin-bread-boule-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/be2f1ea3e7ede0c5/751x532cq70/pumpkin-bread-boule-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/be2f1ea3e7ede0c5/751x532cq70/pumpkin-bread-boule-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Ciabatta Bread"
 title: "Steps to Make Perfect Ciabatta Bread"
 slug: 641-steps-to-make-perfect-ciabatta-bread
-date: 2020-06-19T23:19:01.027Z
+date: 2021-06-19T23:19:01.027Z
 image: https://img-global.cpcdn.com/recipes/f4208cb2ed7b9fd8/751x532cq70/ciabatta-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f4208cb2ed7b9fd8/751x532cq70/ciabatta-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f4208cb2ed7b9fd8/751x532cq70/ciabatta-bread-recipe-main-photo.jpg

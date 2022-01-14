@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Navy Bean &amp;amp; Bacon Soup"
 title: "Easiest Way to Prepare Perfect Navy Bean &amp;amp; Bacon Soup"
 slug: 171-easiest-way-to-prepare-perfect-navy-bean-and-amp-bacon-soup
-date: 2020-06-27T13:26:58.890Z
+date: 2021-06-27T13:26:58.890Z
 image: https://img-global.cpcdn.com/recipes/86edcf20ad820678/751x532cq70/navy-bean-bacon-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/86edcf20ad820678/751x532cq70/navy-bean-bacon-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/86edcf20ad820678/751x532cq70/navy-bean-bacon-soup-recipe-main-photo.jpg

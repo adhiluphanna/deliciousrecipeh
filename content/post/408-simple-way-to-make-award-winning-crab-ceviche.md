@@ -2,7 +2,7 @@
 description: "Simple Way to Make Award-winning crab ceviche"
 title: "Simple Way to Make Award-winning crab ceviche"
 slug: 408-simple-way-to-make-award-winning-crab-ceviche
-date: 2020-07-16T11:44:59.631Z
+date: 2021-07-16T11:44:59.631Z
 image: https://img-global.cpcdn.com/recipes/51513176/751x532cq70/crab-ceviche-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/51513176/751x532cq70/crab-ceviche-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/51513176/751x532cq70/crab-ceviche-recipe-main-photo.jpg

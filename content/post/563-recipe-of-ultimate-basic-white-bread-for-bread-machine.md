@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Basic white bread for bread machine"
 title: "Recipe of Ultimate Basic white bread for bread machine"
 slug: 563-recipe-of-ultimate-basic-white-bread-for-bread-machine
-date: 2020-10-03T17:35:32.425Z
+date: 2021-10-03T17:35:32.425Z
 image: https://img-global.cpcdn.com/recipes/32cbaafc8237caa6/751x532cq70/basic-white-bread-for-bread-machine-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/32cbaafc8237caa6/751x532cq70/basic-white-bread-for-bread-machine-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/32cbaafc8237caa6/751x532cq70/basic-white-bread-for-bread-machine-recipe-main-photo.jpg

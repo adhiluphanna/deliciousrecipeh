@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Ooey gooey cheesy crab bake 🦀"
 title: "Step-by-Step Guide to Prepare Favorite Ooey gooey cheesy crab bake 🦀"
 slug: 315-step-by-step-guide-to-prepare-favorite-ooey-gooey-cheesy-crab-bake
-date: 2020-09-18T05:45:09.350Z
+date: 2021-09-18T05:45:09.350Z
 image: https://img-global.cpcdn.com/recipes/d4d5d7ff741b7084/751x532cq70/ooey-gooey-cheesy-crab-bake-🦀-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d4d5d7ff741b7084/751x532cq70/ooey-gooey-cheesy-crab-bake-🦀-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d4d5d7ff741b7084/751x532cq70/ooey-gooey-cheesy-crab-bake-🦀-recipe-main-photo.jpg

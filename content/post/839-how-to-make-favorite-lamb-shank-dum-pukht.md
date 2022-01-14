@@ -2,7 +2,7 @@
 description: "How to Make Favorite Lamb shank dum pukht"
 title: "How to Make Favorite Lamb shank dum pukht"
 slug: 839-how-to-make-favorite-lamb-shank-dum-pukht
-date: 2020-07-18T06:56:43.873Z
+date: 2021-07-18T06:56:43.873Z
 image: https://img-global.cpcdn.com/recipes/3c656b90bd81497f/751x532cq70/lamb-shank-dum-pukht-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3c656b90bd81497f/751x532cq70/lamb-shank-dum-pukht-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3c656b90bd81497f/751x532cq70/lamb-shank-dum-pukht-recipe-main-photo.jpg

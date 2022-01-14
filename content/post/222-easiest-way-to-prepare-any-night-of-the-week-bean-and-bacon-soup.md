@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Bean and Bacon Soup"
 title: "Easiest Way to Prepare Any-night-of-the-week Bean and Bacon Soup"
 slug: 222-easiest-way-to-prepare-any-night-of-the-week-bean-and-bacon-soup
-date: 2020-06-04T13:23:10.645Z
+date: 2021-06-04T13:23:10.645Z
 image: https://img-global.cpcdn.com/recipes/73755fdd9a394d29/751x532cq70/bean-and-bacon-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/73755fdd9a394d29/751x532cq70/bean-and-bacon-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/73755fdd9a394d29/751x532cq70/bean-and-bacon-soup-recipe-main-photo.jpg

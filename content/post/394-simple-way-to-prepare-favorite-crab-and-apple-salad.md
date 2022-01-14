@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Crab and Apple  Salad"
 title: "Simple Way to Prepare Favorite Crab and Apple  Salad"
 slug: 394-simple-way-to-prepare-favorite-crab-and-apple-salad
-date: 2020-09-26T13:33:22.128Z
+date: 2021-09-26T13:33:22.128Z
 image: https://img-global.cpcdn.com/recipes/d7a7c66e4b7b434b/751x532cq70/crab-and-apple-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d7a7c66e4b7b434b/751x532cq70/crab-and-apple-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d7a7c66e4b7b434b/751x532cq70/crab-and-apple-salad-recipe-main-photo.jpg

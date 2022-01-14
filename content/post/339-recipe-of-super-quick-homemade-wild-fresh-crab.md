@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Wild fresh crab"
 title: "Recipe of Super Quick Homemade Wild fresh crab"
 slug: 339-recipe-of-super-quick-homemade-wild-fresh-crab
-date: 2020-06-28T06:55:45.267Z
+date: 2021-06-28T06:55:45.267Z
 image: https://img-global.cpcdn.com/recipes/c4f31815baa84a8c/751x532cq70/wild-fresh-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c4f31815baa84a8c/751x532cq70/wild-fresh-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c4f31815baa84a8c/751x532cq70/wild-fresh-crab-recipe-main-photo.jpg

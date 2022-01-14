@@ -2,7 +2,7 @@
 description: "How to Prepare Award-winning Srilankan crab curry # surf"
 title: "How to Prepare Award-winning Srilankan crab curry # surf"
 slug: 250-how-to-prepare-award-winning-srilankan-crab-curry-surf
-date: 2020-09-28T03:57:47.024Z
+date: 2021-09-28T03:57:47.024Z
 image: https://img-global.cpcdn.com/recipes/22a86e67c17deca7/751x532cq70/srilankan-crab-curry-surf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/22a86e67c17deca7/751x532cq70/srilankan-crab-curry-surf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/22a86e67c17deca7/751x532cq70/srilankan-crab-curry-surf-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week No-Knead Bread [Fluffy Bread]"
 title: "Steps to Make Any-night-of-the-week No-Knead Bread [Fluffy Bread]"
 slug: 465-steps-to-make-any-night-of-the-week-no-knead-bread-fluffy-bread
-date: 2020-08-26T08:52:09.680Z
+date: 2021-08-26T08:52:09.680Z
 image: https://img-global.cpcdn.com/recipes/97d283e450cf309e/751x532cq70/no-knead-bread-fluffy-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/97d283e450cf309e/751x532cq70/no-knead-bread-fluffy-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/97d283e450cf309e/751x532cq70/no-knead-bread-fluffy-bread-recipe-main-photo.jpg

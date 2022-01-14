@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Spinach and egg scramble on rye bread, topped with crispy bacon"
 title: "Easiest Way to Prepare Homemade Spinach and egg scramble on rye bread, topped with crispy bacon"
 slug: 132-easiest-way-to-prepare-homemade-spinach-and-egg-scramble-on-rye-bread-topped-with-crispy-bacon
-date: 2020-10-02T08:49:33.242Z
+date: 2021-10-02T08:49:33.242Z
 image: https://img-global.cpcdn.com/recipes/da6bd93ae4ed5188/751x532cq70/spinach-and-egg-scramble-on-rye-bread-topped-with-crispy-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/da6bd93ae4ed5188/751x532cq70/spinach-and-egg-scramble-on-rye-bread-topped-with-crispy-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/da6bd93ae4ed5188/751x532cq70/spinach-and-egg-scramble-on-rye-bread-topped-with-crispy-bacon-recipe-main-photo.jpg

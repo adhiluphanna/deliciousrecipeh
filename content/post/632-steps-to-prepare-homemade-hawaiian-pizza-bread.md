@@ -2,7 +2,7 @@
 description: "Steps to Prepare Homemade Hawaiian pizza bread"
 title: "Steps to Prepare Homemade Hawaiian pizza bread"
 slug: 632-steps-to-prepare-homemade-hawaiian-pizza-bread
-date: 2020-09-19T16:10:48.555Z
+date: 2021-09-19T16:10:48.555Z
 image: https://img-global.cpcdn.com/recipes/ac0ad16f4e15d223/751x532cq70/hawaiian-pizza-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ac0ad16f4e15d223/751x532cq70/hawaiian-pizza-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ac0ad16f4e15d223/751x532cq70/hawaiian-pizza-bread-recipe-main-photo.jpg

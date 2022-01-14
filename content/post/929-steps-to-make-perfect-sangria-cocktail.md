@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Sangria (cocktail)"
 title: "Steps to Make Perfect Sangria (cocktail)"
 slug: 929-steps-to-make-perfect-sangria-cocktail
-date: 2020-05-25T06:24:26.209Z
+date: 2021-05-25T06:24:26.209Z
 image: https://img-global.cpcdn.com/recipes/b3d6fb5c0ccc450d/751x532cq70/sangria-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b3d6fb5c0ccc450d/751x532cq70/sangria-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b3d6fb5c0ccc450d/751x532cq70/sangria-cocktail-recipe-main-photo.jpg

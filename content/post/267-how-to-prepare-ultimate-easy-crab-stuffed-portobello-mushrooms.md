@@ -2,7 +2,7 @@
 description: "How to Prepare Ultimate Easy Crab Stuffed Portobello Mushrooms"
 title: "How to Prepare Ultimate Easy Crab Stuffed Portobello Mushrooms"
 slug: 267-how-to-prepare-ultimate-easy-crab-stuffed-portobello-mushrooms
-date: 2020-11-15T04:21:55.542Z
+date: 2021-11-15T04:21:55.542Z
 image: https://img-global.cpcdn.com/recipes/362e3989013eecd1/751x532cq70/easy-crab-stuffed-portobello-mushrooms-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/362e3989013eecd1/751x532cq70/easy-crab-stuffed-portobello-mushrooms-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/362e3989013eecd1/751x532cq70/easy-crab-stuffed-portobello-mushrooms-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Make Homemade Bread loaf"
 title: "How to Make Homemade Bread loaf"
 slug: 516-how-to-make-homemade-bread-loaf
-date: 2020-08-27T08:38:22.105Z
+date: 2021-08-27T08:38:22.105Z
 image: https://img-global.cpcdn.com/recipes/eea2b292b9ee1087/751x532cq70/bread-loaf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/eea2b292b9ee1087/751x532cq70/bread-loaf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/eea2b292b9ee1087/751x532cq70/bread-loaf-recipe-main-photo.jpg

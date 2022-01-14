@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Favorite Bacon, Kale and Sweet Potato Tacos"
 title: "Easiest Way to Make Favorite Bacon, Kale and Sweet Potato Tacos"
 slug: 158-easiest-way-to-make-favorite-bacon-kale-and-sweet-potato-tacos
-date: 2020-09-24T00:14:33.758Z
+date: 2021-09-24T00:14:33.758Z
 image: https://img-global.cpcdn.com/recipes/006828183898c3dd/751x532cq70/bacon-kale-and-sweet-potato-tacos-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/006828183898c3dd/751x532cq70/bacon-kale-and-sweet-potato-tacos-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/006828183898c3dd/751x532cq70/bacon-kale-and-sweet-potato-tacos-recipe-main-photo.jpg

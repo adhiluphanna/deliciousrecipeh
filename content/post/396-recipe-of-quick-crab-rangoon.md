@@ -2,7 +2,7 @@
 description: "Recipe of Quick crab Rangoon"
 title: "Recipe of Quick crab Rangoon"
 slug: 396-recipe-of-quick-crab-rangoon
-date: 2020-07-17T01:55:04.485Z
+date: 2021-07-17T01:55:04.485Z
 image: https://img-global.cpcdn.com/recipes/50609753/751x532cq70/crab-rangoon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/50609753/751x532cq70/crab-rangoon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/50609753/751x532cq70/crab-rangoon-recipe-main-photo.jpg

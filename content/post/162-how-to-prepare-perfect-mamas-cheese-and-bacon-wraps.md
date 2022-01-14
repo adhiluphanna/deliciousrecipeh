@@ -2,7 +2,7 @@
 description: "How to Prepare Perfect Mama’s cheese and bacon wraps"
 title: "How to Prepare Perfect Mama’s cheese and bacon wraps"
 slug: 162-how-to-prepare-perfect-mamas-cheese-and-bacon-wraps
-date: 2020-08-20T06:02:50.251Z
+date: 2021-08-20T06:02:50.251Z
 image: https://img-global.cpcdn.com/recipes/1e49ea2a441c6f58/751x532cq70/mamas-cheese-and-bacon-wraps-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1e49ea2a441c6f58/751x532cq70/mamas-cheese-and-bacon-wraps-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1e49ea2a441c6f58/751x532cq70/mamas-cheese-and-bacon-wraps-recipe-main-photo.jpg

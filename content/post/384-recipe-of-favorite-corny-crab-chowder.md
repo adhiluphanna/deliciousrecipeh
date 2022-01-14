@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Corny Crab Chowder"
 title: "Recipe of Favorite Corny Crab Chowder"
 slug: 384-recipe-of-favorite-corny-crab-chowder
-date: 2020-08-20T23:50:30.612Z
+date: 2021-08-20T23:50:30.612Z
 image: https://img-global.cpcdn.com/recipes/40a2aa42af8ca2e7/751x532cq70/corny-crab-chowder-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/40a2aa42af8ca2e7/751x532cq70/corny-crab-chowder-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/40a2aa42af8ca2e7/751x532cq70/corny-crab-chowder-recipe-main-photo.jpg

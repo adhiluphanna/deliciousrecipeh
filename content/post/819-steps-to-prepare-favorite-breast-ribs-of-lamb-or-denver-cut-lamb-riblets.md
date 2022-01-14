@@ -2,7 +2,7 @@
 description: "Steps to Prepare Favorite Breast, Ribs, of Lamb or Denver Cut Lamb Riblets"
 title: "Steps to Prepare Favorite Breast, Ribs, of Lamb or Denver Cut Lamb Riblets"
 slug: 819-steps-to-prepare-favorite-breast-ribs-of-lamb-or-denver-cut-lamb-riblets
-date: 2020-10-18T18:23:05.832Z
+date: 2021-10-18T18:23:05.832Z
 image: https://img-global.cpcdn.com/recipes/5ca2aa6d7316d154/751x532cq70/breast-ribs-of-lamb-or-denver-cut-lamb-riblets-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5ca2aa6d7316d154/751x532cq70/breast-ribs-of-lamb-or-denver-cut-lamb-riblets-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5ca2aa6d7316d154/751x532cq70/breast-ribs-of-lamb-or-denver-cut-lamb-riblets-recipe-main-photo.jpg

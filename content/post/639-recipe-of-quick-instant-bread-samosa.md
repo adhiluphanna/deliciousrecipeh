@@ -2,7 +2,7 @@
 description: "Recipe of Quick Instant Bread Samosa"
 title: "Recipe of Quick Instant Bread Samosa"
 slug: 639-recipe-of-quick-instant-bread-samosa
-date: 2020-05-31T09:11:43.287Z
+date: 2021-05-31T09:11:43.287Z
 image: https://img-global.cpcdn.com/recipes/025388b37da0e481/751x532cq70/instant-bread-samosa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/025388b37da0e481/751x532cq70/instant-bread-samosa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/025388b37da0e481/751x532cq70/instant-bread-samosa-recipe-main-photo.jpg

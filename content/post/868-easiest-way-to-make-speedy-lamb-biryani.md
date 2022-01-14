@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Lamb Biryani"
 title: "Easiest Way to Make Speedy Lamb Biryani"
 slug: 868-easiest-way-to-make-speedy-lamb-biryani
-date: 2020-07-12T16:58:55.266Z
+date: 2021-07-12T16:58:55.266Z
 image: https://img-global.cpcdn.com/recipes/a7ffab96125d649f/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a7ffab96125d649f/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a7ffab96125d649f/751x532cq70/lamb-biryani-recipe-main-photo.jpg

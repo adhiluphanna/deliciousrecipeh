@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Easy crab rangoons"
 title: "Recipe of Super Quick Homemade Easy crab rangoons"
 slug: 271-recipe-of-super-quick-homemade-easy-crab-rangoons
-date: 2020-08-22T18:58:37.414Z
+date: 2021-08-22T18:58:37.414Z
 image: https://img-global.cpcdn.com/recipes/3da321c646bec0b3/751x532cq70/easy-crab-rangoons-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3da321c646bec0b3/751x532cq70/easy-crab-rangoons-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3da321c646bec0b3/751x532cq70/easy-crab-rangoons-recipe-main-photo.jpg

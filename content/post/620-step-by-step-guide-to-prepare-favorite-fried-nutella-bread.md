@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Fried Nutella bread"
 title: "Step-by-Step Guide to Prepare Favorite Fried Nutella bread"
 slug: 620-step-by-step-guide-to-prepare-favorite-fried-nutella-bread
-date: 2020-06-25T15:47:00.155Z
+date: 2021-06-25T15:47:00.155Z
 image: https://img-global.cpcdn.com/recipes/3709c1b53bfa46db/751x532cq70/fried-nutella-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3709c1b53bfa46db/751x532cq70/fried-nutella-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3709c1b53bfa46db/751x532cq70/fried-nutella-bread-recipe-main-photo.jpg

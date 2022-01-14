@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Homemade Lamb"
 title: "Simple Way to Prepare Homemade Lamb"
 slug: 771-simple-way-to-prepare-homemade-lamb
-date: 2020-10-23T19:47:23.497Z
+date: 2021-10-23T19:47:23.497Z
 image: https://img-global.cpcdn.com/recipes/c5b579568943e931/751x532cq70/lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c5b579568943e931/751x532cq70/lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c5b579568943e931/751x532cq70/lamb-recipe-main-photo.jpg

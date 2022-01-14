@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Speedy Fino Bread"
 title: "Step-by-Step Guide to Make Speedy Fino Bread"
 slug: 481-step-by-step-guide-to-make-speedy-fino-bread
-date: 2020-05-23T13:39:08.994Z
+date: 2021-05-23T13:39:08.994Z
 image: https://img-global.cpcdn.com/recipes/2006343965bcfb8f/751x532cq70/fino-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2006343965bcfb8f/751x532cq70/fino-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2006343965bcfb8f/751x532cq70/fino-bread-recipe-main-photo.jpg

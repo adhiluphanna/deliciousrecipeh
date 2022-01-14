@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Breadlavista"
 title: "Recipe of Favorite Breadlavista"
 slug: 530-recipe-of-favorite-breadlavista
-date: 2020-10-02T04:45:25.127Z
+date: 2021-10-02T04:45:25.127Z
 image: https://img-global.cpcdn.com/recipes/d6c795d4bcb66500/751x532cq70/breadlavista-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d6c795d4bcb66500/751x532cq70/breadlavista-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d6c795d4bcb66500/751x532cq70/breadlavista-recipe-main-photo.jpg

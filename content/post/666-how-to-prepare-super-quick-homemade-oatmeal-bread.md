@@ -2,7 +2,7 @@
 description: "How to Prepare Super Quick Homemade Oatmeal bread"
 title: "How to Prepare Super Quick Homemade Oatmeal bread"
 slug: 666-how-to-prepare-super-quick-homemade-oatmeal-bread
-date: 2020-06-23T11:21:55.718Z
+date: 2021-06-23T11:21:55.718Z
 image: https://img-global.cpcdn.com/recipes/06c18d2735273a71/751x532cq70/oatmeal-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/06c18d2735273a71/751x532cq70/oatmeal-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/06c18d2735273a71/751x532cq70/oatmeal-bread-recipe-main-photo.jpg

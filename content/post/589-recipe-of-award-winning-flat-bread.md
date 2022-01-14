@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Flat Bread"
 title: "Recipe of Award-winning Flat Bread"
 slug: 589-recipe-of-award-winning-flat-bread
-date: 2020-08-03T19:25:34.511Z
+date: 2021-08-03T19:25:34.511Z
 image: https://img-global.cpcdn.com/recipes/790d6f6d487225a8/751x532cq70/flat-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/790d6f6d487225a8/751x532cq70/flat-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/790d6f6d487225a8/751x532cq70/flat-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Perfect Lamb leg roast"
 title: "Steps to Prepare Perfect Lamb leg roast"
 slug: 762-steps-to-prepare-perfect-lamb-leg-roast
-date: 2020-11-08T21:45:20.676Z
+date: 2021-11-08T21:45:20.676Z
 image: https://img-global.cpcdn.com/recipes/30f5cdb43e5940b9/751x532cq70/lamb-leg-roast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/30f5cdb43e5940b9/751x532cq70/lamb-leg-roast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/30f5cdb43e5940b9/751x532cq70/lamb-leg-roast-recipe-main-photo.jpg

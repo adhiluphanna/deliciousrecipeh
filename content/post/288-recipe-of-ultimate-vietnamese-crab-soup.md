@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Vietnamese Crab Soup"
 title: "Recipe of Ultimate Vietnamese Crab Soup"
 slug: 288-recipe-of-ultimate-vietnamese-crab-soup
-date: 2020-09-01T22:38:10.937Z
+date: 2021-09-01T22:38:10.937Z
 image: https://img-global.cpcdn.com/recipes/434bcdfd65bbd67e/751x532cq70/vietnamese-crab-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/434bcdfd65bbd67e/751x532cq70/vietnamese-crab-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/434bcdfd65bbd67e/751x532cq70/vietnamese-crab-soup-recipe-main-photo.jpg

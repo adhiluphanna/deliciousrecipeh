@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Bacon Cheeseburger Parmesan"
 title: "Step-by-Step Guide to Prepare Speedy Bacon Cheeseburger Parmesan"
 slug: 220-step-by-step-guide-to-prepare-speedy-bacon-cheeseburger-parmesan
-date: 2020-10-07T08:59:32.265Z
+date: 2021-10-07T08:59:32.265Z
 image: https://img-global.cpcdn.com/recipes/d44d936c89e16522/751x532cq70/bacon-cheeseburger-parmesan-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d44d936c89e16522/751x532cq70/bacon-cheeseburger-parmesan-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d44d936c89e16522/751x532cq70/bacon-cheeseburger-parmesan-recipe-main-photo.jpg

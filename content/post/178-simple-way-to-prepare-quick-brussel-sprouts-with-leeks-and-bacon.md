@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Quick Brussel Sprouts with Leeks and Bacon"
 title: "Simple Way to Prepare Quick Brussel Sprouts with Leeks and Bacon"
 slug: 178-simple-way-to-prepare-quick-brussel-sprouts-with-leeks-and-bacon
-date: 2020-07-20T09:23:32.484Z
+date: 2021-07-20T09:23:32.484Z
 image: https://img-global.cpcdn.com/recipes/865ae1a59edb42cc/751x532cq70/brussel-sprouts-with-leeks-and-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/865ae1a59edb42cc/751x532cq70/brussel-sprouts-with-leeks-and-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/865ae1a59edb42cc/751x532cq70/brussel-sprouts-with-leeks-and-bacon-recipe-main-photo.jpg

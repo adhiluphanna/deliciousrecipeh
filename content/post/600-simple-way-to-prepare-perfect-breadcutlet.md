@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Perfect BreadCutlet"
 title: "Simple Way to Prepare Perfect BreadCutlet"
 slug: 600-simple-way-to-prepare-perfect-breadcutlet
-date: 2020-08-04T14:39:42.550Z
+date: 2021-08-04T14:39:42.550Z
 image: https://img-global.cpcdn.com/recipes/07dc1e815486d50d/751x532cq70/breadcutlet-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/07dc1e815486d50d/751x532cq70/breadcutlet-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/07dc1e815486d50d/751x532cq70/breadcutlet-recipe-main-photo.jpg

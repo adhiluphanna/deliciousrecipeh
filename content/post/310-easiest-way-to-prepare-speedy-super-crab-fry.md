@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Super Crab Fry"
 title: "Easiest Way to Prepare Speedy Super Crab Fry"
 slug: 310-easiest-way-to-prepare-speedy-super-crab-fry
-date: 2020-07-20T16:18:31.255Z
+date: 2021-07-20T16:18:31.255Z
 image: https://img-global.cpcdn.com/recipes/c3a9aebbe11badfe/751x532cq70/super-crab-fry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c3a9aebbe11badfe/751x532cq70/super-crab-fry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c3a9aebbe11badfe/751x532cq70/super-crab-fry-recipe-main-photo.jpg

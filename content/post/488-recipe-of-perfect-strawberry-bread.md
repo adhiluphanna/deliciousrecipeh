@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Strawberry bread"
 title: "Recipe of Perfect Strawberry bread"
 slug: 488-recipe-of-perfect-strawberry-bread
-date: 2020-10-16T03:45:38.182Z
+date: 2021-10-16T03:45:38.182Z
 image: https://img-global.cpcdn.com/recipes/3b8ab0df9586d49d/751x532cq70/strawberry-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3b8ab0df9586d49d/751x532cq70/strawberry-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3b8ab0df9586d49d/751x532cq70/strawberry-bread-recipe-main-photo.jpg

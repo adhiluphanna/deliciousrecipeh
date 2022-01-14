@@ -2,7 +2,7 @@
 description: "Steps to Make Super Quick Homemade Corn &amp;amp; Bacon Relish"
 title: "Steps to Make Super Quick Homemade Corn &amp;amp; Bacon Relish"
 slug: 214-steps-to-make-super-quick-homemade-corn-and-amp-bacon-relish
-date: 2020-08-28T16:00:44.927Z
+date: 2021-08-28T16:00:44.927Z
 image: https://img-global.cpcdn.com/recipes/76fd450e52408be4/751x532cq70/corn-bacon-relish-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/76fd450e52408be4/751x532cq70/corn-bacon-relish-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/76fd450e52408be4/751x532cq70/corn-bacon-relish-recipe-main-photo.jpg

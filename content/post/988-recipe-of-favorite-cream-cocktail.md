@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Cream cocktail"
 title: "Recipe of Favorite Cream cocktail"
 slug: 988-recipe-of-favorite-cream-cocktail
-date: 2020-08-13T17:00:40.749Z
+date: 2021-08-13T17:00:40.749Z
 image: https://img-global.cpcdn.com/recipes/288c91e06804e9a8/751x532cq70/cream-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/288c91e06804e9a8/751x532cq70/cream-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/288c91e06804e9a8/751x532cq70/cream-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Favorite Fresh cocktail cake"
 title: "Steps to Prepare Favorite Fresh cocktail cake"
 slug: 930-steps-to-prepare-favorite-fresh-cocktail-cake
-date: 2020-10-31T04:30:48.596Z
+date: 2021-10-31T04:30:48.596Z
 image: https://img-global.cpcdn.com/recipes/2301665ae5370b56/751x532cq70/fresh-cocktail-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2301665ae5370b56/751x532cq70/fresh-cocktail-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2301665ae5370b56/751x532cq70/fresh-cocktail-cake-recipe-main-photo.jpg

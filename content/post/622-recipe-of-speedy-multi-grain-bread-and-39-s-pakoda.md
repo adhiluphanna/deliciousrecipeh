@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Multi Grain Bread's Pakoda"
 title: "Recipe of Speedy Multi Grain Bread's Pakoda"
 slug: 622-recipe-of-speedy-multi-grain-bread-and-39-s-pakoda
-date: 2020-07-27T02:18:15.609Z
+date: 2021-07-27T02:18:15.609Z
 image: https://img-global.cpcdn.com/recipes/83814a444c85ccf2/751x532cq70/multi-grain-breads-pakoda-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/83814a444c85ccf2/751x532cq70/multi-grain-breads-pakoda-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/83814a444c85ccf2/751x532cq70/multi-grain-breads-pakoda-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Twisted Breadsticks"
 title: "Recipe of Ultimate Twisted Breadsticks"
 slug: 451-recipe-of-ultimate-twisted-breadsticks
-date: 2020-07-24T14:11:57.193Z
+date: 2021-07-24T14:11:57.193Z
 image: https://img-global.cpcdn.com/recipes/8141ba1d63229d97/751x532cq70/twisted-breadsticks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8141ba1d63229d97/751x532cq70/twisted-breadsticks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8141ba1d63229d97/751x532cq70/twisted-breadsticks-recipe-main-photo.jpg

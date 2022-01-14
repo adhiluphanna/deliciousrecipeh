@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Jason's Crab Cakes"
 title: "Easiest Way to Make Quick Jason's Crab Cakes"
 slug: 422-easiest-way-to-make-quick-jason-and-39-s-crab-cakes
-date: 2020-06-04T23:49:40.841Z
+date: 2021-06-04T23:49:40.841Z
 image: https://img-global.cpcdn.com/recipes/5206891767005184/751x532cq70/jasons-crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5206891767005184/751x532cq70/jasons-crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5206891767005184/751x532cq70/jasons-crab-cakes-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Fried Lamb Chops:"
 title: "Recipe of Favorite Fried Lamb Chops:"
 slug: 745-recipe-of-favorite-fried-lamb-chops
-date: 2020-06-04T08:59:04.573Z
+date: 2021-06-04T08:59:04.573Z
 image: https://img-global.cpcdn.com/recipes/853d6e05f3c525d9/751x532cq70/fried-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/853d6e05f3c525d9/751x532cq70/fried-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/853d6e05f3c525d9/751x532cq70/fried-lamb-chops-recipe-main-photo.jpg

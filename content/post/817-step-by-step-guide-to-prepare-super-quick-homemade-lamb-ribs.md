@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Super Quick Homemade Lamb ribs"
 title: "Step-by-Step Guide to Prepare Super Quick Homemade Lamb ribs"
 slug: 817-step-by-step-guide-to-prepare-super-quick-homemade-lamb-ribs
-date: 2020-08-23T17:59:58.842Z
+date: 2021-08-23T17:59:58.842Z
 image: https://img-global.cpcdn.com/recipes/64855e7e95144135/751x532cq70/lamb-ribs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/64855e7e95144135/751x532cq70/lamb-ribs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/64855e7e95144135/751x532cq70/lamb-ribs-recipe-main-photo.jpg

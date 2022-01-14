@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Brad's crab florentine manicotti w/ parmesan, basil, caper sauce"
 title: "How to Prepare Quick Brad's crab florentine manicotti w/ parmesan, basil, caper sauce"
 slug: 251-how-to-prepare-quick-brad-and-39-s-crab-florentine-manicotti-w-parmesan-basil-caper-sauce
-date: 2020-06-26T17:17:14.946Z
+date: 2021-06-26T17:17:14.946Z
 image: https://img-global.cpcdn.com/recipes/f13b316154742186/751x532cq70/brads-crab-florentine-manicotti-w-parmesan-basil-caper-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f13b316154742186/751x532cq70/brads-crab-florentine-manicotti-w-parmesan-basil-caper-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f13b316154742186/751x532cq70/brads-crab-florentine-manicotti-w-parmesan-basil-caper-sauce-recipe-main-photo.jpg

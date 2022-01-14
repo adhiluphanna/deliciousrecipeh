@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Garlicky breadyy 🥖🧄😅"
 title: "Recipe of Favorite Garlicky breadyy 🥖🧄😅"
 slug: 462-recipe-of-favorite-garlicky-breadyy
-date: 2020-08-04T13:58:47.016Z
+date: 2021-08-04T13:58:47.016Z
 image: https://img-global.cpcdn.com/recipes/abeb1a13ca3d58fb/751x532cq70/garlicky-breadyy-🥖🧄😅-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/abeb1a13ca3d58fb/751x532cq70/garlicky-breadyy-🥖🧄😅-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/abeb1a13ca3d58fb/751x532cq70/garlicky-breadyy-🥖🧄😅-recipe-main-photo.jpg

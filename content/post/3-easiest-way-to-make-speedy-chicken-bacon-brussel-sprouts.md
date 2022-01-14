@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Chicken Bacon Brussel Sprouts"
 title: "Easiest Way to Make Speedy Chicken Bacon Brussel Sprouts"
 slug: 3-easiest-way-to-make-speedy-chicken-bacon-brussel-sprouts
-date: 2020-09-08T04:08:09.066Z
+date: 2021-09-08T04:08:09.066Z
 image: https://img-global.cpcdn.com/recipes/a5ead2a09e2c187c/751x532cq70/chicken-bacon-brussel-sprouts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a5ead2a09e2c187c/751x532cq70/chicken-bacon-brussel-sprouts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a5ead2a09e2c187c/751x532cq70/chicken-bacon-brussel-sprouts-recipe-main-photo.jpg

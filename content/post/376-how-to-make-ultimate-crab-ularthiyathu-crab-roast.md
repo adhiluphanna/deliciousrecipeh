@@ -2,7 +2,7 @@
 description: "How to Make Ultimate Crab ularthiyathu   (crab roast)"
 title: "How to Make Ultimate Crab ularthiyathu   (crab roast)"
 slug: 376-how-to-make-ultimate-crab-ularthiyathu-crab-roast
-date: 2020-11-22T14:27:38.319Z
+date: 2021-11-22T14:27:38.319Z
 image: https://img-global.cpcdn.com/recipes/06c5f17e7f60f559/751x532cq70/crab-ularthiyathu-crab-roast-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/06c5f17e7f60f559/751x532cq70/crab-ularthiyathu-crab-roast-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/06c5f17e7f60f559/751x532cq70/crab-ularthiyathu-crab-roast-recipe-main-photo.jpg

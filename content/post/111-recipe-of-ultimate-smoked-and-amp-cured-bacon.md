@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Smoked &amp;amp; Cured Bacon"
 title: "Recipe of Ultimate Smoked &amp;amp; Cured Bacon"
 slug: 111-recipe-of-ultimate-smoked-and-amp-cured-bacon
-date: 2020-08-28T03:56:11.033Z
+date: 2021-08-28T03:56:11.033Z
 image: https://img-global.cpcdn.com/recipes/1b088ae017d6a455/751x532cq70/smoked-cured-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1b088ae017d6a455/751x532cq70/smoked-cured-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1b088ae017d6a455/751x532cq70/smoked-cured-bacon-recipe-main-photo.jpg

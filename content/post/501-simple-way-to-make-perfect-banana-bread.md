@@ -2,7 +2,7 @@
 description: "Simple Way to Make Perfect Banana Bread"
 title: "Simple Way to Make Perfect Banana Bread"
 slug: 501-simple-way-to-make-perfect-banana-bread
-date: 2020-11-15T11:51:13.916Z
+date: 2021-11-15T11:51:13.916Z
 image: https://img-global.cpcdn.com/recipes/5ba5d9194a6e4913/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5ba5d9194a6e4913/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5ba5d9194a6e4913/751x532cq70/banana-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Quick Cocktail Weenies"
 title: "Easiest Way to Make Quick Cocktail Weenies"
 slug: 938-easiest-way-to-make-quick-cocktail-weenies
-date: 2020-10-07T08:55:18.967Z
+date: 2021-10-07T08:55:18.967Z
 image: https://img-global.cpcdn.com/recipes/5466511839854592/751x532cq70/cocktail-weenies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5466511839854592/751x532cq70/cocktail-weenies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5466511839854592/751x532cq70/cocktail-weenies-recipe-main-photo.jpg

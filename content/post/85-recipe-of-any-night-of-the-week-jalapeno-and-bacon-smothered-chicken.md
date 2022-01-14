@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Jalapeño and bacon smothered chicken"
 title: "Recipe of Any-night-of-the-week Jalapeño and bacon smothered chicken"
 slug: 85-recipe-of-any-night-of-the-week-jalapeno-and-bacon-smothered-chicken
-date: 2020-08-05T06:34:33.939Z
+date: 2021-08-05T06:34:33.939Z
 image: https://img-global.cpcdn.com/recipes/5ff46406467adb09/751x532cq70/jalapeno-and-bacon-smothered-chicken-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5ff46406467adb09/751x532cq70/jalapeno-and-bacon-smothered-chicken-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5ff46406467adb09/751x532cq70/jalapeno-and-bacon-smothered-chicken-recipe-main-photo.jpg

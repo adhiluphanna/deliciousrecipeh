@@ -2,7 +2,7 @@
 description: "Steps to Make Homemade Banana bread"
 title: "Steps to Make Homemade Banana bread"
 slug: 499-steps-to-make-homemade-banana-bread
-date: 2020-08-27T11:32:35.500Z
+date: 2021-08-27T11:32:35.500Z
 image: https://img-global.cpcdn.com/recipes/0c5189e5bc67621e/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0c5189e5bc67621e/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0c5189e5bc67621e/751x532cq70/banana-bread-recipe-main-photo.jpg

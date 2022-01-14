@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Srilankan crab curry # surf"
 title: "Easiest Way to Prepare Homemade Srilankan crab curry # surf"
 slug: 375-easiest-way-to-prepare-homemade-srilankan-crab-curry-surf
-date: 2020-09-19T10:03:09.400Z
+date: 2021-09-19T10:03:09.400Z
 image: https://img-global.cpcdn.com/recipes/22a86e67c17deca7/751x532cq70/srilankan-crab-curry-surf-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/22a86e67c17deca7/751x532cq70/srilankan-crab-curry-surf-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/22a86e67c17deca7/751x532cq70/srilankan-crab-curry-surf-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Chinese Surimi (Imitation Crab) Casserole"
 title: "Recipe of Speedy Chinese Surimi (Imitation Crab) Casserole"
 slug: 295-recipe-of-speedy-chinese-surimi-imitation-crab-casserole
-date: 2020-11-06T05:18:08.366Z
+date: 2021-11-06T05:18:08.366Z
 image: https://img-global.cpcdn.com/recipes/fd50973afab4bbeb/751x532cq70/chinese-surimi-imitation-crab-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fd50973afab4bbeb/751x532cq70/chinese-surimi-imitation-crab-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fd50973afab4bbeb/751x532cq70/chinese-surimi-imitation-crab-casserole-recipe-main-photo.jpg

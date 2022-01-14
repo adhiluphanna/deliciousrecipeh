@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Homemade Creamy Chicken and Bacon Penne"
 title: "Step-by-Step Guide to Make Homemade Creamy Chicken and Bacon Penne"
 slug: 194-step-by-step-guide-to-make-homemade-creamy-chicken-and-bacon-penne
-date: 2020-07-05T15:50:22.008Z
+date: 2021-07-05T15:50:22.008Z
 image: https://img-global.cpcdn.com/recipes/75439e0271435ca8/751x532cq70/creamy-chicken-and-bacon-penne-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/75439e0271435ca8/751x532cq70/creamy-chicken-and-bacon-penne-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/75439e0271435ca8/751x532cq70/creamy-chicken-and-bacon-penne-recipe-main-photo.jpg

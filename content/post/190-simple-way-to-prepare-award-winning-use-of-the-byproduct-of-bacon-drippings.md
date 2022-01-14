@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Award-winning Use of the Byproduct of bacon drippings"
 title: "Simple Way to Prepare Award-winning Use of the Byproduct of bacon drippings"
 slug: 190-simple-way-to-prepare-award-winning-use-of-the-byproduct-of-bacon-drippings
-date: 2020-06-06T00:13:51.851Z
+date: 2021-06-06T00:13:51.851Z
 image: https://img-global.cpcdn.com/recipes/aa6629c344225805/751x532cq70/use-of-the-byproduct-of-bacon-drippings-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/aa6629c344225805/751x532cq70/use-of-the-byproduct-of-bacon-drippings-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/aa6629c344225805/751x532cq70/use-of-the-byproduct-of-bacon-drippings-recipe-main-photo.jpg

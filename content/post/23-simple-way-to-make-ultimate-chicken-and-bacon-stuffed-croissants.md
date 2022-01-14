@@ -2,7 +2,7 @@
 description: "Simple Way to Make Ultimate Chicken and bacon stuffed croissants"
 title: "Simple Way to Make Ultimate Chicken and bacon stuffed croissants"
 slug: 23-simple-way-to-make-ultimate-chicken-and-bacon-stuffed-croissants
-date: 2020-08-27T21:13:41.998Z
+date: 2021-08-27T21:13:41.998Z
 image: https://img-global.cpcdn.com/recipes/666a60a77830cabb/751x532cq70/chicken-and-bacon-stuffed-croissants-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/666a60a77830cabb/751x532cq70/chicken-and-bacon-stuffed-croissants-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/666a60a77830cabb/751x532cq70/chicken-and-bacon-stuffed-croissants-recipe-main-photo.jpg

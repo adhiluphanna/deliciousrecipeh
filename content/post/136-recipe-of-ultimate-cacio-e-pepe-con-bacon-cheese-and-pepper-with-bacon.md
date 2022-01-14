@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Cacio e Pepe Con Bacon, Cheese and Pepper with Bacon"
 title: "Recipe of Ultimate Cacio e Pepe Con Bacon, Cheese and Pepper with Bacon"
 slug: 136-recipe-of-ultimate-cacio-e-pepe-con-bacon-cheese-and-pepper-with-bacon
-date: 2020-07-28T07:39:11.709Z
+date: 2021-07-28T07:39:11.709Z
 image: https://img-global.cpcdn.com/recipes/9cd01b27d913f28d/751x532cq70/cacio-e-pepe-con-bacon-cheese-and-pepper-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9cd01b27d913f28d/751x532cq70/cacio-e-pepe-con-bacon-cheese-and-pepper-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9cd01b27d913f28d/751x532cq70/cacio-e-pepe-con-bacon-cheese-and-pepper-with-bacon-recipe-main-photo.jpg

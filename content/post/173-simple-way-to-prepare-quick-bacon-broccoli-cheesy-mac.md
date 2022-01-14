@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Quick Bacon broccoli cheesy mac"
 title: "Simple Way to Prepare Quick Bacon broccoli cheesy mac"
 slug: 173-simple-way-to-prepare-quick-bacon-broccoli-cheesy-mac
-date: 2020-08-27T05:27:32.096Z
+date: 2021-08-27T05:27:32.096Z
 image: https://img-global.cpcdn.com/recipes/1b2c8f7c32cf2615/751x532cq70/bacon-broccoli-cheesy-mac-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1b2c8f7c32cf2615/751x532cq70/bacon-broccoli-cheesy-mac-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1b2c8f7c32cf2615/751x532cq70/bacon-broccoli-cheesy-mac-recipe-main-photo.jpg

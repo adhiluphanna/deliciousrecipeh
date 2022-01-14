@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Hot Crab &amp;amp; Lobster Dip"
 title: "Recipe of Favorite Hot Crab &amp;amp; Lobster Dip"
 slug: 290-recipe-of-favorite-hot-crab-and-amp-lobster-dip
-date: 2020-05-30T21:01:12.858Z
+date: 2021-05-30T21:01:12.858Z
 image: https://img-global.cpcdn.com/recipes/f8b7dd781e5e33c0/751x532cq70/hot-crab-lobster-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f8b7dd781e5e33c0/751x532cq70/hot-crab-lobster-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f8b7dd781e5e33c0/751x532cq70/hot-crab-lobster-dip-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Quick Lamb"
 title: "Recipe of Quick Lamb"
 slug: 708-recipe-of-quick-lamb
-date: 2020-06-17T09:09:29.428Z
+date: 2021-06-17T09:09:29.428Z
 image: https://img-global.cpcdn.com/recipes/0ec91e3306dcf649/751x532cq70/lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0ec91e3306dcf649/751x532cq70/lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0ec91e3306dcf649/751x532cq70/lamb-recipe-main-photo.jpg

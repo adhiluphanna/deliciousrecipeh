@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Easy Creamy Bacon, Asparagus, Tomato Pasta with Boursin (or Cream Cheese)"
 title: "Recipe of Perfect Easy Creamy Bacon, Asparagus, Tomato Pasta with Boursin (or Cream Cheese)"
 slug: 169-recipe-of-perfect-easy-creamy-bacon-asparagus-tomato-pasta-with-boursin-or-cream-cheese
-date: 2020-11-03T03:54:52.216Z
+date: 2021-11-03T03:54:52.216Z
 image: https://img-global.cpcdn.com/recipes/fe4db13a714551a3/751x532cq70/easy-creamy-bacon-asparagus-tomato-pasta-with-boursin-or-cream-cheese-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fe4db13a714551a3/751x532cq70/easy-creamy-bacon-asparagus-tomato-pasta-with-boursin-or-cream-cheese-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fe4db13a714551a3/751x532cq70/easy-creamy-bacon-asparagus-tomato-pasta-with-boursin-or-cream-cheese-recipe-main-photo.jpg

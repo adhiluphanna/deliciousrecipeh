@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Super Quick Homemade Bread Gulab Jamun"
 title: "Step-by-Step Guide to Make Super Quick Homemade Bread Gulab Jamun"
 slug: 552-step-by-step-guide-to-make-super-quick-homemade-bread-gulab-jamun
-date: 2020-08-12T12:26:49.634Z
+date: 2021-08-12T12:26:49.634Z
 image: https://img-global.cpcdn.com/recipes/f0f14a4cf41b5ef2/751x532cq70/bread-gulab-jamun-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f0f14a4cf41b5ef2/751x532cq70/bread-gulab-jamun-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f0f14a4cf41b5ef2/751x532cq70/bread-gulab-jamun-recipe-main-photo.jpg

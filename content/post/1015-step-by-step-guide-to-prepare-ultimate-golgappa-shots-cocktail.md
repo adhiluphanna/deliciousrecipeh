@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Ultimate Golgappa shots cocktail"
 title: "Step-by-Step Guide to Prepare Ultimate Golgappa shots cocktail"
 slug: 1015-step-by-step-guide-to-prepare-ultimate-golgappa-shots-cocktail
-date: 2020-06-09T12:47:56.363Z
+date: 2021-06-09T12:47:56.363Z
 image: https://img-global.cpcdn.com/recipes/4797ba74d80120e4/751x532cq70/golgappa-shots-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4797ba74d80120e4/751x532cq70/golgappa-shots-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4797ba74d80120e4/751x532cq70/golgappa-shots-cocktail-recipe-main-photo.jpg

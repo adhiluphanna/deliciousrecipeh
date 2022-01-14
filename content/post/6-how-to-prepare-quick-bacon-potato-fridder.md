@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Bacon potato fridder"
 title: "How to Prepare Quick Bacon potato fridder"
 slug: 6-how-to-prepare-quick-bacon-potato-fridder
-date: 2020-08-31T09:46:33.714Z
+date: 2021-08-31T09:46:33.714Z
 image: https://img-global.cpcdn.com/recipes/915832885c7d1e7a/751x532cq70/bacon-potato-fridder-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/915832885c7d1e7a/751x532cq70/bacon-potato-fridder-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/915832885c7d1e7a/751x532cq70/bacon-potato-fridder-recipe-main-photo.jpg

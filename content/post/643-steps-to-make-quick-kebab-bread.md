@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Kebab bread 🥖"
 title: "Steps to Make Quick Kebab bread 🥖"
 slug: 643-steps-to-make-quick-kebab-bread
-date: 2020-10-07T18:43:28.137Z
+date: 2021-10-07T18:43:28.137Z
 image: https://img-global.cpcdn.com/recipes/e989e7863fab1806/751x532cq70/kebab-bread-🥖-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e989e7863fab1806/751x532cq70/kebab-bread-🥖-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e989e7863fab1806/751x532cq70/kebab-bread-🥖-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Lamb/Mutton Kebabs"
 title: "Easiest Way to Prepare Homemade Lamb/Mutton Kebabs"
 slug: 798-easiest-way-to-prepare-homemade-lamb-mutton-kebabs
-date: 2020-11-09T08:38:42.132Z
+date: 2021-11-09T08:38:42.132Z
 image: https://img-global.cpcdn.com/recipes/f673809db591edc3/751x532cq70/lambmutton-kebabs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f673809db591edc3/751x532cq70/lambmutton-kebabs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f673809db591edc3/751x532cq70/lambmutton-kebabs-recipe-main-photo.jpg

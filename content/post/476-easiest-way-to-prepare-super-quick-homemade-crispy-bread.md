@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Super Quick Homemade Crispy bread"
 title: "Easiest Way to Prepare Super Quick Homemade Crispy bread"
 slug: 476-easiest-way-to-prepare-super-quick-homemade-crispy-bread
-date: 2020-10-14T11:31:16.781Z
+date: 2021-10-14T11:31:16.781Z
 image: https://img-global.cpcdn.com/recipes/f0b866f91d05400f/751x532cq70/crispy-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f0b866f91d05400f/751x532cq70/crispy-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f0b866f91d05400f/751x532cq70/crispy-bread-recipe-main-photo.jpg

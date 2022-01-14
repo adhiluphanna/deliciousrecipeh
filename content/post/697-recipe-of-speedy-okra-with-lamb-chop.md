@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Okra with lamb chop"
 title: "Recipe of Speedy Okra with lamb chop"
 slug: 697-recipe-of-speedy-okra-with-lamb-chop
-date: 2020-08-11T11:31:58.050Z
+date: 2021-08-11T11:31:58.050Z
 image: https://img-global.cpcdn.com/recipes/a52666d1b5e07272/751x532cq70/okra-with-lamb-chop-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a52666d1b5e07272/751x532cq70/okra-with-lamb-chop-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a52666d1b5e07272/751x532cq70/okra-with-lamb-chop-recipe-main-photo.jpg

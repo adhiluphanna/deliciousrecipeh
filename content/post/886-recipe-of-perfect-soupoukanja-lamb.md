@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Soupoukanja Lamb"
 title: "Recipe of Perfect Soupoukanja Lamb"
 slug: 886-recipe-of-perfect-soupoukanja-lamb
-date: 2020-09-26T00:36:42.585Z
+date: 2021-09-26T00:36:42.585Z
 image: https://img-global.cpcdn.com/recipes/4759775216664576/751x532cq70/soupoukanja-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4759775216664576/751x532cq70/soupoukanja-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4759775216664576/751x532cq70/soupoukanja-lamb-recipe-main-photo.jpg

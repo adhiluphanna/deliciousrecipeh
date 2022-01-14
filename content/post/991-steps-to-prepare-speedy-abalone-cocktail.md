@@ -2,7 +2,7 @@
 description: "Steps to Prepare Speedy Abalone cocktail"
 title: "Steps to Prepare Speedy Abalone cocktail"
 slug: 991-steps-to-prepare-speedy-abalone-cocktail
-date: 2020-10-30T01:25:35.602Z
+date: 2021-10-30T01:25:35.602Z
 image: https://img-global.cpcdn.com/recipes/71d28c46c2a9bce4/751x532cq70/abalone-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/71d28c46c2a9bce4/751x532cq70/abalone-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/71d28c46c2a9bce4/751x532cq70/abalone-cocktail-recipe-main-photo.jpg

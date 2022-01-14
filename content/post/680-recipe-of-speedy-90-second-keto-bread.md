@@ -2,7 +2,7 @@
 description: "Recipe of Speedy 90 second keto bread"
 title: "Recipe of Speedy 90 second keto bread"
 slug: 680-recipe-of-speedy-90-second-keto-bread
-date: 2020-07-05T00:43:12.551Z
+date: 2021-07-05T00:43:12.551Z
 image: https://img-global.cpcdn.com/recipes/15a7af975fa60102/751x532cq70/90-second-keto-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/15a7af975fa60102/751x532cq70/90-second-keto-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/15a7af975fa60102/751x532cq70/90-second-keto-bread-recipe-main-photo.jpg

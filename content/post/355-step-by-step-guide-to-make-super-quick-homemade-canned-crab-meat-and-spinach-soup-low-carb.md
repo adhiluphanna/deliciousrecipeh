@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Super Quick Homemade Canned Crab Meat and Spinach Soup (Low-Carb)"
 title: "Step-by-Step Guide to Make Super Quick Homemade Canned Crab Meat and Spinach Soup (Low-Carb)"
 slug: 355-step-by-step-guide-to-make-super-quick-homemade-canned-crab-meat-and-spinach-soup-low-carb
-date: 2020-08-05T12:07:16.959Z
+date: 2021-08-05T12:07:16.959Z
 image: https://img-global.cpcdn.com/recipes/6240708953374720/751x532cq70/canned-crab-meat-and-spinach-soup-low-carb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6240708953374720/751x532cq70/canned-crab-meat-and-spinach-soup-low-carb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6240708953374720/751x532cq70/canned-crab-meat-and-spinach-soup-low-carb-recipe-main-photo.jpg

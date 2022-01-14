@@ -2,7 +2,7 @@
 description: "Recipe of Homemade No Yeast Bread"
 title: "Recipe of Homemade No Yeast Bread"
 slug: 577-recipe-of-homemade-no-yeast-bread
-date: 2020-11-06T04:58:38.483Z
+date: 2021-11-06T04:58:38.483Z
 image: https://img-global.cpcdn.com/recipes/553a68a1d5d01eea/751x532cq70/no-yeast-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/553a68a1d5d01eea/751x532cq70/no-yeast-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/553a68a1d5d01eea/751x532cq70/no-yeast-bread-recipe-main-photo.jpg

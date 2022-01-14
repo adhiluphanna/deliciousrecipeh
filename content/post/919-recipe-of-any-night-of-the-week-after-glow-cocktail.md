@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week After glow cocktail"
 title: "Recipe of Any-night-of-the-week After glow cocktail"
 slug: 919-recipe-of-any-night-of-the-week-after-glow-cocktail
-date: 2020-11-04T13:41:40.825Z
+date: 2021-11-04T13:41:40.825Z
 image: https://img-global.cpcdn.com/recipes/92b2c933f4c4490d/751x532cq70/after-glow-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/92b2c933f4c4490d/751x532cq70/after-glow-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/92b2c933f4c4490d/751x532cq70/after-glow-cocktail-recipe-main-photo.jpg

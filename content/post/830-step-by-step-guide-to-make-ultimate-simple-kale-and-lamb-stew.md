@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Ultimate Simple Kale and lamb stew"
 title: "Step-by-Step Guide to Make Ultimate Simple Kale and lamb stew"
 slug: 830-step-by-step-guide-to-make-ultimate-simple-kale-and-lamb-stew
-date: 2020-11-13T05:22:41.396Z
+date: 2021-11-13T05:22:41.396Z
 image: https://img-global.cpcdn.com/recipes/12bcb1208489178e/751x532cq70/simple-kale-and-lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/12bcb1208489178e/751x532cq70/simple-kale-and-lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/12bcb1208489178e/751x532cq70/simple-kale-and-lamb-stew-recipe-main-photo.jpg

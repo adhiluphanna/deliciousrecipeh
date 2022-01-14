@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Bacon 🥓 Wrapped BBQ 🍖 Jalapeño Poppers"
 title: "Easiest Way to Prepare Quick Bacon 🥓 Wrapped BBQ 🍖 Jalapeño Poppers"
 slug: 34-easiest-way-to-prepare-quick-bacon-wrapped-bbq-jalapeno-poppers
-date: 2020-07-10T22:41:05.162Z
+date: 2021-07-10T22:41:05.162Z
 image: https://img-global.cpcdn.com/recipes/5b571a520e7c20cd/751x532cq70/bacon-🥓-wrapped-bbq-🍖-jalapeno-poppers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5b571a520e7c20cd/751x532cq70/bacon-🥓-wrapped-bbq-🍖-jalapeno-poppers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5b571a520e7c20cd/751x532cq70/bacon-🥓-wrapped-bbq-🍖-jalapeno-poppers-recipe-main-photo.jpg

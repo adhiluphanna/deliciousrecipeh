@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Ultimate Brazilian Cheese Bread"
 title: "Step-by-Step Guide to Make Ultimate Brazilian Cheese Bread"
 slug: 614-step-by-step-guide-to-make-ultimate-brazilian-cheese-bread
-date: 2020-09-21T20:22:07.176Z
+date: 2021-09-21T20:22:07.176Z
 image: https://img-global.cpcdn.com/recipes/f91b8c49fd6b0577/751x532cq70/brazilian-cheese-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f91b8c49fd6b0577/751x532cq70/brazilian-cheese-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f91b8c49fd6b0577/751x532cq70/brazilian-cheese-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Bunny in blanket #BreadDay"
 title: "Step-by-Step Guide to Prepare Favorite Bunny in blanket #BreadDay"
 slug: 452-step-by-step-guide-to-prepare-favorite-bunny-in-blanket-breadday
-date: 2020-06-13T17:37:42.813Z
+date: 2021-06-13T17:37:42.813Z
 image: https://img-global.cpcdn.com/recipes/fea1902253bc19e2/751x532cq70/bunny-in-blanket-breadday-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/fea1902253bc19e2/751x532cq70/bunny-in-blanket-breadday-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/fea1902253bc19e2/751x532cq70/bunny-in-blanket-breadday-recipe-main-photo.jpg

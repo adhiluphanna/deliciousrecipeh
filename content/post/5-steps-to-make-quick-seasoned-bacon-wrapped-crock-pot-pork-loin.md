@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Seasoned Bacon Wrapped Crock Pot Pork Loin"
 title: "Steps to Make Quick Seasoned Bacon Wrapped Crock Pot Pork Loin"
 slug: 5-steps-to-make-quick-seasoned-bacon-wrapped-crock-pot-pork-loin
-date: 2020-07-21T07:57:09.722Z
+date: 2021-07-21T07:57:09.722Z
 image: https://img-global.cpcdn.com/recipes/601a1d5fd25dad80/751x532cq70/seasoned-bacon-wrapped-crock-pot-pork-loin-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/601a1d5fd25dad80/751x532cq70/seasoned-bacon-wrapped-crock-pot-pork-loin-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/601a1d5fd25dad80/751x532cq70/seasoned-bacon-wrapped-crock-pot-pork-loin-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Quick Lamb shank"
 title: "Recipe of Quick Lamb shank"
 slug: 723-recipe-of-quick-lamb-shank
-date: 2020-06-08T20:31:40.329Z
+date: 2021-06-08T20:31:40.329Z
 image: https://img-global.cpcdn.com/recipes/26b997998746ac54/751x532cq70/lamb-shank-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/26b997998746ac54/751x532cq70/lamb-shank-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/26b997998746ac54/751x532cq70/lamb-shank-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Bread"
 title: "Recipe of Speedy Bread"
 slug: 608-recipe-of-speedy-bread
-date: 2020-07-09T12:04:17.014Z
+date: 2021-07-09T12:04:17.014Z
 image: https://img-global.cpcdn.com/recipes/34087df1316f7d0c/751x532cq70/bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/34087df1316f7d0c/751x532cq70/bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/34087df1316f7d0c/751x532cq70/bread-recipe-main-photo.jpg

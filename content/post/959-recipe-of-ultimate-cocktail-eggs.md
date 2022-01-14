@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Cocktail Eggs"
 title: "Recipe of Ultimate Cocktail Eggs"
 slug: 959-recipe-of-ultimate-cocktail-eggs
-date: 2020-05-24T12:37:04.735Z
+date: 2021-05-24T12:37:04.735Z
 image: https://img-global.cpcdn.com/recipes/f53ba0587ccb3cb9/751x532cq70/cocktail-eggs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f53ba0587ccb3cb9/751x532cq70/cocktail-eggs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f53ba0587ccb3cb9/751x532cq70/cocktail-eggs-recipe-main-photo.jpg

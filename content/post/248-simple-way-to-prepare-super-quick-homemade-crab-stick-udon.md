@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Crab Stick Udon"
 title: "Simple Way to Prepare Super Quick Homemade Crab Stick Udon"
 slug: 248-simple-way-to-prepare-super-quick-homemade-crab-stick-udon
-date: 2020-10-18T19:47:57.178Z
+date: 2021-10-18T19:47:57.178Z
 image: https://img-global.cpcdn.com/recipes/164a1df9fb2cca0c/751x532cq70/crab-stick-udon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/164a1df9fb2cca0c/751x532cq70/crab-stick-udon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/164a1df9fb2cca0c/751x532cq70/crab-stick-udon-recipe-main-photo.jpg

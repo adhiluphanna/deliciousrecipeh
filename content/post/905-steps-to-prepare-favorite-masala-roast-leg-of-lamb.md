@@ -2,7 +2,7 @@
 description: "Steps to Prepare Favorite Masala Roast leg of lamb:"
 title: "Steps to Prepare Favorite Masala Roast leg of lamb:"
 slug: 905-steps-to-prepare-favorite-masala-roast-leg-of-lamb
-date: 2020-06-29T11:04:18.777Z
+date: 2021-06-29T11:04:18.777Z
 image: https://img-global.cpcdn.com/recipes/c6601ec28f4e77cb/751x532cq70/masala-roast-leg-of-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c6601ec28f4e77cb/751x532cq70/masala-roast-leg-of-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c6601ec28f4e77cb/751x532cq70/masala-roast-leg-of-lamb-recipe-main-photo.jpg

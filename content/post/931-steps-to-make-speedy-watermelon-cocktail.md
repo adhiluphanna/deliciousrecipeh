@@ -2,7 +2,7 @@
 description: "Steps to Make Speedy WaterMelon cocktail"
 title: "Steps to Make Speedy WaterMelon cocktail"
 slug: 931-steps-to-make-speedy-watermelon-cocktail
-date: 2020-09-12T21:00:57.925Z
+date: 2021-09-12T21:00:57.925Z
 image: https://img-global.cpcdn.com/recipes/0f959765ee228cb7/751x532cq70/watermelon-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0f959765ee228cb7/751x532cq70/watermelon-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0f959765ee228cb7/751x532cq70/watermelon-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Make Speedy masala crab"
 title: "Simple Way to Make Speedy masala crab"
 slug: 366-simple-way-to-make-speedy-masala-crab
-date: 2020-08-07T14:11:59.803Z
+date: 2021-08-07T14:11:59.803Z
 image: https://img-global.cpcdn.com/recipes/6493472605339648/751x532cq70/masala-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6493472605339648/751x532cq70/masala-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6493472605339648/751x532cq70/masala-crab-recipe-main-photo.jpg

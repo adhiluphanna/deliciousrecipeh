@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Nut bread"
 title: "Step-by-Step Guide to Make Favorite Nut bread"
 slug: 503-step-by-step-guide-to-make-favorite-nut-bread
-date: 2020-10-22T05:06:00.237Z
+date: 2021-10-22T05:06:00.237Z
 image: https://img-global.cpcdn.com/recipes/84231286982c01a6/751x532cq70/nut-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/84231286982c01a6/751x532cq70/nut-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/84231286982c01a6/751x532cq70/nut-bread-recipe-main-photo.jpg

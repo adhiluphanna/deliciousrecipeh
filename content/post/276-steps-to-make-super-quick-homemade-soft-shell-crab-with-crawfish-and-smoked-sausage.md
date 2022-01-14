@@ -2,7 +2,7 @@
 description: "Steps to Make Super Quick Homemade Soft Shell Crab with Crawfish and Smoked Sausage"
 title: "Steps to Make Super Quick Homemade Soft Shell Crab with Crawfish and Smoked Sausage"
 slug: 276-steps-to-make-super-quick-homemade-soft-shell-crab-with-crawfish-and-smoked-sausage
-date: 2020-10-28T21:45:56.352Z
+date: 2021-10-28T21:45:56.352Z
 image: https://img-global.cpcdn.com/recipes/e8cf3e1dab4bc532/751x532cq70/soft-shell-crab-with-crawfish-and-smoked-sausage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e8cf3e1dab4bc532/751x532cq70/soft-shell-crab-with-crawfish-and-smoked-sausage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e8cf3e1dab4bc532/751x532cq70/soft-shell-crab-with-crawfish-and-smoked-sausage-recipe-main-photo.jpg

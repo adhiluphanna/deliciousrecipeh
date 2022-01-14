@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Oven Toaster Bread"
 title: "Recipe of Homemade Oven Toaster Bread"
 slug: 629-recipe-of-homemade-oven-toaster-bread
-date: 2020-08-04T10:17:00.459Z
+date: 2021-08-04T10:17:00.459Z
 image: https://img-global.cpcdn.com/recipes/5b673019c2d5b9ae/751x532cq70/oven-toaster-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5b673019c2d5b9ae/751x532cq70/oven-toaster-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5b673019c2d5b9ae/751x532cq70/oven-toaster-bread-recipe-main-photo.jpg

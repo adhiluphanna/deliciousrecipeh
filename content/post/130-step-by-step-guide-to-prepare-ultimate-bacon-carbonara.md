@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Ultimate Bacon Carbonara"
 title: "Step-by-Step Guide to Prepare Ultimate Bacon Carbonara"
 slug: 130-step-by-step-guide-to-prepare-ultimate-bacon-carbonara
-date: 2020-09-06T11:23:19.465Z
+date: 2021-09-06T11:23:19.465Z
 image: https://img-global.cpcdn.com/recipes/9154e720e72f7546/751x532cq70/bacon-carbonara-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9154e720e72f7546/751x532cq70/bacon-carbonara-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9154e720e72f7546/751x532cq70/bacon-carbonara-recipe-main-photo.jpg

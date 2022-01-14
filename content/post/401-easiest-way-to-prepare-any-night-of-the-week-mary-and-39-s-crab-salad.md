@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Mary's Crab Salad"
 title: "Easiest Way to Prepare Any-night-of-the-week Mary's Crab Salad"
 slug: 401-easiest-way-to-prepare-any-night-of-the-week-mary-and-39-s-crab-salad
-date: 2020-11-18T09:54:15.446Z
+date: 2021-11-18T09:54:15.446Z
 image: https://img-global.cpcdn.com/recipes/5497802114727936/751x532cq70/marys-crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5497802114727936/751x532cq70/marys-crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5497802114727936/751x532cq70/marys-crab-salad-recipe-main-photo.jpg

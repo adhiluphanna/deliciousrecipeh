@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Corny Crab Chowder"
 title: "Recipe of Any-night-of-the-week Corny Crab Chowder"
 slug: 395-recipe-of-any-night-of-the-week-corny-crab-chowder
-date: 2020-06-20T01:04:49.848Z
+date: 2021-06-20T01:04:49.848Z
 image: https://img-global.cpcdn.com/recipes/40a2aa42af8ca2e7/751x532cq70/corny-crab-chowder-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/40a2aa42af8ca2e7/751x532cq70/corny-crab-chowder-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/40a2aa42af8ca2e7/751x532cq70/corny-crab-chowder-recipe-main-photo.jpg

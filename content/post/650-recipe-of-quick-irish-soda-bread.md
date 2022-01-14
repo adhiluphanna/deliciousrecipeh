@@ -2,7 +2,7 @@
 description: "Recipe of Quick Irish Soda Bread"
 title: "Recipe of Quick Irish Soda Bread"
 slug: 650-recipe-of-quick-irish-soda-bread
-date: 2020-06-08T12:21:56.886Z
+date: 2021-06-08T12:21:56.886Z
 image: https://img-global.cpcdn.com/recipes/844ed21588f9080a/751x532cq70/irish-soda-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/844ed21588f9080a/751x532cq70/irish-soda-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/844ed21588f9080a/751x532cq70/irish-soda-bread-recipe-main-photo.jpg

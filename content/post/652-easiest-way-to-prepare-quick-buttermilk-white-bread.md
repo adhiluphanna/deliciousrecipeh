@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Buttermilk White Bread"
 title: "Easiest Way to Prepare Quick Buttermilk White Bread"
 slug: 652-easiest-way-to-prepare-quick-buttermilk-white-bread
-date: 2020-07-07T11:38:00.367Z
+date: 2021-07-07T11:38:00.367Z
 image: https://img-global.cpcdn.com/recipes/c1b9438001369e38/751x532cq70/buttermilk-white-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c1b9438001369e38/751x532cq70/buttermilk-white-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c1b9438001369e38/751x532cq70/buttermilk-white-bread-recipe-main-photo.jpg

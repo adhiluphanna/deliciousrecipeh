@@ -2,7 +2,7 @@
 description: "Simple Way to Make Any-night-of-the-week Bacon Chili Cheesedog Casserole"
 title: "Simple Way to Make Any-night-of-the-week Bacon Chili Cheesedog Casserole"
 slug: 121-simple-way-to-make-any-night-of-the-week-bacon-chili-cheesedog-casserole
-date: 2020-07-14T20:14:22.194Z
+date: 2021-07-14T20:14:22.194Z
 image: https://img-global.cpcdn.com/recipes/7a3a05444969098e/751x532cq70/bacon-chili-cheesedog-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7a3a05444969098e/751x532cq70/bacon-chili-cheesedog-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7a3a05444969098e/751x532cq70/bacon-chili-cheesedog-casserole-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Cheesy Chicken, Bacon and Broccoli Casserole"
 title: "Recipe of Perfect Cheesy Chicken, Bacon and Broccoli Casserole"
 slug: 94-recipe-of-perfect-cheesy-chicken-bacon-and-broccoli-casserole
-date: 2020-08-07T19:59:43.497Z
+date: 2021-08-07T19:59:43.497Z
 image: https://img-global.cpcdn.com/recipes/008fadcbe566645b/751x532cq70/cheesy-chicken-bacon-and-broccoli-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/008fadcbe566645b/751x532cq70/cheesy-chicken-bacon-and-broccoli-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/008fadcbe566645b/751x532cq70/cheesy-chicken-bacon-and-broccoli-casserole-recipe-main-photo.jpg

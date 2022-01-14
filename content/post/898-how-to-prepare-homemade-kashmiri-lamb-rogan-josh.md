@@ -2,7 +2,7 @@
 description: "How to Prepare Homemade Kashmiri Lamb Rogan Josh"
 title: "How to Prepare Homemade Kashmiri Lamb Rogan Josh"
 slug: 898-how-to-prepare-homemade-kashmiri-lamb-rogan-josh
-date: 2020-08-31T06:36:56.907Z
+date: 2021-08-31T06:36:56.907Z
 image: https://img-global.cpcdn.com/recipes/dc465ae6b6a3f81a/751x532cq70/kashmiri-lamb-rogan-josh-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dc465ae6b6a3f81a/751x532cq70/kashmiri-lamb-rogan-josh-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dc465ae6b6a3f81a/751x532cq70/kashmiri-lamb-rogan-josh-recipe-main-photo.jpg

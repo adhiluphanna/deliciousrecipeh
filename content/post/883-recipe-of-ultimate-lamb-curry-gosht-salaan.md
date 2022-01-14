@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Lamb Curry (Gosht Salaan)"
 title: "Recipe of Ultimate Lamb Curry (Gosht Salaan)"
 slug: 883-recipe-of-ultimate-lamb-curry-gosht-salaan
-date: 2020-06-19T15:53:18.925Z
+date: 2021-06-19T15:53:18.925Z
 image: https://img-global.cpcdn.com/recipes/6154667135860736/751x532cq70/lamb-curry-gosht-salaan-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6154667135860736/751x532cq70/lamb-curry-gosht-salaan-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6154667135860736/751x532cq70/lamb-curry-gosht-salaan-recipe-main-photo.jpg

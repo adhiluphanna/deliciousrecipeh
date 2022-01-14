@@ -2,7 +2,7 @@
 description: "How to Prepare Homemade Cheese and Garlic Mushrooms with Bacon"
 title: "How to Prepare Homemade Cheese and Garlic Mushrooms with Bacon"
 slug: 78-how-to-prepare-homemade-cheese-and-garlic-mushrooms-with-bacon
-date: 2020-07-09T16:23:58.291Z
+date: 2021-07-09T16:23:58.291Z
 image: https://img-global.cpcdn.com/recipes/b5cb04bf9f1d6079/751x532cq70/cheese-and-garlic-mushrooms-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b5cb04bf9f1d6079/751x532cq70/cheese-and-garlic-mushrooms-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b5cb04bf9f1d6079/751x532cq70/cheese-and-garlic-mushrooms-with-bacon-recipe-main-photo.jpg

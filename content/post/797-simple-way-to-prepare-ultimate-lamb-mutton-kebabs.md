@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Lamb/Mutton Kebabs"
 title: "Simple Way to Prepare Ultimate Lamb/Mutton Kebabs"
 slug: 797-simple-way-to-prepare-ultimate-lamb-mutton-kebabs
-date: 2020-08-20T00:31:51.226Z
+date: 2021-08-20T00:31:51.226Z
 image: https://img-global.cpcdn.com/recipes/f673809db591edc3/751x532cq70/lambmutton-kebabs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f673809db591edc3/751x532cq70/lambmutton-kebabs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f673809db591edc3/751x532cq70/lambmutton-kebabs-recipe-main-photo.jpg

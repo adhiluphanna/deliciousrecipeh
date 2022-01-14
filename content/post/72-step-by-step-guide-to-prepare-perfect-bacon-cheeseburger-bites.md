@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Perfect Bacon Cheeseburger Bites"
 title: "Step-by-Step Guide to Prepare Perfect Bacon Cheeseburger Bites"
 slug: 72-step-by-step-guide-to-prepare-perfect-bacon-cheeseburger-bites
-date: 2020-06-25T03:19:25.399Z
+date: 2021-06-25T03:19:25.399Z
 image: https://img-global.cpcdn.com/recipes/2e0f4920f182af59/751x532cq70/bacon-cheeseburger-bites-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2e0f4920f182af59/751x532cq70/bacon-cheeseburger-bites-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2e0f4920f182af59/751x532cq70/bacon-cheeseburger-bites-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Favorite TE Mana Lamb Roulade"
 title: "Steps to Prepare Favorite TE Mana Lamb Roulade"
 slug: 843-steps-to-prepare-favorite-te-mana-lamb-roulade
-date: 2020-06-09T23:31:22.515Z
+date: 2021-06-09T23:31:22.515Z
 image: https://img-global.cpcdn.com/recipes/76abe0a9284ad61a/751x532cq70/te-mana-lamb-roulade-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/76abe0a9284ad61a/751x532cq70/te-mana-lamb-roulade-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/76abe0a9284ad61a/751x532cq70/te-mana-lamb-roulade-recipe-main-photo.jpg

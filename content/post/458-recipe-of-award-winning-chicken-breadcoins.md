@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Chicken Breadcoins"
 title: "Recipe of Award-winning Chicken Breadcoins"
 slug: 458-recipe-of-award-winning-chicken-breadcoins
-date: 2020-10-18T19:32:21.096Z
+date: 2021-10-18T19:32:21.096Z
 image: https://img-global.cpcdn.com/recipes/10552ce7a317deed/751x532cq70/chicken-breadcoins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/10552ce7a317deed/751x532cq70/chicken-breadcoins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/10552ce7a317deed/751x532cq70/chicken-breadcoins-recipe-main-photo.jpg

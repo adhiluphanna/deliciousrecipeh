@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Shrimp Cocktail Dip"
 title: "Recipe of Perfect Shrimp Cocktail Dip"
 slug: 978-recipe-of-perfect-shrimp-cocktail-dip
-date: 2020-07-25T09:18:43.987Z
+date: 2021-07-25T09:18:43.987Z
 image: https://img-global.cpcdn.com/recipes/3017134a01f7a20c/751x532cq70/shrimp-cocktail-dip-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3017134a01f7a20c/751x532cq70/shrimp-cocktail-dip-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3017134a01f7a20c/751x532cq70/shrimp-cocktail-dip-recipe-main-photo.jpg

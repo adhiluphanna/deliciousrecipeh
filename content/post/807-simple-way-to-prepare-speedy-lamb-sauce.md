@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Speedy lamb sauce"
 title: "Simple Way to Prepare Speedy lamb sauce"
 slug: 807-simple-way-to-prepare-speedy-lamb-sauce
-date: 2020-08-01T07:32:25.360Z
+date: 2021-08-01T07:32:25.360Z
 image: https://img-global.cpcdn.com/recipes/5058483506380800/751x532cq70/lamb-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5058483506380800/751x532cq70/lamb-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5058483506380800/751x532cq70/lamb-sauce-recipe-main-photo.jpg

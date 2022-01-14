@@ -2,7 +2,7 @@
 description: "Steps to Make Speedy Focaccia Bread"
 title: "Steps to Make Speedy Focaccia Bread"
 slug: 477-steps-to-make-speedy-focaccia-bread
-date: 2020-08-29T07:17:39.352Z
+date: 2021-08-29T07:17:39.352Z
 image: https://img-global.cpcdn.com/recipes/d35c4ee0b473bd7b/751x532cq70/focaccia-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d35c4ee0b473bd7b/751x532cq70/focaccia-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d35c4ee0b473bd7b/751x532cq70/focaccia-bread-recipe-main-photo.jpg

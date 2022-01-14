@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Lamb roast with chimmichurri"
 title: "Easiest Way to Prepare Speedy Lamb roast with chimmichurri"
 slug: 858-easiest-way-to-prepare-speedy-lamb-roast-with-chimmichurri
-date: 2020-06-25T12:05:30.971Z
+date: 2021-06-25T12:05:30.971Z
 image: https://img-global.cpcdn.com/recipes/9dc691d7f9097101/751x532cq70/lamb-roast-with-chimmichurri-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9dc691d7f9097101/751x532cq70/lamb-roast-with-chimmichurri-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9dc691d7f9097101/751x532cq70/lamb-roast-with-chimmichurri-recipe-main-photo.jpg

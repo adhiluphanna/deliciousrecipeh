@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Pasta in thousand island dressing with sweetness of fruit cocktail"
 title: "Recipe of Award-winning Pasta in thousand island dressing with sweetness of fruit cocktail"
 slug: 969-recipe-of-award-winning-pasta-in-thousand-island-dressing-with-sweetness-of-fruit-cocktail
-date: 2020-08-30T23:06:05.787Z
+date: 2021-08-30T23:06:05.787Z
 image: https://img-global.cpcdn.com/recipes/d43f04f0e78f7cf9/751x532cq70/pasta-in-thousand-island-dressing-with-sweetness-of-fruit-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d43f04f0e78f7cf9/751x532cq70/pasta-in-thousand-island-dressing-with-sweetness-of-fruit-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d43f04f0e78f7cf9/751x532cq70/pasta-in-thousand-island-dressing-with-sweetness-of-fruit-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Quick Roast Leg of Lamb"
 title: "Recipe of Quick Roast Leg of Lamb"
 slug: 859-recipe-of-quick-roast-leg-of-lamb
-date: 2020-11-13T04:56:37.850Z
+date: 2021-11-13T04:56:37.850Z
 image: https://img-global.cpcdn.com/recipes/d9cb2faf55bd2b9b/751x532cq70/roast-leg-of-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d9cb2faf55bd2b9b/751x532cq70/roast-leg-of-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d9cb2faf55bd2b9b/751x532cq70/roast-leg-of-lamb-recipe-main-photo.jpg

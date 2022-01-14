@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Speedy Chili Crab"
 title: "Simple Way to Prepare Speedy Chili Crab"
 slug: 245-simple-way-to-prepare-speedy-chili-crab
-date: 2020-10-20T00:10:51.400Z
+date: 2021-10-20T00:10:51.400Z
 image: https://img-global.cpcdn.com/recipes/52f79f9ea6f826d6/751x532cq70/chili-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/52f79f9ea6f826d6/751x532cq70/chili-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/52f79f9ea6f826d6/751x532cq70/chili-crab-recipe-main-photo.jpg

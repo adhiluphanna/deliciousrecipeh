@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Spanish Bread"
 title: "Recipe of Super Quick Homemade Spanish Bread"
 slug: 533-recipe-of-super-quick-homemade-spanish-bread
-date: 2020-10-17T23:23:27.837Z
+date: 2021-10-17T23:23:27.837Z
 image: https://img-global.cpcdn.com/recipes/911df734b674dab1/751x532cq70/spanish-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/911df734b674dab1/751x532cq70/spanish-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/911df734b674dab1/751x532cq70/spanish-bread-recipe-main-photo.jpg

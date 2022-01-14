@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Bread omlette pizza"
 title: "Recipe of Favorite Bread omlette pizza"
 slug: 615-recipe-of-favorite-bread-omlette-pizza
-date: 2020-11-22T04:39:12.763Z
+date: 2021-11-22T04:39:12.763Z
 image: https://img-global.cpcdn.com/recipes/37d549db142812f3/751x532cq70/bread-omlette-pizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/37d549db142812f3/751x532cq70/bread-omlette-pizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/37d549db142812f3/751x532cq70/bread-omlette-pizza-recipe-main-photo.jpg

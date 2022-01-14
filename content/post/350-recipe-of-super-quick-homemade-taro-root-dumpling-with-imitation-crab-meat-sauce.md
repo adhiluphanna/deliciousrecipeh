@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Taro Root Dumpling with Imitation Crab Meat Sauce"
 title: "Recipe of Super Quick Homemade Taro Root Dumpling with Imitation Crab Meat Sauce"
 slug: 350-recipe-of-super-quick-homemade-taro-root-dumpling-with-imitation-crab-meat-sauce
-date: 2020-07-14T09:15:32.644Z
+date: 2021-07-14T09:15:32.644Z
 image: https://img-global.cpcdn.com/recipes/5014450949062656/751x532cq70/taro-root-dumpling-with-imitation-crab-meat-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5014450949062656/751x532cq70/taro-root-dumpling-with-imitation-crab-meat-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5014450949062656/751x532cq70/taro-root-dumpling-with-imitation-crab-meat-sauce-recipe-main-photo.jpg

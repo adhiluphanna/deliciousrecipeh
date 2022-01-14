@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Bread_cheesy_veg_window_sindwich"
 title: "Recipe of Super Quick Homemade Bread_cheesy_veg_window_sindwich"
 slug: 556-recipe-of-super-quick-homemade-bread-cheesy-veg-window-sindwich
-date: 2020-08-25T12:37:05.406Z
+date: 2021-08-25T12:37:05.406Z
 image: https://img-global.cpcdn.com/recipes/3817f1e5c04a37b8/751x532cq70/bread_cheesy_veg_window_sindwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3817f1e5c04a37b8/751x532cq70/bread_cheesy_veg_window_sindwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3817f1e5c04a37b8/751x532cq70/bread_cheesy_veg_window_sindwich-recipe-main-photo.jpg

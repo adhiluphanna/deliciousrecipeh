@@ -2,7 +2,7 @@
 description: "Simple Way to Make Favorite Bacon &amp;amp; Cheese Loaf (Cuisinart Bread Maker)"
 title: "Simple Way to Make Favorite Bacon &amp;amp; Cheese Loaf (Cuisinart Bread Maker)"
 slug: 53-simple-way-to-make-favorite-bacon-and-amp-cheese-loaf-cuisinart-bread-maker
-date: 2020-08-17T05:31:00.640Z
+date: 2021-08-17T05:31:00.640Z
 image: https://img-global.cpcdn.com/recipes/3c535db78c2cbc08/751x532cq70/bacon-cheese-loaf-cuisinart-bread-maker-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3c535db78c2cbc08/751x532cq70/bacon-cheese-loaf-cuisinart-bread-maker-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3c535db78c2cbc08/751x532cq70/bacon-cheese-loaf-cuisinart-bread-maker-recipe-main-photo.jpg

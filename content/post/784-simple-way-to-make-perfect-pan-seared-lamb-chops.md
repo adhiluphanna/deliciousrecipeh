@@ -2,7 +2,7 @@
 description: "Simple Way to Make Perfect Pan Seared Lamb Chops"
 title: "Simple Way to Make Perfect Pan Seared Lamb Chops"
 slug: 784-simple-way-to-make-perfect-pan-seared-lamb-chops
-date: 2020-10-08T13:09:19.966Z
+date: 2021-10-08T13:09:19.966Z
 image: https://img-global.cpcdn.com/recipes/f6c4a108f8643896/751x532cq70/pan-seared-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f6c4a108f8643896/751x532cq70/pan-seared-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f6c4a108f8643896/751x532cq70/pan-seared-lamb-chops-recipe-main-photo.jpg

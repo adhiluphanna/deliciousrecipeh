@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade Spoon Bread, Suppone or Suppawn."
 title: "Steps to Prepare Super Quick Homemade Spoon Bread, Suppone or Suppawn."
 slug: 668-steps-to-prepare-super-quick-homemade-spoon-bread-suppone-or-suppawn
-date: 2020-05-25T23:25:24.528Z
+date: 2021-05-25T23:25:24.528Z
 image: https://img-global.cpcdn.com/recipes/80b049fa0f60b4e8/751x532cq70/spoon-bread-suppone-or-suppawn-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/80b049fa0f60b4e8/751x532cq70/spoon-bread-suppone-or-suppawn-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/80b049fa0f60b4e8/751x532cq70/spoon-bread-suppone-or-suppawn-recipe-main-photo.jpg

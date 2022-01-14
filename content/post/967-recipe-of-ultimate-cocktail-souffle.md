@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Cocktail Souffle"
 title: "Recipe of Ultimate Cocktail Souffle"
 slug: 967-recipe-of-ultimate-cocktail-souffle
-date: 2020-08-30T04:58:30.043Z
+date: 2021-08-30T04:58:30.043Z
 image: https://img-global.cpcdn.com/recipes/3d99a587ceae7ea2/751x532cq70/cocktail-souffle-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3d99a587ceae7ea2/751x532cq70/cocktail-souffle-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3d99a587ceae7ea2/751x532cq70/cocktail-souffle-recipe-main-photo.jpg

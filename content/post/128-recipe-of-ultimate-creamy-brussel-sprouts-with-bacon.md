@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Creamy Brussel Sprouts with Bacon"
 title: "Recipe of Ultimate Creamy Brussel Sprouts with Bacon"
 slug: 128-recipe-of-ultimate-creamy-brussel-sprouts-with-bacon
-date: 2020-07-09T09:30:26.807Z
+date: 2021-07-09T09:30:26.807Z
 image: https://img-global.cpcdn.com/recipes/a3b105d3086de48e/751x532cq70/creamy-brussel-sprouts-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a3b105d3086de48e/751x532cq70/creamy-brussel-sprouts-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a3b105d3086de48e/751x532cq70/creamy-brussel-sprouts-with-bacon-recipe-main-photo.jpg

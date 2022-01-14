@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Award-winning Lamb kebabs"
 title: "Simple Way to Prepare Award-winning Lamb kebabs"
 slug: 720-simple-way-to-prepare-award-winning-lamb-kebabs
-date: 2020-10-19T10:10:51.129Z
+date: 2021-10-19T10:10:51.129Z
 image: https://img-global.cpcdn.com/recipes/3d96201420c93ca6/751x532cq70/lamb-kebabs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3d96201420c93ca6/751x532cq70/lamb-kebabs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3d96201420c93ca6/751x532cq70/lamb-kebabs-recipe-main-photo.jpg

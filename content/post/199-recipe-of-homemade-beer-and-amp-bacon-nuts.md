@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Beer &amp;amp; Bacon Nuts"
 title: "Recipe of Homemade Beer &amp;amp; Bacon Nuts"
 slug: 199-recipe-of-homemade-beer-and-amp-bacon-nuts
-date: 2020-08-22T00:09:38.714Z
+date: 2021-08-22T00:09:38.714Z
 image: https://img-global.cpcdn.com/recipes/ed18e7e4ca454892/751x532cq70/beer-bacon-nuts-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ed18e7e4ca454892/751x532cq70/beer-bacon-nuts-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ed18e7e4ca454892/751x532cq70/beer-bacon-nuts-recipe-main-photo.jpg

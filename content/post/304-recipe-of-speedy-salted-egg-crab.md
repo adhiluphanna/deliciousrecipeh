@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Salted Egg Crab"
 title: "Recipe of Speedy Salted Egg Crab"
 slug: 304-recipe-of-speedy-salted-egg-crab
-date: 2020-09-12T07:41:14.599Z
+date: 2021-09-12T07:41:14.599Z
 image: https://img-global.cpcdn.com/recipes/4edda7763407bd9b/751x532cq70/salted-egg-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4edda7763407bd9b/751x532cq70/salted-egg-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4edda7763407bd9b/751x532cq70/salted-egg-crab-recipe-main-photo.jpg

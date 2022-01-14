@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Dahi Lamb Curry (Yogurt Lamb Curry)"
 title: "Recipe of Perfect Dahi Lamb Curry (Yogurt Lamb Curry)"
 slug: 884-recipe-of-perfect-dahi-lamb-curry-yogurt-lamb-curry
-date: 2020-08-31T12:34:58.739Z
+date: 2021-08-31T12:34:58.739Z
 image: https://img-global.cpcdn.com/recipes/8e875423821874b3/751x532cq70/dahi-lamb-curry-yogurt-lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8e875423821874b3/751x532cq70/dahi-lamb-curry-yogurt-lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8e875423821874b3/751x532cq70/dahi-lamb-curry-yogurt-lamb-curry-recipe-main-photo.jpg

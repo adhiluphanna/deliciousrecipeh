@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Any-night-of-the-week Fruit Cocktail Pie"
 title: "Step-by-Step Guide to Make Any-night-of-the-week Fruit Cocktail Pie"
 slug: 933-step-by-step-guide-to-make-any-night-of-the-week-fruit-cocktail-pie
-date: 2020-07-05T12:37:11.072Z
+date: 2021-07-05T12:37:11.072Z
 image: https://img-global.cpcdn.com/recipes/56965274/751x532cq70/fruit-cocktail-pie-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/56965274/751x532cq70/fruit-cocktail-pie-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/56965274/751x532cq70/fruit-cocktail-pie-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Super Quick Homemade Zucchini Bread"
 title: "Easiest Way to Make Super Quick Homemade Zucchini Bread"
 slug: 480-easiest-way-to-make-super-quick-homemade-zucchini-bread
-date: 2020-09-11T18:18:50.497Z
+date: 2021-09-11T18:18:50.497Z
 image: https://img-global.cpcdn.com/recipes/d6822b48189054b5/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d6822b48189054b5/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d6822b48189054b5/751x532cq70/zucchini-bread-recipe-main-photo.jpg

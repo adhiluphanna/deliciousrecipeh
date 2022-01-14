@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Lamb"
 title: "Recipe of Speedy Lamb"
 slug: 727-recipe-of-speedy-lamb
-date: 2020-09-19T04:30:47.704Z
+date: 2021-09-19T04:30:47.704Z
 image: https://img-global.cpcdn.com/recipes/5666766702772224/751x532cq70/lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5666766702772224/751x532cq70/lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5666766702772224/751x532cq70/lamb-recipe-main-photo.jpg

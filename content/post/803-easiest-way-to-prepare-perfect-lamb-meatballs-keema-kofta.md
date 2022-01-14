@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Lamb meatballs / keema kofta"
 title: "Easiest Way to Prepare Perfect Lamb meatballs / keema kofta"
 slug: 803-easiest-way-to-prepare-perfect-lamb-meatballs-keema-kofta
-date: 2020-10-26T00:31:58.167Z
+date: 2021-10-26T00:31:58.167Z
 image: https://img-global.cpcdn.com/recipes/b931962a77ad27c1/751x532cq70/lamb-meatballs-keema-kofta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b931962a77ad27c1/751x532cq70/lamb-meatballs-keema-kofta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b931962a77ad27c1/751x532cq70/lamb-meatballs-keema-kofta-recipe-main-photo.jpg

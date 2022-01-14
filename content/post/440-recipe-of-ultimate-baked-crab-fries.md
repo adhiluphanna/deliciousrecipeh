@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Baked Crab Fries"
 title: "Recipe of Ultimate Baked Crab Fries"
 slug: 440-recipe-of-ultimate-baked-crab-fries
-date: 2020-07-22T18:35:16.969Z
+date: 2021-07-22T18:35:16.969Z
 image: https://img-global.cpcdn.com/recipes/6155248682926080/751x532cq70/baked-crab-fries-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6155248682926080/751x532cq70/baked-crab-fries-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6155248682926080/751x532cq70/baked-crab-fries-recipe-main-photo.jpg

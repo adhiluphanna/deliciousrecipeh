@@ -2,7 +2,7 @@
 description: "How to Prepare Perfect Baked Mussakhan on bread"
 title: "How to Prepare Perfect Baked Mussakhan on bread"
 slug: 670-how-to-prepare-perfect-baked-mussakhan-on-bread
-date: 2020-10-23T08:47:23.391Z
+date: 2021-10-23T08:47:23.391Z
 image: https://img-global.cpcdn.com/recipes/0cd224ce7eaea378/751x532cq70/baked-mussakhan-on-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0cd224ce7eaea378/751x532cq70/baked-mussakhan-on-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0cd224ce7eaea378/751x532cq70/baked-mussakhan-on-bread-recipe-main-photo.jpg

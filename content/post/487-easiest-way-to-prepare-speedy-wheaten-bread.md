@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Wheaten Bread"
 title: "Easiest Way to Prepare Speedy Wheaten Bread"
 slug: 487-easiest-way-to-prepare-speedy-wheaten-bread
-date: 2020-06-25T12:53:23.080Z
+date: 2021-06-25T12:53:23.080Z
 image: https://img-global.cpcdn.com/recipes/d906277e6aa91ff8/751x532cq70/wheaten-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d906277e6aa91ff8/751x532cq70/wheaten-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d906277e6aa91ff8/751x532cq70/wheaten-bread-recipe-main-photo.jpg

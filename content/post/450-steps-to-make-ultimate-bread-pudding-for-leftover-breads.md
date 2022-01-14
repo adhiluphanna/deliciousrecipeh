@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Bread Pudding (For leftover breads)"
 title: "Steps to Make Ultimate Bread Pudding (For leftover breads)"
 slug: 450-steps-to-make-ultimate-bread-pudding-for-leftover-breads
-date: 2020-10-18T08:11:14.642Z
+date: 2021-10-18T08:11:14.642Z
 image: https://img-global.cpcdn.com/recipes/6ea53af61e0b16a9/751x532cq70/bread-pudding-for-leftover-breads-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6ea53af61e0b16a9/751x532cq70/bread-pudding-for-leftover-breads-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6ea53af61e0b16a9/751x532cq70/bread-pudding-for-leftover-breads-recipe-main-photo.jpg

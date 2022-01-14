@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Sausage bacon and egg casserole"
 title: "Recipe of Ultimate Sausage bacon and egg casserole"
 slug: 36-recipe-of-ultimate-sausage-bacon-and-egg-casserole
-date: 2020-10-27T08:06:14.002Z
+date: 2021-10-27T08:06:14.002Z
 image: https://img-global.cpcdn.com/recipes/c0677d62c4dcee34/751x532cq70/sausage-bacon-and-egg-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c0677d62c4dcee34/751x532cq70/sausage-bacon-and-egg-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c0677d62c4dcee34/751x532cq70/sausage-bacon-and-egg-casserole-recipe-main-photo.jpg

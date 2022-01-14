@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Any-night-of-the-week Lamb shanks with mashed potato"
 title: "Step-by-Step Guide to Prepare Any-night-of-the-week Lamb shanks with mashed potato"
 slug: 757-step-by-step-guide-to-prepare-any-night-of-the-week-lamb-shanks-with-mashed-potato
-date: 2020-10-31T04:04:07.037Z
+date: 2021-10-31T04:04:07.037Z
 image: https://img-global.cpcdn.com/recipes/a8482fa82f9874a3/751x532cq70/lamb-shanks-with-mashed-potato-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a8482fa82f9874a3/751x532cq70/lamb-shanks-with-mashed-potato-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a8482fa82f9874a3/751x532cq70/lamb-shanks-with-mashed-potato-recipe-main-photo.jpg

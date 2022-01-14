@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week COCKTAIL CAKE😍😍❤❤(Eid Special)"
 title: "Recipe of Any-night-of-the-week COCKTAIL CAKE😍😍❤❤(Eid Special)"
 slug: 925-recipe-of-any-night-of-the-week-cocktail-cakeeid-special
-date: 2020-08-31T15:46:14.276Z
+date: 2021-08-31T15:46:14.276Z
 image: https://img-global.cpcdn.com/recipes/bd9421ce5e70e189/751x532cq70/cocktail-cake😍😍❤❤eid-special-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bd9421ce5e70e189/751x532cq70/cocktail-cake😍😍❤❤eid-special-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bd9421ce5e70e189/751x532cq70/cocktail-cake😍😍❤❤eid-special-recipe-main-photo.jpg

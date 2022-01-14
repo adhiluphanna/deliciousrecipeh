@@ -2,7 +2,7 @@
 description: "How to Prepare Perfect The Smokehouse Bacon Burger"
 title: "How to Prepare Perfect The Smokehouse Bacon Burger"
 slug: 153-how-to-prepare-perfect-the-smokehouse-bacon-burger
-date: 2020-11-14T11:32:17.031Z
+date: 2021-11-14T11:32:17.031Z
 image: https://img-global.cpcdn.com/recipes/5257517d7e3379cb/751x532cq70/the-smokehouse-bacon-burger-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5257517d7e3379cb/751x532cq70/the-smokehouse-bacon-burger-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5257517d7e3379cb/751x532cq70/the-smokehouse-bacon-burger-recipe-main-photo.jpg

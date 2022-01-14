@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Bread rolls"
 title: "How to Prepare Quick Bread rolls"
 slug: 523-how-to-prepare-quick-bread-rolls
-date: 2020-07-15T22:55:46.002Z
+date: 2021-07-15T22:55:46.002Z
 image: https://img-global.cpcdn.com/recipes/c86f7b15293aed33/751x532cq70/bread-rolls-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c86f7b15293aed33/751x532cq70/bread-rolls-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c86f7b15293aed33/751x532cq70/bread-rolls-recipe-main-photo.jpg

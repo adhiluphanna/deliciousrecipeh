@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Cocktail zobo"
 title: "Steps to Make Award-winning Cocktail zobo"
 slug: 960-steps-to-make-award-winning-cocktail-zobo
-date: 2020-08-30T08:27:29.324Z
+date: 2021-08-30T08:27:29.324Z
 image: https://img-global.cpcdn.com/recipes/c842a2cc81cb6f28/751x532cq70/cocktail-zobo-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c842a2cc81cb6f28/751x532cq70/cocktail-zobo-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c842a2cc81cb6f28/751x532cq70/cocktail-zobo-recipe-main-photo.jpg

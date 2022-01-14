@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Raisin Bread"
 title: "Recipe of Any-night-of-the-week Raisin Bread"
 slug: 521-recipe-of-any-night-of-the-week-raisin-bread
-date: 2020-07-18T14:31:36.918Z
+date: 2021-07-18T14:31:36.918Z
 image: https://img-global.cpcdn.com/recipes/d4596e67bb13b7d6/751x532cq70/raisin-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d4596e67bb13b7d6/751x532cq70/raisin-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d4596e67bb13b7d6/751x532cq70/raisin-bread-recipe-main-photo.jpg

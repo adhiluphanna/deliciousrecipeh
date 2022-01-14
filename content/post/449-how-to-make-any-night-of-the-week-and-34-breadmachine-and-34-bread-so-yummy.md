@@ -2,7 +2,7 @@
 description: "How to Make Any-night-of-the-week &amp;#34;BreadMachine&amp;#34; Bread.. So yummy"
 title: "How to Make Any-night-of-the-week &amp;#34;BreadMachine&amp;#34; Bread.. So yummy"
 slug: 449-how-to-make-any-night-of-the-week-and-34-breadmachine-and-34-bread-so-yummy
-date: 2020-08-09T11:17:34.985Z
+date: 2021-08-09T11:17:34.985Z
 image: https://img-global.cpcdn.com/recipes/02c5ae1e89abff47/751x532cq70/breadmachine-bread-so-yummy-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/02c5ae1e89abff47/751x532cq70/breadmachine-bread-so-yummy-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/02c5ae1e89abff47/751x532cq70/breadmachine-bread-so-yummy-recipe-main-photo.jpg

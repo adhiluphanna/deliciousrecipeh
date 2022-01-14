@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Crab Stuffed Mushrooms"
 title: "Easiest Way to Make Any-night-of-the-week Crab Stuffed Mushrooms"
 slug: 265-easiest-way-to-make-any-night-of-the-week-crab-stuffed-mushrooms
-date: 2020-09-10T12:56:46.311Z
+date: 2021-09-10T12:56:46.311Z
 image: https://img-global.cpcdn.com/recipes/41962c9cf3d3a1a3/751x532cq70/crab-stuffed-mushrooms-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/41962c9cf3d3a1a3/751x532cq70/crab-stuffed-mushrooms-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/41962c9cf3d3a1a3/751x532cq70/crab-stuffed-mushrooms-recipe-main-photo.jpg

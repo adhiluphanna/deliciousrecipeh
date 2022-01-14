@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Steam Bacon and Asparagus"
 title: "How to Prepare Any-night-of-the-week Steam Bacon and Asparagus"
 slug: 32-how-to-prepare-any-night-of-the-week-steam-bacon-and-asparagus
-date: 2020-11-14T07:00:23.951Z
+date: 2021-11-14T07:00:23.951Z
 image: https://img-global.cpcdn.com/recipes/8f08a80074a0cc8d/751x532cq70/steam-bacon-and-asparagus-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8f08a80074a0cc8d/751x532cq70/steam-bacon-and-asparagus-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8f08a80074a0cc8d/751x532cq70/steam-bacon-and-asparagus-recipe-main-photo.jpg

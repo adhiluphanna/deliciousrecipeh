@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Beef and Bacon Tacos batch 20"
 title: "Easiest Way to Prepare Perfect Beef and Bacon Tacos batch 20"
 slug: 142-easiest-way-to-prepare-perfect-beef-and-bacon-tacos-batch-20
-date: 2020-07-12T06:08:28.918Z
+date: 2021-07-12T06:08:28.918Z
 image: https://img-global.cpcdn.com/recipes/2818773e8b76cdd6/751x532cq70/beef-and-bacon-tacos-batch-20-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2818773e8b76cdd6/751x532cq70/beef-and-bacon-tacos-batch-20-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2818773e8b76cdd6/751x532cq70/beef-and-bacon-tacos-batch-20-recipe-main-photo.jpg

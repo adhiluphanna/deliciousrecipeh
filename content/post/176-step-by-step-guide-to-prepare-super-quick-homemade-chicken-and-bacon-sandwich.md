@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Super Quick Homemade Chicken and Bacon Sandwich"
 title: "Step-by-Step Guide to Prepare Super Quick Homemade Chicken and Bacon Sandwich"
 slug: 176-step-by-step-guide-to-prepare-super-quick-homemade-chicken-and-bacon-sandwich
-date: 2020-08-22T23:07:15.487Z
+date: 2021-08-22T23:07:15.487Z
 image: https://img-global.cpcdn.com/recipes/0826914385cf9460/751x532cq70/chicken-and-bacon-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0826914385cf9460/751x532cq70/chicken-and-bacon-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0826914385cf9460/751x532cq70/chicken-and-bacon-sandwich-recipe-main-photo.jpg

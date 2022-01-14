@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Cream Cocktail"
 title: "Steps to Make Award-winning Cream Cocktail"
 slug: 996-steps-to-make-award-winning-cream-cocktail
-date: 2020-08-10T13:46:04.732Z
+date: 2021-08-10T13:46:04.732Z
 image: https://img-global.cpcdn.com/recipes/ba76375aa8503fde/751x532cq70/cream-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ba76375aa8503fde/751x532cq70/cream-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ba76375aa8503fde/751x532cq70/cream-cocktail-recipe-main-photo.jpg

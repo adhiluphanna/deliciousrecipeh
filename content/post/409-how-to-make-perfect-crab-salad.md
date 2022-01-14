@@ -2,7 +2,7 @@
 description: "How to Make Perfect crab salad"
 title: "How to Make Perfect crab salad"
 slug: 409-how-to-make-perfect-crab-salad
-date: 2020-11-08T23:18:30.171Z
+date: 2021-11-08T23:18:30.171Z
 image: https://img-global.cpcdn.com/recipes/38652571/751x532cq70/crab-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/38652571/751x532cq70/crab-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/38652571/751x532cq70/crab-salad-recipe-main-photo.jpg

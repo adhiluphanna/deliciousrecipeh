@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Perfect Bacon wrapped pigs wings"
 title: "Step-by-Step Guide to Make Perfect Bacon wrapped pigs wings"
 slug: 172-step-by-step-guide-to-make-perfect-bacon-wrapped-pigs-wings
-date: 2020-08-29T15:35:52.526Z
+date: 2021-08-29T15:35:52.526Z
 image: https://img-global.cpcdn.com/recipes/1359cefb06837dec/751x532cq70/bacon-wrapped-pigs-wings-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1359cefb06837dec/751x532cq70/bacon-wrapped-pigs-wings-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1359cefb06837dec/751x532cq70/bacon-wrapped-pigs-wings-recipe-main-photo.jpg

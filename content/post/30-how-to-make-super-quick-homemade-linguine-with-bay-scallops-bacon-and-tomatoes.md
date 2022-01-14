@@ -2,7 +2,7 @@
 description: "How to Make Super Quick Homemade Linguine with bay scallops, bacon, and tomatoes"
 title: "How to Make Super Quick Homemade Linguine with bay scallops, bacon, and tomatoes"
 slug: 30-how-to-make-super-quick-homemade-linguine-with-bay-scallops-bacon-and-tomatoes
-date: 2020-07-15T10:00:12.792Z
+date: 2021-07-15T10:00:12.792Z
 image: https://img-global.cpcdn.com/recipes/0de384c8e4b46617/751x532cq70/linguine-with-bay-scallops-bacon-and-tomatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0de384c8e4b46617/751x532cq70/linguine-with-bay-scallops-bacon-and-tomatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0de384c8e4b46617/751x532cq70/linguine-with-bay-scallops-bacon-and-tomatoes-recipe-main-photo.jpg

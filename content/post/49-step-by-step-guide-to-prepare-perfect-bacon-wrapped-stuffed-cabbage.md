@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Perfect Bacon Wrapped Stuffed Cabbage"
 title: "Step-by-Step Guide to Prepare Perfect Bacon Wrapped Stuffed Cabbage"
 slug: 49-step-by-step-guide-to-prepare-perfect-bacon-wrapped-stuffed-cabbage
-date: 2020-11-20T02:53:09.862Z
+date: 2021-11-20T02:53:09.862Z
 image: https://img-global.cpcdn.com/recipes/75f8832100598470/751x532cq70/bacon-wrapped-stuffed-cabbage-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/75f8832100598470/751x532cq70/bacon-wrapped-stuffed-cabbage-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/75f8832100598470/751x532cq70/bacon-wrapped-stuffed-cabbage-recipe-main-photo.jpg

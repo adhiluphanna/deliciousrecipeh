@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Toyohira Lamb-Chop with Toyohira Apple Sauce"
 title: "Recipe of Any-night-of-the-week Toyohira Lamb-Chop with Toyohira Apple Sauce"
 slug: 775-recipe-of-any-night-of-the-week-toyohira-lamb-chop-with-toyohira-apple-sauce
-date: 2020-11-21T04:01:39.573Z
+date: 2021-11-21T04:01:39.573Z
 image: https://img-global.cpcdn.com/recipes/679e341cd75e43f9/751x532cq70/toyohira-lamb-chop-with-toyohira-apple-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/679e341cd75e43f9/751x532cq70/toyohira-lamb-chop-with-toyohira-apple-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/679e341cd75e43f9/751x532cq70/toyohira-lamb-chop-with-toyohira-apple-sauce-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Bacon Alfredo with shrimp and mushrooms"
 title: "Recipe of Ultimate Bacon Alfredo with shrimp and mushrooms"
 slug: 61-recipe-of-ultimate-bacon-alfredo-with-shrimp-and-mushrooms
-date: 2020-10-18T17:03:07.778Z
+date: 2021-10-18T17:03:07.778Z
 image: https://img-global.cpcdn.com/recipes/05cb69daca78eee1/751x532cq70/bacon-alfredo-with-shrimp-and-mushrooms-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/05cb69daca78eee1/751x532cq70/bacon-alfredo-with-shrimp-and-mushrooms-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/05cb69daca78eee1/751x532cq70/bacon-alfredo-with-shrimp-and-mushrooms-recipe-main-photo.jpg

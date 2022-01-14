@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Homemade Jimmy Brown's Shrimp Cocktail"
 title: "Step-by-Step Guide to Prepare Homemade Jimmy Brown's Shrimp Cocktail"
 slug: 952-step-by-step-guide-to-prepare-homemade-jimmy-brown-and-39-s-shrimp-cocktail
-date: 2020-09-26T22:45:15.716Z
+date: 2021-09-26T22:45:15.716Z
 image: https://img-global.cpcdn.com/recipes/48960454/751x532cq70/jimmy-browns-shrimp-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/48960454/751x532cq70/jimmy-browns-shrimp-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/48960454/751x532cq70/jimmy-browns-shrimp-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Any-night-of-the-week Nick’s Bacon Cheeseburger Sliders"
 title: "Steps to Prepare Any-night-of-the-week Nick’s Bacon Cheeseburger Sliders"
 slug: 70-steps-to-prepare-any-night-of-the-week-nicks-bacon-cheeseburger-sliders
-date: 2020-06-03T23:53:51.549Z
+date: 2021-06-03T23:53:51.549Z
 image: https://img-global.cpcdn.com/recipes/1468f14e49d8ee97/751x532cq70/nicks-bacon-cheeseburger-sliders-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1468f14e49d8ee97/751x532cq70/nicks-bacon-cheeseburger-sliders-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1468f14e49d8ee97/751x532cq70/nicks-bacon-cheeseburger-sliders-recipe-main-photo.jpg

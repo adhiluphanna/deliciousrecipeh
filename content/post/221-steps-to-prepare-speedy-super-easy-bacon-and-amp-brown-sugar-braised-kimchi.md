@@ -2,7 +2,7 @@
 description: "Steps to Prepare Speedy Super Easy Bacon &amp;amp; Brown Sugar Braised Kimchi"
 title: "Steps to Prepare Speedy Super Easy Bacon &amp;amp; Brown Sugar Braised Kimchi"
 slug: 221-steps-to-prepare-speedy-super-easy-bacon-and-amp-brown-sugar-braised-kimchi
-date: 2020-11-23T00:48:29.910Z
+date: 2021-11-23T00:48:29.910Z
 image: https://img-global.cpcdn.com/recipes/6137b1be1786dd7e/751x532cq70/super-easy-bacon-brown-sugar-braised-kimchi-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6137b1be1786dd7e/751x532cq70/super-easy-bacon-brown-sugar-braised-kimchi-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6137b1be1786dd7e/751x532cq70/super-easy-bacon-brown-sugar-braised-kimchi-recipe-main-photo.jpg

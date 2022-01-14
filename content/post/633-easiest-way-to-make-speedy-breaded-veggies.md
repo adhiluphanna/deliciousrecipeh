@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Breaded veggies!!"
 title: "Easiest Way to Make Speedy Breaded veggies!!"
 slug: 633-easiest-way-to-make-speedy-breaded-veggies
-date: 2020-06-04T01:42:26.677Z
+date: 2021-06-04T01:42:26.677Z
 image: https://img-global.cpcdn.com/recipes/dc2083512735bdc4/751x532cq70/breaded-veggies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dc2083512735bdc4/751x532cq70/breaded-veggies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dc2083512735bdc4/751x532cq70/breaded-veggies-recipe-main-photo.jpg

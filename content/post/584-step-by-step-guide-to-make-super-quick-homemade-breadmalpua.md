@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Super Quick Homemade BreadMalpua"
 title: "Step-by-Step Guide to Make Super Quick Homemade BreadMalpua"
 slug: 584-step-by-step-guide-to-make-super-quick-homemade-breadmalpua
-date: 2020-11-04T05:16:59.481Z
+date: 2021-11-04T05:16:59.481Z
 image: https://img-global.cpcdn.com/recipes/a40f23d395531e68/751x532cq70/breadmalpua-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a40f23d395531e68/751x532cq70/breadmalpua-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a40f23d395531e68/751x532cq70/breadmalpua-recipe-main-photo.jpg

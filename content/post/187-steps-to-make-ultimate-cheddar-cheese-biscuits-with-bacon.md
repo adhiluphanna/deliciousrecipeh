@@ -2,7 +2,7 @@
 description: "Steps to Make Ultimate Cheddar cheese Biscuits with Bacon"
 title: "Steps to Make Ultimate Cheddar cheese Biscuits with Bacon"
 slug: 187-steps-to-make-ultimate-cheddar-cheese-biscuits-with-bacon
-date: 2020-06-08T02:38:11.724Z
+date: 2021-06-08T02:38:11.724Z
 image: https://img-global.cpcdn.com/recipes/a5fcfd7131f1b5b6/751x532cq70/cheddar-cheese-biscuits-with-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a5fcfd7131f1b5b6/751x532cq70/cheddar-cheese-biscuits-with-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a5fcfd7131f1b5b6/751x532cq70/cheddar-cheese-biscuits-with-bacon-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Speedy Pita Bread"
 title: "Easiest Way to Make Speedy Pita Bread"
 slug: 545-easiest-way-to-make-speedy-pita-bread
-date: 2020-10-09T18:56:41.667Z
+date: 2021-10-09T18:56:41.667Z
 image: https://img-global.cpcdn.com/recipes/4ddf4e45447725ad/751x532cq70/pita-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4ddf4e45447725ad/751x532cq70/pita-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4ddf4e45447725ad/751x532cq70/pita-bread-recipe-main-photo.jpg

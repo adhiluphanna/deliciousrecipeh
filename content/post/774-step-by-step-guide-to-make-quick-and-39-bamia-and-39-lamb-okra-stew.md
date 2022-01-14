@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Quick 'Bamia' Lamb Okra Stew"
 title: "Step-by-Step Guide to Make Quick 'Bamia' Lamb Okra Stew"
 slug: 774-step-by-step-guide-to-make-quick-and-39-bamia-and-39-lamb-okra-stew
-date: 2020-05-30T11:50:46.748Z
+date: 2021-05-30T11:50:46.748Z
 image: https://img-global.cpcdn.com/recipes/82be1176eddcac2c/751x532cq70/bamia-lamb-okra-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/82be1176eddcac2c/751x532cq70/bamia-lamb-okra-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/82be1176eddcac2c/751x532cq70/bamia-lamb-okra-stew-recipe-main-photo.jpg

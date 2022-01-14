@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick Banana bread"
 title: "Easiest Way to Prepare Quick Banana bread"
 slug: 541-easiest-way-to-prepare-quick-banana-bread
-date: 2020-06-13T17:06:14.616Z
+date: 2021-06-13T17:06:14.616Z
 image: https://img-global.cpcdn.com/recipes/d1c17ce2317a8899/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d1c17ce2317a8899/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d1c17ce2317a8899/751x532cq70/banana-bread-recipe-main-photo.jpg

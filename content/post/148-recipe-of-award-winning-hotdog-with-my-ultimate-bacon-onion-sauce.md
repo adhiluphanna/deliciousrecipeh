@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Hotdog with my Ultimate Bacon Onion Sauce"
 title: "Recipe of Award-winning Hotdog with my Ultimate Bacon Onion Sauce"
 slug: 148-recipe-of-award-winning-hotdog-with-my-ultimate-bacon-onion-sauce
-date: 2020-08-13T22:55:16.103Z
+date: 2021-08-13T22:55:16.103Z
 image: https://img-global.cpcdn.com/recipes/364450690d0f2807/751x532cq70/hotdog-with-my-ultimate-bacon-onion-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/364450690d0f2807/751x532cq70/hotdog-with-my-ultimate-bacon-onion-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/364450690d0f2807/751x532cq70/hotdog-with-my-ultimate-bacon-onion-sauce-recipe-main-photo.jpg

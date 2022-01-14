@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Lamb Shanks Stew"
 title: "Easiest Way to Prepare Any-night-of-the-week Lamb Shanks Stew"
 slug: 705-easiest-way-to-prepare-any-night-of-the-week-lamb-shanks-stew
-date: 2020-09-22T20:41:22.797Z
+date: 2021-09-22T20:41:22.797Z
 image: https://img-global.cpcdn.com/recipes/44548/751x532cq70/lamb-shanks-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/44548/751x532cq70/lamb-shanks-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/44548/751x532cq70/lamb-shanks-stew-recipe-main-photo.jpg

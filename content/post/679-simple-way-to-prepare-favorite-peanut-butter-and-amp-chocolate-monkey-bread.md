@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Peanut Butter &amp;amp; Chocolate Monkey Bread"
 title: "Simple Way to Prepare Favorite Peanut Butter &amp;amp; Chocolate Monkey Bread"
 slug: 679-simple-way-to-prepare-favorite-peanut-butter-and-amp-chocolate-monkey-bread
-date: 2020-08-11T22:25:42.843Z
+date: 2021-08-11T22:25:42.843Z
 image: https://img-global.cpcdn.com/recipes/dd2282abd809bf08/751x532cq70/peanut-butter-chocolate-monkey-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dd2282abd809bf08/751x532cq70/peanut-butter-chocolate-monkey-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dd2282abd809bf08/751x532cq70/peanut-butter-chocolate-monkey-bread-recipe-main-photo.jpg

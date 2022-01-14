@@ -2,7 +2,7 @@
 description: "Steps to Make Any-night-of-the-week Crock Pot Cocktail Weiner's"
 title: "Steps to Make Any-night-of-the-week Crock Pot Cocktail Weiner's"
 slug: 913-steps-to-make-any-night-of-the-week-crock-pot-cocktail-weiner-and-39-s
-date: 2020-09-13T05:24:03.548Z
+date: 2021-09-13T05:24:03.548Z
 image: https://img-global.cpcdn.com/recipes/4779188304216064/751x532cq70/crock-pot-cocktail-weiners-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4779188304216064/751x532cq70/crock-pot-cocktail-weiners-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4779188304216064/751x532cq70/crock-pot-cocktail-weiners-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Cocktail samosa"
 title: "Simple Way to Make Super Quick Homemade Cocktail samosa"
 slug: 1009-simple-way-to-make-super-quick-homemade-cocktail-samosa
-date: 2020-08-05T17:04:31.772Z
+date: 2021-08-05T17:04:31.772Z
 image: https://img-global.cpcdn.com/recipes/e70ab1116476acc2/751x532cq70/cocktail-samosa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e70ab1116476acc2/751x532cq70/cocktail-samosa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e70ab1116476acc2/751x532cq70/cocktail-samosa-recipe-main-photo.jpg

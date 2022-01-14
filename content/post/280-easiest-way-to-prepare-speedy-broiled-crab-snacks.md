@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Speedy Broiled crab snacks"
 title: "Easiest Way to Prepare Speedy Broiled crab snacks"
 slug: 280-easiest-way-to-prepare-speedy-broiled-crab-snacks
-date: 2020-06-07T13:24:14.646Z
+date: 2021-06-07T13:24:14.646Z
 image: https://img-global.cpcdn.com/recipes/e6d5243ac0e7a3ca/751x532cq70/broiled-crab-snacks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e6d5243ac0e7a3ca/751x532cq70/broiled-crab-snacks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e6d5243ac0e7a3ca/751x532cq70/broiled-crab-snacks-recipe-main-photo.jpg

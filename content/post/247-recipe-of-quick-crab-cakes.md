@@ -2,7 +2,7 @@
 description: "Recipe of Quick Crab cakes"
 title: "Recipe of Quick Crab cakes"
 slug: 247-recipe-of-quick-crab-cakes
-date: 2020-05-28T18:57:39.810Z
+date: 2021-05-28T18:57:39.810Z
 image: https://img-global.cpcdn.com/recipes/7affebf18adb65c9/751x532cq70/crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/7affebf18adb65c9/751x532cq70/crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/7affebf18adb65c9/751x532cq70/crab-cakes-recipe-main-photo.jpg

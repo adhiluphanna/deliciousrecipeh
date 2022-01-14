@@ -2,7 +2,7 @@
 description: "Steps to Make Speedy Lamb - by DW"
 title: "Steps to Make Speedy Lamb - by DW"
 slug: 821-steps-to-make-speedy-lamb-by-dw
-date: 2020-11-07T22:41:37.082Z
+date: 2021-11-07T22:41:37.082Z
 image: https://img-global.cpcdn.com/recipes/473375da75f47d30/751x532cq70/lamb-by-dw-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/473375da75f47d30/751x532cq70/lamb-by-dw-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/473375da75f47d30/751x532cq70/lamb-by-dw-recipe-main-photo.jpg

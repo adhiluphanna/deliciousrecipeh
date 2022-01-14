@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate My French Green Beans with Bacon, Tomatoes and Mushrooms"
 title: "Simple Way to Prepare Ultimate My French Green Beans with Bacon, Tomatoes and Mushrooms"
 slug: 31-simple-way-to-prepare-ultimate-my-french-green-beans-with-bacon-tomatoes-and-mushrooms
-date: 2020-11-03T03:00:57.667Z
+date: 2021-11-03T03:00:57.667Z
 image: https://img-global.cpcdn.com/recipes/6bd75ea0f2ce6331/751x532cq70/my-french-green-beans-with-bacon-tomatoes-and-mushrooms-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6bd75ea0f2ce6331/751x532cq70/my-french-green-beans-with-bacon-tomatoes-and-mushrooms-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6bd75ea0f2ce6331/751x532cq70/my-french-green-beans-with-bacon-tomatoes-and-mushrooms-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Quick Bahmia (lamb)"
 title: "Recipe of Quick Bahmia (lamb)"
 slug: 855-recipe-of-quick-bahmia-lamb
-date: 2020-11-03T12:07:33.406Z
+date: 2021-11-03T12:07:33.406Z
 image: https://img-global.cpcdn.com/recipes/a3506926e95a1d38/751x532cq70/bahmia-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a3506926e95a1d38/751x532cq70/bahmia-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a3506926e95a1d38/751x532cq70/bahmia-lamb-recipe-main-photo.jpg

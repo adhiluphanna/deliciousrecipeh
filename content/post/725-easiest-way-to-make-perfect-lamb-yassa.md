@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Perfect Lamb Yassa"
 title: "Easiest Way to Make Perfect Lamb Yassa"
 slug: 725-easiest-way-to-make-perfect-lamb-yassa
-date: 2020-08-22T02:41:00.536Z
+date: 2021-08-22T02:41:00.536Z
 image: https://img-global.cpcdn.com/recipes/bf306af6f38fb314/751x532cq70/lamb-yassa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bf306af6f38fb314/751x532cq70/lamb-yassa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bf306af6f38fb314/751x532cq70/lamb-yassa-recipe-main-photo.jpg

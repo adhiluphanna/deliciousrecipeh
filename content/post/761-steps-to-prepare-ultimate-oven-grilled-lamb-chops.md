@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Oven grilled Lamb chops"
 title: "Steps to Prepare Ultimate Oven grilled Lamb chops"
 slug: 761-steps-to-prepare-ultimate-oven-grilled-lamb-chops
-date: 2020-09-09T19:04:29.390Z
+date: 2021-09-09T19:04:29.390Z
 image: https://img-global.cpcdn.com/recipes/b8d86d0612db5e8a/751x532cq70/oven-grilled-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b8d86d0612db5e8a/751x532cq70/oven-grilled-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b8d86d0612db5e8a/751x532cq70/oven-grilled-lamb-chops-recipe-main-photo.jpg

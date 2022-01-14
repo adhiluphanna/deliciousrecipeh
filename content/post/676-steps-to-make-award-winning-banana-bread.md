@@ -2,7 +2,7 @@
 description: "Steps to Make Award-winning Banana bread"
 title: "Steps to Make Award-winning Banana bread"
 slug: 676-steps-to-make-award-winning-banana-bread
-date: 2020-10-17T07:28:37.797Z
+date: 2021-10-17T07:28:37.797Z
 image: https://img-global.cpcdn.com/recipes/99d38da2d4a80f99/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/99d38da2d4a80f99/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/99d38da2d4a80f99/751x532cq70/banana-bread-recipe-main-photo.jpg

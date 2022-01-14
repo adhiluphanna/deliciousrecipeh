@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Cheesy Bacon Ranch Potatoes"
 title: "Recipe of Favorite Cheesy Bacon Ranch Potatoes"
 slug: 118-recipe-of-favorite-cheesy-bacon-ranch-potatoes
-date: 2020-09-11T07:34:43.391Z
+date: 2021-09-11T07:34:43.391Z
 image: https://img-global.cpcdn.com/recipes/6c6c10f3fd689b18/751x532cq70/cheesy-bacon-ranch-potatoes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6c6c10f3fd689b18/751x532cq70/cheesy-bacon-ranch-potatoes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6c6c10f3fd689b18/751x532cq70/cheesy-bacon-ranch-potatoes-recipe-main-photo.jpg

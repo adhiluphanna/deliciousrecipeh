@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Classic mojito cocktail"
 title: "Easiest Way to Prepare Homemade Classic mojito cocktail"
 slug: 949-easiest-way-to-prepare-homemade-classic-mojito-cocktail
-date: 2020-08-29T18:22:36.536Z
+date: 2021-08-29T18:22:36.536Z
 image: https://img-global.cpcdn.com/recipes/5de4aa920e6df031/751x532cq70/classic-mojito-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5de4aa920e6df031/751x532cq70/classic-mojito-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5de4aa920e6df031/751x532cq70/classic-mojito-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Make Ultimate Lamb brain masala (maghaz)"
 title: "How to Make Ultimate Lamb brain masala (maghaz)"
 slug: 846-how-to-make-ultimate-lamb-brain-masala-maghaz
-date: 2020-11-09T04:34:38.109Z
+date: 2021-11-09T04:34:38.109Z
 image: https://img-global.cpcdn.com/recipes/3eaebb4bfabc9b89/751x532cq70/lamb-brain-masala-maghaz-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3eaebb4bfabc9b89/751x532cq70/lamb-brain-masala-maghaz-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3eaebb4bfabc9b89/751x532cq70/lamb-brain-masala-maghaz-recipe-main-photo.jpg

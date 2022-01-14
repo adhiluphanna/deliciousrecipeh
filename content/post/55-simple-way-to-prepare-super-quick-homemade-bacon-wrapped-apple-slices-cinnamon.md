@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Bacon wrapped apple slices (cinnamon)"
 title: "Simple Way to Prepare Super Quick Homemade Bacon wrapped apple slices (cinnamon)"
 slug: 55-simple-way-to-prepare-super-quick-homemade-bacon-wrapped-apple-slices-cinnamon
-date: 2020-11-10T20:43:55.975Z
+date: 2021-11-10T20:43:55.975Z
 image: https://img-global.cpcdn.com/recipes/6ee2618ac77b7215/751x532cq70/bacon-wrapped-apple-slices-cinnamon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6ee2618ac77b7215/751x532cq70/bacon-wrapped-apple-slices-cinnamon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6ee2618ac77b7215/751x532cq70/bacon-wrapped-apple-slices-cinnamon-recipe-main-photo.jpg

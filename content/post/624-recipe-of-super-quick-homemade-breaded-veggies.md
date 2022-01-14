@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Breaded veggies!!"
 title: "Recipe of Super Quick Homemade Breaded veggies!!"
 slug: 624-recipe-of-super-quick-homemade-breaded-veggies
-date: 2020-10-14T00:17:09.896Z
+date: 2021-10-14T00:17:09.896Z
 image: https://img-global.cpcdn.com/recipes/dc2083512735bdc4/751x532cq70/breaded-veggies-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dc2083512735bdc4/751x532cq70/breaded-veggies-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dc2083512735bdc4/751x532cq70/breaded-veggies-recipe-main-photo.jpg

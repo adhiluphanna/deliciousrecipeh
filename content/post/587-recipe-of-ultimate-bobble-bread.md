@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Bobble bread"
 title: "Recipe of Ultimate Bobble bread"
 slug: 587-recipe-of-ultimate-bobble-bread
-date: 2020-08-04T03:57:10.884Z
+date: 2021-08-04T03:57:10.884Z
 image: https://img-global.cpcdn.com/recipes/99074fdf3633f122/751x532cq70/bobble-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/99074fdf3633f122/751x532cq70/bobble-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/99074fdf3633f122/751x532cq70/bobble-bread-recipe-main-photo.jpg

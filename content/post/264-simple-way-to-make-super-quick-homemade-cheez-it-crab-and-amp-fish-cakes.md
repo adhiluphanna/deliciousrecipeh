@@ -2,7 +2,7 @@
 description: "Simple Way to Make Super Quick Homemade Cheez It Crab &amp;amp; Fish Cakes"
 title: "Simple Way to Make Super Quick Homemade Cheez It Crab &amp;amp; Fish Cakes"
 slug: 264-simple-way-to-make-super-quick-homemade-cheez-it-crab-and-amp-fish-cakes
-date: 2020-08-23T15:48:34.769Z
+date: 2021-08-23T15:48:34.769Z
 image: https://img-global.cpcdn.com/recipes/f7e9f999ba6c9079/751x532cq70/cheez-it-crab-fish-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f7e9f999ba6c9079/751x532cq70/cheez-it-crab-fish-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f7e9f999ba6c9079/751x532cq70/cheez-it-crab-fish-cakes-recipe-main-photo.jpg

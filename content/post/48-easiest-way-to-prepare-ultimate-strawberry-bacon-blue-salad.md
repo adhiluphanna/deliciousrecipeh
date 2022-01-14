@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Ultimate Strawberry Bacon Blue Salad"
 title: "Easiest Way to Prepare Ultimate Strawberry Bacon Blue Salad"
 slug: 48-easiest-way-to-prepare-ultimate-strawberry-bacon-blue-salad
-date: 2020-06-11T17:48:56.442Z
+date: 2021-06-11T17:48:56.442Z
 image: https://img-global.cpcdn.com/recipes/8423e2e915426202/751x532cq70/strawberry-bacon-blue-salad-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8423e2e915426202/751x532cq70/strawberry-bacon-blue-salad-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8423e2e915426202/751x532cq70/strawberry-bacon-blue-salad-recipe-main-photo.jpg

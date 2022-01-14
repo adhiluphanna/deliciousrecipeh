@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Perfect Pumpkin Bread"
 title: "Easiest Way to Prepare Perfect Pumpkin Bread"
 slug: 486-easiest-way-to-prepare-perfect-pumpkin-bread
-date: 2020-08-23T19:55:37.925Z
+date: 2021-08-23T19:55:37.925Z
 image: https://img-global.cpcdn.com/recipes/98ab71748e472bf8/751x532cq70/pumpkin-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/98ab71748e472bf8/751x532cq70/pumpkin-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/98ab71748e472bf8/751x532cq70/pumpkin-bread-recipe-main-photo.jpg

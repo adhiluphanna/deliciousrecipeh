@@ -2,7 +2,7 @@
 description: "How to Make Quick Lingonberry and Bacon Sandwich"
 title: "How to Make Quick Lingonberry and Bacon Sandwich"
 slug: 19-how-to-make-quick-lingonberry-and-bacon-sandwich
-date: 2020-09-30T17:12:37.824Z
+date: 2021-09-30T17:12:37.824Z
 image: https://img-global.cpcdn.com/recipes/2cd1405c932c45e4/751x532cq70/lingonberry-and-bacon-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2cd1405c932c45e4/751x532cq70/lingonberry-and-bacon-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2cd1405c932c45e4/751x532cq70/lingonberry-and-bacon-sandwich-recipe-main-photo.jpg

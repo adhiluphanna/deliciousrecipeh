@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Cocktail stick"
 title: "Steps to Make Quick Cocktail stick"
 slug: 1001-steps-to-make-quick-cocktail-stick
-date: 2020-09-29T10:01:23.637Z
+date: 2021-09-29T10:01:23.637Z
 image: https://img-global.cpcdn.com/recipes/76ef28ebde4dbbb7/751x532cq70/cocktail-stick-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/76ef28ebde4dbbb7/751x532cq70/cocktail-stick-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/76ef28ebde4dbbb7/751x532cq70/cocktail-stick-recipe-main-photo.jpg

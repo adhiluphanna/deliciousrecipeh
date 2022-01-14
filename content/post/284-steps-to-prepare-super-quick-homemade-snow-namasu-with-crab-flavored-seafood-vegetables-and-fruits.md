@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade Snow “Namasu” with Crab-Flavored Seafood, Vegetables and Fruits"
 title: "Steps to Prepare Super Quick Homemade Snow “Namasu” with Crab-Flavored Seafood, Vegetables and Fruits"
 slug: 284-steps-to-prepare-super-quick-homemade-snow-namasu-with-crab-flavored-seafood-vegetables-and-fruits
-date: 2020-06-15T09:48:41.703Z
+date: 2021-06-15T09:48:41.703Z
 image: https://img-global.cpcdn.com/recipes/08c898b9d1e5a2f8/751x532cq70/snow-namasu-with-crab-flavored-seafood-vegetables-and-fruits-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/08c898b9d1e5a2f8/751x532cq70/snow-namasu-with-crab-flavored-seafood-vegetables-and-fruits-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/08c898b9d1e5a2f8/751x532cq70/snow-namasu-with-crab-flavored-seafood-vegetables-and-fruits-recipe-main-photo.jpg

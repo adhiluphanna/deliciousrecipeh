@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Award-winning Mashed cassava with lamb tikka"
 title: "Step-by-Step Guide to Make Award-winning Mashed cassava with lamb tikka"
 slug: 860-step-by-step-guide-to-make-award-winning-mashed-cassava-with-lamb-tikka
-date: 2020-10-15T09:32:41.288Z
+date: 2021-10-15T09:32:41.288Z
 image: https://img-global.cpcdn.com/recipes/bd26c945806d54b9/751x532cq70/mashed-cassava-with-lamb-tikka-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bd26c945806d54b9/751x532cq70/mashed-cassava-with-lamb-tikka-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/bd26c945806d54b9/751x532cq70/mashed-cassava-with-lamb-tikka-recipe-main-photo.jpg

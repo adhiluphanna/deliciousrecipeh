@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Ultimate Fruit cocktail  #nofire"
 title: "Simple Way to Prepare Ultimate Fruit cocktail  #nofire"
 slug: 941-simple-way-to-prepare-ultimate-fruit-cocktail-nofire
-date: 2020-09-02T00:29:47.384Z
+date: 2021-09-02T00:29:47.384Z
 image: https://img-global.cpcdn.com/recipes/b33d2982e8d8c18c/751x532cq70/fruit-cocktail-nofire-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b33d2982e8d8c18c/751x532cq70/fruit-cocktail-nofire-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b33d2982e8d8c18c/751x532cq70/fruit-cocktail-nofire-recipe-main-photo.jpg

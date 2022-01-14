@@ -2,7 +2,7 @@
 description: "Recipe of Quick Easy Imitation Crabmeat Cream Croquettes"
 title: "Recipe of Quick Easy Imitation Crabmeat Cream Croquettes"
 slug: 329-recipe-of-quick-easy-imitation-crabmeat-cream-croquettes
-date: 2020-07-10T08:50:01.150Z
+date: 2021-07-10T08:50:01.150Z
 image: https://img-global.cpcdn.com/recipes/5052482481815552/751x532cq70/easy-imitation-crabmeat-cream-croquettes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5052482481815552/751x532cq70/easy-imitation-crabmeat-cream-croquettes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5052482481815552/751x532cq70/easy-imitation-crabmeat-cream-croquettes-recipe-main-photo.jpg

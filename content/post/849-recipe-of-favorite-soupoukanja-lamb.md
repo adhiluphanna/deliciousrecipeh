@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Soupoukanja Lamb"
 title: "Recipe of Favorite Soupoukanja Lamb"
 slug: 849-recipe-of-favorite-soupoukanja-lamb
-date: 2020-08-14T19:46:32.080Z
+date: 2021-08-14T19:46:32.080Z
 image: https://img-global.cpcdn.com/recipes/4759775216664576/751x532cq70/soupoukanja-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4759775216664576/751x532cq70/soupoukanja-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4759775216664576/751x532cq70/soupoukanja-lamb-recipe-main-photo.jpg

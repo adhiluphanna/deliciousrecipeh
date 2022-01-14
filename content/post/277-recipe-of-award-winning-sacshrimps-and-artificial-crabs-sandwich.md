@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning S.A.C(Shrimps and Artificial Crabs) Sandwich"
 title: "Recipe of Award-winning S.A.C(Shrimps and Artificial Crabs) Sandwich"
 slug: 277-recipe-of-award-winning-sacshrimps-and-artificial-crabs-sandwich
-date: 2020-09-15T06:40:29.112Z
+date: 2021-09-15T06:40:29.112Z
 image: https://img-global.cpcdn.com/recipes/c420d13e95ad1eba/751x532cq70/sacshrimps-and-artificial-crabs-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c420d13e95ad1eba/751x532cq70/sacshrimps-and-artificial-crabs-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c420d13e95ad1eba/751x532cq70/sacshrimps-and-artificial-crabs-sandwich-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Any-night-of-the-week Lamb chops"
 title: "Simple Way to Prepare Any-night-of-the-week Lamb chops"
 slug: 776-simple-way-to-prepare-any-night-of-the-week-lamb-chops
-date: 2020-08-11T01:56:18.661Z
+date: 2021-08-11T01:56:18.661Z
 image: https://img-global.cpcdn.com/recipes/9df49db6d51b67db/751x532cq70/lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9df49db6d51b67db/751x532cq70/lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9df49db6d51b67db/751x532cq70/lamb-chops-recipe-main-photo.jpg

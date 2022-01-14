@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Ultimate Soft shell blue crab"
 title: "Easiest Way to Prepare Ultimate Soft shell blue crab"
 slug: 259-easiest-way-to-prepare-ultimate-soft-shell-blue-crab
-date: 2020-08-07T20:10:25.501Z
+date: 2021-08-07T20:10:25.501Z
 image: https://img-global.cpcdn.com/recipes/88d5a71b7facc894/751x532cq70/soft-shell-blue-crab-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/88d5a71b7facc894/751x532cq70/soft-shell-blue-crab-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/88d5a71b7facc894/751x532cq70/soft-shell-blue-crab-recipe-main-photo.jpg

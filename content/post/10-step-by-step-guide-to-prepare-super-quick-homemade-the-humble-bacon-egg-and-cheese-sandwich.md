@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Super Quick Homemade The humble bacon, egg, and cheese sandwich"
 title: "Step-by-Step Guide to Prepare Super Quick Homemade The humble bacon, egg, and cheese sandwich"
 slug: 10-step-by-step-guide-to-prepare-super-quick-homemade-the-humble-bacon-egg-and-cheese-sandwich
-date: 2020-06-06T13:22:32.181Z
+date: 2021-06-06T13:22:32.181Z
 image: https://img-global.cpcdn.com/recipes/607216e48e288692/751x532cq70/the-humble-bacon-egg-and-cheese-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/607216e48e288692/751x532cq70/the-humble-bacon-egg-and-cheese-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/607216e48e288692/751x532cq70/the-humble-bacon-egg-and-cheese-sandwich-recipe-main-photo.jpg

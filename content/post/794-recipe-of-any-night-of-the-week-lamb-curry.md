@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Lamb Curry"
 title: "Recipe of Any-night-of-the-week Lamb Curry"
 slug: 794-recipe-of-any-night-of-the-week-lamb-curry
-date: 2020-05-30T17:56:00.304Z
+date: 2021-05-30T17:56:00.304Z
 image: https://img-global.cpcdn.com/recipes/61984d6f0f301920/751x532cq70/lamb-curry-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/61984d6f0f301920/751x532cq70/lamb-curry-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/61984d6f0f301920/751x532cq70/lamb-curry-recipe-main-photo.jpg

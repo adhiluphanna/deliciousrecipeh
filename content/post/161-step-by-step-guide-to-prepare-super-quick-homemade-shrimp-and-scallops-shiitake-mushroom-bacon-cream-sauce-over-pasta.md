@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Super Quick Homemade Shrimp and Scallops Shiitake, Mushroom, Bacon Cream Sauce over Pasta"
 title: "Step-by-Step Guide to Prepare Super Quick Homemade Shrimp and Scallops Shiitake, Mushroom, Bacon Cream Sauce over Pasta"
 slug: 161-step-by-step-guide-to-prepare-super-quick-homemade-shrimp-and-scallops-shiitake-mushroom-bacon-cream-sauce-over-pasta
-date: 2020-07-16T11:50:02.268Z
+date: 2021-07-16T11:50:02.268Z
 image: https://img-global.cpcdn.com/recipes/48c80d6308061c53/751x532cq70/shrimp-and-scallops-shiitake-mushroom-bacon-cream-sauce-over-pasta-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/48c80d6308061c53/751x532cq70/shrimp-and-scallops-shiitake-mushroom-bacon-cream-sauce-over-pasta-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/48c80d6308061c53/751x532cq70/shrimp-and-scallops-shiitake-mushroom-bacon-cream-sauce-over-pasta-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Crab Rangoon"
 title: "Step-by-Step Guide to Prepare Favorite Crab Rangoon"
 slug: 373-step-by-step-guide-to-prepare-favorite-crab-rangoon
-date: 2020-07-11T06:24:32.012Z
+date: 2021-07-11T06:24:32.012Z
 image: https://img-global.cpcdn.com/recipes/5102009342492672/751x532cq70/crab-rangoon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5102009342492672/751x532cq70/crab-rangoon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5102009342492672/751x532cq70/crab-rangoon-recipe-main-photo.jpg

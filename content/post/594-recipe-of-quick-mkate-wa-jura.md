@@ -2,7 +2,7 @@
 description: "Recipe of Quick Mkate wa jura"
 title: "Recipe of Quick Mkate wa jura"
 slug: 594-recipe-of-quick-mkate-wa-jura
-date: 2020-08-06T22:49:35.889Z
+date: 2021-08-06T22:49:35.889Z
 image: https://img-global.cpcdn.com/recipes/17db1b16fce59691/751x532cq70/mkate-wa-jura-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/17db1b16fce59691/751x532cq70/mkate-wa-jura-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/17db1b16fce59691/751x532cq70/mkate-wa-jura-recipe-main-photo.jpg

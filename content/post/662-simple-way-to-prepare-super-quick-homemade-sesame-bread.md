@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Sesame bread"
 title: "Simple Way to Prepare Super Quick Homemade Sesame bread"
 slug: 662-simple-way-to-prepare-super-quick-homemade-sesame-bread
-date: 2020-09-25T01:46:13.024Z
+date: 2021-09-25T01:46:13.024Z
 image: https://img-global.cpcdn.com/recipes/8f776be8dd247337/751x532cq70/sesame-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8f776be8dd247337/751x532cq70/sesame-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8f776be8dd247337/751x532cq70/sesame-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Lamb soup"
 title: "Easiest Way to Prepare Homemade Lamb soup"
 slug: 766-easiest-way-to-prepare-homemade-lamb-soup
-date: 2020-11-07T05:18:05.075Z
+date: 2021-11-07T05:18:05.075Z
 image: https://img-global.cpcdn.com/recipes/ebba21bb0df794df/751x532cq70/lamb-soup-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ebba21bb0df794df/751x532cq70/lamb-soup-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ebba21bb0df794df/751x532cq70/lamb-soup-recipe-main-photo.jpg

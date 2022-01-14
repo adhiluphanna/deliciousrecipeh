@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Ultimate Beet Root Bread with Falafel fillings"
 title: "Step-by-Step Guide to Make Ultimate Beet Root Bread with Falafel fillings"
 slug: 672-step-by-step-guide-to-make-ultimate-beet-root-bread-with-falafel-fillings
-date: 2020-11-12T07:34:24.102Z
+date: 2021-11-12T07:34:24.102Z
 image: https://img-global.cpcdn.com/recipes/8e72b43aebff5ac5/751x532cq70/beet-root-bread-with-falafel-fillings-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8e72b43aebff5ac5/751x532cq70/beet-root-bread-with-falafel-fillings-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/8e72b43aebff5ac5/751x532cq70/beet-root-bread-with-falafel-fillings-recipe-main-photo.jpg

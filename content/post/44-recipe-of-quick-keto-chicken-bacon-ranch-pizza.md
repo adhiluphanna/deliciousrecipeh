@@ -2,7 +2,7 @@
 description: "Recipe of Quick Keto Chicken Bacon Ranch Pizza"
 title: "Recipe of Quick Keto Chicken Bacon Ranch Pizza"
 slug: 44-recipe-of-quick-keto-chicken-bacon-ranch-pizza
-date: 2020-10-13T05:09:15.607Z
+date: 2021-10-13T05:09:15.607Z
 image: https://img-global.cpcdn.com/recipes/f1beaa47b5a74218/751x532cq70/keto-chicken-bacon-ranch-pizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/f1beaa47b5a74218/751x532cq70/keto-chicken-bacon-ranch-pizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/f1beaa47b5a74218/751x532cq70/keto-chicken-bacon-ranch-pizza-recipe-main-photo.jpg

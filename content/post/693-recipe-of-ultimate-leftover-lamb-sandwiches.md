@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Leftover Lamb Sandwiches"
 title: "Recipe of Ultimate Leftover Lamb Sandwiches"
 slug: 693-recipe-of-ultimate-leftover-lamb-sandwiches
-date: 2020-07-08T05:17:36.214Z
+date: 2021-07-08T05:17:36.214Z
 image: https://img-global.cpcdn.com/recipes/3d6fa9f81ab9ccfe/751x532cq70/leftover-lamb-sandwiches-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3d6fa9f81ab9ccfe/751x532cq70/leftover-lamb-sandwiches-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3d6fa9f81ab9ccfe/751x532cq70/leftover-lamb-sandwiches-recipe-main-photo.jpg

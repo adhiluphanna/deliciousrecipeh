@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Quick BBQ Bacon Wrapped Chicken Livers"
 title: "Easiest Way to Prepare Quick BBQ Bacon Wrapped Chicken Livers"
 slug: 46-easiest-way-to-prepare-quick-bbq-bacon-wrapped-chicken-livers
-date: 2020-11-06T06:50:53.910Z
+date: 2021-11-06T06:50:53.910Z
 image: https://img-global.cpcdn.com/recipes/a020df2fbd6b3e4d/751x532cq70/bbq-bacon-wrapped-chicken-livers-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a020df2fbd6b3e4d/751x532cq70/bbq-bacon-wrapped-chicken-livers-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a020df2fbd6b3e4d/751x532cq70/bbq-bacon-wrapped-chicken-livers-recipe-main-photo.jpg

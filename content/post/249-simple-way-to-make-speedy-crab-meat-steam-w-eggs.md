@@ -2,7 +2,7 @@
 description: "Simple Way to Make Speedy Crab Meat Steam w/Eggs"
 title: "Simple Way to Make Speedy Crab Meat Steam w/Eggs"
 slug: 249-simple-way-to-make-speedy-crab-meat-steam-w-eggs
-date: 2020-07-10T03:20:34.529Z
+date: 2021-07-10T03:20:34.529Z
 image: https://img-global.cpcdn.com/recipes/6a736e289426997d/751x532cq70/crab-meat-steam-weggs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6a736e289426997d/751x532cq70/crab-meat-steam-weggs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/6a736e289426997d/751x532cq70/crab-meat-steam-weggs-recipe-main-photo.jpg

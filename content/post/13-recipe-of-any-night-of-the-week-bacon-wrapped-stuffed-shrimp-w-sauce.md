@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Bacon-Wrapped Stuffed Shrimp w/ Sauce"
 title: "Recipe of Any-night-of-the-week Bacon-Wrapped Stuffed Shrimp w/ Sauce"
 slug: 13-recipe-of-any-night-of-the-week-bacon-wrapped-stuffed-shrimp-w-sauce
-date: 2020-07-27T20:00:13.854Z
+date: 2021-07-27T20:00:13.854Z
 image: https://img-global.cpcdn.com/recipes/009d685b631aa89f/751x532cq70/bacon-wrapped-stuffed-shrimp-w-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/009d685b631aa89f/751x532cq70/bacon-wrapped-stuffed-shrimp-w-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/009d685b631aa89f/751x532cq70/bacon-wrapped-stuffed-shrimp-w-sauce-recipe-main-photo.jpg

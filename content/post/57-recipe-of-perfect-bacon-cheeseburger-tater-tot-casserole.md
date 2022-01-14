@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Bacon cheeseburger tater tot casserole"
 title: "Recipe of Perfect Bacon cheeseburger tater tot casserole"
 slug: 57-recipe-of-perfect-bacon-cheeseburger-tater-tot-casserole
-date: 2020-11-06T16:23:22.783Z
+date: 2021-11-06T16:23:22.783Z
 image: https://img-global.cpcdn.com/recipes/007e723b7ae50fbc/751x532cq70/bacon-cheeseburger-tater-tot-casserole-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/007e723b7ae50fbc/751x532cq70/bacon-cheeseburger-tater-tot-casserole-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/007e723b7ae50fbc/751x532cq70/bacon-cheeseburger-tater-tot-casserole-recipe-main-photo.jpg

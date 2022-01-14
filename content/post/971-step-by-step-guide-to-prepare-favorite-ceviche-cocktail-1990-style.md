@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Ceviche Cocktail 1990 Style"
 title: "Step-by-Step Guide to Prepare Favorite Ceviche Cocktail 1990 Style"
 slug: 971-step-by-step-guide-to-prepare-favorite-ceviche-cocktail-1990-style
-date: 2020-07-10T04:37:42.686Z
+date: 2021-07-10T04:37:42.686Z
 image: https://img-global.cpcdn.com/recipes/5b1691c31481652f/751x532cq70/ceviche-cocktail-1990-style-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5b1691c31481652f/751x532cq70/ceviche-cocktail-1990-style-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5b1691c31481652f/751x532cq70/ceviche-cocktail-1990-style-recipe-main-photo.jpg

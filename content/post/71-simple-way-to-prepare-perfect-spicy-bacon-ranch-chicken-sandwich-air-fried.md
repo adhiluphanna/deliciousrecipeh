@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Perfect Spicy bacon ranch chicken sandwich (Air fried)"
 title: "Simple Way to Prepare Perfect Spicy bacon ranch chicken sandwich (Air fried)"
 slug: 71-simple-way-to-prepare-perfect-spicy-bacon-ranch-chicken-sandwich-air-fried
-date: 2020-07-19T05:56:13.799Z
+date: 2021-07-19T05:56:13.799Z
 image: https://img-global.cpcdn.com/recipes/69455b976427c194/751x532cq70/spicy-bacon-ranch-chicken-sandwich-air-fried-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/69455b976427c194/751x532cq70/spicy-bacon-ranch-chicken-sandwich-air-fried-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/69455b976427c194/751x532cq70/spicy-bacon-ranch-chicken-sandwich-air-fried-recipe-main-photo.jpg

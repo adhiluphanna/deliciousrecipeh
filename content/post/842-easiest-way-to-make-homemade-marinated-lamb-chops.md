@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Homemade Marinated Lamb Chops"
 title: "Easiest Way to Make Homemade Marinated Lamb Chops"
 slug: 842-easiest-way-to-make-homemade-marinated-lamb-chops
-date: 2020-06-26T13:27:08.463Z
+date: 2021-06-26T13:27:08.463Z
 image: https://img-global.cpcdn.com/recipes/df0ec8f9ab492fb0/751x532cq70/marinated-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/df0ec8f9ab492fb0/751x532cq70/marinated-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/df0ec8f9ab492fb0/751x532cq70/marinated-lamb-chops-recipe-main-photo.jpg

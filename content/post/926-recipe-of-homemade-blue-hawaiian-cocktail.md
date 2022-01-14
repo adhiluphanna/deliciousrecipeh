@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Blue Hawaiian cocktail"
 title: "Recipe of Homemade Blue Hawaiian cocktail"
 slug: 926-recipe-of-homemade-blue-hawaiian-cocktail
-date: 2020-08-23T19:26:49.756Z
+date: 2021-08-23T19:26:49.756Z
 image: https://img-global.cpcdn.com/recipes/0bbe0fb74dc98c36/751x532cq70/blue-hawaiian-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0bbe0fb74dc98c36/751x532cq70/blue-hawaiian-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0bbe0fb74dc98c36/751x532cq70/blue-hawaiian-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Homemade Oyster cocktail"
 title: "Easiest Way to Prepare Homemade Oyster cocktail"
 slug: 994-easiest-way-to-prepare-homemade-oyster-cocktail
-date: 2020-11-14T22:24:55.461Z
+date: 2021-11-14T22:24:55.461Z
 image: https://img-global.cpcdn.com/recipes/0acfcb6848db2688/751x532cq70/oyster-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0acfcb6848db2688/751x532cq70/oyster-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0acfcb6848db2688/751x532cq70/oyster-cocktail-recipe-main-photo.jpg

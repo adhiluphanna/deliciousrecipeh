@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Ultimate Chicken bacon ranch &amp;amp; buffalo chicken pizza 🍕 🍗 🥓 🍄 🌶"
 title: "Step-by-Step Guide to Prepare Ultimate Chicken bacon ranch &amp;amp; buffalo chicken pizza 🍕 🍗 🥓 🍄 🌶"
 slug: 41-step-by-step-guide-to-prepare-ultimate-chicken-bacon-ranch-and-amp-buffalo-chicken-pizza
-date: 2020-05-23T17:04:13.044Z
+date: 2021-05-23T17:04:13.044Z
 image: https://img-global.cpcdn.com/recipes/a4cad90b429e0a59/751x532cq70/chicken-bacon-ranch-buffalo-chicken-pizza-🍕-🍗-🥓-🍄-🌶-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a4cad90b429e0a59/751x532cq70/chicken-bacon-ranch-buffalo-chicken-pizza-🍕-🍗-🥓-🍄-🌶-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a4cad90b429e0a59/751x532cq70/chicken-bacon-ranch-buffalo-chicken-pizza-🍕-🍗-🥓-🍄-🌶-recipe-main-photo.jpg

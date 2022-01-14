@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Buttermilk Sandwich Bread (Using Bread Maker)"
 title: "Recipe of Ultimate Buttermilk Sandwich Bread (Using Bread Maker)"
 slug: 561-recipe-of-ultimate-buttermilk-sandwich-bread-using-bread-maker
-date: 2020-10-16T05:51:34.889Z
+date: 2021-10-16T05:51:34.889Z
 image: https://img-global.cpcdn.com/recipes/e1678c21881f998d/751x532cq70/buttermilk-sandwich-bread-using-bread-maker-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e1678c21881f998d/751x532cq70/buttermilk-sandwich-bread-using-bread-maker-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e1678c21881f998d/751x532cq70/buttermilk-sandwich-bread-using-bread-maker-recipe-main-photo.jpg

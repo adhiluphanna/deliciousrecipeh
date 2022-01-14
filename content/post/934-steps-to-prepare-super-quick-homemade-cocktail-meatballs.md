@@ -2,7 +2,7 @@
 description: "Steps to Prepare Super Quick Homemade Cocktail Meatballs"
 title: "Steps to Prepare Super Quick Homemade Cocktail Meatballs"
 slug: 934-steps-to-prepare-super-quick-homemade-cocktail-meatballs
-date: 2020-10-06T15:46:14.503Z
+date: 2021-10-06T15:46:14.503Z
 image: https://img-global.cpcdn.com/recipes/1b7b0b16a52ade52/751x532cq70/cocktail-meatballs-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1b7b0b16a52ade52/751x532cq70/cocktail-meatballs-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1b7b0b16a52ade52/751x532cq70/cocktail-meatballs-recipe-main-photo.jpg

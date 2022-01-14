@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Candied Sweet and Savory Bacon Rolls 🥓"
 title: "Recipe of Super Quick Homemade Candied Sweet and Savory Bacon Rolls 🥓"
 slug: 37-recipe-of-super-quick-homemade-candied-sweet-and-savory-bacon-rolls
-date: 2020-08-20T01:21:42.218Z
+date: 2021-08-20T01:21:42.218Z
 image: https://img-global.cpcdn.com/recipes/c71b2b4bf770c0c7/751x532cq70/candied-sweet-and-savory-bacon-rolls-🥓-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c71b2b4bf770c0c7/751x532cq70/candied-sweet-and-savory-bacon-rolls-🥓-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c71b2b4bf770c0c7/751x532cq70/candied-sweet-and-savory-bacon-rolls-🥓-recipe-main-photo.jpg

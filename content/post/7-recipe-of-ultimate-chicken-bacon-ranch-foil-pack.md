@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Chicken Bacon Ranch Foil Pack"
 title: "Recipe of Ultimate Chicken Bacon Ranch Foil Pack"
 slug: 7-recipe-of-ultimate-chicken-bacon-ranch-foil-pack
-date: 2020-09-08T02:13:53.641Z
+date: 2021-09-08T02:13:53.641Z
 image: https://img-global.cpcdn.com/recipes/d1eaa5ec9033d0d9/751x532cq70/chicken-bacon-ranch-foil-pack-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d1eaa5ec9033d0d9/751x532cq70/chicken-bacon-ranch-foil-pack-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d1eaa5ec9033d0d9/751x532cq70/chicken-bacon-ranch-foil-pack-recipe-main-photo.jpg

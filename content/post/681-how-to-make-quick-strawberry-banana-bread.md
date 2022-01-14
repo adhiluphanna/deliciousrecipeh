@@ -2,7 +2,7 @@
 description: "How to Make Quick Strawberry banana bread"
 title: "How to Make Quick Strawberry banana bread"
 slug: 681-how-to-make-quick-strawberry-banana-bread
-date: 2020-08-13T15:43:43.471Z
+date: 2021-08-13T15:43:43.471Z
 image: https://img-global.cpcdn.com/recipes/ea992f1922514802/751x532cq70/strawberry-banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ea992f1922514802/751x532cq70/strawberry-banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ea992f1922514802/751x532cq70/strawberry-banana-bread-recipe-main-photo.jpg

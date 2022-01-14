@@ -2,7 +2,7 @@
 description: "How to Prepare Award-winning Lamb / Beef in Palm creme sauce with FuFu"
 title: "How to Prepare Award-winning Lamb / Beef in Palm creme sauce with FuFu"
 slug: 785-how-to-prepare-award-winning-lamb-beef-in-palm-creme-sauce-with-fufu
-date: 2020-09-24T12:37:35.089Z
+date: 2021-09-24T12:37:35.089Z
 image: https://img-global.cpcdn.com/recipes/4e8d0f857ae247fd/751x532cq70/lamb-beef-in-palm-creme-sauce-with-fufu-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4e8d0f857ae247fd/751x532cq70/lamb-beef-in-palm-creme-sauce-with-fufu-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4e8d0f857ae247fd/751x532cq70/lamb-beef-in-palm-creme-sauce-with-fufu-recipe-main-photo.jpg

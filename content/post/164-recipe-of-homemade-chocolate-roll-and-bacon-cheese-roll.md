@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Chocolate Roll and Bacon-Cheese Roll"
 title: "Recipe of Homemade Chocolate Roll and Bacon-Cheese Roll"
 slug: 164-recipe-of-homemade-chocolate-roll-and-bacon-cheese-roll
-date: 2020-10-15T17:25:00.407Z
+date: 2021-10-15T17:25:00.407Z
 image: https://img-global.cpcdn.com/recipes/47a1c42791b92e48/751x532cq70/chocolate-roll-and-bacon-cheese-roll-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/47a1c42791b92e48/751x532cq70/chocolate-roll-and-bacon-cheese-roll-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/47a1c42791b92e48/751x532cq70/chocolate-roll-and-bacon-cheese-roll-recipe-main-photo.jpg

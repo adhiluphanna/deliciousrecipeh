@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Chicken Wrapped with Bacon Stuffed with Cream Cheese and Jalapeño"
 title: "Recipe of Ultimate Chicken Wrapped with Bacon Stuffed with Cream Cheese and Jalapeño"
 slug: 146-recipe-of-ultimate-chicken-wrapped-with-bacon-stuffed-with-cream-cheese-and-jalapeno
-date: 2020-10-21T02:50:44.997Z
+date: 2021-10-21T02:50:44.997Z
 image: https://img-global.cpcdn.com/recipes/40010d5595e7a944/751x532cq70/chicken-wrapped-with-bacon-stuffed-with-cream-cheese-and-jalapeno-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/40010d5595e7a944/751x532cq70/chicken-wrapped-with-bacon-stuffed-with-cream-cheese-and-jalapeno-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/40010d5595e7a944/751x532cq70/chicken-wrapped-with-bacon-stuffed-with-cream-cheese-and-jalapeno-recipe-main-photo.jpg

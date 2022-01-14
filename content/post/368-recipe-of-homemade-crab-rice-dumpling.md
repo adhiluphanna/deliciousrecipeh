@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Crab Rice Dumpling"
 title: "Recipe of Homemade Crab Rice Dumpling"
 slug: 368-recipe-of-homemade-crab-rice-dumpling
-date: 2020-08-25T04:43:01.534Z
+date: 2021-08-25T04:43:01.534Z
 image: https://img-global.cpcdn.com/recipes/75c09ba50fd1147c/751x532cq70/crab-rice-dumpling-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/75c09ba50fd1147c/751x532cq70/crab-rice-dumpling-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/75c09ba50fd1147c/751x532cq70/crab-rice-dumpling-recipe-main-photo.jpg

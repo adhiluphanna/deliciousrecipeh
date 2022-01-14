@@ -2,7 +2,7 @@
 description: "How to Prepare Quick BLAT (Bacon, Lettuce, Avocado, Tomato) Sandwich"
 title: "How to Prepare Quick BLAT (Bacon, Lettuce, Avocado, Tomato) Sandwich"
 slug: 103-how-to-prepare-quick-blat-bacon-lettuce-avocado-tomato-sandwich
-date: 2020-06-30T23:20:22.992Z
+date: 2021-06-30T23:20:22.992Z
 image: https://img-global.cpcdn.com/recipes/eb5c964c4584bb3a/751x532cq70/blat-bacon-lettuce-avocado-tomato-sandwich-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/eb5c964c4584bb3a/751x532cq70/blat-bacon-lettuce-avocado-tomato-sandwich-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/eb5c964c4584bb3a/751x532cq70/blat-bacon-lettuce-avocado-tomato-sandwich-recipe-main-photo.jpg

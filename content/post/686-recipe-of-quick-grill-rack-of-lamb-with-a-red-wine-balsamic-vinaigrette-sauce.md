@@ -2,7 +2,7 @@
 description: "Recipe of Quick Grill rack of lamb with a red wine Balsamic vinaigrette sauce,"
 title: "Recipe of Quick Grill rack of lamb with a red wine Balsamic vinaigrette sauce,"
 slug: 686-recipe-of-quick-grill-rack-of-lamb-with-a-red-wine-balsamic-vinaigrette-sauce
-date: 2020-06-23T13:48:53.536Z
+date: 2021-06-23T13:48:53.536Z
 image: https://img-global.cpcdn.com/recipes/4478b1f18625be87/751x532cq70/grill-rack-of-lamb-with-a-red-wine-balsamic-vinaigrette-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4478b1f18625be87/751x532cq70/grill-rack-of-lamb-with-a-red-wine-balsamic-vinaigrette-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4478b1f18625be87/751x532cq70/grill-rack-of-lamb-with-a-red-wine-balsamic-vinaigrette-sauce-recipe-main-photo.jpg

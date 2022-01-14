@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Moroccan bread (batbot)"
 title: "Simple Way to Prepare Super Quick Homemade Moroccan bread (batbot)"
 slug: 658-simple-way-to-prepare-super-quick-homemade-moroccan-bread-batbot
-date: 2020-09-24T09:14:35.845Z
+date: 2021-09-24T09:14:35.845Z
 image: https://img-global.cpcdn.com/recipes/183ef625d0974e18/751x532cq70/moroccan-bread-batbot-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/183ef625d0974e18/751x532cq70/moroccan-bread-batbot-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/183ef625d0974e18/751x532cq70/moroccan-bread-batbot-recipe-main-photo.jpg

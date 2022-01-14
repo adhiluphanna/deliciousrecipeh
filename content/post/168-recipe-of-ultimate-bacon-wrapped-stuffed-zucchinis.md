@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Bacon Wrapped Stuffed Zucchinis"
 title: "Recipe of Ultimate Bacon Wrapped Stuffed Zucchinis"
 slug: 168-recipe-of-ultimate-bacon-wrapped-stuffed-zucchinis
-date: 2020-11-11T16:54:24.040Z
+date: 2021-11-11T16:54:24.040Z
 image: https://img-global.cpcdn.com/recipes/52b79f7865ef56ec/751x532cq70/bacon-wrapped-stuffed-zucchinis-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/52b79f7865ef56ec/751x532cq70/bacon-wrapped-stuffed-zucchinis-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/52b79f7865ef56ec/751x532cq70/bacon-wrapped-stuffed-zucchinis-recipe-main-photo.jpg

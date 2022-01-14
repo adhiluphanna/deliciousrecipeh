@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Banana Bread"
 title: "Simple Way to Prepare Super Quick Homemade Banana Bread"
 slug: 493-simple-way-to-prepare-super-quick-homemade-banana-bread
-date: 2020-11-08T09:56:10.347Z
+date: 2021-11-08T09:56:10.347Z
 image: https://img-global.cpcdn.com/recipes/62fe0cc16d31a647/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/62fe0cc16d31a647/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/62fe0cc16d31a647/751x532cq70/banana-bread-recipe-main-photo.jpg

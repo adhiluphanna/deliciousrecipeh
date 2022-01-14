@@ -2,7 +2,7 @@
 description: "Recipe of Quick Labneh creamy fruit cocktail 5 minute dessert"
 title: "Recipe of Quick Labneh creamy fruit cocktail 5 minute dessert"
 slug: 986-recipe-of-quick-labneh-creamy-fruit-cocktail-5-minute-dessert
-date: 2020-06-20T15:35:35.270Z
+date: 2021-06-20T15:35:35.270Z
 image: https://img-global.cpcdn.com/recipes/b1889e5510f2d495/751x532cq70/labneh-creamy-fruit-cocktail-5-minute-dessert-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b1889e5510f2d495/751x532cq70/labneh-creamy-fruit-cocktail-5-minute-dessert-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b1889e5510f2d495/751x532cq70/labneh-creamy-fruit-cocktail-5-minute-dessert-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Breadizza"
 title: "How to Prepare Any-night-of-the-week Breadizza"
 slug: 660-how-to-prepare-any-night-of-the-week-breadizza
-date: 2020-10-09T16:32:41.871Z
+date: 2021-10-09T16:32:41.871Z
 image: https://img-global.cpcdn.com/recipes/2280f7376e247e09/751x532cq70/breadizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2280f7376e247e09/751x532cq70/breadizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2280f7376e247e09/751x532cq70/breadizza-recipe-main-photo.jpg

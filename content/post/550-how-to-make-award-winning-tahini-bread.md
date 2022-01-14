@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Tahini Bread"
 title: "How to Make Award-winning Tahini Bread"
 slug: 550-how-to-make-award-winning-tahini-bread
-date: 2020-07-06T06:09:09.944Z
+date: 2021-07-06T06:09:09.944Z
 image: https://img-global.cpcdn.com/recipes/e25f83f625cadf13/751x532cq70/tahini-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e25f83f625cadf13/751x532cq70/tahini-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e25f83f625cadf13/751x532cq70/tahini-bread-recipe-main-photo.jpg

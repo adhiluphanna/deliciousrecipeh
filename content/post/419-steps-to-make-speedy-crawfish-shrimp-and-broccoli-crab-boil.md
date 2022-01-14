@@ -2,7 +2,7 @@
 description: "Steps to Make Speedy Crawfish,shrimp and broccoli crab boil"
 title: "Steps to Make Speedy Crawfish,shrimp and broccoli crab boil"
 slug: 419-steps-to-make-speedy-crawfish-shrimp-and-broccoli-crab-boil
-date: 2020-06-09T20:31:27.624Z
+date: 2021-06-09T20:31:27.624Z
 image: https://img-global.cpcdn.com/recipes/291c8fa3c81371c4/751x532cq70/crawfishshrimp-and-broccoli-crab-boil-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/291c8fa3c81371c4/751x532cq70/crawfishshrimp-and-broccoli-crab-boil-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/291c8fa3c81371c4/751x532cq70/crawfishshrimp-and-broccoli-crab-boil-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Any-night-of-the-week Fried Cabbage &amp;amp; Bacon"
 title: "How to Prepare Any-night-of-the-week Fried Cabbage &amp;amp; Bacon"
 slug: 58-how-to-prepare-any-night-of-the-week-fried-cabbage-and-amp-bacon
-date: 2020-10-02T08:28:23.165Z
+date: 2021-10-02T08:28:23.165Z
 image: https://img-global.cpcdn.com/recipes/e91d7946a8127de8/751x532cq70/fried-cabbage-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e91d7946a8127de8/751x532cq70/fried-cabbage-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e91d7946a8127de8/751x532cq70/fried-cabbage-bacon-recipe-main-photo.jpg

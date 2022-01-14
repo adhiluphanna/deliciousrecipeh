@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Holiday French Rack of Lamb with a Pistachio Crust 🐑"
 title: "Simple Way to Prepare Favorite Holiday French Rack of Lamb with a Pistachio Crust 🐑"
 slug: 703-simple-way-to-prepare-favorite-holiday-french-rack-of-lamb-with-a-pistachio-crust
-date: 2020-07-11T16:45:17.482Z
+date: 2021-07-11T16:45:17.482Z
 image: https://img-global.cpcdn.com/recipes/c2904ff279cf5630/751x532cq70/holiday-french-rack-of-lamb-with-a-pistachio-crust-🐑-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c2904ff279cf5630/751x532cq70/holiday-french-rack-of-lamb-with-a-pistachio-crust-🐑-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c2904ff279cf5630/751x532cq70/holiday-french-rack-of-lamb-with-a-pistachio-crust-🐑-recipe-main-photo.jpg

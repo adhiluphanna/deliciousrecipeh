@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Chili Crabs 辣椒蟹"
 title: "Recipe of Super Quick Homemade Chili Crabs 辣椒蟹"
 slug: 437-recipe-of-super-quick-homemade-chili-crabs
-date: 2020-08-25T11:24:12.093Z
+date: 2021-08-25T11:24:12.093Z
 image: https://img-global.cpcdn.com/recipes/3ff4ca14cd5aaf0b/751x532cq70/chili-crabs-辣椒蟹-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3ff4ca14cd5aaf0b/751x532cq70/chili-crabs-辣椒蟹-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3ff4ca14cd5aaf0b/751x532cq70/chili-crabs-辣椒蟹-recipe-main-photo.jpg

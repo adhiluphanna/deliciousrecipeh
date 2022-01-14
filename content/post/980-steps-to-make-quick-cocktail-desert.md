@@ -2,7 +2,7 @@
 description: "Steps to Make Quick Cocktail desert 🍹"
 title: "Steps to Make Quick Cocktail desert 🍹"
 slug: 980-steps-to-make-quick-cocktail-desert
-date: 2020-09-27T13:36:26.330Z
+date: 2021-09-27T13:36:26.330Z
 image: https://img-global.cpcdn.com/recipes/e4fd6d86eaae1757/751x532cq70/cocktail-desert-🍹-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e4fd6d86eaae1757/751x532cq70/cocktail-desert-🍹-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e4fd6d86eaae1757/751x532cq70/cocktail-desert-🍹-recipe-main-photo.jpg

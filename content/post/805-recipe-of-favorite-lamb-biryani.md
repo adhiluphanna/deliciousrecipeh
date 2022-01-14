@@ -2,7 +2,7 @@
 description: "Recipe of Favorite Lamb Biryani"
 title: "Recipe of Favorite Lamb Biryani"
 slug: 805-recipe-of-favorite-lamb-biryani
-date: 2020-06-03T18:17:35.384Z
+date: 2021-06-03T18:17:35.384Z
 image: https://img-global.cpcdn.com/recipes/a7ffab96125d649f/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a7ffab96125d649f/751x532cq70/lamb-biryani-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/a7ffab96125d649f/751x532cq70/lamb-biryani-recipe-main-photo.jpg

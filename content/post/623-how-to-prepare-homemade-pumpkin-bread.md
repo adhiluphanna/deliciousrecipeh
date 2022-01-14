@@ -2,7 +2,7 @@
 description: "How to Prepare Homemade Pumpkin Bread"
 title: "How to Prepare Homemade Pumpkin Bread"
 slug: 623-how-to-prepare-homemade-pumpkin-bread
-date: 2020-05-24T23:59:32.169Z
+date: 2021-05-24T23:59:32.169Z
 image: https://img-global.cpcdn.com/recipes/e1a75377a63190b5/751x532cq70/pumpkin-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e1a75377a63190b5/751x532cq70/pumpkin-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e1a75377a63190b5/751x532cq70/pumpkin-bread-recipe-main-photo.jpg

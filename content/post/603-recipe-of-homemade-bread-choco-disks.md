@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Bread choco disks"
 title: "Recipe of Homemade Bread choco disks"
 slug: 603-recipe-of-homemade-bread-choco-disks
-date: 2020-06-22T01:21:21.776Z
+date: 2021-06-22T01:21:21.776Z
 image: https://img-global.cpcdn.com/recipes/39d9788b2b9e2caf/751x532cq70/bread-choco-disks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/39d9788b2b9e2caf/751x532cq70/bread-choco-disks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/39d9788b2b9e2caf/751x532cq70/bread-choco-disks-recipe-main-photo.jpg

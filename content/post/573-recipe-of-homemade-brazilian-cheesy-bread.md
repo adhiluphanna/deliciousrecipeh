@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Brazilian Cheesy Bread"
 title: "Recipe of Homemade Brazilian Cheesy Bread"
 slug: 573-recipe-of-homemade-brazilian-cheesy-bread
-date: 2020-09-04T10:52:27.128Z
+date: 2021-09-04T10:52:27.128Z
 image: https://img-global.cpcdn.com/recipes/e403d65e54991a73/751x532cq70/brazilian-cheesy-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e403d65e54991a73/751x532cq70/brazilian-cheesy-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e403d65e54991a73/751x532cq70/brazilian-cheesy-bread-recipe-main-photo.jpg

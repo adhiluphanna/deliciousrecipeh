@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Allspice fruit cocktail cake"
 title: "Recipe of Homemade Allspice fruit cocktail cake"
 slug: 997-recipe-of-homemade-allspice-fruit-cocktail-cake
-date: 2020-10-23T04:11:44.207Z
+date: 2021-10-23T04:11:44.207Z
 image: https://img-global.cpcdn.com/recipes/5987802766901248/751x532cq70/allspice-fruit-cocktail-cake-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5987802766901248/751x532cq70/allspice-fruit-cocktail-cake-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5987802766901248/751x532cq70/allspice-fruit-cocktail-cake-recipe-main-photo.jpg

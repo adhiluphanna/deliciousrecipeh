@@ -2,7 +2,7 @@
 description: "Simple Way to Make Perfect Lamb / Beef in Palm creme sauce with FuFu"
 title: "Simple Way to Make Perfect Lamb / Beef in Palm creme sauce with FuFu"
 slug: 684-simple-way-to-make-perfect-lamb-beef-in-palm-creme-sauce-with-fufu
-date: 2020-09-27T13:54:00.494Z
+date: 2021-09-27T13:54:00.494Z
 image: https://img-global.cpcdn.com/recipes/4e8d0f857ae247fd/751x532cq70/lamb-beef-in-palm-creme-sauce-with-fufu-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4e8d0f857ae247fd/751x532cq70/lamb-beef-in-palm-creme-sauce-with-fufu-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4e8d0f857ae247fd/751x532cq70/lamb-beef-in-palm-creme-sauce-with-fufu-recipe-main-photo.jpg

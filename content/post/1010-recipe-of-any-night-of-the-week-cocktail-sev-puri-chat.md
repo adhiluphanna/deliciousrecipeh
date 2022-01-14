@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Cocktail Sev Puri Chat"
 title: "Recipe of Any-night-of-the-week Cocktail Sev Puri Chat"
 slug: 1010-recipe-of-any-night-of-the-week-cocktail-sev-puri-chat
-date: 2020-09-08T02:23:16.028Z
+date: 2021-09-08T02:23:16.028Z
 image: https://img-global.cpcdn.com/recipes/d448efcc3666c9d0/751x532cq70/cocktail-sev-puri-chat-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d448efcc3666c9d0/751x532cq70/cocktail-sev-puri-chat-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d448efcc3666c9d0/751x532cq70/cocktail-sev-puri-chat-recipe-main-photo.jpg

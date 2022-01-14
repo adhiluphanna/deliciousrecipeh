@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Perfect Lamb Chops"
 title: "Step-by-Step Guide to Prepare Perfect Lamb Chops"
 slug: 750-step-by-step-guide-to-prepare-perfect-lamb-chops
-date: 2020-11-17T16:25:21.973Z
+date: 2021-11-17T16:25:21.973Z
 image: https://img-global.cpcdn.com/recipes/5e88aa24ff3e9840/751x532cq70/lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5e88aa24ff3e9840/751x532cq70/lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5e88aa24ff3e9840/751x532cq70/lamb-chops-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Grilled lamb"
 title: "Recipe of Super Quick Homemade Grilled lamb"
 slug: 709-recipe-of-super-quick-homemade-grilled-lamb
-date: 2020-09-12T14:39:00.097Z
+date: 2021-09-12T14:39:00.097Z
 image: https://img-global.cpcdn.com/recipes/87f2147ec2aeb28e/751x532cq70/grilled-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/87f2147ec2aeb28e/751x532cq70/grilled-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/87f2147ec2aeb28e/751x532cq70/grilled-lamb-recipe-main-photo.jpg

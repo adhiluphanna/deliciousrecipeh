@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Make Favorite Easy Lamb Chops"
 title: "Step-by-Step Guide to Make Favorite Easy Lamb Chops"
 slug: 887-step-by-step-guide-to-make-favorite-easy-lamb-chops
-date: 2020-07-03T11:57:53.475Z
+date: 2021-07-03T11:57:53.475Z
 image: https://img-global.cpcdn.com/recipes/5509553941643264/751x532cq70/easy-lamb-chops-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5509553941643264/751x532cq70/easy-lamb-chops-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5509553941643264/751x532cq70/easy-lamb-chops-recipe-main-photo.jpg

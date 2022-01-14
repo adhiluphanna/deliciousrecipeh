@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Lamb Goulash"
 title: "Recipe of Speedy Lamb Goulash"
 slug: 719-recipe-of-speedy-lamb-goulash
-date: 2020-08-18T17:55:49.577Z
+date: 2021-08-18T17:55:49.577Z
 image: https://img-global.cpcdn.com/recipes/9b96606a485e5291/751x532cq70/lamb-goulash-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9b96606a485e5291/751x532cq70/lamb-goulash-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9b96606a485e5291/751x532cq70/lamb-goulash-recipe-main-photo.jpg

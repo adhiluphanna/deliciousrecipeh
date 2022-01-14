@@ -2,7 +2,7 @@
 description: "Steps to Prepare Quick Lamb Alkabsa"
 title: "Steps to Prepare Quick Lamb Alkabsa"
 slug: 759-steps-to-prepare-quick-lamb-alkabsa
-date: 2020-08-24T00:23:49.987Z
+date: 2021-08-24T00:23:49.987Z
 image: https://img-global.cpcdn.com/recipes/4bb3d2a3880dd14b/751x532cq70/lamb-alkabsa-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/4bb3d2a3880dd14b/751x532cq70/lamb-alkabsa-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/4bb3d2a3880dd14b/751x532cq70/lamb-alkabsa-recipe-main-photo.jpg

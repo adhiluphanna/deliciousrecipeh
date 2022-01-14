@@ -2,7 +2,7 @@
 description: "Steps to Make Favorite Crab cakes"
 title: "Steps to Make Favorite Crab cakes"
 slug: 338-steps-to-make-favorite-crab-cakes
-date: 2020-11-06T20:22:41.670Z
+date: 2021-11-06T20:22:41.670Z
 image: https://img-global.cpcdn.com/recipes/5984228762714112/751x532cq70/crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5984228762714112/751x532cq70/crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5984228762714112/751x532cq70/crab-cakes-recipe-main-photo.jpg

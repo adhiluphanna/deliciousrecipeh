@@ -2,7 +2,7 @@
 description: "Recipe of Any-night-of-the-week Dominos Style Breadsticks"
 title: "Recipe of Any-night-of-the-week Dominos Style Breadsticks"
 slug: 475-recipe-of-any-night-of-the-week-dominos-style-breadsticks
-date: 2020-09-27T21:53:59.869Z
+date: 2021-09-27T21:53:59.869Z
 image: https://img-global.cpcdn.com/recipes/c2155b0567f077d5/751x532cq70/dominos-style-breadsticks-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/c2155b0567f077d5/751x532cq70/dominos-style-breadsticks-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/c2155b0567f077d5/751x532cq70/dominos-style-breadsticks-recipe-main-photo.jpg

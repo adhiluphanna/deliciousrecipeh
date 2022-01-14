@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Crab sukka masala"
 title: "Recipe of Award-winning Crab sukka masala"
 slug: 372-recipe-of-award-winning-crab-sukka-masala
-date: 2020-07-30T17:48:02.172Z
+date: 2021-07-30T17:48:02.172Z
 image: https://img-global.cpcdn.com/recipes/9c8305ac9090d386/751x532cq70/crab-sukka-masala-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9c8305ac9090d386/751x532cq70/crab-sukka-masala-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9c8305ac9090d386/751x532cq70/crab-sukka-masala-recipe-main-photo.jpg

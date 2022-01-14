@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Favorite Grilled shrimp cocktail"
 title: "Step-by-Step Guide to Prepare Favorite Grilled shrimp cocktail"
 slug: 981-step-by-step-guide-to-prepare-favorite-grilled-shrimp-cocktail
-date: 2020-07-20T20:25:42.164Z
+date: 2021-07-20T20:25:42.164Z
 image: https://img-global.cpcdn.com/recipes/34314fd9edfe1fa5/751x532cq70/grilled-shrimp-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/34314fd9edfe1fa5/751x532cq70/grilled-shrimp-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/34314fd9edfe1fa5/751x532cq70/grilled-shrimp-cocktail-recipe-main-photo.jpg

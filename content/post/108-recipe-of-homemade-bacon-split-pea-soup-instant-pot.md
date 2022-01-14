@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Bacon Split Pea Soup (Instant Pot)"
 title: "Recipe of Homemade Bacon Split Pea Soup (Instant Pot)"
 slug: 108-recipe-of-homemade-bacon-split-pea-soup-instant-pot
-date: 2020-11-22T02:23:50.845Z
+date: 2021-11-22T02:23:50.845Z
 image: https://img-global.cpcdn.com/recipes/3b8981b77767ae9c/751x532cq70/bacon-split-pea-soup-instant-pot-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/3b8981b77767ae9c/751x532cq70/bacon-split-pea-soup-instant-pot-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/3b8981b77767ae9c/751x532cq70/bacon-split-pea-soup-instant-pot-recipe-main-photo.jpg

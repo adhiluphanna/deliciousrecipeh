@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Pizza bread roll"
 title: "Recipe of Super Quick Homemade Pizza bread roll"
 slug: 616-recipe-of-super-quick-homemade-pizza-bread-roll
-date: 2020-11-08T14:32:34.982Z
+date: 2021-11-08T14:32:34.982Z
 image: https://img-global.cpcdn.com/recipes/ad6d545c8aefc84d/751x532cq70/pizza-bread-roll-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ad6d545c8aefc84d/751x532cq70/pizza-bread-roll-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ad6d545c8aefc84d/751x532cq70/pizza-bread-roll-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Easiest Way to Prepare Any-night-of-the-week Texas Crabb an Cream Cheese jalapenos wrapped in Bacon"
 title: "Easiest Way to Prepare Any-night-of-the-week Texas Crabb an Cream Cheese jalapenos wrapped in Bacon"
 slug: 175-easiest-way-to-prepare-any-night-of-the-week-texas-crabb-an-cream-cheese-jalapenos-wrapped-in-bacon
-date: 2020-05-31T16:22:54.149Z
+date: 2021-05-31T16:22:54.149Z
 image: https://img-global.cpcdn.com/recipes/ecb1b6fa304e8a46/751x532cq70/texas-crabb-an-cream-cheese-jalapenos-wrapped-in-bacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ecb1b6fa304e8a46/751x532cq70/texas-crabb-an-cream-cheese-jalapenos-wrapped-in-bacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/ecb1b6fa304e8a46/751x532cq70/texas-crabb-an-cream-cheese-jalapenos-wrapped-in-bacon-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Dustin’s Zucchini Bread"
 title: "Recipe of Award-winning Dustin’s Zucchini Bread"
 slug: 578-recipe-of-award-winning-dustins-zucchini-bread
-date: 2020-09-12T22:05:45.613Z
+date: 2021-09-12T22:05:45.613Z
 image: https://img-global.cpcdn.com/recipes/deed4bc9c7f442f9/751x532cq70/dustins-zucchini-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/deed4bc9c7f442f9/751x532cq70/dustins-zucchini-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/deed4bc9c7f442f9/751x532cq70/dustins-zucchini-bread-recipe-main-photo.jpg

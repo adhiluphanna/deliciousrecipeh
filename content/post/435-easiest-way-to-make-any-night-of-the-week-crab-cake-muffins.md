@@ -2,7 +2,7 @@
 description: "Easiest Way to Make Any-night-of-the-week Crab Cake Muffins"
 title: "Easiest Way to Make Any-night-of-the-week Crab Cake Muffins"
 slug: 435-easiest-way-to-make-any-night-of-the-week-crab-cake-muffins
-date: 2020-11-15T09:13:46.848Z
+date: 2021-11-15T09:13:46.848Z
 image: https://img-global.cpcdn.com/recipes/5999707112341504/751x532cq70/crab-cake-muffins-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5999707112341504/751x532cq70/crab-cake-muffins-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5999707112341504/751x532cq70/crab-cake-muffins-recipe-main-photo.jpg

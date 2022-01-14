@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Greek Lamb Cutlets"
 title: "Recipe of Ultimate Greek Lamb Cutlets"
 slug: 739-recipe-of-ultimate-greek-lamb-cutlets
-date: 2020-07-13T22:16:57.347Z
+date: 2021-07-13T22:16:57.347Z
 image: https://img-global.cpcdn.com/recipes/dce3b4fdebc6b350/751x532cq70/greek-lamb-cutlets-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/dce3b4fdebc6b350/751x532cq70/greek-lamb-cutlets-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/dce3b4fdebc6b350/751x532cq70/greek-lamb-cutlets-recipe-main-photo.jpg

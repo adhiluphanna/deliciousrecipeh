@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Simple paleo bacon wrapped chicken"
 title: "Recipe of Homemade Simple paleo bacon wrapped chicken"
 slug: 106-recipe-of-homemade-simple-paleo-bacon-wrapped-chicken
-date: 2020-07-05T12:07:57.023Z
+date: 2021-07-05T12:07:57.023Z
 image: https://img-global.cpcdn.com/recipes/d7bc73c80d276898/751x532cq70/simple-paleo-bacon-wrapped-chicken-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/d7bc73c80d276898/751x532cq70/simple-paleo-bacon-wrapped-chicken-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/d7bc73c80d276898/751x532cq70/simple-paleo-bacon-wrapped-chicken-recipe-main-photo.jpg

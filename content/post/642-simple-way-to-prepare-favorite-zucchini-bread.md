@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Favorite Zucchini Bread"
 title: "Simple Way to Prepare Favorite Zucchini Bread"
 slug: 642-simple-way-to-prepare-favorite-zucchini-bread
-date: 2020-05-25T17:34:28.811Z
+date: 2021-05-25T17:34:28.811Z
 image: https://img-global.cpcdn.com/recipes/2ea13b39fe70d71c/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2ea13b39fe70d71c/751x532cq70/zucchini-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2ea13b39fe70d71c/751x532cq70/zucchini-bread-recipe-main-photo.jpg

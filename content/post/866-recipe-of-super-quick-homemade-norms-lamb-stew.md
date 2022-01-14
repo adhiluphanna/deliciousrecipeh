@@ -2,7 +2,7 @@
 description: "Recipe of Super Quick Homemade Norms Lamb Stew"
 title: "Recipe of Super Quick Homemade Norms Lamb Stew"
 slug: 866-recipe-of-super-quick-homemade-norms-lamb-stew
-date: 2020-06-14T06:35:00.608Z
+date: 2021-06-14T06:35:00.608Z
 image: https://img-global.cpcdn.com/recipes/e838b798650b798d/751x532cq70/norms-lamb-stew-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e838b798650b798d/751x532cq70/norms-lamb-stew-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e838b798650b798d/751x532cq70/norms-lamb-stew-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Steps to Prepare Ultimate Crab Jjigae"
 title: "Steps to Prepare Ultimate Crab Jjigae"
 slug: 359-steps-to-prepare-ultimate-crab-jjigae
-date: 2020-06-30T08:40:42.272Z
+date: 2021-06-30T08:40:42.272Z
 image: https://img-global.cpcdn.com/recipes/5750264624578560/751x532cq70/crab-jjigae-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5750264624578560/751x532cq70/crab-jjigae-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5750264624578560/751x532cq70/crab-jjigae-recipe-main-photo.jpg

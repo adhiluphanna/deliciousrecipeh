@@ -2,7 +2,7 @@
 description: "Recipe of Award-winning Bacon Carbonara"
 title: "Recipe of Award-winning Bacon Carbonara"
 slug: 204-recipe-of-award-winning-bacon-carbonara
-date: 2020-10-06T02:49:38.908Z
+date: 2021-10-06T02:49:38.908Z
 image: https://img-global.cpcdn.com/recipes/108cbc35d45f03fa/751x532cq70/bacon-carbonara-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/108cbc35d45f03fa/751x532cq70/bacon-carbonara-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/108cbc35d45f03fa/751x532cq70/bacon-carbonara-recipe-main-photo.jpg

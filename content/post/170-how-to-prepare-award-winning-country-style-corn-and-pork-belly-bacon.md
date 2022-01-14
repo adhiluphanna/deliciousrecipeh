@@ -2,7 +2,7 @@
 description: "How to Prepare Award-winning Country Style Corn and Pork Belly/Bacon"
 title: "How to Prepare Award-winning Country Style Corn and Pork Belly/Bacon"
 slug: 170-how-to-prepare-award-winning-country-style-corn-and-pork-belly-bacon
-date: 2020-06-23T17:29:38.081Z
+date: 2021-06-23T17:29:38.081Z
 image: https://img-global.cpcdn.com/recipes/1372b7873714fe59/751x532cq70/country-style-corn-and-pork-bellybacon-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/1372b7873714fe59/751x532cq70/country-style-corn-and-pork-bellybacon-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/1372b7873714fe59/751x532cq70/country-style-corn-and-pork-bellybacon-recipe-main-photo.jpg

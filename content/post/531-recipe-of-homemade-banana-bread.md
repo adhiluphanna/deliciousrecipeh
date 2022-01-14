@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Banana Bread"
 title: "Recipe of Homemade Banana Bread"
 slug: 531-recipe-of-homemade-banana-bread
-date: 2020-08-12T04:43:21.612Z
+date: 2021-08-12T04:43:21.612Z
 image: https://img-global.cpcdn.com/recipes/e07cda996411ac0f/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e07cda996411ac0f/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e07cda996411ac0f/751x532cq70/banana-bread-recipe-main-photo.jpg

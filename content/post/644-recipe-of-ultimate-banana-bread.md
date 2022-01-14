@@ -2,7 +2,7 @@
 description: "Recipe of Ultimate Banana bread"
 title: "Recipe of Ultimate Banana bread"
 slug: 644-recipe-of-ultimate-banana-bread
-date: 2020-06-07T15:42:57.121Z
+date: 2021-06-07T15:42:57.121Z
 image: https://img-global.cpcdn.com/recipes/99d38da2d4a80f99/751x532cq70/banana-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/99d38da2d4a80f99/751x532cq70/banana-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/99d38da2d4a80f99/751x532cq70/banana-bread-recipe-main-photo.jpg

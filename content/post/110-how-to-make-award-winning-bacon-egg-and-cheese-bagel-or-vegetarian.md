@@ -2,7 +2,7 @@
 description: "How to Make Award-winning Bacon egg and cheese bagel (or vegetarian)"
 title: "How to Make Award-winning Bacon egg and cheese bagel (or vegetarian)"
 slug: 110-how-to-make-award-winning-bacon-egg-and-cheese-bagel-or-vegetarian
-date: 2020-05-26T02:36:23.037Z
+date: 2021-05-26T02:36:23.037Z
 image: https://img-global.cpcdn.com/recipes/2198f3592d3f04fa/751x532cq70/bacon-egg-and-cheese-bagel-or-vegetarian-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/2198f3592d3f04fa/751x532cq70/bacon-egg-and-cheese-bagel-or-vegetarian-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/2198f3592d3f04fa/751x532cq70/bacon-egg-and-cheese-bagel-or-vegetarian-recipe-main-photo.jpg

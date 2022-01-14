@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Veal tortellini with creamy mushroom, bacon sauce"
 title: "Recipe of Perfect Veal tortellini with creamy mushroom, bacon sauce"
 slug: 180-recipe-of-perfect-veal-tortellini-with-creamy-mushroom-bacon-sauce
-date: 2020-05-24T10:28:50.619Z
+date: 2021-05-24T10:28:50.619Z
 image: https://img-global.cpcdn.com/recipes/9a86ec61286eeb64/751x532cq70/veal-tortellini-with-creamy-mushroom-bacon-sauce-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9a86ec61286eeb64/751x532cq70/veal-tortellini-with-creamy-mushroom-bacon-sauce-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9a86ec61286eeb64/751x532cq70/veal-tortellini-with-creamy-mushroom-bacon-sauce-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "How to Prepare Favorite Simple White Bread"
 title: "How to Prepare Favorite Simple White Bread"
 slug: 635-how-to-prepare-favorite-simple-white-bread
-date: 2020-06-29T17:11:03.881Z
+date: 2021-06-29T17:11:03.881Z
 image: https://img-global.cpcdn.com/recipes/853b9f2b8982e967/751x532cq70/simple-white-bread-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/853b9f2b8982e967/751x532cq70/simple-white-bread-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/853b9f2b8982e967/751x532cq70/simple-white-bread-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Recipe of Homemade Pitta bread with minced lamb"
 title: "Recipe of Homemade Pitta bread with minced lamb"
 slug: 910-recipe-of-homemade-pitta-bread-with-minced-lamb
-date: 2020-09-14T03:03:13.531Z
+date: 2021-09-14T03:03:13.531Z
 image: https://img-global.cpcdn.com/recipes/0aa1216d96b21d61/751x532cq70/pitta-bread-with-minced-lamb-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/0aa1216d96b21d61/751x532cq70/pitta-bread-with-minced-lamb-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/0aa1216d96b21d61/751x532cq70/pitta-bread-with-minced-lamb-recipe-main-photo.jpg

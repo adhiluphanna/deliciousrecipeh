@@ -2,7 +2,7 @@
 description: "Steps to Prepare Award-winning Bread Upma"
 title: "Steps to Prepare Award-winning Bread Upma"
 slug: 513-steps-to-prepare-award-winning-bread-upma
-date: 2020-11-01T08:01:13.103Z
+date: 2021-11-01T08:01:13.103Z
 image: https://img-global.cpcdn.com/recipes/9b6fa1b57f27f62b/751x532cq70/bread-upma-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9b6fa1b57f27f62b/751x532cq70/bread-upma-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9b6fa1b57f27f62b/751x532cq70/bread-upma-recipe-main-photo.jpg

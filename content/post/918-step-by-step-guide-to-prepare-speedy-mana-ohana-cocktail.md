@@ -2,7 +2,7 @@
 description: "Step-by-Step Guide to Prepare Speedy Mana Ohana cocktail"
 title: "Step-by-Step Guide to Prepare Speedy Mana Ohana cocktail"
 slug: 918-step-by-step-guide-to-prepare-speedy-mana-ohana-cocktail
-date: 2020-06-26T19:40:59.712Z
+date: 2021-06-26T19:40:59.712Z
 image: https://img-global.cpcdn.com/recipes/53ce71867f9670da/751x532cq70/mana-ohana-cocktail-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/53ce71867f9670da/751x532cq70/mana-ohana-cocktail-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/53ce71867f9670da/751x532cq70/mana-ohana-cocktail-recipe-main-photo.jpg

@@ -2,7 +2,7 @@
 description: "Simple Way to Prepare Super Quick Homemade Yummy breadpizza"
 title: "Simple Way to Prepare Super Quick Homemade Yummy breadpizza"
 slug: 463-simple-way-to-prepare-super-quick-homemade-yummy-breadpizza
-date: 2020-06-10T19:01:55.228Z
+date: 2021-06-10T19:01:55.228Z
 image: https://img-global.cpcdn.com/recipes/675229c48bd2280d/751x532cq70/yummy-breadpizza-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/675229c48bd2280d/751x532cq70/yummy-breadpizza-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/675229c48bd2280d/751x532cq70/yummy-breadpizza-recipe-main-photo.jpg

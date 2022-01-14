@@ -2,7 +2,7 @@
 description: "How to Prepare Quick Crab artichoke &amp;amp; spinach rollatini"
 title: "How to Prepare Quick Crab artichoke &amp;amp; spinach rollatini"
 slug: 429-how-to-prepare-quick-crab-artichoke-and-amp-spinach-rollatini
-date: 2020-09-29T00:25:52.055Z
+date: 2021-09-29T00:25:52.055Z
 image: https://img-global.cpcdn.com/recipes/e9f6e52050dfae65/751x532cq70/crab-artichoke-spinach-rollatini-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/e9f6e52050dfae65/751x532cq70/crab-artichoke-spinach-rollatini-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/e9f6e52050dfae65/751x532cq70/crab-artichoke-spinach-rollatini-recipe-main-photo.jpg

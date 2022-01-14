@@ -2,7 +2,7 @@
 description: "Recipe of Speedy Mimi's Crab Cakes"
 title: "Recipe of Speedy Mimi's Crab Cakes"
 slug: 443-recipe-of-speedy-mimi-and-39-s-crab-cakes
-date: 2020-08-03T19:47:46.742Z
+date: 2021-08-03T19:47:46.742Z
 image: https://img-global.cpcdn.com/recipes/5081661165273088/751x532cq70/mimis-crab-cakes-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/5081661165273088/751x532cq70/mimis-crab-cakes-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/5081661165273088/751x532cq70/mimis-crab-cakes-recipe-main-photo.jpg

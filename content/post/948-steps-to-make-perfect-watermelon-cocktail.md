@@ -2,7 +2,7 @@
 description: "Steps to Make Perfect Watermelon cocktail 🍉🍓🍊🍒"
 title: "Steps to Make Perfect Watermelon cocktail 🍉🍓🍊🍒"
 slug: 948-steps-to-make-perfect-watermelon-cocktail
-date: 2020-07-12T18:48:13.640Z
+date: 2021-07-12T18:48:13.640Z
 image: https://img-global.cpcdn.com/recipes/b37375b4c879c3d1/751x532cq70/watermelon-cocktail-🍉🍓🍊🍒-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/b37375b4c879c3d1/751x532cq70/watermelon-cocktail-🍉🍓🍊🍒-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/b37375b4c879c3d1/751x532cq70/watermelon-cocktail-🍉🍓🍊🍒-recipe-main-photo.jpg

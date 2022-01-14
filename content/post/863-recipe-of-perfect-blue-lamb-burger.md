@@ -2,7 +2,7 @@
 description: "Recipe of Perfect Blue Lamb Burger"
 title: "Recipe of Perfect Blue Lamb Burger"
 slug: 863-recipe-of-perfect-blue-lamb-burger
-date: 2020-07-16T13:04:52.799Z
+date: 2021-07-16T13:04:52.799Z
 image: https://img-global.cpcdn.com/recipes/9c09c90ce5742cc5/751x532cq70/blue-lamb-burger-recipe-main-photo.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9c09c90ce5742cc5/751x532cq70/blue-lamb-burger-recipe-main-photo.jpg
 cover: https://img-global.cpcdn.com/recipes/9c09c90ce5742cc5/751x532cq70/blue-lamb-burger-recipe-main-photo.jpg
